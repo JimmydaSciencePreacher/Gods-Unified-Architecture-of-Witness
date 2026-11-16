@@ -9,15 +9,15 @@
 
 The original repository's recursive Git tree was retrieved from GitHub. The returned tree was not truncated.
 
-The tree contains 26 tracked entries:
+The tree contains 27 tracked files and 3 directory entries (30 tree entries total):
 
-- 4 root-level files;
-- 10 files under `audits/`;
+- 5 files at the repository root;
+- 12 files under `audits/`;
 - 4 files under `simulators/`;
 - 6 files under `traces/`;
-- 2 additional root files counted separately below.
+- 3 directory entries: `audits/`, `simulators/`, and `traces/`.
 
-**Correction to the category count:** the complete tree contains 26 entries total: 4 root-level Markdown/text files (`README.md`, `SYSTEM_MANIFEST.md`, `AI_READ_ONLY_PROTOCOL.md`, `LICENSE`), `requirements.txt`, 10 audit files, 4 simulator files, and 6 trace files. This is 25 files plus the three directory entries in the tree representation; the repository has 25 tracked files and 3 directories.
+The file count is 27: 5 + 12 + 4 + 6. The directory entries are not files.
 
 The original repository was read only during this inventory. No source files, branches, or settings were changed.
 
