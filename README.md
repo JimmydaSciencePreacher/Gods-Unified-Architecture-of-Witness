@@ -62,5 +62,7 @@ A PASS is always scope-limited, not a universal endorsement.
 - [Investigation Protocol](INVESTIGATION-PROTOCOL.md)
 - [Rejected and Unresolved Register](REJECTED-AND-UNRESOLVED.md)
 - [Blueprints](blueprints/)
+- [Original Repository Inventory and Initial Triage](audits/ORIGINAL-REPOSITORY-INVENTORY.md)
+- [Evidence Audit — Quantum Foundations and Unitarity](audits/EVIDENCE-AUDIT-Quantum-Foundations-and-Unitarity.md)
 
 A file's presence here does not, by itself, make its contents canonical.
