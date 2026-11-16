@@ -65,6 +65,7 @@ A PASS is always scope-limited, not a universal endorsement.
 - [Genesis 1:26–31 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-26-31-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 2:1–7 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-2-1-7-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 2:8–17 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-2-8-17-TEXT-FIRST-RECONSTRUCTION.md)
+- [Genesis 2:18–25 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-2-18-25-TEXT-FIRST-RECONSTRUCTION.md)
 - [Investigation Protocol](INVESTIGATION-PROTOCOL.md)
 - [Rejected and Unresolved Register](REJECTED-AND-UNRESOLVED.md)
 - [Blueprints](blueprints/)
