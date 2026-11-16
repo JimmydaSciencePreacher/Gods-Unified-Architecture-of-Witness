@@ -59,6 +59,7 @@ A PASS is always scope-limited, not a universal endorsement.
 ## Initial navigation
 
 - [Governing Principles](GOVERNING-PRINCIPLES.md)
+- [Genesis 1:1–5 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-1-5-TEXT-FIRST-RECONSTRUCTION.md)
 - [Investigation Protocol](INVESTIGATION-PROTOCOL.md)
 - [Rejected and Unresolved Register](REJECTED-AND-UNRESOLVED.md)
 - [Blueprints](blueprints/)
