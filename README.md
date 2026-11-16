@@ -64,5 +64,6 @@ A PASS is always scope-limited, not a universal endorsement.
 - [Blueprints](blueprints/)
 - [Original Repository Inventory and Initial Triage](audits/ORIGINAL-REPOSITORY-INVENTORY.md)
 - [Evidence Audit — Quantum Foundations and Unitarity](audits/EVIDENCE-AUDIT-Quantum-Foundations-and-Unitarity.md)
+- [Evidence Audit — Double-Slit and Observer Anomaly](audits/EVIDENCE-AUDIT-Double-Slit-and-Observer-Anomaly.md)
 
 A file's presence here does not, by itself, make its contents canonical.
