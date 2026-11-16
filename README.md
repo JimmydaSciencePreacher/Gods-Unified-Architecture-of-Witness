@@ -70,6 +70,7 @@ A PASS is always scope-limited, not a universal endorsement.
 - [Hebrew Audit — Genesis 2:1–3](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-1-3.md)
 - [Hebrew Audit — Genesis 2:7, 2:15–17](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-7-15-17.md)
 - [Hebrew Audit — Genesis 2:4–6](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-4-6.md)
+- [Hebrew Audit — Genesis 2:8–14](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-8-14.md)
 - [Investigation Protocol](INVESTIGATION-PROTOCOL.md)
 - [Rejected and Unresolved Register](REJECTED-AND-UNRESOLVED.md)
 - [Blueprints](blueprints/)
