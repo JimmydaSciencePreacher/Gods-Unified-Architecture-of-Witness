@@ -34,7 +34,7 @@ The KJV is the project's base translation. The Masoretic Hebrew text is consulte
 - לָמָּה (*lāmāh*) — why? The interrogative occurs twice, giving the verse a parallel two-question structure.
 - חָרָה (*ḥārāh*) — Qal perfect, third-person masculine singular, from חרָה (*ḥārāh*), burn/be kindled. In this construction, “Why has it burned/been kindled for you?” is idiomatically rendered “Why are you angry?” or “Why are you distressed?”
 - לָךְ (*lāḵ*) — to/for you; second-person suffix.
-- נָפְלוּ (*nāפלוּ / nāp̄əlû*) — Qal perfect, third-person plural, from נפל (*nāphal*), fall.
+- נָפְלוּ (*nāp̄əlû*) — Qal perfect, third-person plural, from נפל (*nāphal*), fall.
 - פָנֶיךָ (*p̄āneḵā*) — your face/countenance. *Pānîm* is grammatically plural in form, hence the plural verb “have fallen,” although it refers to Cain's one countenance.
 
 The first clause uses an idiom of burning/kindling; the Hebrew verb itself does not contain a separate noun meaning “anger.” English “wroth/angry” communicates the contextual sense. Ancient versions differ in how explicitly they render the emotion: the Septuagint uses a grief/sorrow expression, while the Vulgate uses anger. The Hebrew image of the face falling is retained across several renderings.
