@@ -8,7 +8,7 @@
 
 ## 1. Prior work and source discipline
 
-This unit follows Unit 8, Genesis 3:1–24, and directly tests unresolved questions U-006 (human will) and U-007 (knowledge of good and evil versus authority to establish its standard).
+This unit follows Unit 8, Genesis 3:1–24, and examines U-006 (human will, still unresolved) and revisits the resolved U-007 distinction (knowledge/evaluation does not transfer authority to establish the standard).
 
 Genesis 4:6–7 must not be detached from its immediate narrative:
 - Genesis 4:4–5 describes the LORD's regard for Abel and his offering, but not for Cain and his offering.
@@ -198,7 +198,7 @@ This supports keeping “capacity to evaluate” distinct from “authority to e
 
 The direct observations are grounded in KJV Genesis 4:6–7 and the Masoretic wording. The meaning of שְׂאֵת, the masculine/feminine mismatch in verse 7, the referent of the masculine suffixes, and the force of the imperfect תִּמְשָׁל remain interpretively disputed. No final theological definition is admitted.
 
-### Scientific coherence — NOT APPLICABLE AT THIS STAGE
+### Scientific coherence — theological discipline
 
 This is a text-first Hebrew and Scriptural investigation. No scientific mechanism or empirical claim is proposed. Scientific coherence must be assessed separately if a later cross-domain proposal is made.
 
