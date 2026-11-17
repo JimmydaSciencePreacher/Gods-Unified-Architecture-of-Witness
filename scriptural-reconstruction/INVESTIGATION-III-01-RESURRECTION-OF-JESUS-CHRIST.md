@@ -276,3 +276,287 @@ John 1, Hebrews 1, and 1 Corinthians 15 establish relationships that must be rea
 This is the opening central record, not the end of the investigation. It deliberately does not claim to have solved every historical, textual, medical, or theological question.
 
 **The Word declared it beforehand. Jesus died and was buried. The tomb was found empty. The risen Christ was encountered. The witnesses testified.**
+
+
+---
+
+# Central Investigation — Pass II: What the Resurrection Claim Actually Asserts
+
+**Scope of this pass:** the Resurrection as a distinct event; the early apostolic proclamation; the identity and transformed embodiment of the risen Jesus; the canonical attribution to Father, Son, and Spirit; and the proper limits of historical and scientific inquiry.
+
+This pass deepens the central investigation. It does not replace the dedicated empty-tomb, appearances, or Ascension studies, and it does not claim to narrate the unobserved instant of Resurrection.
+
+## 16. Define the claim before testing explanations
+
+The New Testament's Resurrection claim is not merely any one of the following:
+
+- that Jesus' influence continued after His death;
+- that His disciples remembered Him or experienced His presence;
+- that His body was missing from the tomb;
+- that a dead person returned temporarily to ordinary mortal life;
+- that His followers adopted a new metaphor for hope.
+
+Those may be proposed interpretations or partial descriptions, but none alone states the full canonical claim.
+
+The central New Testament assertion is that **Jesus Christ, who truly died and was buried, was raised from the dead; He was encountered by witnesses; and He now lives beyond death's dominion.**
+
+This formulation follows the combined testimony of the Gospel narratives, Acts, Romans 6:9, and 1 Corinthians 15:3–28. It must be tested from the actual texts, not protected from examination by a slogan.
+
+## 17. The earliest recoverable apostolic proclamation — 1 Corinthians 15:3–8
+
+Paul writes:
+
+“For I delivered unto you first of all that which I also received, how that Christ died for our sins according to the scriptures; And that he was buried, and that he rose again the third day according to the scriptures: And that he was seen of Cephas, then of the twelve…”
+
+He continues with the appearance to above five hundred brethren at once, James, all the apostles, and finally Paul himself.
+
+### What Paul's wording establishes
+
+1. Paul distinguishes what he received from what he delivered to the Corinthian church.
+2. The proclamation joins death, burial, Resurrection, and appearances.
+3. The formula is presented as prior tradition, not as an idea Paul claims to have originated in this letter.
+4. Paul names Cephas, the Twelve, James, the apostles, and himself in the appearance list.
+5. Paul adds that many of the five hundred remained alive at the time he wrote, while some had fallen asleep.
+
+### What it does not establish by itself
+
+- Paul does not identify in this paragraph the exact person from whom he first received the formula.
+- The text does not give a calendar date for the formula's first composition.
+- The phrase “according to the scriptures” does not name one exclusive proof-text.
+- The appearance list is not a complete itinerary of every Gospel appearance.
+- Paul's statement that many of the five hundred remained alive is an invitation to consider the claim; it is not a surviving transcript of interviews with those people.
+
+### Historical significance
+
+The language “delivered” and “received” is consistent with the transmission of an earlier tradition. James Ware's study of 1 Corinthians 15:3–5 surveys the debate and notes the broad scholarly recognition that the passage preserves tradition predating Paul's letter, while also emphasizing that the precise nature and interpretation of the formula remain debated.
+
+**Finding:** The Resurrection proclamation is early in the life of the Christian movement relative to the composition of 1 Corinthians. The exact date, route of transmission, and full historical value of each named appearance require separate argument.
+
+## 18. Paul as both transmitter and claimed witness
+
+Paul is not only a transmitter of the received proclamation. He also says, “And last of all he was seen of me also, as of one born out of due time” (1 Corinthians 15:8).
+
+In 1 Corinthians 9:1 he asks, “Have I not seen Jesus Christ our Lord?” In Galatians 1:11–17 he describes the revelation of Jesus Christ and his subsequent calling. Acts 9, 22, and 26 narrate his encounter in differing contexts and forms.
+
+These texts must be distinguished:
+- 1 Corinthians 15 places Paul's experience in the list of appearances.
+- Galatians gives Paul's own account of revelation and calling.
+- Acts provides Luke's narrative presentations of the encounter.
+- The texts do not describe Paul's encounter in exactly the same narrative form as the earlier Gospel appearances.
+
+**Finding:** Paul claims to have seen the risen Jesus. The precise phenomenology of his encounter is not identical in description to the encounters narrated in Luke 24 and John 20–21. Do not force them into identical circumstances.
+
+## 19. The Father, the Son, and the Spirit in the Resurrection testimony
+
+The New Testament attributes the Resurrection in more than one grammatical and theological form. These passages must be read together without making them compete.
+
+### The Father raises the Son
+
+- Acts 2:24: “Whom God hath raised up, having loosed the pains of death.”
+- Acts 2:32: “This Jesus hath God raised up, whereof we all are witnesses.”
+- Acts 3:15: Peter says that God raised Jesus from the dead.
+- Galatians 1:1: Paul speaks of God the Father, “who raised him from the dead.”
+
+### The Son speaks of His authority
+
+John 10:17–18 records Jesus saying that He lays down His life and has power (authority) to take it again. He says this commandment He received of His Father.
+
+John 2:19–22 records the saying about raising the temple of His body, which John explains in relation to His Resurrection.
+
+These declarations must be retained alongside the apostolic statements that God raised Jesus. The texts do not authorize us to erase either the Father's action or the Son's own declared authority.
+
+### The Spirit and resurrection life
+
+Romans 8:11 says that if the Spirit of Him that raised up Jesus from the dead dwell in believers, He shall also quicken their mortal bodies by His Spirit that dwelleth in them.
+
+The verse directly connects the Spirit with the life-giving power of the God who raised Jesus. Its immediate argument concerns the Spirit's indwelling and the future quickening of believers' mortal bodies.
+
+1 Peter 3:18 is also relevant, but its phrase translated “quickened by the Spirit” has generated grammatical and interpretive debate. It should not be used as though every detail of its syntax were uncontested.
+
+**Finding:** Scripture speaks of God the Father raising Jesus, Jesus declaring authority to take His life again, and the Spirit in relation to resurrection life. These are canonical statements to be held together. This investigation does not invent a mechanical sequence or divide the divine action into competing agents.
+
+## 20. Continuity and transformation of the risen Jesus
+
+The accounts preserve both continuity with the crucified Jesus and a transformed mode of risen life.
+
+### Continuity
+
+- The one who appears is identified as Jesus, not another person.
+- Luke 24:39 records His invitation to behold His hands and feet.
+- John 20:20 records that He shows the disciples His hands and side.
+- John 20:27 records His invitation to Thomas concerning His hands and side.
+- Matthew 28:9 records the women holding Him by the feet.
+- Luke 24:41–43 records Him eating before the disciples.
+
+These details connect the risen Jesus with the one who was crucified and buried.
+
+### Transformation
+
+- Romans 6:9 says Christ being raised from the dead dieth no more; death hath no more dominion over Him.
+- 1 Corinthians 15:42–54 describes resurrection in terms of incorruption, glory, power, and immortality.
+- John 20:19 records Jesus standing among the disciples when the doors were shut.
+- Luke 24:31 records that He vanished out of the sight of the Emmaus disciples.
+
+The narratives report these features; they do not give a physics lesson explaining how they occur. The closed doors and vanishing are not permission to invent a theory of matter, spatial passage, or bodily permeability.
+
+### The boundary
+
+Continuity does not mean the risen Jesus simply resumed mortal life as before. Transformation does not mean that the risen Jesus was an immaterial apparition. Luke's flesh-and-bones statement and eating scene must be read alongside Paul's teaching about the transformed resurrection body.
+
+**Finding:** The canonical witness presents the risen Jesus as the same Jesus who was crucified, now living in a transformed condition in which death no longer has dominion over Him.
+
+## 21. “A spiritual body” — 1 Corinthians 15:35–54
+
+Paul asks what body the dead come with and answers through a series of contrasts:
+
+- corruption / incorruption;
+- dishonour / glory;
+- weakness / power;
+- natural body / spiritual body.
+
+The Greek expression *sōma pneumatikon* is literally “spiritual body.” The adjective “spiritual” should not be automatically treated as meaning “made out of nonphysical spirit.” In Paul's argument, the contrast is between the present body characterized by the natural life of Adam and the resurrection body characterized by the life-giving Spirit and the last Adam.
+
+However, the precise account of the body's material constitution remains debated among scholars. Some interpretations emphasize transformed flesh; others emphasize the radical transformation and heavenly mode of existence. The text itself insists on a body and on transformation; it does not provide a modern material specification.
+
+The phrase “flesh and blood cannot inherit the kingdom of God” (1 Corinthians 15:50) appears in an argument that immediately explains the need for transformation: “this corruptible must put on incorruption, and this mortal must put on immortality” (15:53).
+
+**Textual boundary:** Do not quote verse 50 in isolation to conclude that Paul denies bodily resurrection. Equally, do not use Luke's flesh-and-bones language to erase Paul's insistence that the resurrection body is transformed and incorruptible.
+
+## 22. Christ the firstfruits — the order of resurrection
+
+1 Corinthians 15:20 declares:
+
+“But now is Christ risen from the dead, and become the firstfruits of them that slept.”
+
+Paul develops this in verses 21–28:
+- by man came death;
+- by man came also the resurrection of the dead;
+- in Adam all die;
+- in Christ shall all be made alive;
+- every man in his own order;
+- Christ the firstfruits;
+- afterward they that are Christ's at His coming;
+- then the end, when the kingdom is delivered to God, even the Father.
+
+“Firstfruits” is not merely a statement that Jesus happened to be the first person ever restored from death. The Gospels already record others being raised. Paul's argument concerns the order and guarantee of the eschatological resurrection: Christ's Resurrection is firstfruits of the resurrection harvest to come.
+
+Colossians 1:18 calls Christ “the beginning, the firstborn from the dead; that in all things he might have the preeminence.” Revelation 1:5 calls Him “the first begotten of the dead.” These passages reinforce His unique primacy, while their immediate contexts must remain intact.
+
+**Finding:** Christ's Resurrection is presented as the decisive beginning and guarantee of the resurrection of those who belong to Him, not as one isolated return to mortal life.
+
+## 23. Historical inquiry: what can be assessed?
+
+Historical inquiry cannot rerun the first century. It can, however, assess surviving sources, their date and transmission, their literary relationships, the social setting, and the claims they preserve.
+
+The following questions are historically assessable:
+1. Do the sources report Jesus' execution under Pontius Pilate?
+2. Do early Christian sources proclaim that Jesus was raised and appeared?
+3. How early can particular traditions be placed relative to Paul's letters and the Gospel narratives?
+4. What do the sources say about burial and the tomb?
+5. What can be established about the development and spread of Resurrection belief?
+6. How do the sources differ, and what explanations best account for those differences?
+
+### External evidence for the execution
+
+Tacitus, *Annals* 15.44, writing in the early second century, associates Christus with execution under Pontius Pilate during Tiberius' reign. The *Survey of the Historical Jesus* entry on the trial and death of Jesus notes this brief Roman reference while also observing that it adds little detail beyond the Gospel tradition. The source is relevant to the historical setting of Jesus' execution, not an independent witness to the Resurrection.
+
+Josephus, *Antiquities* 18.3.3, contains the well-known Testimonium Flavianum, whose received wording has been extensively debated because of apparent Christian interpolation. The passage cannot responsibly be quoted as though every phrase were certainly Josephus' original wording. Josephus' reference to James in *Antiquities* 20.9.1 is often considered separately and identifies James in relation to “Jesus who was called Christ.” Neither passage is a direct eyewitness report of the Resurrection.
+
+### Early Christian testimony
+
+1 Corinthians 15:3–8 is particularly important because Paul explicitly says he received and delivered the tradition. James Ware's peer-reviewed study in *New Testament Studies* examines the pre-Pauline formula and the continuing debate over what its wording implies about the nature of the Resurrection. The existence of early tradition is not the same question as whether every historical conclusion drawn from it is warranted.
+
+### Historical boundary
+
+A historian can establish that early followers proclaimed that Jesus had been raised and that named individuals and groups were said to have seen Him. A historian can assess the sources' proximity, genre, transmission, and explanatory adequacy. The further judgment that God raised Jesus is a claim about divine action; historians differ about whether and how historical method can adjudicate such a claim.
+
+This distinction must not be turned into either of two errors:
+- **Naturalistic overreach:** declaring in advance that divine action is impossible and then treating that philosophical premise as a historical finding.
+- **Apologetic overreach:** declaring that the existence of early testimony, by itself, proves every element of a preferred harmonization or supplies a scientific mechanism.
+
+The historical evidence must be described at the level it actually supports.
+
+## 24. Scientific inquiry: scope and limits
+
+The Resurrection is a singular past event, not a repeatable biological procedure available for laboratory replication. Scientific disciplines can clarify relevant background:
+- Roman crucifixion and the physiological consequences of severe trauma;
+- death, resuscitation, and the limits of ordinary biological recovery;
+- ancient burial practices and tomb construction;
+- the preservation, transmission, and dating of documentary evidence;
+- the physical constraints relevant to proposed natural explanations.
+
+But no laboratory experiment can reproduce the unique event as narrated, and no experiment can directly observe a first-century divine act.
+
+This does not mean science is irrelevant. It means scientific conclusions must be confined to questions that scientific evidence and methods can address. A proposed natural explanation must be assessed on evidence; an absence of a known mechanism is not itself a scientific demonstration of impossibility. Conversely, a theological assertion cannot be presented as a laboratory result.
+
+**Scientific disposition:** The Resurrection claim is not a mechanism identified by current biology or physics. Its assessment requires historical reasoning and theological interpretation in addition to relevant scientific background. No physical mechanism is supplied or invented in this investigation.
+
+## 25. Triple Constraint Law — Pass II
+
+### Biblical compliance — PASS for the central canonical claim
+
+The texts affirm Jesus' death, burial, raising, appearances, transformed life, and firstfruits status. The Father, Son, and Spirit passages are held together without manufacturing a mechanical sequence. The empty tomb, appearances, and Ascension remain distinct studies. Textual and chronological questions remain explicitly open.
+
+### Scientific coherence — PASS within defined scope; physical mechanism not specified
+
+The study distinguishes historical assessment from repeatable experimentation. It does not claim a laboratory proof, nor does it use scientific method to rule out divine action by definition. It also does not convert early testimony into a scientific explanation. The precise mode of the risen body's transformation is not specified by modern physical categories.
+
+### GUA-W consistency — PASS at governing level; no new Gear established
+
+The Author–Word–Creation–Witness order is preserved. God remains Original Cause. Jesus Christ is the Word made flesh and is not a component of GUA-W. The Resurrection is examined as a central Scriptural event, not assigned as a new architecture layer or runtime operation. No new Gear is declared.
+
+## 26. Findings from Pass II
+
+1. The New Testament Resurrection claim includes Jesus' raising, not merely His continuing influence or an empty tomb.
+2. Paul transmits an earlier proclamation joining death, burial, Resurrection, and appearances.
+3. Paul personally claims to have seen the risen Jesus; Acts and Galatians narrate his encounter in their own forms.
+4. The exact date and transmission route of the received formula are not stated by Paul.
+5. Scripture attributes the raising to God the Father, records Jesus' authority to take His life again, and connects the Spirit with resurrection life.
+6. The risen Jesus is identified with the crucified Jesus through His wounds, recognition, touch, and eating.
+7. The risen condition is transformed: death no longer has dominion over Christ.
+8. “Spiritual body” does not, by itself, mean an immaterial body; Paul's argument is about a body transformed from corruption to incorruption.
+9. Christ as firstfruits means His Resurrection is the beginning and guarantee of the resurrection order to come.
+10. Historical inquiry can assess sources and early proclamation; the judgment concerning divine action involves philosophical and theological questions as well.
+11. Science can assess relevant physical background but does not supply a mechanism for this unique event.
+12. No new GUA-W Gear or architecture layer is established.
+
+## 27. Questions remaining open after Pass II
+
+1. What is the best account of the relationship between the received formula in 1 Corinthians 15:3–7 and Paul's own wording in verses 8–11?
+2. How early can the formula be dated, and what evidence supports each proposed date?
+3. What did Paul mean by “according to the scriptures” in the death and Resurrection clauses?
+4. How should the appearance to the five hundred be assessed when Paul gives no names or location?
+5. How should Paul's encounter be compared with the earlier appearances without forcing identical phenomenology?
+6. How do the Gospel accounts' descriptions of the risen body's continuity and transformed capacities relate to Paul's seed and Adam analogies?
+7. What is the most responsible interpretation of *sōma pneumatikon* in its first-century Jewish and Pauline context?
+8. How do the Father's action, the Son's authority, and the Spirit's life-giving work relate without contradiction or reduction?
+9. What historical conclusions are warranted by Tacitus and Josephus, and which popular claims exceed their texts?
+10. What further conclusions can be made from the evidence without confusing historical probability, theological confession, and scientific demonstration?
+
+## 28. Provisional disposition after Pass II
+
+**Central claim:** JESUS CHRIST WAS RAISED FROM THE DEAD — EXPLICIT CANONICAL PROCLAMATION.  
+**Continuity with the crucified Jesus:** EXPLICIT IN THE APPEARANCE TESTIMONY.  
+**Transformed, death-defeating life:** EXPLICIT IN ROMANS 6:9 AND 1 CORINTHIANS 15.  
+**Father/Son/Spirit testimony:** CANONICALLY PRESENT; exact theological synthesis must preserve each text.  
+**Early proclamation:** ESTABLISHED AS RECEIVED TRADITION IN 1 CORINTHIANS 15; exact date and transmission route remain qualified.  
+**Historical assessment:** IN PROGRESS; execution and early proclamation are assessable, but the full event claim remains contested in historical interpretation.  
+**Scientific mechanism:** NOT SPECIFIED; no laboratory reproduction or physical mechanism claimed.  
+**GUA-W consistency:** PASS at governing level; no new Gear established.
+
+**The Resurrection is not reduced to the empty tomb, nor to the appearances, nor to the survival of a teaching. The apostolic proclamation joins death, burial, raising, and appearances. The risen Jesus is the crucified Jesus, now beyond death's dominion. The witnesses report what they encountered; the investigator must preserve what they say and distinguish it from what remains unexplained.**
+
+## Sources consulted for Pass II
+
+### Primary Scriptural texts
+- KJV: John 2:19–22; John 10:17–18; Luke 24:31, 36–43; John 20:19–29; Acts 2:22–36; Acts 3:15; Acts 9; Acts 22; Acts 26; Romans 6:9; Romans 8:11; 1 Corinthians 9:1; 1 Corinthians 15:3–54; Galatians 1:1–17; Colossians 1:18; 1 Peter 3:18; Revelation 1:5.
+
+### Historical and scholarly sources
+- James Ware, “The Resurrection of Jesus in the Pre-Pauline Formula of 1 Cor 15.3–5,” *New Testament Studies* 60, no. 4 (2014): 475–498. https://doi.org/10.1017/S0028688514000150
+- “The Trial and Death of Jesus,” *St Andrews Encyclopaedia of Theology*, section 2.2, Roman sources and Tacitus. https://www.saet.ac.uk/Christianity/TrialandDeathofJesus
+- Adela Yarbro Collins, “The Resurrection Body: The Reception of 1 Corinthians 15,” in *Paul Transformed* (Yale University Press, 2022), pp. 34–50. https://doi.org/10.12987/yale/9780300194425.003.0003
+- Daniel Mikkelsen, “What Is the Nature of the Resurrection Body According to 1 Corinthians 15?” *Dansk Teologisk Tidsskrift* 81, no. 4 (2019): 282–299. https://doi.org/10.7146/dtt.v81i4.115359
+- Josephus, *Antiquities* 18.3.3 and 20.9.1; textual integrity of the Testimonium Flavianum must be treated critically.
+- Tacitus, *Annals* 15.44; relevant to the execution under Pilate and early Roman knowledge of Christians, not a direct witness to the Resurrection.
+
+**Source note:** The cited modern studies represent scholarly discussion, not a single consensus on every interpretive question. This pass uses them to identify the debate and bound claims, not to replace the KJV text or predetermine the theological conclusion.
