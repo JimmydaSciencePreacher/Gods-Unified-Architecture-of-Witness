@@ -91,7 +91,7 @@ This record does not create new revelation, doctrine, or architecture. It identi
 - Adam identifies the woman's giving and says, “I did eat” (Genesis 3:12).
 - God later identifies Adam's heeding of his wife's voice in connection with eating what God had prohibited (Genesis 3:17).
 
-**Candidate operation:** Distinguish an influence or preceding communication from the recipient's own action and accountability. Identifying an influence does not automatically transfer or erase the actor's responsibility.
+**Observed operation/distinction:** Distinguish an influence or preceding communication from the recipient's own action and accountability. Identifying an influence does not automatically transfer or erase the actor's responsibility.
 
 **Architecture relationship:** Recognized in relation to Runtime action, attribution, and accountability review.
 
@@ -111,7 +111,7 @@ This record does not create new revelation, doctrine, or architecture. It identi
 - God questions the woman about her action (3:13).
 - The woman identifies deception and acknowledges eating.
 
-**Candidate operation:** The Author initiates an encounter in which the recipient is called to respond and the account of knowledge and action is examined.
+**Observed operation/distinction:** The Author initiates an encounter in which the recipient is called to respond and the account of knowledge and action is examined.
 
 **Architecture relationship:** An audit/governance relationship, not necessarily a runtime Gear; it relates to witness accountability and Author primacy.
 
@@ -128,7 +128,7 @@ This record does not create new revelation, doctrine, or architecture. It identi
 - Adam correctly identifies that he heard God's voice (3:10).
 - Adam reports fear and hiding rather than approaching openly.
 
-**Candidate operation:** Distinguish recognition of a source from alignment or response to that source. Knowing who is speaking does not by itself establish that the recipient is aligned with the speaker.
+**Observed operation/distinction:** Distinguish recognition of a source from alignment or response to that source. Knowing who is speaking does not by itself establish that the recipient is aligned with the speaker.
 
 **Architecture relationship:** A distinction within existing Witness-state / Alignment concepts rather than a new Gear.
 
@@ -147,7 +147,7 @@ This record does not create new revelation, doctrine, or architecture. It identi
 - Adam recognizes her correspondence and names her (2:23).
 - The text states leaving, cleaving, and one flesh (2:24).
 
-**Candidate operation:** Distinguish classification/naming from correspondence and joining. Naming creatures does not fulfill the relational need; the corresponding partner is made and brought by God, recognized by Adam, and the marital joining is stated.
+**Observed operation/distinction:** Distinguish classification/naming from correspondence and joining. Naming creatures does not fulfill the relational need; the corresponding partner is made and brought by God, recognized by Adam, and the marital joining is stated.
 
 **Architecture relationship:** Related to the existing Joining Primacy investigation. It may provide a specific relational example, but must not be generalized prematurely into a universal integration law.
 
@@ -174,8 +174,8 @@ These observations may describe interacting aspects of the existing Admissibilit
 | Reference–Admissibility Gate | Supported by Genesis 2:9, 2:16–17; 3:5–6 | Investigable through evaluation, constraints, and decision processes; theological claim remains primary | Preserves Author's Word as reference | Textual relationship recognized; universal mechanism not asserted |
 | Evaluation-to-Action Sequence | Explicit sequence in Genesis 3:6–7 | Human perception and action are legitimate scientific subjects; mechanisms need separate study | Recognized in relation to existing Runtime | Recognized textual relationship; broader mechanism not asserted |
 | Information Provenance / Source Audit | Supported by Genesis 3:1–5, 11–13 | Communication and information provenance are scientifically investigable | Preserves Source/representation distinction | Textual relationship recorded; broader mechanism not asserted |
-| Influence–Action–Responsibility | Supported by Genesis 3:6, 12–13, 17 | Influence and action are investigable; do not overclaim causation | Preserves individual action and accountability | Retain as candidate |
-| Author-Initiated Accountability Encounter | Explicitly narrated in Genesis 3:9–13 | Theological governance claim; no laboratory reduction implied | Preserves Author primacy | Retain as candidate |
+| Influence–Action–Responsibility | Supported by Genesis 3:6, 12–13, 17 | Influence and action are investigable; do not overclaim causation | Preserves individual action and accountability | Textual relationship recorded; broader mechanism not asserted |
+| Author-Initiated Accountability Encounter | Explicitly narrated in Genesis 3:9–13 | Theological governance claim; no laboratory reduction implied | Preserves Author primacy | Textual relationship recorded; broader mechanism not asserted |
 | Recognition–Alignment | Supported by Genesis 3:8–10 | Recognition and response can be investigated; theological scope remains | May refine Witness-state | Recognized in relation to existing Alignment / Witness-state |
 | Correspondence–Joining | Explicit marital pattern in Genesis 2:18–25 | Relational and biological domains can be studied without replacing the text | Consistent with Author-initiated formation and joining | Retain; do not universalize |
 
@@ -195,7 +195,7 @@ The text-grounded observations are not being held as a construction queue. They 
 - [Genesis 2:18–25 — Text-First Reconstruction](GENESIS-2-18-25-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 3:1–24 — Text-First Reconstruction](GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
 
-**Provisional conclusion:** Genesis 2–3 supplies several strong textual examples of distinct operations relevant to GUA-W: admissibility under an established command, evaluation followed by action, source tracking, influence and responsibility, recognition and alignment, and correspondence/joining. These are Scriptural relationships to be recognized within the completed GUA-W, not components awaiting assembly. Further work concerns the scope of each relationship and its cross-Scriptural and scientific coherence—not whether GUA-W needs additional parts.
+**Conclusion:** Genesis 2–3 supplies several strong textual examples of distinct operations relevant to GUA-W: admissibility under an established command, evaluation followed by action, source tracking, influence and responsibility, recognition and alignment, and correspondence/joining. These are Scriptural relationships to be recognized within the completed GUA-W, not components awaiting assembly. Further work concerns the scope of each relationship and its cross-Scriptural and scientific coherence—not whether GUA-W needs additional parts.
 
 
 ## 11. Changed Conditions, Continuing Function, and Consequence
@@ -209,7 +209,7 @@ The text-grounded observations are not being held as a construction queue. They 
 - The ground brings forth thorns and thistles; food is obtained through sorrow and sweat (Genesis 3:17–19).
 - Man is told he will return to the ground from which he was taken (Genesis 3:19).
 
-**Candidate operation:** A consequential action is followed by a changed environmental condition under which an existing function continues with altered conditions and outcomes.
+**Observed operation/distinction:** A consequential action is followed by a changed environmental condition under which an existing function continues with altered conditions and outcomes.
 
 **Recognized formulation:** The function may remain while the conditions of its realization change.
 
@@ -230,11 +230,11 @@ The text-grounded observations are not being held as a construction queue. They 
 - God sends man out of the Garden (Genesis 3:23).
 - God places cherubim and a flaming sword to guard the way to the tree of life (Genesis 3:24).
 
-**Candidate operation:** Distinguish the existence of a provision from a recipient's authorization to access it. The Author establishes the boundary and appoints its enforcement.
+**Observed operation/distinction:** Distinguish the existence of a provision from a recipient's authorization to access it. The Author establishes the boundary and appoints its enforcement.
 
-**Provisional formulation:** The existence of a provision does not establish unrestricted access to it. Authorization and access boundaries remain under the Author's authority.
+**Recognized formulation:** The existence of a provision does not establish unrestricted access to it. Authorization and access boundaries remain under the Author's authority.
 
-**Architecture relationship:** Recognized in relation to Admissibility, Constraint, Reception, and Governance. It is related to but not identical with the Reference–Admissibility Gate: that relationship examines whether an action conforms to the Author's Word; this candidate examines whether access to a provision is authorized and how an established boundary is maintained.
+**Architecture relationship:** Recognized in relation to Admissibility, Constraint, Reception, and Governance. It is related to but not identical with the Reference–Admissibility Gate: that relationship examines whether an action conforms to the Author's Word; this access-boundary relationship examines whether access to a provision is authorized and how an established boundary is maintained.
 
 **Limits:** Genesis 3:22–24 explicitly records exclusion and guarding of the way to the tree of life. It does not provide a universal access-control algorithm or explain every possible condition for later access. Revelation 22:1–2 supplies a canonical endpoint for further study, not permission to erase the distinction between the two passages.
 
