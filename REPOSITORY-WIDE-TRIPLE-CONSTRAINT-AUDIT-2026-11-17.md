@@ -16,7 +16,7 @@ GUA-W is complete. This audit does not propose to build, extend, or redesign it.
 
 ## 2. Repository inventory reviewed
 
-At the time of the initial inventory, the tree contained 27 existing tracked Markdown files (excluding this audit record):
+At the time of the initial inventory, the tree contained 34 existing tracked Markdown files (excluding this audit record). The current tree contains 35 Markdown files including this audit record:
 
 ### Root governance and architecture
 - `README.md`
