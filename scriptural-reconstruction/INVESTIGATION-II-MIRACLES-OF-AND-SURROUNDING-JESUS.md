@@ -210,3 +210,9 @@ The register distinguishes **WRITTEN** case studies from events merely **REGISTE
 - [Case Study II.23 — The Mute Man Delivered](INVESTIGATION-II-23-MUTE-DEMONIAC.md)
 - [Case Study II.24 — Blind Men near Jericho / Bartimaeus](INVESTIGATION-II-24-BARTIMAEUS-JERICHO.md)
 - [Case Study II.25 — The First Miraculous Catch of Fishes](INVESTIGATION-II-25-FIRST-CATCH-FISH.md)
+
+- [Case Study II.26 — The Woman Bowed Together](INVESTIGATION-II-26-WOMAN-BOWED-TOGETHER.md)
+- [Case Study II.27 — The Man with Dropsy](INVESTIGATION-II-27-MAN-WITH-DROPSY.md)
+- [Case Study II.28 — The Boy Delivered from an Unclean Spirit](INVESTIGATION-II-28-BOY-DELIVERED.md)
+- [Case Study II.29 — The Tribute Money in the Fish's Mouth](INVESTIGATION-II-29-COIN-IN-FISH.md)
+- [Case Study II.30 — The Miraculous Catch after the Resurrection](INVESTIGATION-II-30-SECOND-CATCH-FISH.md)
