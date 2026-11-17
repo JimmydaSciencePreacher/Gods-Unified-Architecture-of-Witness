@@ -122,7 +122,7 @@ Examples include:
 
 **Correction in method:** Keep uncertainty where the evidence is genuinely uncertain. Do not label the relationship to the completed architecture “candidate” merely because an earlier AI record failed to recognize it. Record the observed relationship and its placement in the existing whole when that placement is supported. Reserve “unresolved” for the actual unresolved question, not for whether GUA-W has an element.
 
-This audit does not assign every verse a technical runtime stage by fiat. It identifies a recurring repository-level error: the files often stop at the threshold of recognition and leave the completed architecture appearing provisional.
+**Work status:** The Genesis 2–3 relationship register has been reframed to record observed relationships within the completed architecture rather than a queue for new Gears. The remaining Genesis 1–2 text-first reconstructions and Hebrew audits still need a targeted editorial pass so their wording consistently distinguishes (a) a Scriptural observation, (b) its recognized relationship to the completed GUA-W where supported, and (c) a genuinely unresolved technical or scientific mechanism. This audit does not assign every verse a technical runtime stage by fiat.
 
 ### 4.3 Genesis 3 reconstruction contains a stale U-007 conclusion
 
@@ -185,11 +185,19 @@ The text-first reconstructions sometimes use “runtime,” “candidate operati
 
 ## 6. Immediate writing actions
 
-1. Clarify in the README and governing documents that Theology is a Science within GUA-W and is subject to the Triple Constraint, while preserving the distinct methods and evidence appropriate to each discipline.
-2. Revise the Genesis 3 reconstruction and Genesis 2 completion synthesis so U-007's resolved authority conclusion is no longer presented as unresolved.
-3. Reframe the Genesis 2–3 “Candidate Gear Register” as a record of observed relationships within the completed architecture; do not turn it into a Gear-construction queue.
-4. Add this audit to the README navigation. (Completed.)
-5. In a subsequent claim-level pass, compare and consolidate the duplicate holography audits and verify every external scientific and lexical citation against its primary source. This remains outstanding.
+### Completed in the first correction pass
+
+- Added this audit to README navigation.
+- Clarified Theology as a Science in README, Governing Principles, and Investigation Protocol.
+- Corrected the stale U-007 authority status in the Genesis 2 completion synthesis and Genesis 3 reconstruction.
+- Corrected the Genesis 4:6–7 through 4:13–16 records so U-007 is not left unresolved and Theology is not excluded from scientific-coherence review.
+- Reframed the Genesis 2–3 relationship register as a record of observations within completed GUA-W rather than a Gear-construction queue.
+
+### Remaining writing and verification
+
+1. Complete the targeted editorial pass over the remaining Genesis 1–2 reconstructions and Hebrew audits, preserving real uncertainties while recording supported relationships to the completed architecture.
+3. Compare and consolidate the duplicate holography audits only after checking their provenance and unique claims.
+4. Verify external scientific and lexical citations against primary sources in a separate claim-level audit. This remains outstanding.
 
 ## 7. Governing conclusion
 
