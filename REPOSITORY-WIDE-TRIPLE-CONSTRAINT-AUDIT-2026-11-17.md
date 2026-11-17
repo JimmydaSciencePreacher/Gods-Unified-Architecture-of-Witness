@@ -196,8 +196,8 @@ The text-first reconstructions sometimes use “runtime,” “candidate operati
 ### Remaining writing and verification
 
 1. Complete the targeted editorial pass over the remaining Genesis 1–2 reconstructions and Hebrew audits, preserving real uncertainties while recording supported relationships to the completed architecture.
-3. Compare and consolidate the duplicate holography audits only after checking their provenance and unique claims.
-4. Verify external scientific and lexical citations against primary sources in a separate claim-level audit. This remains outstanding.
+2. Compare and consolidate the duplicate holography audits only after checking their provenance and unique claims.
+3. Verify external scientific and lexical citations against primary sources in a separate claim-level audit. This remains outstanding.
 
 ## 7. Governing conclusion
 
