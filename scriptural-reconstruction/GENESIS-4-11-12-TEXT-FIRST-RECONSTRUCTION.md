@@ -1,6 +1,6 @@
 # Genesis 4:11–12 — Text-First Reconstruction, Unit 12
 
-**Status:** INITIAL TEXTUAL FINDINGS; translation of מִן־הָאֲדָמָה in 4:11 is disputed; no architectural conclusion admitted  
+**Status:** Text-first investigation; translation of מִן־הָאֲדָמָה in 4:11 is disputed; observed relationships are recorded in relation to the completed GUA-W  
 **Date:** 2026-11-16  
 **Scope:** KJV Genesis 4:11–12, read with Genesis 2:5–7, 2:15; 3:17–19; 4:8–10  
 **Questions:** What is the relation between Cain, the ground, and the blood? What changes about Cain's work with the ground? What do “fugitive” and “wanderer” mean? How does this judgment relate to Adam's formation from the ground and the earlier ground judgment?
@@ -248,7 +248,7 @@ These sources are research aids. Interpretive claims are attributed; no single c
 - [Genesis 3:1–24 — Text-First Reconstruction](GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
 - [Rejected and Unresolved Register](../REJECTED-AND-UNRESOLVED.md)
 - U-006 — Definition and components of human will.
-- U-007 — Knowledge of good and evil versus authority to establish its standard.
+- U-007 — RESOLVED: Knowledge of good and evil does not transfer authority to establish its standard.
 
 ## 13. Revision history
 
