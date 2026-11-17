@@ -70,3 +70,12 @@ Continue the central Resurrection investigation without treating the present ope
 6. the Ascension in Luke 24 and Acts 1.
 
 **Thirty-five event-level studies recorded in Investigation II. The Resurrection now receives its own central investigation.**
+
+
+## Investigation III.A — Dedicated comparative study
+
+**Jesus' Death and Burial** — Matthew 27:32–66; Mark 15:21–47; Luke 23:26–56; John 19:16–42.  
+**Status:** COMPARATIVE SCRIPTURAL EXAMINATION WRITTEN; historical and medical assessment bounded; exact medical mechanism UNRESOLVED.  
+**Record:** [Investigation III.A — The Death and Burial of Jesus Christ](INVESTIGATION-III-A-DEATH-AND-BURIAL-OF-JESUS-CHRIST.md)
+
+The study preserves each Gospel's details, including Mark's centurion inquiry, John's account of the soldiers and the piercing, Joseph's role in all four accounts, Nicodemus in John, the women's observations, and Matthew's separate guard account. It records archaeological and historical context without treating the Yehohanan find as evidence about Jesus' own remains, and it leaves the precise medical mechanism unresolved.
