@@ -104,6 +104,14 @@
 29. [II.29 — The Tribute Money in the Fish's Mouth](INVESTIGATION-II-29-COIN-IN-FISH.md)
 30. [II.30 — The Miraculous Catch after the Resurrection](INVESTIGATION-II-30-SECOND-CATCH-FISH.md)
 
+## Additional written case studies (31–35)
+
+31. [II.31 — Peter's Mother-in-Law Healed](INVESTIGATION-II-31-PETERS-MOTHER-IN-LAW.md)
+32. [II.32 — The Man with an Unclean Spirit in the Synagogue](INVESTIGATION-II-32-SYNAGOGUE-UNCLEAN-SPIRIT.md)
+33. [II.33 — The Blind and Mute Man Delivered](INVESTIGATION-II-33-BLIND-MUTE-DELIVERED.md)
+34. [II.34 — Jesus Heals Malchus' Ear](INVESTIGATION-II-34-MALCHUS-EAR.md)
+35. [II.35 — The Transfiguration](INVESTIGATION-II-35-TRANSFIGURATION.md)
+
 ## Status key
 
 - **WRITTEN** — dedicated event-level study recorded.
@@ -148,7 +156,7 @@
 | Event | Primary passage(s) | Status |
 |---|---|---|
 | Nobleman's son | John 4:46–54 | WRITTEN — II.2 |
-| Peter's mother-in-law | Matthew 8:14–15; Mark 1:29–31; Luke 4:38–39 | REGISTERED |
+| Peter's mother-in-law | Matthew 8:14–15; Mark 1:29–31; Luke 4:38–39 | WRITTEN — [Case study II.31](INVESTIGATION-II-31-PETERS-MOTHER-IN-LAW.md) |
 | Leper cleansed | Matthew 8:1–4; Mark 1:40–45; Luke 5:12–16 | WRITTEN — [Case study II.7](INVESTIGATION-II-07-LEPER-CLEANSED.md) |
 | Paralytic lowered through roof; sins forgiven | Matthew 9:1–8; Mark 2:1–12; Luke 5:17–26 | WRITTEN — [Case study II.8](INVESTIGATION-II-08-PARALYTIC-FORGIVENESS.md) |
 | Centurion's servant | Matthew 8:5–13; Luke 7:1–10 | WRITTEN — [Case study II.10](INVESTIGATION-II-10-CENTURION-SERVANT.md) |
@@ -163,7 +171,7 @@
 | Crippled woman | Luke 13:10–17 | WRITTEN — [Case study II.26](INVESTIGATION-II-26-WOMAN-BOWED-TOGETHER.md) |
 | Man with dropsy | Luke 14:1–6 | WRITTEN — [Case study II.27](INVESTIGATION-II-27-MAN-WITH-DROPSY.md) |
 | Ten lepers cleansed | Luke 17:11–19 | WRITTEN — [Case study II.15](INVESTIGATION-II-15-TEN-LEPERS.md) |
-| Malchus' ear restored | Luke 22:50–51; John 18:10 | REGISTERED |
+| Malchus' ear restored | Luke 22:50–51; John 18:10 | WRITTEN — [Case study II.34](INVESTIGATION-II-34-MALCHUS-EAR.md) |
 | Healing at Bethesda | John 5:1–15 | REGISTERED |
 | Man born blind | John 9:1–41 | WRITTEN — [Case study II.17](INVESTIGATION-II-17-MAN-BORN-BLIND.md) |
 | Other grouped healings | Matthew 4:23–24; 8:16–17; 9:35; 12:15; 14:14, 34–36; 15:29–31; 19:2; 21:14; Mark 1:32–34; 3:7–12; 6:53–56; Luke 4:40–41; 6:17–19; 7:21 | GROUPED ACCOUNT |
@@ -172,9 +180,9 @@
 
 | Event | Primary passage(s) | Status |
 |---|---|---|
-| Man in synagogue with unclean spirit | Mark 1:21–28; Luke 4:31–37 | REGISTERED |
+| Man in synagogue with unclean spirit | Mark 1:21–28; Luke 4:31–37 | WRITTEN — [Case study II.32](INVESTIGATION-II-32-SYNAGOGUE-UNCLEAN-SPIRIT.md) |
 | Gadarene/Gergesenes demoniacs | Matthew 8:28–34; Mark 5:1–20; Luke 8:26–39 | WRITTEN — [Case study II.18](INVESTIGATION-II-18-GADARENE-DEM0NIAC.md); compare number, setting, and details |
-| Blind and mute demoniac | Matthew 12:22–29; Luke 11:14–23 | REGISTERED |
+| Blind and mute demoniac | Matthew 12:22–29; Luke 11:14–23 | WRITTEN — [Case study II.33](INVESTIGATION-II-33-BLIND-MUTE-DELIVERED.md); relation to Matthew 9 remains open |
 | Daughter of Syrophenician woman | Matthew 15:21–28; Mark 7:24–30 | WRITTEN — [Case study II.12](INVESTIGATION-II-12-SYROPHOENICIAN-DAUGHTER.md) |
 | Lunatic child / spirit causing convulsions | Matthew 17:14–21; Mark 9:14–29; Luke 9:37–43 | WRITTEN — [Case study II.28](INVESTIGATION-II-28-BOY-DELIVERED.md) |
 | Mute spirit cast out | Matthew 9:32–34; Luke 11:14 | WRITTEN — [Case study II.23](INVESTIGATION-II-23-MUTE-DEMONIAC.md); relationship to Luke 11:14 remains open |
@@ -207,7 +215,7 @@
 
 | Event | Primary passage(s) | Status |
 |---|---|---|
-| Transfiguration; appearance of Moses and Elias; heavenly voice | Matthew 17:1–9; Mark 9:2–10; Luke 9:28–36 | REGISTERED |
+| Transfiguration; appearance of Moses and Elias; heavenly voice | Matthew 17:1–9; Mark 9:2–10; Luke 9:28–36 | WRITTEN — [Case study II.35](INVESTIGATION-II-35-TRANSFIGURATION.md); revelation/sign, not ordinary healing |
 | Darkness at crucifixion | Matthew 27:45; Mark 15:33; Luke 23:44–45 | REGISTERED |
 | Temple veil rent | Matthew 27:51; Mark 15:38; Luke 23:45 | REGISTERED |
 | Earthquake and rocks rent | Matthew 27:51 | REGISTERED |
@@ -267,4 +275,4 @@ Each event study must include:
 - The Gospels do not all use the same selection, sequence, or terminology. Preserve each writer's presentation.
 - “All” coverage means all identifiable narrated events in the defined scope, together with grouped summaries and explicit acknowledgment of non-exhaustive statements (e.g., John 20:30). It does not mean pretending the Gospels record every work Jesus ever performed.
 
-**Overall status: OPEN.** Thirty dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
+**Overall status: OPEN.** Thirty-five dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
