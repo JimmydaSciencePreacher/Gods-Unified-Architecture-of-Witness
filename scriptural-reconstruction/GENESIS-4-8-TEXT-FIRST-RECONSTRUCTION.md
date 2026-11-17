@@ -1,6 +1,6 @@
 # Genesis 4:8 — Text-First Reconstruction, Unit 10
 
-**Status:** INITIAL TEXTUAL FINDINGS; textual variant and narrative implications recorded; no architectural conclusion admitted  
+**Status:** Text-first investigation; textual variant and narrative implications recorded in relation to the completed GUA-W; no new architectural node is proposed  
 **Date:** 2026-11-16  
 **Scope:** KJV Genesis 4:8, with immediate context Genesis 4:5–11 and the warning in 4:6–7  
 **Questions:** What does the Hebrew text say Cain did? What does it leave unsaid? Does the narrative connect Cain's action to God's instruction to rule in 4:7? What can this passage establish about responsibility and will?
@@ -176,7 +176,7 @@ These sources are research aids. Commentary proposals about Cain's motive or spe
 - [Genesis 3:1–24 — Text-First Reconstruction](GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
 - [Rejected and Unresolved Register](../REJECTED-AND-UNRESOLVED.md)
 - U-006 — Definition and components of human will.
-- U-007 — Knowledge of good and evil versus authority to establish its standard.
+- U-007 — RESOLVED: Knowledge of good and evil does not transfer authority to establish its standard.
 
 ## 14. Revision history
 
