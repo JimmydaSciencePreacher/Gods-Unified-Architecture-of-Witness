@@ -68,6 +68,34 @@
 19. [II.19 — Feeding the Four Thousand](INVESTIGATION-II-19-FEEDING-FOUR-THOUSAND.md)
 20. [II.20 — Fig Tree](INVESTIGATION-II-20-FIG-TREE.md)
 
+## Current written case studies
+
+1. [II.1 — Cana](INVESTIGATION-II-01-CANA-JOHN-2-1-11.md)
+2. [II.2 — Nobleman's Son](INVESTIGATION-II-02-NOBLEMAN-SON-JOHN-4-46-54.md)
+3. [II.3 — Bethesda](INVESTIGATION-II-03-BETHESDA-JOHN-5-1-18.md)
+4. [II.4 — Feeding the Five Thousand](INVESTIGATION-II-04-FEEDING-FIVE-THOUSAND.md)
+5. [II.5 — Walking on the Sea](INVESTIGATION-II-05-WALKING-ON-SEA.md)
+6. [II.6 — Storm Calmed](INVESTIGATION-II-06-STORM-CALMED.md)
+7. [II.7 — Leper Cleansed](INVESTIGATION-II-07-LEPER-CLEANSED.md)
+8. [II.8 — Paralytic](INVESTIGATION-II-08-PARALYTIC-FORGIVENESS.md)
+9. [II.9 — Woman with Issue of Blood and Jairus' Daughter](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md)
+10. [II.10 — Centurion's Servant](INVESTIGATION-II-10-CENTURION-SERVANT.md)
+11. [II.11 — Widow's Son at Nain](INVESTIGATION-II-11-WIDOW-SON-NAIN.md)
+12. [II.12 — Syrophoenician Woman's Daughter](INVESTIGATION-II-12-SYROPHOENICIAN-DAUGHTER.md)
+13. [II.13 — Deaf Man](INVESTIGATION-II-13-DEAF-MAN-HEALED.md)
+14. [II.14 — Blind Man at Bethsaida](INVESTIGATION-II-14-BLIND-MAN-BETHSAIDA.md)
+15. [II.15 — Ten Lepers](INVESTIGATION-II-15-TEN-LEPERS.md)
+16. [II.16 — Lazarus](INVESTIGATION-II-16-LAZARUS-RAISED.md)
+17. [II.17 — Man Born Blind](INVESTIGATION-II-17-MAN-BORN-BLIND.md)
+18. [II.18 — Gadarene/Gerasene Demoniac](INVESTIGATION-II-18-GADARENE-DEM0NIAC.md)
+19. [II.19 — Feeding the Four Thousand](INVESTIGATION-II-19-FEEDING-FOUR-THOUSAND.md)
+20. [II.20 — Fig Tree](INVESTIGATION-II-20-FIG-TREE.md)
+21. [II.21 — Withered Hand](INVESTIGATION-II-21-WITHERED-HAND.md)
+22. [II.22 — Two Blind Men](INVESTIGATION-II-22-TWO-BLIND-MEN.md)
+23. [II.23 — Mute Man Delivered](INVESTIGATION-II-23-MUTE-DEMONIAC.md)
+24. [II.24 — Blind Men near Jericho / Bartimaeus](INVESTIGATION-II-24-BARTIMAEUS-JERICHO.md)
+25. [II.25 — First Miraculous Catch of Fishes](INVESTIGATION-II-25-FIRST-CATCH-FISH.md)
+
 ## Status key
 
 - **WRITTEN** — dedicated event-level study recorded.
@@ -116,12 +144,12 @@
 | Leper cleansed | Matthew 8:1–4; Mark 1:40–45; Luke 5:12–16 | WRITTEN — [Case study II.7](INVESTIGATION-II-07-LEPER-CLEANSED.md) |
 | Paralytic lowered through roof; sins forgiven | Matthew 9:1–8; Mark 2:1–12; Luke 5:17–26 | WRITTEN — [Case study II.8](INVESTIGATION-II-08-PARALYTIC-FORGIVENESS.md) |
 | Centurion's servant | Matthew 8:5–13; Luke 7:1–10 | WRITTEN — [Case study II.10](INVESTIGATION-II-10-CENTURION-SERVANT.md) |
-| Man with withered hand | Matthew 12:9–14; Mark 3:1–6; Luke 6:6–11 | REGISTERED |
-| Two blind men | Matthew 9:27–31 | REGISTERED |
-| Mute man oppressed by devil | Matthew 9:32–34 | REGISTERED |
+| Man with withered hand | Matthew 12:9–14; Mark 3:1–6; Luke 6:6–11 | WRITTEN — [Case study II.21](INVESTIGATION-II-21-WITHERED-HAND.md) |
+| Two blind men | Matthew 9:27–31 | WRITTEN — [Case study II.22](INVESTIGATION-II-22-TWO-BLIND-MEN.md) |
+| Mute man oppressed by devil | Matthew 9:32–34 | WRITTEN — [Case study II.23](INVESTIGATION-II-23-MUTE-DEMONIAC.md) |
 | Woman with issue of blood | Matthew 9:20–22; Mark 5:25–34; Luke 8:43–48 | WRITTEN — [Case study II.9](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md) |
 | Jairus' daughter | Matthew 9:18–26; Mark 5:21–43; Luke 8:40–56 | WRITTEN — [Case study II.9](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md) |
-| Two blind men near Jericho / Bartimaeus | Matthew 20:29–34; Mark 10:46–52; Luke 18:35–43 | REGISTERED; compare location, number, and narrative differences |
+| Two blind men near Jericho / Bartimaeus | Matthew 20:29–34; Mark 10:46–52; Luke 18:35–43 | WRITTEN — [Case study II.24](INVESTIGATION-II-24-BARTIMAEUS-JERICHO.md); retain differences |
 | Deaf man with speech impediment | Mark 7:31–37 | WRITTEN — [Case study II.13](INVESTIGATION-II-13-DEAF-MAN-HEALED.md) |
 | Blind man at Bethsaida | Mark 8:22–26 | WRITTEN — [Case study II.14](INVESTIGATION-II-14-BLIND-MAN-BETHSAIDA.md) |
 | Crippled woman | Luke 13:10–17 | REGISTERED |
@@ -139,7 +167,7 @@
 | Man in synagogue with unclean spirit | Mark 1:21–28; Luke 4:31–37 | REGISTERED |
 | Gadarene/Gergesenes demoniacs | Matthew 8:28–34; Mark 5:1–20; Luke 8:26–39 | WRITTEN — [Case study II.18](INVESTIGATION-II-18-GADARENE-DEM0NIAC.md); compare number, setting, and details |
 | Blind and mute demoniac | Matthew 12:22–29; Luke 11:14–23 | REGISTERED |
-| Daughter of Syrophenician woman | Matthew 15:21–28; Mark 7:24–30 | REGISTERED |
+| Daughter of Syrophenician woman | Matthew 15:21–28; Mark 7:24–30 | WRITTEN — [Case study II.12](INVESTIGATION-II-12-SYROPHOENICIAN-DAUGHTER.md) |
 | Lunatic child / spirit causing convulsions | Matthew 17:14–21; Mark 9:14–29; Luke 9:37–43 | REGISTERED |
 | Mute spirit cast out | Matthew 9:32–34; Luke 11:14 | REGISTERED; assess relation to parallel/grouped summaries |
 | Mary Magdalene and other women delivered | Luke 8:1–3; Mark 16:9 | REGISTERED; distinguish summary from individual narrated episode |
@@ -149,7 +177,7 @@
 | Event | Primary passage(s) | Status |
 |---|---|---|
 | Water made wine | John 2:1–11 | WRITTEN — II.1 |
-| First miraculous catch of fishes | Luke 5:1–11 | REGISTERED |
+| First miraculous catch of fishes | Luke 5:1–11 | WRITTEN — [Case study II.25](INVESTIGATION-II-25-FIRST-CATCH-FISH.md) |
 | Storm calmed | Matthew 8:23–27; Mark 4:35–41; Luke 8:22–25 | WRITTEN — [Case study II.6](INVESTIGATION-II-06-STORM-CALMED.md) |
 | Feeding five thousand | Matthew 14:13–21; Mark 6:30–44; Luke 9:10–17; John 6:1–14 | REGISTERED |
 | Walking on water; Peter walks and sinks | Matthew 14:22–33; Mark 6:45–52; John 6:16–21 | REGISTERED |
@@ -231,4 +259,4 @@ Each event study must include:
 - The Gospels do not all use the same selection, sequence, or terminology. Preserve each writer's presentation.
 - “All” coverage means all identifiable narrated events in the defined scope, together with grouped summaries and explicit acknowledgment of non-exhaustive statements (e.g., John 20:30). It does not mean pretending the Gospels record every work Jesus ever performed.
 
-**Overall status: OPEN.** Twenty dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
+**Overall status: OPEN.** Twenty-five dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
