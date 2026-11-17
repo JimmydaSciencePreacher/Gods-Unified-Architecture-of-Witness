@@ -1,6 +1,6 @@
 # Rejected and Unresolved Register
 
-This register prevents open questions from being silently treated as settled. Entries may be updated as evidence is gathered. A question listed here is not automatically rejected; its status is stated individually.
+This register distinguishes genuinely unresolved questions from matters already resolved. Entries must be updated when evidence and established conclusions settle a question; stale status labels must not be preserved as though the matter remained open. A question listed here is not automatically rejected; its status is stated individually.
 
 ## Unresolved
 
@@ -74,24 +74,30 @@ This register prevents open questions from being silently treated as settled. En
 
 ### U-007 — Knowledge of good and evil versus authority to establish its standard
 
-**Question:** When Genesis 3:22 says that man has become “as one of us, to know good and evil,” what kind of knowledge is acknowledged, and does any Scriptural evidence establish that humanity acquired independent authority to determine the standard of good and evil?
+**Status: RESOLVED — no transfer of divine authority to establish the standard of good and evil is described or granted.**
 
-**Current status:** UNRESOLVED.
+**Established conclusion:** Knowledge of good and evil does not confer God's authority or transfer to humanity the authority to establish the standard of good and evil. Capacity to perceive, evaluate, desire, choose, and act must be distinguished from authority to establish the governing standard.
 
-**Evidence reviewed:** Genesis 3:5 and 3:22, compared with Genesis 3:6–7; further comparison with Deuteronomy 1:39, 2 Samuel 19:35–36, 1 Kings 3:9, and Genesis 4:6–7 remains a priority.
+**Evidence considered:** Genesis 2:16–17; 3:1–7, 3:22; 4:6–7, read in their narrative context.
 
-**Reason:** Genesis 3:22 confirms a changed human condition involving knowledge of good and evil. The verse does not state that humanity became the Author, acquired God's authority, or became the independent source of the standard. The precise sense of “knowing” and its relation to discernment, experience, judgment, and authority require further contextual study.
+**Findings:**
+- In Genesis 3:1–5, the serpent challenges God's stated command and promises a changed condition of knowledge.
+- Genesis 3:6 records Eve's seeing, evaluation, desire, taking, and eating. The text does not say that this action transferred God's authority to her or to humanity.
+- Genesis 3:7 and 3:22 acknowledge a changed human condition and knowledge; neither passage says that humanity became the Author or the independent source of the standard.
+- In Genesis 4:6–7, God supplies the evaluative frame—“if thou doest well” and “if thou doest not well”—and addresses Cain within that frame. The passage records no transfer to Cain of authority to define or redefine good.
+- The wider Scriptural distinction is between a creature's capacity to evaluate/respond and the Author's authority as the source of the standard.
 
-**Guardrail:** Do not collapse knowledge, discernment, evaluation, judgment, and authority into one concept. Do not infer a transfer of divine authority from the phrase “as one of us.”
+**Guardrail:** Do not collapse knowledge, discernment, evaluation, judgment, desire, choice, action, and authority into one concept. Do not infer a transfer of divine authority from “as one of us, to know good and evil” (Genesis 3:22).
 
-**Related investigation:** [Genesis 3:1–24 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md).
+**Boundary of this resolution:** This resolves the authority-transfer question. It does not, by itself, provide an exhaustive definition of human will or settle every semantic question concerning the Hebrew expression “to know good and evil.” U-006 remains a separate question.
 
-**Revision history:** Added 2026-11-16 following the first text-first reconstruction of Genesis 3.
+**Related investigations:** [Genesis 3:1–24 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md); [Genesis 4:6–7 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-6-7-TEXT-FIRST-RECONSTRUCTION.md).
 
+**Revision history:** Reclassified from UNRESOLVED to RESOLVED on 2026-11-17 after integrating the established Scriptural conclusion and the Genesis 4:6–7 evidence. Earlier U-007 supplements below are historical investigation notes and are superseded by this resolution; they are not evidence that the question remains open.
 
 ## 12. Evidence update — Genesis 4:6–7 (2026-11-16)
 
-The following update supplements U-006 and U-007; it does not resolve either question or change their status.
+The following update supplements U-006. The U-007 notes are historical evidence records and are superseded by the resolution above.
 
 ### U-006 supplement — Human will, responsibility, desire, and mastery
 
@@ -120,7 +126,7 @@ The following update supplements U-006 and U-007; it does not resolve either que
 
 **Effect on question:** This passage supports keeping the capacity to evaluate distinct from authority to establish the standard. It does not settle the full meaning of Genesis 3:22.
 
-**Status remains:** UNRESOLVED.
+**Historical status note:** Superseded by the U-007 resolution above; this is not an open status.
 
 ### Related investigation
 
@@ -150,7 +156,7 @@ Every new entry should include:
 
 ## 13. Evidence update — Genesis 4:8 (2026-11-16)
 
-This update supplements U-006 and U-007. Neither question is resolved.
+This update supplements U-006. Any U-007 note in this historical update is superseded by the resolution above.
 
 ### U-006 supplement — Responsibility and action after warning
 
@@ -168,14 +174,14 @@ Genesis 4:8 records Cain's action after God has spoken of doing well and not doi
 
 The Masoretic reading does not preserve the content of Cain's speech to Abel. Some ancient witnesses include “Let us go out to the field”; this is documented as a textual variant, not silently imported into the KJV quotation.
 
-**Status remains:** UNRESOLVED.
+**Historical status note:** Superseded by the U-007 resolution above; this is not an open status.
 
 Related record: [Genesis 4:8 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-8-TEXT-FIRST-RECONSTRUCTION.md).
 
 
 ## 14. Evidence update — Genesis 4:9–10 (2026-11-16)
 
-This update supplements U-006 and U-007; neither question is resolved.
+This update supplements U-006. Any U-007 note in this historical update is superseded by the resolution above.
 
 ### U-006 supplement — Knowledge claims, acknowledgment, and responsibility
 
@@ -195,7 +201,7 @@ Genesis 4:9–10 does not repeat “know good and evil.” It does depict a fals
 
 This supports distinguishing reality from a person's statement about reality. It does not establish a formal theory of authority or resolve the precise meaning of Genesis 3:22.
 
-**Status remains:** UNRESOLVED.
+**Historical status note:** Superseded by the U-007 resolution above; this is not an open status.
 
 ### Textual and lexical cautions
 
@@ -225,7 +231,7 @@ This adds a distinction between the human act and consequences extending into th
 
 Genesis 4:11–12 follows Cain's denial in 4:9. His denial does not undo the killing, the blood received by the ground, or the judgment announced. The passage is consistent with distinguishing a person's assertion from the reality and judgment described in the narrative. It does not repeat “know good and evil” or settle the meaning of Genesis 3:22.
 
-**Status remains:** UNRESOLVED.
+**Historical status note:** Superseded by the U-007 resolution above; this is not an open status.
 
 ### Textual and translation caution
 
@@ -238,7 +244,7 @@ Related record: [Genesis 4:11–12 — Text-First Reconstruction](scriptural-rec
 
 ## 16. Evidence update — Genesis 4:13–16 (2026-11-16)
 
-This update supplements U-006 and U-007; neither question is resolved.
+This update supplements U-006. Any U-007 note in this historical update is superseded by the resolution above.
 
 ### U-006 supplement — Assessment, anticipation, protection, and action
 
@@ -256,7 +262,7 @@ Cain's fear is expressed as an expectation that anyone finding him will kill him
 
 God's protection of Cain does not cancel the previously announced ground-related judgment in the text. The sign is appointed by the LORD; Cain does not establish it or define its function. The narrative distinguishes divine judgment from divine protection within the same episode.
 
-**Status remains:** UNRESOLVED.
+**Historical status note:** Superseded by the U-007 resolution above; this is not an open status.
 
 ### Textual and translation cautions
 
