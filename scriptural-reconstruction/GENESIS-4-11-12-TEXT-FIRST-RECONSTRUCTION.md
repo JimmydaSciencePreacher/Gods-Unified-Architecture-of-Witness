@@ -192,7 +192,7 @@ The ground's “mouth” and its altered yield are described by God's speech. Ca
 
 This remains consistent with distinguishing a person's assertion from the reality and judgment described in the text. It does not itself define the authority structure of knowledge.
 
-**U-007 remains UNRESOLVED.**
+**U-007 status: RESOLVED.** This passage does not reopen the settled conclusion: knowledge, evaluation, and human action do not confer God's authority or transfer authority to establish the standard of good and evil. Any remaining question about the precise nature of the knowledge in Genesis 3:22 is separate.
 
 ## 9. Preliminary Triple Constraint review
 
@@ -200,7 +200,7 @@ This remains consistent with distinguishing a person's assertion from the realit
 
 The observations follow the KJV and Masoretic Hebrew. The translation of מִן־הָאֲדָמָה in 4:11 remains disputed; “from the ground,” “banished from the ground,” and “more than the ground” have published arguments. The reconstruction preserves the dispute.
 
-### Scientific coherence — NOT APPLICABLE AT THIS STAGE
+### Scientific coherence — theological discipline
 
 No scientific mechanism or empirical claim is proposed. The ground imagery is treated as Scriptural narrative, not as a physical theory.
 
