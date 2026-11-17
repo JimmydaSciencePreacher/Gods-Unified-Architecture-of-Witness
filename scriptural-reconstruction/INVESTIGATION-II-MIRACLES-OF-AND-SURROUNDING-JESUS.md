@@ -204,3 +204,9 @@ The register distinguishes **WRITTEN** case studies from events merely **REGISTE
 - [Case Study II.18 — The Gadarene/Gerasene Demoniac](INVESTIGATION-II-18-GADARENE-DEM0NIAC.md)
 - [Case Study II.19 — Feeding the Four Thousand](INVESTIGATION-II-19-FEEDING-FOUR-THOUSAND.md)
 - [Case Study II.20 — The Fig Tree](INVESTIGATION-II-20-FIG-TREE.md)
+
+- [Case Study II.21 — The Man with the Withered Hand](INVESTIGATION-II-21-WITHERED-HAND.md)
+- [Case Study II.22 — Two Blind Men Receive Sight](INVESTIGATION-II-22-TWO-BLIND-MEN.md)
+- [Case Study II.23 — The Mute Man Delivered](INVESTIGATION-II-23-MUTE-DEMONIAC.md)
+- [Case Study II.24 — Blind Men near Jericho / Bartimaeus](INVESTIGATION-II-24-BARTIMAEUS-JERICHO.md)
+- [Case Study II.25 — The First Miraculous Catch of Fishes](INVESTIGATION-II-25-FIRST-CATCH-FISH.md)
