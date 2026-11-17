@@ -70,6 +70,27 @@ The Hebrew emphatic construction אָכֹל תֹּאכֵל (*ʾāḵōl tōʾḵ
 
 The command and boundary are established before the serpent's speech in Genesis 3.
 
+### 2.3 The condition of the created environment before Genesis 3
+
+Genesis 1:31 records God's comprehensive evaluation:
+
+> And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day. (KJV)
+
+The Hebrew expression טוֹב מְאֹד (*ṭôḇ məʾōḏ*) is “very good.” Genesis 2 then describes the Garden planted by the LORD God, its trees as pleasant to sight and good for food (2:8–9), the provision of its river (2:10–14), man's appointed place and work (2:15), and the man and woman naked and not ashamed (2:25).
+
+Read together, these passages establish the pre-Fall created condition as **very good, ordered, provided for, and without the shame and curse subsequently narrated**. “Perfect environment” is the theological synthesis used in this investigation for that original condition; it is not presented as a direct English quotation or as the lexical translation of one Hebrew word in Genesis 2.
+
+Genesis 3 records a decisive change:
+- The ground is cursed in connection with Adam's disobedience (Genesis 3:17).
+- Thorns and thistles are named as part of the changed ground condition (3:18).
+- Human food production is associated with toil and sweat (3:17–19).
+- Man is told that he will return to the dust (3:19).
+- The man and woman are expelled from the Garden, and the way to the tree of life is guarded (3:22–24).
+
+The wider canonical account describes Creation as subjected to vanity and groaning, awaiting deliverance (Romans 8:20–22). This is relevant to the theological account of the Fall's effects upon Creation; it should not be reduced to a claim that every present-day physical process has been experimentally traced to one Genesis event.
+
+**Scientific significance within GUA-W:** The condition of the environment is part of the claim being investigated, not incidental scenery. A pre-Fall environment described as very good and a post-Fall condition described through curse, toil, thorns, mortality, and exclusion are distinct states in the Scriptural account. Theology investigates that distinction from the revealed text. Physical and life sciences may investigate the present created order and its observable processes; their findings must not be silently substituted for the theological account, nor should theological conclusions be misrepresented as laboratory measurements.
+
 ## 3. Capacity to evaluate is distinct from authority to originate the standard
 
 This distinction is central to reading Genesis 3.
@@ -161,15 +182,21 @@ The unresolved work concerns the precise nature of changed knowledge, the relati
 
 ## 8. Triple Constraint review
 
-| Proposition | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
+The Triple Constraint is applied to theological claims as well as claims arising in the physical, biological, mathematical, and other sciences. Within GUA-W, **Theology is a Science**: it is a disciplined investigation of God, Creation, and revealed truth, with Scripture as its primary authority and with careful attention to language, context, inference, and coherence. Its method and evidence are not identical to those of experimental physics or biology; that difference does not make theological inquiry “not scientific.”
+
+Scientific coherence therefore asks whether a claim is coherent within the relevant discipline and whether cross-disciplinary comparisons respect each discipline's evidence and limits. It does not require every theological claim to be recast as a laboratory hypothesis.
+
+| Proposition | Biblical / theological assessment | Scientific coherence | GUA-W consistency | Status |
 |---|---|---|---|---|
-| Genesis 2:1–3 declares Creation finished and records God's cessation, blessing, and sanctification. | Directly stated. | No scientific mechanism asserted. | Preserves Author primacy. | PASS, textual scope |
-| Genesis 2:15–17 establishes man's appointed work, divine command, permission, prohibition, and consequence before Genesis 3. | Directly stated. | Not a scientific claim. | Preserves source/recipient distinction. | PASS, textual scope |
-| The ability to evaluate necessarily grants authority to originate the moral standard. | Does not follow from the text. | Not a scientific conclusion. | Conflicts with the Author/derivative distinction. | REJECT as an inference |
-| Genesis 2 explicitly uses the abstract phrase “man lacks independent authority to define good and evil.” | The exact phrase is not present. | Not applicable. | Must not be presented as a quotation. | REJECT as a textual quotation |
-| The three declarations form a Creation–Redemption–Consummation pattern. | Supported as a canonical theological comparison. | Not a scientific claim. | Potentially consistent; theological synthesis. | PROPOSED |
-| The three declarations use the same original-language word. | They do not. | Not applicable. | Would erase lexical distinctions. | REJECT |
-| Science is an independent originating authority over Creation. | Not established by Genesis 1–2. | Science is a set of methods and disciplines, not an originating author. | Conflicts with the governing hierarchy. | REJECT as a GUA-W principle |
+| Genesis 2:1–3 declares Creation finished and records God's cessation, blessing, and sanctification. | Directly stated; Hebrew terms distinguish finishing, ceasing, blessing, and sanctifying. | A theological claim grounded in textual and linguistic analysis; no physical mechanism is asserted by this proposition. | Preserves Author primacy and the completed-Creation foundation. | PASS, textual/theological scope |
+| Genesis 2:15–17 establishes man's appointed work, divine command, permission, prohibition, and consequence before Genesis 3. | Directly stated. | A theological claim based on the narrative and its language; not a claim that the passage specifies a modern empirical mechanism. | Preserves source/recipient distinction and the pre-Fall boundary. | PASS, textual/theological scope |
+| The original Creation environment was perfect. | Genesis 1:31 calls the completed created work “very good”; Genesis 2 describes provision, order, and absence of shame; Genesis 3 narrates curse and changed conditions. “Perfect environment” is a theological synthesis of this wider context. | Coherent as a theological claim when its Scriptural basis and scope are stated. Physical sciences can investigate present environmental conditions but cannot, by themselves, establish or negate the full theological meaning of the pre-Fall state. | Preserves the distinction between the original created condition and the condition after Genesis 3. | PASS as a theological synthesis; scope defined |
+| Genesis 3 records a change in the human and environmental condition. | Curse upon the ground, thorns, toil, mortality, and expulsion are explicitly narrated; Romans 8:20–22 supplies wider canonical context. | A theological-historical claim about the Fall's effects. Specific physical mechanisms and the extent of each effect require separate investigation and must not be invented. | Preserves the before/after distinction central to the framework. | PASS as a theological claim; mechanisms not specified |
+| The ability to evaluate necessarily grants authority to originate the moral standard. | Does not follow from Genesis 2:16–17 or the wider sequence examined here. | Not established by theological or empirical evidence cited in this investigation. | Conflicts with the Author/derivative distinction. | REJECT as an inference |
+| Genesis 2 explicitly uses the abstract phrase “man lacks independent authority to define good and evil.” | The exact phrase is not present. It is an inference from the source and structure of the command, not a quotation. | A theological inference must be identified as such and tested against the wider canon. | Preserves the distinction between textual statement and derived conclusion. | REJECT as a textual quotation |
+| Genesis 2, John 19:30, and Revelation 21:6 form a Creation–Redemption–Consummation pattern. | Supported as a canonical theological comparison, while the passages' words and events remain distinct. | A theological synthesis, not a claim that the three passages share one physical mechanism or identical lexical form. | Potentially consistent with the Author's purpose unfolding through His Story. | PROPOSED |
+| The three completion declarations use the same original-language word. | They do not. | Lexical comparison demonstrates distinct Hebrew and Greek forms. | Collapsing them would erase relevant distinctions. | REJECT |
+| Science is an independent originating authority over Creation. | Not established by Genesis 1–2. | The sciences investigate and model their respective objects; scientific method does not establish itself as the originating cause of Creation. | Conflicts with the governing hierarchy. | REJECT as a GUA-W principle |
 
 ## 9. Working conclusion
 
