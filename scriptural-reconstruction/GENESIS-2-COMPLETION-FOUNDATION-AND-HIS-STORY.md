@@ -176,9 +176,9 @@ These passages warrant a wider investigation of God's purpose before the foundat
 The earlier wording of U-006 and U-007 risked treating the original authority structure as though it still had to be discovered from Genesis 3 alone. The investigation now begins with the prior foundation in Genesis 2.
 
 - **U-006 — Human will:** The components and operation of will still require wider Scriptural study. Genesis 2 already supplies man's created position, appointed work, and received command before the Fall.
-- **U-007 — Knowledge and authority:** The exact nature of the knowledge in Genesis 3:22 remains a question for contextual study. The prior command and its source are already explicit in Genesis 2:16–17. No transfer of originating authority is stated in Genesis 3:22.
+- **U-007 — RESOLVED:** Knowledge of good and evil does not confer God's authority or transfer authority to establish the standard. The exact nature and scope of the changed knowledge in Genesis 3:22 remain a distinct exegetical question; that remaining question does not reopen the settled authority conclusion.
 
-The unresolved work concerns the precise nature of changed knowledge, the relation among perception, desire, choice, and action, and the consequences of the Fall—not whether God had already spoken and established the command.
+The unresolved work concerns the precise nature and scope of changed knowledge, the fuller relation among perception, desire, choice, and action, and the physical scope and mechanisms of the consequences of the Fall. The prior command, its source, and the absence of any transfer of originating authority are not unresolved.
 
 ## 8. Triple Constraint review
 
