@@ -1,5 +1,7 @@
 # Hebrew Language Audit — Genesis 2:4–6
 
+**GUA-W relationship:** This language audit is a witness to the completed GUA-W, not a proposal to construct or revise it. Record the Hebrew wording and its relationship to established GUA-W distinctions where supported; keep genuine lexical, grammatical, and technical uncertainties specific to the claim under examination.
+
 **Status:** PHASE 2 LANGUAGE AUDIT — INITIAL FINDINGS  
 **Text base:** KJV wording compared with the Masoretic Hebrew, morphology aids, and translation/commentary notes  
 **Question:** What does Genesis 2:4–6 establish about the account heading, the field vegetation, the absence of rain and a man to work the ground, and the water described in verse 6?
