@@ -1,8 +1,18 @@
 # Revised GUA-W
 
-A separate, evidence-first investigation and reconstruction workspace for the Grand Unified Architecture of Witness (GUA-W).
+A Scripture-grounded presentation and evidence record for the **completed Grand Unified Architecture of Witness (GUA-W)**.
 
-This repository does not replace or silently modify the original GUA-W repository. The original remains the historical source record. This repository records investigations, evidence audits, proposed mappings, unresolved questions, and explicitly authorized revisions.
+The purpose of this repository is to **show the completed GUA-W and make visible the evidence in Scripture that supports it**. The architecture is not being built, completed, or redesigned through this investigation. The work is to recognize, explain, and document what is already established.
+
+This repository does not replace or silently modify the original GUA-W repository. The original remains the historical source record. This repository presents the completed architecture alongside its Scriptural foundations, textual investigations, evidence audits, explanatory mappings, and clearly identified unresolved questions.
+
+## What this repository must show
+
+1. **The completed GUA-W** — its established architecture, governing relationships, distinctions, and operations, presented as a coherent whole rather than as a collection of disconnected proposals.
+2. **Its Scriptural evidence** — the relevant passages across Scripture, read in context, with references that allow readers to examine the evidence directly.
+3. **The relationship between the two** — explanations of how the Scriptural evidence supports and illuminates the architecture, while distinguishing what the text states from what is inferred or interpreted.
+
+A missing explanation, an unrecognized relationship, or an incomplete investigation is a limitation in our present understanding or documentation. It is not evidence that the completed GUA-W itself is incomplete.
 
 ## Governing order
 
@@ -11,6 +21,15 @@ This repository does not replace or silently modify the original GUA-W repositor
 God alone is Original Cause. Everything else is derivative witness. A witness may register and report what is given; it does not become the Author or acquire authority to alter the Source.
 
 GUA-W is a map or blueprint of Creation, not God or Jesus Christ.
+
+## Investigation commitments
+
+- Investigate Scripture as a whole. Allow Scripture to illuminate Scripture; do not confine the investigation to conclusions reached in advance.
+- Use GUA-W as a guide for recognizing relationships, not as a design specification for manufacturing them.
+- Do not invent layers, force sequences, or manufacture Gears to make an explanation fit.
+- Recognize operations, relationships, and distinctions that are already present, even when they have not previously been identified.
+- Take initiative in pursuing relevant Scriptural cross-references and evidence; do not wait for every next question to be supplied.
+- Keep the completed architecture distinct from our evolving explanations and records of it.
 
 ## Triple Constraint Law
 
@@ -27,13 +46,13 @@ Scientific coherence is not scientific proof of Scripture.
 ## Evidence discipline
 
 For every material claim, distinguish:
-- what a source explicitly states;
-- what is directly observed or experimentally established;
-- what follows by valid inference;
-- what is an analogy or proposed architectural mapping;
+- what Scripture explicitly states, with passage and context;
+- what reliable textual, historical, or other evidence establishes;
+- what follows by supported inference;
+- what is interpretation or an explanatory mapping;
 - what remains unknown or unresolved.
 
-Do not collapse distinct domains into a claimed common mechanism without evidence. Do not convert analogy into equivalence by assertion.
+Do not collapse distinct domains into a claimed common mechanism without evidence. Do not convert analogy into equivalence by assertion. Do not present an interpretation as though it were the explicit wording of Scripture.
 
 ## Status vocabulary
 
@@ -41,18 +60,18 @@ Do not collapse distinct domains into a claimed common mechanism without evidenc
 - **PARTIAL** — some components are supported; limits remain.
 - **FAIL** — conflicts with a governing constraint or reliable evidence.
 - **UNRESOLVED** — available evidence does not decide the question.
-- **PROPOSED** — an architectural interpretation awaiting audit.
+- **INTERPRETATION** — an explanation of the evidence, clearly distinguished from the text itself.
 - **NOT YET INVESTIGATED** — no adequate investigation has been completed.
 
-A PASS is always scope-limited, not a universal endorsement.
+A PASS is always scope-limited, not a universal endorsement. These labels describe the state of the evidence or our investigation; they do not imply that the completed GUA-W is being assembled or completed.
 
 ## Working rules
 
 1. Search this repository and the original repository before repeating an investigation.
-2. Preserve source links, precise references, assumptions, methods, and limitations.
-3. Keep findings, interpretations, and proposals visibly separate.
+2. Preserve source links, precise Scriptural references, context, assumptions, methods, and limitations.
+3. Keep textual findings, evidence, inferences, and interpretations visibly separate.
 4. Preserve unresolved questions rather than filling gaps with speculation.
-5. Do not silently promote a proposal to canon or alter established terminology.
+5. Do not silently promote an interpretation to established architecture or alter established terminology.
 6. Record material changes with rationale and provenance.
 7. Keep the original repository unchanged unless its owner separately authorizes a specific change.
 
