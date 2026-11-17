@@ -182,3 +182,7 @@ The comprehensive coverage register is maintained separately so the investigatio
 - [Case Study II.2 — The Nobleman's Son: The Word Speaks at a Distance](INVESTIGATION-II-02-NOBLEMAN-SON-JOHN-4-46-54.md)
 
 The register distinguishes **WRITTEN** case studies from events merely **REGISTERED** for future examination. An event is not complete because it appears in the register; it becomes a written finding only after its own text-first analysis and Triple Constraint review.
+
+- [Case Study II.3 — The Man at Bethesda](INVESTIGATION-II-03-BETHESDA-JOHN-5-1-18.md)
+- [Case Study II.4 — Feeding the Five Thousand](INVESTIGATION-II-04-FEEDING-FIVE-THOUSAND.md)
+- [Case Study II.5 — Jesus Walks on the Sea](INVESTIGATION-II-05-WALKING-ON-SEA.md)
