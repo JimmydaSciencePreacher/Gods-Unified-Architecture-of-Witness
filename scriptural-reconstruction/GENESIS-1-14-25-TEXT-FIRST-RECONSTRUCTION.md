@@ -1,8 +1,8 @@
 # Genesis 1:14–25 — Text-First Reconstruction, Unit 3
 
-**Status:** INITIAL TEXTUAL OBSERVATION; architectural mappings remain PROPOSED  
+**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
 **Scope:** KJV Genesis 1:14–25  
-**Method:** Preserve the text's own sequence, distinctions, and wording before assigning GUA-W terminology.
+**Method:** Preserve the text's own sequence, distinctions, and wording; then recognize their relationship to the established GUA-W terminology where supported.
 
 ## Genesis 1:14–19 — Lights in the firmament
 
