@@ -48,7 +48,7 @@ The Triple Constraint Law examines claims and explanations through three insepar
 
 A claim failing any one consideration is not admissible as an accepted GUA-W claim. The Law concerns the admissibility of claims and records; it is not a construction procedure for GUA-W.
 
-Scientific coherence is examined within the relevant discipline's actual evidence, methods, conditions, and limits. Biblical and theological claims are investigated as claims about the revealed account, not dismissed because a different discipline uses different methods.
+**Theology is a Science within GUA-W.** Theological claims are subject to the Triple Constraint and are examined through disciplined Scriptural, linguistic, historical, and canonical inquiry. This method is appropriate to its subject and is distinct from experimental physics or biology; that distinction does not place Theology outside Science. Claims about physical, biological, ecological, mathematical, and other created processes must also be examined using the evidence and methods of the relevant sciences. The disciplines investigate the same Creation from distinct perspectives. Scientific coherence is not a demand that every discipline use identical methods, nor is any discipline an originating authority over Creation.
 
 ## 5. The condition of present understanding
 
