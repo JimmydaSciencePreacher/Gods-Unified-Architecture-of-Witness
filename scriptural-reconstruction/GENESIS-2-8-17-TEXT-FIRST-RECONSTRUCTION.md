@@ -1,8 +1,8 @@
 # Genesis 2:8–17 — Text-First Reconstruction, Unit 6
 
-**Status:** INITIAL TEXTUAL OBSERVATION; architectural mappings remain PROPOSED  
+**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
 **Scope:** KJV Genesis 2:8–17  
-**Method:** Record what the passage states and its narrated order before assigning GUA-W stages. This is an investigation, not a canonical revision.
+**Method:** Record what the passage states and its narrated order, then recognize its supported relationship to the completed GUA-W. This investigation does not create or revise the architecture.
 
 ## Genesis 2:8 — The Garden planted and man placed
 
