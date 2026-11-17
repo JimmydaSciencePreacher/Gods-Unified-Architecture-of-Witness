@@ -115,3 +115,12 @@ The study compares Luke's closing account with Acts' expanded account; records t
 **Record:** [Investigation III.B — Darkness at the Crucifixion](INVESTIGATION-III-B-DARKNESS-AT-THE-CRUCIFIXION.md)
 
 The study preserves the three Synoptic reports, John's omission, the sixth-to-ninth-hour interval, the range of *gē*, Scriptural parallels including Amos 8:9–10, and the limits of external ancient testimony. It does not invent a meteorological mechanism or merge the darkness with the separate veil and earthquake investigations.
+
+
+## Investigation III.C — Dedicated examination
+
+**The Veil of the Temple Was Rent** — Matthew 27:50–51; Mark 15:37–38; Luke 23:44–46; Exodus 26:31–35; Leviticus 16; Hebrews 6:19–20; 9:1–12; 10:19–22.  
+**Status:** WRITTEN; precise curtain identification and full historical reconstruction remain qualified. The inner veil is the stronger working identification on lexical and sanctuary-function grounds, but is not explicit in the Gospel phrase.  
+**Record:** [Investigation III.C — The Veil of the Temple Was Rent](INVESTIGATION-III-C-VEIL-OF-THE-TEMPLE-RENT.md)
+
+The study preserves Synoptic wording and sequence differences, the Old Testament sanctuary boundary, Hebrews' distinct argument concerning Christ's priestly entrance and access through His flesh, and the limits of Second Temple historical reconstruction. The earthquake and opened-graves reports remain separate investigations. No new GUA-W Gear is established.
