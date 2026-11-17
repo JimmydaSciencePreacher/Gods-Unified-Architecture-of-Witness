@@ -121,7 +121,7 @@ The passage therefore does not establish a transfer of divine authority. It is c
 
 But Genesis 4:8 alone does not explain Cain's internal evaluation or reasoning. The content of his speech to Abel is absent from the Masoretic reading.
 
-**Status of U-007 remains UNRESOLVED.**
+**U-007 status: RESOLVED.** This passage does not reopen the settled conclusion: knowledge, evaluation, and human action do not confer God's authority or transfer authority to establish the standard of good and evil. Any remaining question about the precise nature of the knowledge in Genesis 3:22 is separate.
 
 ## 10. Preliminary Triple Constraint review
 
@@ -129,7 +129,7 @@ But Genesis 4:8 alone does not explain Cain's internal evaluation or reasoning. 
 
 The core observations follow the KJV and Masoretic reading. The longer reading “Let us go out to the field” is documented as a variant in ancient witnesses and is not silently inserted into the KJV. The exact content of Cain's speech remains unknown in the shorter reading.
 
-### Scientific coherence — NOT APPLICABLE AT THIS STAGE
+### Scientific coherence — theological discipline
 
 No scientific mechanism or empirical claim is proposed.
 
