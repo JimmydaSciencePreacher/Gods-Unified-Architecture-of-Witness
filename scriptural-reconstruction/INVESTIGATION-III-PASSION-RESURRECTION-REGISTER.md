@@ -18,7 +18,7 @@ GUA-W is complete. These investigations recognize and record evidence in relatio
 ## Investigation III.1 — Central study
 
 1. **The Resurrection of Jesus Christ** — Matthew 28; Mark 16; Luke 24; John 20–21; Acts 1:1–11; 1 Corinthians 15.  
-   **Status:** INITIAL CENTRAL STUDY WRITTEN; historical, textual-critical, and scientific examination remains in progress.  
+   **Status:** CENTRAL SCRIPTURAL STUDY WRITTEN THROUGH PASS II; historical, textual-critical, and scientific examination remains in progress.  
    **Record:** [Investigation III.1 — The Resurrection of Jesus Christ](INVESTIGATION-III-01-RESURRECTION-OF-JESUS-CHRIST.md)
 
 ## Related Passion and Resurrection events
@@ -133,3 +133,12 @@ The study preserves Synoptic wording and sequence differences, the Old Testament
 **Record:** [Investigation III.D — The Earthquake and the Opened Graves](INVESTIGATION-III-D-EARTHQUAKE-AND-OPENED-GRAVES.md)
 
 The study preserves Matthew as the sole canonical Gospel witness to this episode, distinguishes the opening of graves, the saints' arising, their emergence, and their appearances, and does not invent names, numbers, bodily condition, or later destiny. General archaeology and regional seismicity are context, not event-specific verification. No new GUA-W Gear is established.
+
+
+## Central Resurrection Investigation — Pass II recorded
+
+**Pass II: What the Resurrection Claim Actually Asserts** has been added to the central study. It examines the received proclamation in 1 Corinthians 15:3–8; Paul's own claim to have seen the risen Christ; the Father's, Son's, and Spirit's relation to resurrection life; continuity and transformation of the risen Jesus; the meaning and limits of “spiritual body”; Christ as firstfruits; and the boundaries of historical and scientific inquiry.
+
+**Updated central record:** [Investigation III.1 — The Resurrection of Jesus Christ](INVESTIGATION-III-01-RESURRECTION-OF-JESUS-CHRIST.md)
+
+**Disposition:** The central canonical claim is explicit; historical assessment remains in progress; no physical mechanism is invented; no new GUA-W Gear is established. The empty tomb, appearances, and Ascension remain distinct dedicated studies.
