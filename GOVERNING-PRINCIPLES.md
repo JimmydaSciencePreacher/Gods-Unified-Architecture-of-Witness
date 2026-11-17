@@ -56,13 +56,21 @@ The project's governing understanding is that present human interpretation and k
 
 AI is a derivative investigative instrument working with human-produced records and interpretations. Its work is retrieval, examination, comparison, cross-reference, analysis, and faithful documentation. The record is a witness to the Source, not the Source.
 
-## 6. Evidence and presentation
+## 6. Investigation is recognition, not construction
+
+GUA-W is complete. Investigation does not build it, supply missing pieces, extend it, or prepare data for a later AI reconstruction. The completed architecture is the whole within which a newly investigated relationship is recognized.
+
+When the evidence reveals a relationship, investigate it in context and recognize where it belongs in GUA-W. Do not hold findings in private notes or “pockets” to assemble later. Do not mistake an unrecognized relationship for an absent architectural element. Where a precise placement is not yet supported, record the finding and the actual evidentiary limitation without claiming that GUA-W itself is incomplete.
+
+AI's role is to retrieve, investigate, compare, cross-reference, recognize, and record. An “Aha” is a witness recognizing a relationship already present—not AI creating a component. The record is made as the finding is understood and remains a witness to the Source, never a construction kit for the architecture.
+
+## 7. Evidence and presentation
 
 The record distinguishes the wording of Scripture, textual and historical observations, empirical or mathematical findings, supported inference, interpretation, analogy, and unresolved matters. The distinctions clarify the evidence; they do not turn the completed architecture into a collection of disconnected fragments.
 
 Architectural terms present the established GUA-W framework. They are not represented as technical words explicitly printed in the KJV unless the text itself uses them.
 
-## 7. Repository provenance
+## 8. Repository provenance
 
 This repository presents the completed GUA-W and records the Scriptural and cross-disciplinary evidence examined in connection with it. The original repository remains an independent historical source record. Its twelve-step diagnostic trace is distinct from the GUA-W architecture sequence; a diagnostic procedure is not the architecture itself.
 
