@@ -1,6 +1,6 @@
 # Genesis 1–2 — Consolidated Textual Findings and Architectural Questions
 
-**Status:** SYNTHESIS OF INITIAL TEXT-FIRST RECONSTRUCTION; not a canonical architecture revision  
+**Status:** Consolidated Scriptural findings examined in relation to the completed GUA-W; this document records evidence and recognition, not a revision or construction of the architecture.  
 **Scope:** KJV Genesis 1:1–2:25  
 **Source units:** Seven verse-by-verse investigations in `scriptural-reconstruction/`  
 **Purpose:** Consolidate the textual observations, identify repeated and non-repeated sequences, and state what can and cannot yet be mapped into GUA-W.
@@ -96,7 +96,7 @@ Genesis 2:24 states leaving, cleaving, and becoming one flesh. Genesis 2:25 desc
 
 ## 4. Candidate architectural relationships
 
-The following are candidates for further derivation, not accepted canonical mappings.
+The following are observed Scriptural relationships and distinctions to be read in relation to the completed GUA-W. Where a technical correspondence remains uncertain, that uncertainty is stated at the level of the specific correspondence—not as a gap in the architecture.
 
 | GUA-W concept | Relevant textual material | Current assessment |
 |---|---|---|
@@ -144,7 +144,7 @@ The initial textual reconstruction does **not** establish:
 - that Genesis 1–2 supplies a complete software, governance, or computational architecture;
 - that scientific analogies validate theological claims.
 
-These claims may be investigated, but they cannot be treated as findings of this first-pass reconstruction.
+These claims are not established by the present textual reconstruction and remain matters for further evidence. Their unresolved status does not imply that the completed GUA-W is incomplete.
 
 ## 7. Priority questions for the next phase
 
