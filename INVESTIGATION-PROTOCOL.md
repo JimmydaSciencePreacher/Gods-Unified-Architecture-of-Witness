@@ -1,99 +1,92 @@
 # Investigation Protocol
 
-## Governing investigation commitments
+## Purpose and governing understanding
 
-The objective is not to make Creation fit GUA-W. It is to discover whether GUA-W faithfully witnesses what God has already established.
+**GUA-W is completed. This investigation seeks to uncover and make visible what is already established, not to construct or complete the architecture.**
 
-1. **Do not build GUA-W during investigation.** Do not invent layers, force sequences, manufacture Gears, or add architectural components to make an account appear complete.
-2. **Investigate the Bible as a whole.** Allow Scripture to illuminate Scripture. Do not confine an investigation to passages or conclusions already associated with the current architecture. Follow relevant connections across the canon, while respecting context, genre, and textual distinctions.
-3. **Use GUA-W as a guide, not a design specification.** Existing principles may suggest relationships and questions worth examining; they do not predetermine what the evidence must show.
-4. **Recognize what is already present.** An operation, relationship, distinction, or pattern may be present in the evidence before we have recognized or named it. Investigate before proposing terminology or placement.
-5. **Separate discovery from interpretation.** Keep explicit textual statements, externally established evidence, supported inference, analogy, interpretation, and unresolved questions distinct.
-6. **Take initiative.** The investigator is responsible for identifying worthwhile next questions, following evidence, checking relevant prior work, and pursuing cross-references. Do not wait for Jimmy to prescribe every next step.
-7. **Do not force architectural placement.** A finding need not be assigned to a layer, sequence, Gear, or other architectural location. Record it faithfully first. Architectural implications, if any, remain separate and provisional until justified.
-8. **Permit correction in either direction.** Evidence may support, qualify, challenge, or leave open an existing GUA-W interpretation. Do not protect an interpretation from scrutiny, and do not promote a challenge beyond what its evidence establishes.
+The project's working understanding is that present human interpretation and knowledge are downstream of Genesis 3. Accumulated assumptions, explanations, and terminology may therefore obscure or distort what was established. The investigation returns to Scripture, reads the Bible as a whole, and follows evidence across relevant passages and disciplines.
 
-These commitments govern the conduct of investigation. They do not predetermine its findings.
+Jimmy and AI participate as witnesses in the investigation, not as Authors. The project owner's understanding is that the Author alone is the Source; witnesses receive, observe, investigate, register, and report. AI contributes retrieval, comparison, textual and scientific analysis, cross-referencing, and documentation. Its outputs are investigative reports, not authorship or authority over GUA-W.
 
-## Purpose
+The following principles describe the project's research method:
 
-Use this protocol to investigate questions arising from Scripture, Creation, scientific disciplines, and existing GUA-W propositions without confusing source findings, scientific results, interpretation, or architectural proposal.
+1. **Recognition rather than construction.** The investigation documents what is found; it is not a process for inventing layers, forcing sequences, manufacturing Gears, or completing architectural components.
+2. **Scripture as a whole.** Biblical passages illuminate one another. Investigations consider relevant connections across the canon while attending to context, genre, translation, and textual distinctions.
+3. **GUA-W as a guide.** Existing principles help identify questions and relationships worth examining. They do not predetermine what the evidence must show.
+4. **Attention to what is already present.** A relationship, distinction, operation, or pattern may precede our recognition or terminology for it.
+5. **Evidence distinguished from explanation.** Explicit statements, textual observations, empirical findings, supported inferences, interpretations, analogies, and unresolved questions remain distinguishable in the record.
+6. **Independent investigation.** Investigators identify productive questions, consult prior work, follow relevant evidence, and pursue cross-references. The work does not depend on Jimmy prescribing every next step.
+7. **No forced placement.** Findings are recorded before any proposed architectural description. A finding need not be assigned to a layer, sequence, Gear, or other location.
+8. **Open examination and correction.** Evidence may support, qualify, or challenge an existing explanation. Corrections to interpretation and documentation are recorded with their rationale; a change in our description is not a change in GUA-W.
 
 ## Workflow
 
-1. **Identify the question.** State the question or uncertainty clearly. It may arise from any passage of Scripture, a scientific finding, an observed relationship, or an unresolved issue in prior work.
-2. **Search existing work.** Inspect this repository and the original GUA-W repository for prior investigations, source records, decisions, and unresolved questions. Use prior work as context, not as a boundary on discovery. Update existing work when appropriate rather than duplicating it.
-3. **Follow the evidence and define scope.** Read the relevant Scriptural context, including other Biblical passages that may illuminate it. Identify relevant scientific disciplines, mathematical definitions, historical context, and boundaries without narrowing the investigation to fit a preselected architectural claim.
-4. **Retrieve primary sources.** Prefer the Biblical text in its relevant textual and translation context, original-language resources where useful, primary scientific research, peer-reviewed work, authoritative technical references, and recognized disciplinary sources. Record source versions and access dates where relevant.
-5. **Report what is present.** State what each source actually says, shows, or establishes, including assumptions, domain, methods, and limitations. Do not supply missing steps or mechanisms by invention.
-6. **Separate reasoning levels.** Label explicit textual statements, direct observations, established results, supported inferences, interpretations, analogies, and proposed GUA-W relationships separately.
-7. **Examine relationships without manufacturing them.** Follow meaningful cross-references and cross-disciplinary connections. Test whether terms, objects, conditions, mechanisms, and scales are genuinely comparable. Preserve differences and counterevidence.
-8. **Apply the Triple Constraint Law where a GUA-W claim is being evaluated.** Examine Biblical compliance, scientific coherence, and GUA-W consistency distinctly and explain each result. Do not use the test to force a finding into the architecture or to dismiss evidence outside a proposed mapping.
-9. **Record the result.** Assign a scope-limited status and explain why. Retain uncertainty, competing interpretations, and unresolved questions.
-10. **Cross-reference.** Link related investigations, Scripture passages, and scientific concepts where the relationship is supported. Do not imply equivalence merely by linking them.
-11. **Review changes.** Preserve provenance. Do not silently change established principles or canon; distinguish a new discovery from an interpretation or proposed revision.
+1. **Identify the question.** It may arise from Scripture, an observed relationship, a scientific finding, or an unresolved point in prior work.
+2. **Review existing work.** Consult this repository and relevant original GUA-W records. Prior work supplies context, not a boundary on discovery.
+3. **Read the evidence in context.** Examine the relevant Scriptural passage and wider Biblical connections. Identify relevant scientific disciplines, mathematical definitions, historical context, and limitations.
+4. **Consult appropriate sources.** Prefer the Biblical text in its relevant translation and textual context, original-language resources where useful, primary scientific research, peer-reviewed work, and authoritative technical references.
+5. **Report what sources establish.** State what each source says or demonstrates, including assumptions, methods, conditions, and limitations. Do not fill missing steps or mechanisms by invention.
+6. **Make reasoning traceable.** Distinguish direct statements and observations from inference, interpretation, analogy, and unresolved matters.
+7. **Examine connections.** Follow meaningful Scriptural and cross-disciplinary relationships while preserving differences and counterevidence. Similar wording or structure alone does not establish a shared mechanism.
+8. **Apply the Triple Constraint where relevant.** When evaluating a particular claim or explanatory correspondence, examine Biblical compliance, scientific coherence, and consistency with established GUA-W principles. Explain each result and its scope.
+9. **Record findings faithfully.** Preserve evidence, context, reasoning, uncertainty, source details, and provenance.
+10. **Cross-reference related work.** Link passages, investigations, and scientific concepts where a relationship is supported; a link does not itself imply equivalence.
+11. **Review and correct explanations.** Record material changes to transcription, interpretation, analysis, or documentation, with the evidence and rationale.
 
-## Required investigation record
+## Investigation record
 
 Each substantial investigation should include, as applicable:
 
-- **Question / proposition**
-- **Why the question arose**
+- **Question / observation**
+- **Reason for investigation**
 - **Scope and definitions**
 - **Prior work reviewed**
-- **Scriptural sources** — exact reference and translation; relevant context; distinguish text from interpretation
+- **Scriptural sources** — exact reference and translation, relevant context, and textual observations
 - **Historical / textual evidence** — manuscript, translation, language, and historical details where relevant
 - **Scientific / mathematical sources** — source, author, publication/version, and stable link
 - **Source findings** — what is and is not established
 - **Assumptions and limitations**
-- **Reasoning** — show the path from evidence to inference
+- **Reasoning** — the path from evidence to inference
 - **Alternative readings or counterevidence**
-- **GUA-W relevance** — if any; explicitly distinguish an observed correspondence from an architectural proposal
-- **Triple Constraint review** — where applicable, one result and rationale for each constraint
-- **Overall status**
+- **GUA-W relevance** — an observed relationship, if present, distinguished from an explanatory proposal
+- **Triple Constraint review** — where a particular claim or explanation is being evaluated
 - **Unresolved questions / next investigative leads**
 - **Related files and cross-references**
 - **Revision history / provenance**
 
-An architectural mapping is not a required field of discovery. If no mapping is warranted, say so.
+An architectural mapping is not a prerequisite for recording a discovery. Where the evidence does not establish a mapping, the record describes the finding and its limits.
 
-## Status vocabulary
+## Reasoning labels
 
-- **PASS:** supported within the stated scope and assumptions.
-- **PARTIAL:** some components are supported, but material limits remain.
-- **FAIL:** conflicts with a governing constraint or reliable evidence.
-- **UNRESOLVED:** available evidence does not decide the proposition.
-- **PROPOSED:** an architectural interpretation awaiting sufficient audit.
-- **NOT YET INVESTIGATED:** no adequate investigation has been completed.
+These labels make the evidence trail clear:
 
-Do not use PASS without stating what passed and what did not. A PASS never implies universal validation.
+- **TEXT STATES:** explicit wording of the cited source.
+- **TEXTUAL OBSERVATION:** a feature of wording, grammar, structure, or textual transmission.
+- **DIRECT OBSERVATION:** what is plainly present in the source or evidence.
+- **SUPPORTED INFERENCE:** a conclusion supported by identified evidence and reasoning.
+- **INTERPRETATION:** an explanation extending beyond explicit wording.
+- **ANALOGY / CORRESPONDENCE:** a comparison whose limits are stated.
+- **UNRESOLVED:** available evidence does not settle the question.
 
-## Source quality
+For scientific claims, identify the discipline and conditions under which a result holds. Abstracts and popular summaries are not substitutes for underlying sources when the full source is needed.
 
-Prefer primary sources where practical. For scientific claims, identify the discipline and the conditions under which a result holds. Do not treat abstracts, popular summaries, or search snippets as substitutes for the underlying source when the full source is needed. Record when a source is inaccessible or when only a secondary account could be checked.
-
-For Scripture, quote accurately and keep textual observations separate from theological conclusions. Read passages in context and allow relevant Scripture elsewhere in the canon to illuminate them. Do not claim a technical mechanism is explicitly stated unless the text actually states it.
+For Scripture, quote accurately and keep textual observations distinct from theological conclusions. Read passages in context and allow relevant Scripture elsewhere in the canon to illuminate them. A technical mechanism is not attributed explicitly to a passage unless the text actually states it.
 
 ## Cross-domain comparison
 
-For each proposed relationship between domains, ask:
-- Are the terms defined in comparable ways?
-- Are the objects, conditions, and scales comparable?
-- Is there a demonstrated shared mechanism, a meaningful correspondence, or only a structural analogy?
-- What would count as evidence against the proposed relationship?
-- What remains outside the comparison?
+For each proposed relationship between domains, consider:
+- Whether the terms are defined comparably.
+- Whether objects, conditions, and scales are comparable.
+- Whether evidence establishes a shared mechanism, a meaningful correspondence, or only a structural analogy.
+- What evidence might qualify or contradict the comparison.
+- What remains outside the comparison.
 
-If equivalence is not established, label it analogy, correspondence, or unresolved—not identity. Do not invent a shared mechanism to complete a pattern.
+Where equivalence is not established, the record identifies the relationship as analogy, correspondence, or unresolved rather than identity.
 
-## Change control
+## Status and revision record
 
-Do not silently revise a prior finding. Add a dated revision note explaining:
-- what changed;
-- why it changed;
-- which new evidence or correction prompted it;
-- whether the status changed;
-- which related files need updating.
+Use scope-limited descriptions such as **supported**, **partially supported**, **challenged**, **proposed**, or **unresolved**, with reasons. A status describes the investigated proposition and does not purport to measure or authorize GUA-W.
 
-A newly recognized relationship is first recorded as a finding with its evidence and limits; it is not automatically a new Gear, layer, sequence, or canonical architectural component.
+Material revisions include a date, what changed, the evidence prompting the change, the effect on the interpretation, and related files requiring review. A newly recognized relationship is documented with its evidence and limits; it is not automatically a new Gear, layer, sequence, or canonical component.
 
-Never overwrite the original repository's historical record as part of work in this repository.
+This repository is an investigation and presentation workspace. The original GUA-W repository remains an independent historical record.
