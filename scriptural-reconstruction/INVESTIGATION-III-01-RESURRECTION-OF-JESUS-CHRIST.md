@@ -560,3 +560,352 @@ The Author–Word–Creation–Witness order is preserved. God remains Original 
 - Tacitus, *Annals* 15.44; relevant to the execution under Pilate and early Roman knowledge of Christians, not a direct witness to the Resurrection.
 
 **Source note:** The cited modern studies represent scholarly discussion, not a single consensus on every interpretive question. This pass uses them to identify the debate and bound claims, not to replace the KJV text or predetermine the theological conclusion.
+
+
+---
+
+# Central Investigation — Pass III: The Resurrection in the Light of Genesis 1–2
+
+**Scope:** Examine the canonical relationship among Genesis 1–2, the Word in John 1, the Passion and Resurrection in John 19–20, apostolic resurrection teaching, and the promised renewal of Creation. Distinguish direct Scriptural statements from literary allusions and theological synthesis.
+
+## 29. The governing question
+
+**What relationship does Scripture establish between the Creation account in Genesis 1–2 and the Resurrection of Jesus Christ?**
+
+This question must not be answered by importing a preselected architecture into the text. We begin with the passages themselves.
+
+The investigation distinguishes four levels:
+
+1. **Explicit statement:** what a passage directly says.
+2. **Literary correspondence or allusion:** language, imagery, sequence, or setting that plausibly recalls another passage.
+3. **Canonical relationship:** how separate Scriptural statements illuminate one another when read together.
+4. **Unresolved interpretation:** what the texts do not settle or what remains debated.
+
+The phrase “new creation” is explicit in Paul (2 Corinthians 5:17; Galatians 6:15), but does not occur as that exact phrase in John's Gospel. A Johannine new-creation reading must therefore be demonstrated from John's language and narrative, not falsely presented as a direct quotation.
+
+## 30. Genesis 1:1 and John 1:1 — the beginning and the Word
+
+Genesis 1:1 (KJV):
+
+“In the beginning God created the heaven and the earth.”
+
+John 1:1 (KJV):
+
+“In the beginning was the Word, and the Word was with God, and the Word was God.”
+
+John 1:3 continues:
+
+“All things were made by him; and without him was not any thing made that was made.”
+
+John deliberately opens with the language “In the beginning,” placing the identity and work of the Word in relation to the beginning of Creation. John does not identify the Word as a created thing. The Word already “was”; all created things came into being through Him.
+
+John 1:14 then declares:
+
+“And the Word was made flesh, and dwelt among us…”
+
+### Findings
+
+- Genesis identifies God as Creator.
+- John identifies the Word as with God and as God.
+- John explicitly attributes the making of all created things to the Word.
+- John explicitly identifies the Word as made flesh in Jesus Christ.
+
+The relationship is not merely a verbal similarity. John 1:1–3 deliberately places the Word in the account of the beginning and identifies His relation to Creation. The full theological account of the relation between Father and Son must be read from the whole canon; John 1 must not be made to say less or more than it says.
+
+**GUA-W relevance:** This is a direct canonical foundation for examining Creation and Christ together. It does not make GUA-W the Word, make the architecture divine, or make the investigator an author.
+
+## 31. Genesis 2:1–3 and John 19:30 — completion and “It is finished”
+
+Genesis 2:1 (KJV):
+
+“Thus the heavens and the earth were finished, and all the host of them.”
+
+Genesis 2:2–3 records God's finishing of His work, resting on the seventh day, and blessing and sanctifying that day.
+
+John 19:30 records Jesus' final declaration:
+
+“It is finished: and he bowed his head, and gave up the ghost.”
+
+The verbal correspondence between “finished” in Genesis 2 and “It is finished” in John 19 is worth investigating. John also frames Jesus' death within a narrative rich in Scriptural fulfilment. However, the KJV's English wording alone cannot establish that John intends a direct quotation of Genesis 2:1. The Greek and Hebrew expressions, their contexts, and the broader narrative must be considered.
+
+A further distinction is essential:
+
+- Genesis 2:1–3 explicitly declares the completion of God's Creation work and His rest.
+- John 19:30 explicitly declares the completion of the work Jesus has been given in the immediate Passion context (compare John 17:4).
+- John 19 does not explicitly say, in that verse, “Genesis 2 is now being repeated.”
+
+The canonical relationship may be theologically significant without being a one-to-one identity of events.
+
+**Finding:** Completion is explicitly present in both passages, but the claim that John 19:30 intentionally echoes Genesis 2:1–3 is a literary-theological interpretation requiring cumulative evidence. It is not to be promoted to an explicit quotation.
+
+## 32. The garden setting in John 18–20
+
+John records a garden in the arrest narrative (John 18:1) and says that the place where Jesus was crucified contained a garden, with a new sepulchre in it (John 19:41). Mary Magdalene encounters the risen Jesus in John 20:1–18. She supposes Him to be the gardener (20:15).
+
+Genesis 2–3 is centrally concerned with a garden, humanity, life, death, and the consequences of disobedience. John's garden setting can therefore evoke the Garden of Eden and the story of humanity's beginning.
+
+But care is needed:
+
+- John does not explicitly call the burial garden “Eden.”
+- Mary supposes Jesus to be the gardener; John does not explicitly say she has correctly identified Him as a literal gardener.
+- The garden correspondence is a literary and theological reading, not an additional historical location supplied by Genesis.
+
+The cumulative setting is meaningful: arrest, crucifixion, burial, and the first narrated encounter with the risen Jesus are framed by garden imagery.
+
+**Finding:** The garden motif is a substantial candidate for a Genesis 2–3 allusion in John's Passion and Resurrection narrative. It should be identified as an allusion, not as an explicit equation.
+
+## 33. The first day of the week — John 20:1
+
+John 20:1 begins:
+
+“The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre…”
+
+Genesis 1 repeatedly marks the days of Creation, beginning with the first day. The Resurrection occurring on the first day of the week has therefore been read by many interpreters as a new-creation signal.
+
+The textual facts:
+- John explicitly says it was the first day of the week.
+- Genesis 1 explicitly structures the beginning of Creation through a sequence of days.
+- John does not explicitly say, “This is the first day of a second creation week.”
+
+The first-day connection is a plausible and influential canonical reading, but the theological conclusion must not be confused with the explicit wording.
+
+The detail “when it was yet dark” is also part of John's account. John 1:4–5 has already associated life and light with the Word and darkness with the condition that does not overcome the light. Whether the darkness in John 20:1 is intended to carry the full symbolic weight of John 1 is a further interpretive question; it cannot be assumed from the word alone.
+
+## 34. Mary Magdalene, recognition, and the risen Jesus
+
+John 20:11–18 records Mary weeping at the sepulchre, seeing two angels, turning and seeing Jesus, but not initially recognizing Him. She supposes Him to be the gardener. Jesus calls her by name; she recognizes Him and answers, “Rabboni.”
+
+The passage explicitly reports:
+- Mary remains at the tomb and weeps.
+- She sees Jesus but does not initially recognize Him.
+- Jesus speaks her name.
+- She recognizes Him.
+- Jesus commissions her to go to His brethren with His message.
+
+The narrative does not say that Jesus' body was merely a symbol or that Mary experienced only an inward idea. John identifies the one speaking with her as Jesus and records the encounter as an appearance of the risen Christ.
+
+The recognition sequence is important, but it does not establish a universal rule about how every witness must recognize the risen Jesus. Luke 24:13–35 describes the Emmaus disciples' delayed recognition in a different narrative. The accounts should be compared, not flattened.
+
+## 35. Genesis 2:7 and John 20:22 — breath and life
+
+Genesis 2:7 (KJV):
+
+“And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.”
+
+John 20:22:
+
+“And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost.”
+
+The correspondence between divine breath in Genesis 2:7 and Jesus breathing on the disciples in John 20:22 is a significant interpretive question. The Greek verb in John 20:22, *emphysaō*, is rare in the New Testament and is widely recognized as capable of recalling the Greek Old Testament's language of God's breathing life into Adam in Genesis 2:7.
+
+But the two passages are not identical events:
+- Genesis 2:7 narrates God's formation of Adam and the imparting of the breath of life.
+- John 20:22 narrates the risen Jesus breathing on His disciples and commanding them to receive the Holy Ghost.
+- John 20:22 does not say that the disciples are newly created as Adam was, nor does it say that they become the first human beings.
+
+The wider Johannine context includes Jesus' promise of the Comforter (John 14–16), His prayer for His disciples (John 17), His death and Resurrection, and His commissioning of them (John 20:21–23).
+
+**Finding:** A deliberate Genesis 2:7 allusion is strongly plausible and widely discussed. Its immediate function in John concerns the gift of the Holy Ghost and the commissioning of the disciples. It must not be reduced to a biological re-creation or used to invent a new creation mechanism.
+
+## 36. The risen Christ and the firstfruits of 1 Corinthians 15
+
+Paul explicitly calls Christ “the firstfruits of them that slept” (1 Corinthians 15:20). He then contrasts Adam and Christ:
+
+“For since by man came death, by man came also the resurrection of the dead.” (15:21)
+
+And:
+
+“For as in Adam all die, even so in Christ shall all be made alive.” (15:22)
+
+Paul continues with the order: Christ the firstfruits; afterward those who are Christ's at His coming (15:23).
+
+This is not merely a literary resemblance. Paul explicitly makes Adam and Christ central to his account of death and resurrection.
+
+The passage establishes:
+- Adam and Christ occupy contrasting representative positions in Paul's argument.
+- Death is associated with Adam.
+- Resurrection life is associated with Christ.
+- Christ's Resurrection is firstfruits, the beginning of the harvest to come.
+- The resurrection of those who belong to Christ follows in the order Paul describes.
+
+The exact scope and interpretation of “all” in verses 22–23 must be read within Paul's argument, not detached from the distinctions he makes in the chapter.
+
+**Finding:** The Adam–Christ relationship is an explicit Pauline theological argument. Christ's Resurrection is the firstfruits of the coming resurrection harvest.
+
+## 37. Romans 8:18–23 — Creation's groaning and future liberation
+
+Romans 8:19–22 speaks of the earnest expectation of the creature, the creation being made subject to vanity, its bondage of corruption, and its groaning and travailing together until now.
+
+Romans 8:23 then speaks of believers who have the firstfruits of the Spirit and groan within themselves, waiting for the adoption, “to wit, the redemption of our body.”
+
+This passage must be handled with precision.
+
+Paul explicitly connects:
+- Creation's present subjection and groaning;
+- hope of liberation from the bondage of corruption;
+- the manifestation of the sons of God;
+- the redemption of the body;
+- the firstfruits of the Spirit.
+
+The passage does not say that every physical law changed at the Fall, nor does it provide a scientific chronology of how the natural world changed. The precise referent of *ktisis* (“creation” or “creature”) and the scope of its subjection have generated scholarly debate.
+
+Within the canonical argument, however, the Resurrection is not an escape from the significance of Creation. It is bound to the promised redemption of embodied humanity and the liberation of Creation.
+
+**Finding:** Romans 8 gives explicit apostolic grounds for connecting resurrection hope with the future liberation of Creation. It does not authorize an unsupported catalogue of altered physical laws.
+
+## 38. Hebrews 1:1–3 — the Son and the upholding of all things
+
+Hebrews 1:2–3 declares that God made the worlds by His Son and that the Son is:
+
+“the brightness of his glory, and the express image of his person, and upholding all things by the word of his power…”
+
+This passage directly identifies the Son's relation to Creation and its continuing sustentation. It also says that after making purification for sins, He sat down on the right hand of the Majesty on high.
+
+The passage brings together:
+- God's speaking;
+- the Son as the one through whom the worlds were made;
+- the Son's sustaining of all things;
+- purification for sins;
+- the Son's exalted position.
+
+Hebrews 1 does not provide a scientific model of the forces that sustain the universe. It makes a theological declaration about the Son. Physical theories may describe regularities within Creation; they do not replace the passage's claim about the Son.
+
+**Finding:** The risen and exalted Christ is not presented as unrelated to the original Creation. The same Son through whom God made the worlds is declared to uphold all things.
+
+## 39. Revelation 21:1–6 — the consummation
+
+Revelation 21 records a new heaven and a new earth, the holy city, the removal of death, sorrow, crying, and pain, and the declaration:
+
+“Behold, I make all things new.” (Revelation 21:5)
+
+The One sitting upon the throne says, “It is done” (21:6).
+
+This passage is not a description of the instant of Jesus' Resurrection. It presents the consummation of God's purpose in the prophetic vision of Revelation.
+
+The canonical relationship can be stated carefully:
+- Genesis begins with God's Creation.
+- The Gospels proclaim the death and Resurrection of Jesus.
+- Paul identifies Christ as firstfruits and describes the future resurrection and liberation of Creation.
+- Revelation presents the final removal of death and the making of all things new.
+
+This is a canonical trajectory, not proof that every detail of Revelation 21 is already fully realized at the empty tomb.
+
+The repeated language of completion (“It is finished” in John 19:30; “It is done” in Revelation 21:6) merits comparison. It does not, by itself, prove that the passages use an identical formula or describe the same moment.
+
+## 40. The relationship established — and the claims not established
+
+### Explicitly established by Scripture
+
+1. God created the heavens and the earth (Genesis 1:1).
+2. The Word was in the beginning, was God, and all things were made by Him (John 1:1–3).
+3. The Word was made flesh (John 1:14).
+4. Jesus died and was raised (the Gospel accounts; Acts 2; 1 Corinthians 15).
+5. Christ is the firstfruits of those who sleep (1 Corinthians 15:20–23).
+6. Adam and Christ are contrasted in Paul's account of death and resurrection (1 Corinthians 15:21–22, 45–49).
+7. Creation groans and awaits liberation, while believers await bodily redemption (Romans 8:18–23).
+8. The Son made the worlds and upholds all things (Hebrews 1:2–3).
+9. Revelation looks to the final removal of death and the making of all things new (Revelation 21:1–6).
+
+### Strongly supported literary or canonical connections
+
+1. John 1's opening deliberately recalls Genesis 1:1.
+2. The garden setting of John 18–20 plausibly evokes Genesis 2–3.
+3. The first day in John 20:1 plausibly contributes to a new-creation reading.
+4. John 20:22 plausibly recalls the divine breathing of Genesis 2:7.
+5. The completion language in Genesis 2:1 and John 19:30 merits comparison, but direct quotation is not established.
+6. The Resurrection as firstfruits in Paul provides the clearest explicit canonical bridge between Christ's Resurrection and the future resurrection harvest.
+
+### Not established by these passages alone
+
+1. That John intended every detail of the Resurrection narrative to correspond to a particular day or operation in Genesis 1.
+2. That John 20:22 describes a second biological creation of the disciples.
+3. That all physical laws or constants changed at the Fall.
+4. That the Resurrection can be translated into a modern scientific mechanism.
+5. That GUA-W is itself the new Creation, the Word, or the divine plan.
+6. That every proposed architectural Gear is thereby validated.
+
+## 41. GUA-W examination — without redesign
+
+The existing governing hierarchy remains:
+
+**Author → Word → Creation → Witness**
+
+This pass finds a substantial canonical relationship among Creation, the Word, Christ's Resurrection, and the promised renewal of Creation.
+
+The distinction between original Creation and its promised renewal must be retained. Genesis 1–2 describes the beginning; Romans 8 describes the present groaning and future liberation of Creation; 1 Corinthians 15 describes Christ as firstfruits and the coming resurrection order; Revelation 21 presents the consummation.
+
+The study does not insert a new layer or Gear. It records the Scriptural relationships and identifies where further investigation is warranted.
+
+A possible research lead is the relationship between John 20:22 and Genesis 2:7: breath, life, the risen Christ, the Holy Ghost, and the commissioning of witnesses. This is a **candidate for further examination**, not an established GUA-W Gear.
+
+## 42. Triple Constraint Law — Pass III
+
+### Biblical compliance — PASS
+
+The investigation distinguishes explicit statements from allusions and canonical synthesis. Genesis, John, Paul, Hebrews, and Revelation are not made to say more than their texts warrant. The Resurrection remains the central event; the new-creation trajectory is not confused with the final consummation.
+
+### Scientific coherence — PASS within scope; physical mechanisms not established
+
+The investigation does not claim that modern science confirms the theological interpretation, nor does it invent a physical mechanism for Resurrection or the Fall. Scientific descriptions of Creation are not substituted for the Scriptural claims about the Creator and the Son. Claims about changes to physical laws remain outside what these cited passages establish.
+
+### GUA-W consistency — PASS at governing level; no new Gear established
+
+The Author–Word–Creation–Witness hierarchy is preserved. The investigation does not redesign GUA-W, assign divine authority to the map, or make the derivative witness the source. The John 20:22 / Genesis 2:7 relationship is retained as a research lead, not canonized as architecture.
+
+## 43. Findings from Pass III
+
+1. John 1 explicitly connects the Word with the beginning and the making of all things.
+2. John identifies the Word as made flesh in Jesus Christ.
+3. John's Passion and Resurrection narrative contains garden imagery that plausibly recalls Genesis 2–3.
+4. The first-day setting of John 20:1 plausibly supports a new-creation reading but is not explicitly labelled a second Creation week.
+5. John 20:22's breathing strongly invites comparison with Genesis 2:7; its immediate context concerns the Holy Ghost and the disciples' commission.
+6. Genesis 2:1–3 and John 19:30 both contain completion language, but direct literary dependence requires further argument.
+7. Paul explicitly identifies Christ as firstfruits and contrasts Adam with Christ in the context of death and resurrection.
+8. Romans 8 explicitly connects Creation's groaning and future liberation with the redemption of believers' bodies.
+9. Hebrews 1 identifies the Son as agent of Creation and the one who upholds all things.
+10. Revelation 21 presents the consummation: death removed and all things made new.
+11. These texts establish a canonical trajectory from Creation through Christ's Resurrection toward the promised renewal of Creation.
+12. No new GUA-W Gear or architecture layer is established by this pass.
+
+## 44. Unresolved questions
+
+1. How extensive is John's intended Genesis 1–3 allusion across John 18–20?
+2. Does the first-day setting in John 20:1 carry an intentional new-Creation signal, and what evidence is strongest?
+3. How should the Genesis 2:7 allusion in John 20:22 be understood in relation to the gift of the Holy Ghost and the commission in John 20:21–23?
+4. Is the completion language of Genesis 2:1 and John 19:30 an intentional literary correspondence?
+5. How does Paul's Adam–Christ contrast in 1 Corinthians 15 relate to Romans 5:12–21?
+6. What is the precise scope of “creation” in Romans 8:19–22?
+7. How does the Resurrection of Christ as firstfruits relate to the future liberation of Creation?
+8. How should Hebrews 1:3's “upholding all things” be related to scientific descriptions of physical regularity without confusing theological ground with physical model?
+9. How do the “It is finished” of John 19:30 and “It is done” of Revelation 21:6 relate within the wider canonical narrative?
+10. Does the John 20:22 / Genesis 2:7 correspondence reveal a mechanism or Gear already present in GUA-W? This remains unestablished and requires further evidence.
+
+## 45. Provisional disposition after Pass III
+
+**Genesis and the Word:** EXPLICIT CANONICAL RELATIONSHIP.  
+**Word made flesh:** EXPLICIT IN JOHN 1:14.  
+**Resurrection of Jesus:** EXPLICIT APOSTOLIC AND GOSPEL PROCLAMATION.  
+**Christ as firstfruits:** EXPLICIT IN 1 CORINTHIANS 15:20–23.  
+**Adam–Christ contrast:** EXPLICIT IN 1 CORINTHIANS 15:21–22, 45–49.  
+**John's garden and first-day imagery:** STRONG CANDIDATE FOR GENESIS ALLUSION; interpretive details remain qualified.  
+**John 20:22 / Genesis 2:7:** STRONG CANDIDATE FOR ALLUSION; immediate Johannine function is the gift of the Spirit and commission.  
+**Creation's future liberation:** EXPLICIT IN ROMANS 8:18–23.  
+**Son as Creator and sustainer:** EXPLICIT IN HEBREWS 1:2–3.  
+**Final renewal:** EXPLICIT IN REVELATION 21:1–6.  
+**Scientific mechanism:** NOT SPECIFIED.  
+**GUA-W consistency:** PASS at governing level; no new Gear established.
+
+**The canonical witness does not leave the Resurrection isolated from Creation. The Word through whom all things were made is made flesh; Jesus Christ is raised; Paul calls Him the firstfruits; Creation awaits liberation; and Revelation presents the final removal of death. The beginning, the Resurrection, and the promised consummation belong to one Scriptural account of God's work. We preserve the distinctions between those events while witnessing their canonical relationship.**
+
+## Sources consulted for Pass III
+
+### Primary Scriptural texts
+- KJV: Genesis 1:1–5, 26–31; Genesis 2:1–7; Genesis 3:1–24; John 1:1–14; John 17:4; John 18:1; John 19:30, 38–42; John 20:1–23; Romans 5:12–21; Romans 8:18–23; 1 Corinthians 15:20–28, 42–58; 2 Corinthians 5:17; Galatians 6:15; Hebrews 1:1–3; Revelation 21:1–6.
+
+### Scholarly and reference sources
+- Adam Kubiś, “The Creation Theme in the Gospel of John,” *Collectanea Theologica* 90, no. 5 (2020): 375–414. https://doi.org/10.21697/ct.2020.90.5.16. Surveys proposed Genesis 1–3 allusions across the Fourth Gospel and evaluates stronger and weaker proposals.
+- “New Creation in the Christian Scriptures and Tradition,” *St Andrews Encyclopaedia of Theology*. Discusses Pauline firstfruits, resurrection embodiment, and new-creation themes. https://www.saet.ac.uk/Christianity/NewCreationintheChristianScripturesandTradition
+- Marcin Kowalski, “The Spirit of Resurrection in Romans 8 and Its Jewish Correspondences,” *Journal for the Study of the New Testament* 44, no. 2 (2021). https://doi.org/10.1177/0142064X211048137.
+- “Christ and Creation in the Synoptic Gospels,” *Journal for the Study of the New Testament* (2024). https://doi.org/10.1177/0142064X241300470.
+
+**Source note:** Scholarly sources help assess literary allusions and interpretive debates. They do not replace the primary text, establish every proposed allusion, or determine GUA-W architecture. Stronger and weaker connections have been distinguished deliberately.
