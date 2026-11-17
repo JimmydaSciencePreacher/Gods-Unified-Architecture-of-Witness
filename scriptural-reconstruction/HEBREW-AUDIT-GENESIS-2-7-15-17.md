@@ -1,5 +1,7 @@
 # Hebrew Language Audit — Genesis 2:7, 2:15–17
 
+**GUA-W relationship:** This language audit is a witness to the completed GUA-W, not a proposal to construct or revise it. Record the Hebrew wording and its relationship to established GUA-W distinctions where supported; keep genuine lexical, grammatical, and technical uncertainties specific to the claim under examination.
+
 **Status:** PHASE 2 LANGUAGE AUDIT — INITIAL FINDINGS  
 **Text base:** Masoretic Hebrew text, compared with the KJV and selected translation/lexical notes  
 **Governing rule:** Lexical meaning informs interpretation; it does not authorize importing a complete GUA-W architecture into a word. Strong's numbers are identifiers, not definitions. Each claim must be checked in context.
