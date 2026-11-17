@@ -1,6 +1,6 @@
 # Genesis 4:6–7 — Text-First Reconstruction, Unit 9
 
-**Status:** INITIAL TEXTUAL OBSERVATION; interpretation of Genesis 4:7 remains disputed; architectural conclusions remain PROPOSED or UNRESOLVED  
+**Status:** Text-first investigation; the difficult interpretation of Genesis 4:7 remains disputed; observed relationships are considered within the completed GUA-W  
 **Date:** 2026-11-16  
 **Scope:** KJV Genesis 4:6–7, read in continuity with Genesis 4:1–8 and Genesis 3:16–17  
 **Questions:** What does God identify in Cain's condition? What is the relation among sin, the door, desire, and rule in Genesis 4:7? What does the passage establish about Cain's responsibility and the nature of human will?  
@@ -245,7 +245,7 @@ Sources above are research aids, not substitutes for the Scriptural text. Interp
 - [Genesis 3:1–24 — Text-First Reconstruction](GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
 - [Rejected and Unresolved Register](../REJECTED-AND-UNRESOLVED.md)
 - U-006 — Definition and components of human will.
-- U-007 — Knowledge of good and evil versus authority to establish its standard.
+- U-007 — RESOLVED: Knowledge of good and evil does not transfer authority to establish its standard.
 
 ## 12. Revision history
 
