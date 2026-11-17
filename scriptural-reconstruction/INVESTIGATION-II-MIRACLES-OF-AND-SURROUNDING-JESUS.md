@@ -198,3 +198,9 @@ The register distinguishes **WRITTEN** case studies from events merely **REGISTE
 - [Case Study II.13 — The Deaf Man with a Speech Impediment](INVESTIGATION-II-13-DEAF-MAN-HEALED.md)
 - [Case Study II.14 — The Blind Man at Bethsaida](INVESTIGATION-II-14-BLIND-MAN-BETHSAIDA.md)
 - [Case Study II.15 — Ten Lepers Cleansed; One Returns](INVESTIGATION-II-15-TEN-LEPERS.md)
+
+- [Case Study II.16 — Lazarus Raised](INVESTIGATION-II-16-LAZARUS-RAISED.md)
+- [Case Study II.17 — The Man Born Blind](INVESTIGATION-II-17-MAN-BORN-BLIND.md)
+- [Case Study II.18 — The Gadarene/Gerasene Demoniac](INVESTIGATION-II-18-GADARENE-DEM0NIAC.md)
+- [Case Study II.19 — Feeding the Four Thousand](INVESTIGATION-II-19-FEEDING-FOUR-THOUSAND.md)
+- [Case Study II.20 — The Fig Tree](INVESTIGATION-II-20-FIG-TREE.md)
