@@ -204,3 +204,33 @@ This supports distinguishing reality from a person's statement about reality. It
 - The lexical link between Genesis 2:15 and 4:9 should be noted without claiming the two assignments are identical.
 
 Related record: [Genesis 4:9–10 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-9-10-TEXT-FIRST-RECONSTRUCTION.md).
+
+
+## 15. Evidence update — Genesis 4:11–12 (2026-11-16)
+
+This update supplements U-006 and U-007. Neither question is resolved.
+
+### U-006 supplement — Action and consequence
+
+Genesis 4:11–12 extends the sequence after Cain's killing of Abel:
+- Abel's blood is received by the ground from Cain's hand (4:11).
+- Cain's work/tilling of the ground will no longer be met by the ground giving him its strength (4:12).
+- Cain is described as נָע וָנָד (*nāʿ wā nāḏ*), a paired expression for a wandering/fugitive condition (4:12).
+
+This adds a distinction between the human act and consequences extending into the actor's future relation to work, ground, and place. It does not define will or establish a scientific causal mechanism.
+
+**Status remains:** UNRESOLVED.
+
+### U-007 supplement — Assertion does not erase the event
+
+Genesis 4:11–12 follows Cain's denial in 4:9. His denial does not undo the killing, the blood received by the ground, or the judgment announced. The passage is consistent with distinguishing a person's assertion from the reality and judgment described in the narrative. It does not repeat “know good and evil” or settle the meaning of Genesis 3:22.
+
+**Status remains:** UNRESOLVED.
+
+### Textual and translation caution
+
+The phrase מִן־הָאֲדָמָה (*min-hāʾădāmāh*) in 4:11 has competing readings: source/agency, separation/banishment, and a comparative reading (“more than the ground”) argued in published scholarship. The repository reconstruction records these alternatives rather than treating one as settled.
+
+The ground's opening its mouth to receive Abel's blood is personification in the narrative. No scientific mechanism or independent moral agency of soil is inferred.
+
+Related record: [Genesis 4:11–12 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-11-12-TEXT-FIRST-RECONSTRUCTION.md).
