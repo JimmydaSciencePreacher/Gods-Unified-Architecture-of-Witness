@@ -216,3 +216,9 @@ The register distinguishes **WRITTEN** case studies from events merely **REGISTE
 - [Case Study II.28 — The Boy Delivered from an Unclean Spirit](INVESTIGATION-II-28-BOY-DELIVERED.md)
 - [Case Study II.29 — The Tribute Money in the Fish's Mouth](INVESTIGATION-II-29-COIN-IN-FISH.md)
 - [Case Study II.30 — The Miraculous Catch after the Resurrection](INVESTIGATION-II-30-SECOND-CATCH-FISH.md)
+
+- [Case Study II.31 — Peter's Mother-in-Law Healed](INVESTIGATION-II-31-PETERS-MOTHER-IN-LAW.md)
+- [Case Study II.32 — The Man with an Unclean Spirit in the Synagogue](INVESTIGATION-II-32-SYNAGOGUE-UNCLEAN-SPIRIT.md)
+- [Case Study II.33 — The Blind and Mute Man Delivered](INVESTIGATION-II-33-BLIND-MUTE-DELIVERED.md)
+- [Case Study II.34 — Jesus Heals Malchus' Ear](INVESTIGATION-II-34-MALCHUS-EAR.md)
+- [Case Study II.35 — The Transfiguration](INVESTIGATION-II-35-TRANSFIGURATION.md)
