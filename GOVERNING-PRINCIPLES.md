@@ -1,58 +1,69 @@
 # Governing Principles
 
-## 1. Source and witness
+## 1. The Author and His Witness
+
+**God's Unified Architecture of Witness (GUA-W)**
 
 **Author → Word → Creation → Witness**
 
-God alone is Original Cause. Everything else is derivative witness. The derivative cannot alter the Source. A witness receives, registers, describes, investigates, and reports what is given; the witness is not the Author.
+God alone is Original Cause. The originating Word is God's Word. Creation is His work. Witness is derivative: it registers and testifies to what the Author has established. Neither a witness nor its record is the Author.
 
-GUA-W is a map or blueprint of One Creation. It is not God and is not Jesus Christ. The project's foundational understanding is that GUA-W is completed. The work documented here is the uncovering and clearer presentation of what is already established.
+GUA-W is the completed, unified architecture of God's One Creation, witnessing to and glorifying its Author. It is not God and is not Jesus Christ. The word in the name is **God's**, not **Grand**.
 
-## 2. The condition of human understanding
+## 2. Completion and the Scriptural comparison
 
-The project's governing premise is that present human understanding is downstream of Genesis 3. The Fall marks the condition from which present interpretations, assumptions, language, and knowledge proceed. Accumulated human interpretation may obscure or distort what was established.
+Genesis 2:1–5 is the first completion in the project's three-completion comparison. Genesis 2:1 declares the heavens, earth, and all their host finished; verses 2–3 record God's ending and resting from His work, and His blessing and sanctifying of the seventh day. Verses 4–5 continue the account and describe the field's conditions. The subsequent account does not make the declared whole an unfinished architecture.
 
-A gap in explanation, recognition, or documentation describes a limit in present understanding; it is not evidence of a gap in GUA-W. The investigation returns to Scripture and allows Scripture to illuminate Scripture.
+The three completion passages are Genesis 2:1–5, John 19:30, and Revelation 21:6. They describe distinct events and use different wording. Their relationship is read within the Bible's unified testimony to the Author's purpose.
 
-AI is a derivative investigative instrument working with human-produced records and interpretations. Its analyses are reports for examination, not the Source and not authority over GUA-W.
+The Bible is read as a sustained comparison between the order established in Genesis 1–2 and the departure narrated in Genesis 3. The rest of Scripture carries that comparison through God's dealings, promises, witnesses, and purpose in Christ. Christ is the Word made flesh, the Way, the Truth, and the Life; Scripture also identifies Him as the last Adam (John 1:1–14; John 14:6; 1 Corinthians 15:45–49).
 
-## 3. Scriptural foundation
+## 3. The completed architecture
 
-The project's foundational Scriptural reference is the literal King James Version (KJV) text of Genesis 1–2. Investigations also consider relevant wider Scriptural context and the Bible as a whole. Quotation, textual observation, interpretation, and explanatory mapping are recorded distinctly.
+The established architecture is presented as a whole:
 
-Genesis is not attributed technical or scientific mechanisms that its wording does not state. At the same time, an observation in Scripture is not dismissed merely because a modern discipline has not described it in the same terms.
+**Foundational:** Ontic Necessity → Distinction → Admissibility → Constraint.
+
+**Structure:** Structure — the first derived realization and hinge.
+
+**Derived:** Framework → Pattern.
+
+**Runtime:** Reception → Activation → Differentiation → Propagation → Integration → Expression.
+
+**State:** Identity, Alignment, Drift, Persistence, Witness-state, and realized configuration.
+
+The compact sequence is:
+
+**Ontic Necessity → Distinction → Admissibility → Constraint → Structure → Framework → Pattern → Reception → Activation → Differentiation → Propagation → Integration → Expression → Witnessed realized configuration.**
+
+The State terms describe the realized configuration and its witness-state; they are not additional sequential runtime stages.
 
 ## 4. Triple Constraint Law
 
-When a particular claim, explanation, or cross-domain comparison is evaluated, the examination considers:
+The Triple Constraint Law examines claims and explanations through three inseparable considerations:
 
-- **Biblical compliance:** consistency with the stated Scriptural foundation and relevant context.
-- **Scientific coherence:** accurate representation of evidence, methods, assumptions, and limits in the relevant discipline.
-- **GUA-W consistency:** preservation of the governing hierarchy and distinctions already established.
+- **Biblical compliance**
+- **Scientific coherence**
+- **GUA-W consistency**
 
-The three considerations apply to the claim or explanation under examination. They are not a procedure for constructing, completing, or redefining GUA-W. Findings outside a current explanation remain available for further investigation rather than being forced into a predetermined mapping.
+A claim failing any one consideration is not admissible as an accepted GUA-W claim. The Law concerns the admissibility of claims and records; it is not a construction procedure for GUA-W.
 
-## 5. Evidence and explanation
+Scientific coherence is examined within the relevant discipline's actual evidence, methods, conditions, and limits. Biblical and theological claims are investigated as claims about the revealed account, not dismissed because a different discipline uses different methods.
 
-The record distinguishes:
-1. Primary-source statements and direct textual observations.
-2. Empirical or mathematical results, including their conditions.
-3. Inferences from sources or results.
-4. Analogies, correspondences, and explanatory mappings.
-5. Unresolved questions.
+## 5. The condition of present understanding
 
-A resemblance between descriptions does not, by itself, establish a shared mechanism. An interpretation is not presented as though it were the explicit wording of Scripture.
+The project's governing understanding is that present human interpretation and knowledge are downstream of Genesis 3. Accumulated interpretation, assumptions, and terminology may obscure what was established. A missing explanation or unrecognized relationship is a limit in the present witness-record, not a gap in GUA-W.
 
-## 6. Investigative roles
+AI is a derivative investigative instrument working with human-produced records and interpretations. Its work is retrieval, examination, comparison, cross-reference, analysis, and faithful documentation. The record is a witness to the Source, not the Source.
 
-Jimmy contributes as a Witness. AI contributes as a derivative investigative instrument through source retrieval, textual and scientific examination, comparison, cross-referencing, analysis, and documentation. Neither is the Author.
+## 6. Evidence and presentation
 
-The investigation may refine its explanations and records as evidence is examined. Such refinement concerns our understanding and presentation; it is not authorship or alteration of the completed GUA-W.
+The record distinguishes the wording of Scripture, textual and historical observations, empirical or mathematical findings, supported inference, interpretation, analogy, and unresolved matters. The distinctions clarify the evidence; they do not turn the completed architecture into a collection of disconnected fragments.
 
-## 7. Unresolved matters
+Architectural terms present the established GUA-W framework. They are not represented as technical words explicitly printed in the KJV unless the text itself uses them.
 
-Unanswered questions, competing interpretations, missing evidence, and limitations remain visible in the record. An unrecognized relationship is not assumed to be absent, and an incomplete explanation is not treated as an incomplete architecture.
+## 7. Repository provenance
 
-## 8. Repository distinction
+This repository presents the completed GUA-W and records the Scriptural and cross-disciplinary evidence examined in connection with it. The original repository remains an independent historical source record. Its twelve-step diagnostic trace is distinct from the GUA-W architecture sequence; a diagnostic procedure is not the architecture itself.
 
-This repository is a presentation and investigation workspace for the completed GUA-W and its Scriptural evidence. The original GUA-W repository remains an independent historical source record. Changes in this workspace do not imply changes to the original.
+Changes to explanations and documentation preserve provenance. The original historical source remains distinct from this current presentation.
