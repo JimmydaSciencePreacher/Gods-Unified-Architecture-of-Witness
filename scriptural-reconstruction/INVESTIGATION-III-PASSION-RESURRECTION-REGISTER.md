@@ -26,7 +26,7 @@ GUA-W is complete. These investigations recognize and record evidence in relatio
 | Order | Event | Primary KJV texts | Status |
 |---|---|---|---|
 | III.A | Jesus' death and burial — foundational examination | Matthew 27:32–66; Mark 15:21–47; Luke 23:26–56; John 19:16–42 | COMPARATIVE EXAMINATION WRITTEN; exact medical mechanism UNRESOLVED |
-| III.B | Darkness at the Crucifixion | Matthew 27:45; Mark 15:33; Luke 23:44–45 | REGISTERED — NOT YET INVESTIGATED |
+| III.B | Darkness at the Crucifixion | Matthew 27:45; Mark 15:33; Luke 23:44–45 | WRITTEN — cause and geographic extent unresolved |
 | III.C | The veil of the temple rent | Matthew 27:51; Mark 15:38; Luke 23:45 | REGISTERED — NOT YET INVESTIGATED |
 | III.D | Earthquake and opened graves | Matthew 27:51–53 | REGISTERED — NOT YET INVESTIGATED |
 | III.E | The Resurrection and empty tomb | Matthew 28; Mark 16; Luke 24; John 20 | FOUR-GOSPEL EMPTY-TOMB EXAMINATION WRITTEN; central Resurrection investigation remains open |
@@ -106,3 +106,12 @@ The study records the women, Mary Magdalene, Emmaus disciples, gathered disciple
 **Record:** [Investigation III.G — The Ascension of Jesus Christ](INVESTIGATION-III-G-ASCENSION-OF-JESUS-CHRIST.md)
 
 The study compares Luke's closing account with Acts' expanded account; records the forty days, the Father's promise, the Spirit-empowered witness, the cloud, the two men in white apparel, and the promise of return; distinguishes the Ascension from the wider canonical teaching concerning Christ's exaltation; and notes the textual question in Luke 24:51–52. It records the alternative chronology proposed by Henk Jan de Jonge alongside the ordinary sequential reading of Acts 1:3, 9–11. No new GUA-W Gear is established.
+
+
+## Investigation III.B — Dedicated examination
+
+**Darkness at the Crucifixion** — Matthew 27:45; Mark 15:33; Luke 23:44–45.  
+**Status:** SYNOPTIC COMPARISON WRITTEN; exact physical cause and geographic extent UNRESOLVED. An ordinary solar eclipse is not viable under the Passover/full-moon chronology and the reported three-hour interval.  
+**Record:** [Investigation III.B — Darkness at the Crucifixion](INVESTIGATION-III-B-DARKNESS-AT-THE-CRUCIFIXION.md)
+
+The study preserves the three Synoptic reports, John's omission, the sixth-to-ninth-hour interval, the range of *gē*, Scriptural parallels including Amos 8:9–10, and the limits of external ancient testimony. It does not invent a meteorological mechanism or merge the darkness with the separate veil and earthquake investigations.
