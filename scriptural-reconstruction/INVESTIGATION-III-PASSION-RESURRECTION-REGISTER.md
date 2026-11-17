@@ -25,13 +25,13 @@ GUA-W is complete. These investigations recognize and record evidence in relatio
 
 | Order | Event | Primary KJV texts | Status |
 |---|---|---|---|
-| III.A | Jesus' death and burial — foundational examination | Matthew 27:32–66; Mark 15:21–47; Luke 23:26–56; John 19:16–42 | INITIAL TEXTUAL REVIEW IN III.1; dedicated comparative examination pending |
+| III.A | Jesus' death and burial — foundational examination | Matthew 27:32–66; Mark 15:21–47; Luke 23:26–56; John 19:16–42 | COMPARATIVE EXAMINATION WRITTEN; exact medical mechanism UNRESOLVED |
 | III.B | Darkness at the Crucifixion | Matthew 27:45; Mark 15:33; Luke 23:44–45 | REGISTERED — NOT YET INVESTIGATED |
 | III.C | The veil of the temple rent | Matthew 27:51; Mark 15:38; Luke 23:45 | REGISTERED — NOT YET INVESTIGATED |
 | III.D | Earthquake and opened graves | Matthew 27:51–53 | REGISTERED — NOT YET INVESTIGATED |
-| III.E | The Resurrection and empty tomb | Matthew 28; Mark 16; Luke 24; John 20 | CENTRAL STUDY OPEN — see III.1 |
-| III.F | Appearances of the risen Christ | Matthew 28; Luke 24; John 20–21; Acts 1:1–11; 1 Corinthians 15:3–8 | REGISTERED; initial textual review in III.1; dedicated appearance comparison pending |
-| III.G | The Ascension | Luke 24:50–53; Acts 1:1–11 | REGISTERED — NOT YET INVESTIGATED |
+| III.E | The Resurrection and empty tomb | Matthew 28; Mark 16; Luke 24; John 20 | FOUR-GOSPEL EMPTY-TOMB EXAMINATION WRITTEN; central Resurrection investigation remains open |
+| III.F | Appearances of the risen Christ | Matthew 28; Luke 24; John 20–21; Acts 1:1–11; 1 Corinthians 15:3–8 | COMPARATIVE APPEARANCE STUDY WRITTEN; chronology remains partly unresolved |
+| III.G | The Ascension | Luke 24:50–53; Acts 1:1–11 | TWO-ACCOUNT SCRIPTURAL EXAMINATION WRITTEN; chronology and textual questions remain open |
 
 ## Governing distinctions
 
@@ -97,3 +97,12 @@ The study preserves each account's named visitors, timing, stone, messenger(s), 
 **Record:** [Investigation III.F — Appearances of the Risen Christ](INVESTIGATION-III-F-APPEARANCES-OF-THE-RISEN-CHRIST.md)
 
 The study records the women, Mary Magdalene, Emmaus disciples, gathered disciples, Thomas, Galilee appearances, Paul's witness list, and Acts' forty-day boundary. It preserves Luke's flesh-and-bones and eating testimony, John's wounds and Thomas confession, and differences in recognition and response. The Ascension remains a separate investigation. No new GUA-W Gear is established.
+
+
+## Investigation III.G — Dedicated two-account examination
+
+**The Ascension of Jesus Christ** — Luke 24:50–53; Acts 1:1–11.  
+**Status:** TWO-ACCOUNT SCRIPTURAL EXAMINATION WRITTEN; chronology and textual-critical questions explicitly preserved.  
+**Record:** [Investigation III.G — The Ascension of Jesus Christ](INVESTIGATION-III-G-ASCENSION-OF-JESUS-CHRIST.md)
+
+The study compares Luke's closing account with Acts' expanded account; records the forty days, the Father's promise, the Spirit-empowered witness, the cloud, the two men in white apparel, and the promise of return; distinguishes the Ascension from the wider canonical teaching concerning Christ's exaltation; and notes the textual question in Luke 24:51–52. It records the alternative chronology proposed by Henk Jan de Jonge alongside the ordinary sequential reading of Acts 1:3, 9–11. No new GUA-W Gear is established.
