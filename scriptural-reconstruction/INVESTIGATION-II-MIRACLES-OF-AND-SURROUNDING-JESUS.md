@@ -171,3 +171,14 @@ The miracles and events surrounding Jesus must be examined as Scripture presents
 The investigation follows the testimony of Scripture concerning Jesus Christ, the Word made flesh. It records what the witnesses say, examines the evidence, recognizes supported relationships within the completed GUA-W, and preserves what remains unresolved.
 
 **The Author is not the witness. The witness does not become the Author. The works bear testimony to the One Scripture identifies.**
+
+
+## 11. Event register and dedicated case studies
+
+The comprehensive coverage register is maintained separately so the investigation can track every identifiable event, parallel Gospel account, grouped summary, and apostolic work without overcrowding this governing document.
+
+- [Master Miracle and Sign Register](INVESTIGATION-II-MIRACLE-REGISTER.md)
+- [Case Study II.1 — Cana: The Word Acts and the Sign Is Witnessed](INVESTIGATION-II-01-CANA-JOHN-2-1-11.md)
+- [Case Study II.2 — The Nobleman's Son: The Word Speaks at a Distance](INVESTIGATION-II-02-NOBLEMAN-SON-JOHN-4-46-54.md)
+
+The register distinguishes **WRITTEN** case studies from events merely **REGISTERED** for future examination. An event is not complete because it appears in the register; it becomes a written finding only after its own text-first analysis and Triple Constraint review.
