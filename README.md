@@ -108,6 +108,8 @@ A PASS is always scope-limited, not a universal endorsement. These labels descri
 - [Hebrew Audit — Genesis 2:4–6](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-4-6.md)
 - [Hebrew Audit — Genesis 2:8–14](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-8-14.md)
 - [Hebrew Audit — Genesis 2:18–25](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-18-25.md)
+- [Investigation III — Passion, Resurrection, Appearances, and Ascension Register](scriptural-reconstruction/INVESTIGATION-III-PASSION-RESURRECTION-REGISTER.md)
+- [Investigation III.1 — The Resurrection of Jesus Christ](scriptural-reconstruction/INVESTIGATION-III-01-RESURRECTION-OF-JESUS-CHRIST.md)
 - [Investigation Protocol](INVESTIGATION-PROTOCOL.md)
 - [Rejected and Unresolved Register](REJECTED-AND-UNRESOLVED.md)
 - [Blueprints](blueprints/)
