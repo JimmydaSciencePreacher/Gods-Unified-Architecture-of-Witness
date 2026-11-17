@@ -218,3 +218,24 @@ No candidate is marked PASS as a universal scientific law or established GUA-W G
 **Limits:** Genesis identifies the ground as cursed in connection with Adam's action and describes hardship in cultivation. It does not state that all physical laws changed, that every ecological process became wholly different, or that work itself originated with the Fall. Work was assigned in Genesis 2:15 before the Fall. The text distinguishes the prior assignment from the post-Fall conditions.
 
 **Status:** STRONG TEXTUAL BASIS FOR A CHANGED HUMAN–ENVIRONMENT CONDITION; UNIVERSAL ARCHITECTURAL GENERALIZATION UNRESOLVED.
+
+
+## 12. Candidate: Access Boundary / Authorization
+
+**Primary textual basis:** Genesis 2:9; 3:22–24.
+
+**Observed sequence**
+- The tree of life is present among the Garden's trees (Genesis 2:9).
+- After the disobedience, God identifies the possibility that man might take from the tree of life and live forever (Genesis 3:22).
+- God sends man out of the Garden (Genesis 3:23).
+- God places cherubim and a flaming sword to guard the way to the tree of life (Genesis 3:24).
+
+**Candidate operation:** Distinguish the existence of a provision from a recipient's authorization to access it. The Author establishes the boundary and appoints its enforcement.
+
+**Provisional formulation:** The existence of a provision does not establish unrestricted access to it. Authorization and access boundaries remain under the Author's authority.
+
+**Architecture relationship:** Potentially associated with Admissibility, Constraint, Reception, and Governance. It is related to but not identical with the Reference–Admissibility Gate: that candidate examines whether an action conforms to the Author's Word; this candidate examines whether access to a provision is authorized and how an established boundary is maintained.
+
+**Limits:** Genesis 3:22–24 explicitly records exclusion and guarding of the way to the tree of life. It does not provide a universal access-control algorithm or explain every possible condition for later access. Revelation 22:1–2 supplies a canonical endpoint for further study, not permission to erase the distinction between the two passages.
+
+**Status:** STRONG TEXTUAL CANDIDATE FOR ACCESS BOUNDARY AND ENFORCEMENT; UNIVERSAL ARCHITECTURAL GENERALIZATION UNRESOLVED.
