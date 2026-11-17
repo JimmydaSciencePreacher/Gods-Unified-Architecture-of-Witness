@@ -68,6 +68,7 @@ A PASS is always scope-limited, not a universal endorsement.
 - [Genesis 2:18–25 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-2-18-25-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 3:1–24 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 4:6–7 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-6-7-TEXT-FIRST-RECONSTRUCTION.md)
+- [Genesis 4:8 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-8-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 1–2 — Consolidated Textual Findings](scriptural-reconstruction/GENESIS-1-2-CONSOLIDATED-TEXTUAL-FINDINGS.md)
 - [Hebrew Audit — Genesis 2:1–3](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-1-3.md)
 - [Hebrew Audit — Genesis 2:7, 2:15–17](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-7-15-17.md)
