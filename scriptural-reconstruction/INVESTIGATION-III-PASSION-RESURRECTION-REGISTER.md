@@ -88,3 +88,12 @@ The study preserves each Gospel's details, including Mark's centurion inquiry, J
 **Record:** [Investigation III.E — The Empty Tomb: What the Witnesses Found](INVESTIGATION-III-E-EMPTY-TOMB-FOUR-GOSPEL-EXAMINATION.md)
 
 The study preserves each account's named visitors, timing, stone, messenger(s), responses, and distinctive details. It defines “empty tomb” precisely as the absence of Jesus' body from the place where He was laid, while retaining John's linen cloths and separate head-cloth. It treats Matthew's guard/theft allegation separately, preserves Mark 16:9–20 as a KJV reading with an open textual-critical question, and does not overstate the meaning of John 20:8 or the arrangement of the cloths. No new GUA-W Gear is established.
+
+
+## Investigation III.F — Dedicated comparative study
+
+**Appearances of the Risen Christ: Witnesses, Encounters, and Testimony** — Matthew 28:8–20; Mark 16:9–20 (KJV, textual-critical qualification); Luke 24:13–53; John 20:11–21:25; Acts 1:1–11; 1 Corinthians 15:3–8.  
+**Status:** COMPARATIVE SCRIPTURAL STUDY WRITTEN; appearance chronology and some harmonization questions remain open.  
+**Record:** [Investigation III.F — Appearances of the Risen Christ](INVESTIGATION-III-F-APPEARANCES-OF-THE-RISEN-CHRIST.md)
+
+The study records the women, Mary Magdalene, Emmaus disciples, gathered disciples, Thomas, Galilee appearances, Paul's witness list, and Acts' forty-day boundary. It preserves Luke's flesh-and-bones and eating testimony, John's wounds and Thomas confession, and differences in recognition and response. The Ascension remains a separate investigation. No new GUA-W Gear is established.
