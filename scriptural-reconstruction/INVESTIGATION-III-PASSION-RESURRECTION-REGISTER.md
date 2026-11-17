@@ -27,8 +27,8 @@ GUA-W is complete. These investigations recognize and record evidence in relatio
 |---|---|---|---|
 | III.A | Jesus' death and burial — foundational examination | Matthew 27:32–66; Mark 15:21–47; Luke 23:26–56; John 19:16–42 | COMPARATIVE EXAMINATION WRITTEN; exact medical mechanism UNRESOLVED |
 | III.B | Darkness at the Crucifixion | Matthew 27:45; Mark 15:33; Luke 23:44–45 | WRITTEN — cause and geographic extent unresolved |
-| III.C | The veil of the temple rent | Matthew 27:51; Mark 15:38; Luke 23:45 | REGISTERED — NOT YET INVESTIGATED |
-| III.D | Earthquake and opened graves | Matthew 27:51–53 | REGISTERED — NOT YET INVESTIGATED |
+| III.C | The veil of the temple rent | Matthew 27:51; Mark 15:38; Luke 23:45 | WRITTEN — precise curtain identification remains qualified |
+| III.D | Earthquake and opened graves | Matthew 27:51–53 | WRITTEN — physical scale and event-specific verification unresolved |
 | III.E | The Resurrection and empty tomb | Matthew 28; Mark 16; Luke 24; John 20 | FOUR-GOSPEL EMPTY-TOMB EXAMINATION WRITTEN; central Resurrection investigation remains open |
 | III.F | Appearances of the risen Christ | Matthew 28; Luke 24; John 20–21; Acts 1:1–11; 1 Corinthians 15:3–8 | COMPARATIVE APPEARANCE STUDY WRITTEN; chronology remains partly unresolved |
 | III.G | The Ascension | Luke 24:50–53; Acts 1:1–11 | TWO-ACCOUNT SCRIPTURAL EXAMINATION WRITTEN; chronology and textual questions remain open |
