@@ -14,6 +14,19 @@
 4. [II.4 — Feeding the Five Thousand](INVESTIGATION-II-04-FEEDING-FIVE-THOUSAND.md)
 5. [II.5 — Jesus Walks on the Sea](INVESTIGATION-II-05-WALKING-ON-SEA.md)
 
+## Current written case studies
+
+1. [II.1 — Cana](INVESTIGATION-II-01-CANA-JOHN-2-1-11.md)
+2. [II.2 — Nobleman's Son](INVESTIGATION-II-02-NOBLEMAN-SON-JOHN-4-46-54.md)
+3. [II.3 — Bethesda](INVESTIGATION-II-03-BETHESDA-JOHN-5-1-18.md)
+4. [II.4 — Feeding the Five Thousand](INVESTIGATION-II-04-FEEDING-FIVE-THOUSAND.md)
+5. [II.5 — Walking on the Sea](INVESTIGATION-II-05-WALKING-ON-SEA.md)
+6. [II.6 — Storm Calmed](INVESTIGATION-II-06-STORM-CALMED.md)
+7. [II.7 — Leper Cleansed](INVESTIGATION-II-07-LEPER-CLEANSED.md)
+8. [II.8 — Paralytic: Forgiveness and Healing](INVESTIGATION-II-08-PARALYTIC-FORGIVENESS.md)
+9. [II.9 — Woman with Issue of Blood and Jairus' Daughter](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md)
+10. [II.10 — Centurion's Servant](INVESTIGATION-II-10-CENTURION-SERVANT.md)
+
 ## Status key
 
 - **WRITTEN** — dedicated event-level study recorded.
@@ -59,14 +72,14 @@
 |---|---|---|
 | Nobleman's son | John 4:46–54 | WRITTEN — II.2 |
 | Peter's mother-in-law | Matthew 8:14–15; Mark 1:29–31; Luke 4:38–39 | REGISTERED |
-| Leper cleansed | Matthew 8:1–4; Mark 1:40–45; Luke 5:12–16 | REGISTERED |
-| Paralytic lowered through roof; sins forgiven | Matthew 9:1–8; Mark 2:1–12; Luke 5:17–26 | REGISTERED |
-| Centurion's servant | Matthew 8:5–13; Luke 7:1–10 | REGISTERED |
+| Leper cleansed | Matthew 8:1–4; Mark 1:40–45; Luke 5:12–16 | WRITTEN — [Case study II.7](INVESTIGATION-II-07-LEPER-CLEANSED.md) |
+| Paralytic lowered through roof; sins forgiven | Matthew 9:1–8; Mark 2:1–12; Luke 5:17–26 | WRITTEN — [Case study II.8](INVESTIGATION-II-08-PARALYTIC-FORGIVENESS.md) |
+| Centurion's servant | Matthew 8:5–13; Luke 7:1–10 | WRITTEN — [Case study II.10](INVESTIGATION-II-10-CENTURION-SERVANT.md) |
 | Man with withered hand | Matthew 12:9–14; Mark 3:1–6; Luke 6:6–11 | REGISTERED |
 | Two blind men | Matthew 9:27–31 | REGISTERED |
 | Mute man oppressed by devil | Matthew 9:32–34 | REGISTERED |
-| Woman with issue of blood | Matthew 9:20–22; Mark 5:25–34; Luke 8:43–48 | REGISTERED |
-| Jairus' daughter | Matthew 9:18–26; Mark 5:21–43; Luke 8:40–56 | REGISTERED |
+| Woman with issue of blood | Matthew 9:20–22; Mark 5:25–34; Luke 8:43–48 | WRITTEN — [Case study II.9](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md) |
+| Jairus' daughter | Matthew 9:18–26; Mark 5:21–43; Luke 8:40–56 | WRITTEN — [Case study II.9](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md) |
 | Two blind men near Jericho / Bartimaeus | Matthew 20:29–34; Mark 10:46–52; Luke 18:35–43 | REGISTERED; compare location, number, and narrative differences |
 | Deaf man with speech impediment | Mark 7:31–37 | REGISTERED |
 | Blind man at Bethsaida | Mark 8:22–26 | REGISTERED |
@@ -96,7 +109,7 @@
 |---|---|---|
 | Water made wine | John 2:1–11 | WRITTEN — II.1 |
 | First miraculous catch of fishes | Luke 5:1–11 | REGISTERED |
-| Storm calmed | Matthew 8:23–27; Mark 4:35–41; Luke 8:22–25 | REGISTERED |
+| Storm calmed | Matthew 8:23–27; Mark 4:35–41; Luke 8:22–25 | WRITTEN — [Case study II.6](INVESTIGATION-II-06-STORM-CALMED.md) |
 | Feeding five thousand | Matthew 14:13–21; Mark 6:30–44; Luke 9:10–17; John 6:1–14 | REGISTERED |
 | Walking on water; Peter walks and sinks | Matthew 14:22–33; Mark 6:45–52; John 6:16–21 | REGISTERED |
 | Feeding four thousand | Matthew 15:32–39; Mark 8:1–9 | REGISTERED; keep distinct from feeding five thousand |
@@ -177,4 +190,4 @@ Each event study must include:
 - The Gospels do not all use the same selection, sequence, or terminology. Preserve each writer's presentation.
 - “All” coverage means all identifiable narrated events in the defined scope, together with grouped summaries and explicit acknowledgment of non-exhaustive statements (e.g., John 20:30). It does not mean pretending the Gospels record every work Jesus ever performed.
 
-**Overall status: OPEN.** Five dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
+**Overall status: OPEN.** Ten dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
