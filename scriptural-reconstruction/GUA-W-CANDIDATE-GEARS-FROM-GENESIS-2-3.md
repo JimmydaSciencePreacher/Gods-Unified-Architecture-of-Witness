@@ -47,9 +47,9 @@ This record does not create new revelation, doctrine, or architecture. It identi
 8. His eating.
 9. Changed awareness and self-covering (Genesis 3:7).
 
-**Candidate operation:** Distinguish perception, evaluation, desire, taking, consumption/action, propagation to another participant, and resulting state rather than collapsing them into a single event.
+**Observed operation/distinction:** Distinguish perception, evaluation, desire, taking, consumption/action, propagation to another participant, and resulting state rather than collapsing them into a single event.
 
-**Architecture relationship:** Potentially maps to existing Runtime operations and Witness-state. It may be a sequence of sub-operations, not one Gear.
+**Architecture relationship:** Recognized in relation to the existing Runtime operations and Witness-state. It may be a sequence of sub-operations, not one Gear.
 
 **Limits:** Genesis narrates this sequence but does not provide a complete psychological or biological mechanism. The account does not establish that seeing, evaluation, desire, or seeking wisdom is inherently defective. The decisive textual boundary is the prior command.
 
@@ -69,14 +69,14 @@ This record does not create new revelation, doctrine, or architecture. It identi
 
 **Candidate operation:** Track the originating source of information, the communicating witness, the recipient, the reported wording, and any difference between the original message and its retelling.
 
-**Provisional audit questions**
+**Audit questions raised by the text**
 - What is the original source?
 - Who communicated the information?
 - What wording was received or reported?
 - What changed between source and report?
 - Which parts are explicit, inferred, or unknown?
 
-**Architecture relationship:** Potentially associated with Reception, Witness-state, and the distinction between Source and representation.
+**Architecture relationship:** Recognized in relation to Reception, Witness-state, and the distinction between Source and representation.
 
 **Limits:** Genesis does not narrate the exact transmission event by which the woman received the original command. God's question in Genesis 3:11 makes provenance salient but does not record Adam naming an informant. Do not fill those gaps with assumptions.
 
@@ -93,7 +93,7 @@ This record does not create new revelation, doctrine, or architecture. It identi
 
 **Candidate operation:** Distinguish an influence or preceding communication from the recipient's own action and accountability. Identifying an influence does not automatically transfer or erase the actor's responsibility.
 
-**Architecture relationship:** Potentially associated with Runtime action, attribution, and accountability review.
+**Architecture relationship:** Recognized in relation to Runtime action, attribution, and accountability review.
 
 **Limits:** Do not infer identical responsibility, identical knowledge, or identical psychological circumstances for Adam and the woman. Do not infer physical compulsion. The text explicitly records each person's action and gives a specific divine assessment of Adam's heeding.
 
@@ -113,7 +113,7 @@ This record does not create new revelation, doctrine, or architecture. It identi
 
 **Candidate operation:** The Author initiates an encounter in which the recipient is called to respond and the account of knowledge and action is examined.
 
-**Architecture relationship:** Potentially an audit or governance operation, not necessarily a runtime Gear. It may relate to witness accountability and Author-node primacy.
+**Architecture relationship:** An audit/governance relationship, not necessarily a runtime Gear; it relates to witness accountability and Author primacy.
 
 **Limits:** Do not imply that God asks because He lacks knowledge. The text records the call and questions; claims about the full purpose of each question require wider Scriptural study.
 
@@ -157,7 +157,7 @@ This record does not create new revelation, doctrine, or architecture. It identi
 
 ## 8. Relationship among the observations
 
-The candidates may not be seven independent Gears. Several may be sub-operations or audit dimensions of a smaller number of mechanisms:
+These seven observations need not represent seven independent Gears. They may describe interacting sub-operations or audit dimensions within existing architectural relationships:
 
 - Reference–Admissibility may govern the evaluation-to-action sequence.
 - Information Provenance may be part of Reception and Witness-state auditing.
@@ -169,10 +169,10 @@ These observations may describe interacting aspects of the existing Admissibilit
 
 ## 9. Triple Constraint examination
 
-| Candidate | Biblical compliance | Scientific coherence | GUA-W consistency | Finding |
+| Observed relationship | Biblical compliance | Scientific coherence | GUA-W relationship | Finding |
 |---|---|---|---|---|
 | Reference–Admissibility Gate | Supported by Genesis 2:9, 2:16–17; 3:5–6 | Investigable through evaluation, constraints, and decision processes; theological claim remains primary | Preserves Author's Word as reference | Textual relationship recognized; universal mechanism not asserted |
-| Evaluation-to-Action Sequence | Explicit sequence in Genesis 3:6–7 | Human perception and action are legitimate scientific subjects; mechanisms need separate study | Potential Runtime mapping | Retain as candidate |
+| Evaluation-to-Action Sequence | Explicit sequence in Genesis 3:6–7 | Human perception and action are legitimate scientific subjects; mechanisms need separate study | Recognized in relation to existing Runtime | Recognized textual relationship; broader mechanism not asserted |
 | Information Provenance / Source Audit | Supported by Genesis 3:1–5, 11–13 | Communication and information provenance are scientifically investigable | Preserves Source/representation distinction | Retain as candidate |
 | Influence–Action–Responsibility | Supported by Genesis 3:6, 12–13, 17 | Influence and action are investigable; do not overclaim causation | Preserves individual action and accountability | Retain as candidate |
 | Author-Initiated Accountability Encounter | Explicitly narrated in Genesis 3:9–13 | Theological governance claim; no laboratory reduction implied | Preserves Author primacy | Retain as candidate |
@@ -198,7 +198,7 @@ The text-grounded observations are not being held as a construction queue. They 
 **Provisional conclusion:** Genesis 2–3 supplies several strong textual examples of distinct operations relevant to GUA-W: admissibility under an established command, evaluation followed by action, source tracking, influence and responsibility, recognition and alignment, and correspondence/joining. These are Scriptural relationships to be recognized within the completed GUA-W, not components awaiting assembly. Further work concerns the scope of each relationship and its cross-Scriptural and scientific coherence—not whether GUA-W needs additional parts.
 
 
-## 11. Candidate: Consequence–Environment–Function Transition
+## 11. Changed Conditions, Continuing Function, and Consequence
 
 **Primary textual basis:** Genesis 2:7, 2:15; 3:17–19.
 
@@ -217,10 +217,10 @@ The text-grounded observations are not being held as a construction queue. They 
 
 **Limits:** Genesis identifies the ground as cursed in connection with Adam's action and describes hardship in cultivation. It does not state that all physical laws changed, that every ecological process became wholly different, or that work itself originated with the Fall. Work was assigned in Genesis 2:15 before the Fall. The text distinguishes the prior assignment from the post-Fall conditions.
 
-**Status:** STRONG TEXTUAL BASIS FOR A CHANGED HUMAN–ENVIRONMENT CONDITION; UNIVERSAL ARCHITECTURAL GENERALIZATION UNRESOLVED.
+**Finding:** Genesis 3:17–19 explicitly describes a changed human–environment condition and the continuation of work under altered conditions. This relationship is recorded in relation to the existing State, Constraint, Structure, Runtime, and environment distinctions. The text does not establish that every physical law changed or specify every mechanism.
 
 
-## 12. Candidate: Access Boundary / Authorization
+## 12. Provision, Authorization, and Access Boundary
 
 **Primary textual basis:** Genesis 2:9; 3:22–24.
 
@@ -234,8 +234,8 @@ The text-grounded observations are not being held as a construction queue. They 
 
 **Provisional formulation:** The existence of a provision does not establish unrestricted access to it. Authorization and access boundaries remain under the Author's authority.
 
-**Architecture relationship:** Potentially associated with Admissibility, Constraint, Reception, and Governance. It is related to but not identical with the Reference–Admissibility Gate: that candidate examines whether an action conforms to the Author's Word; this candidate examines whether access to a provision is authorized and how an established boundary is maintained.
+**Architecture relationship:** Recognized in relation to Admissibility, Constraint, Reception, and Governance. It is related to but not identical with the Reference–Admissibility Gate: that candidate examines whether an action conforms to the Author's Word; this candidate examines whether access to a provision is authorized and how an established boundary is maintained.
 
 **Limits:** Genesis 3:22–24 explicitly records exclusion and guarding of the way to the tree of life. It does not provide a universal access-control algorithm or explain every possible condition for later access. Revelation 22:1–2 supplies a canonical endpoint for further study, not permission to erase the distinction between the two passages.
 
-**Status:** STRONG TEXTUAL CANDIDATE FOR ACCESS BOUNDARY AND ENFORCEMENT; UNIVERSAL ARCHITECTURAL GENERALIZATION UNRESOLVED.
+**Finding:** Genesis 3:22–24 explicitly records exclusion and guarding of access to the tree of life. This is recognized in relation to the existing Admissibility and Constraint distinctions and the Author's authority over access. No universal access-control algorithm is inferred.
