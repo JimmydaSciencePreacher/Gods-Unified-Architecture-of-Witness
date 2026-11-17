@@ -6,6 +6,14 @@
 **Governing test:** Triple Constraint Law — Biblical compliance, scientific coherence, GUA-W consistency.  
 **Architecture boundary:** GUA-W is already complete. This investigation identifies supported relationships; it does not add stages or redesign the architecture. Jesus Christ is not reduced to an architectural component.
 
+## Current written case studies
+
+1. [II.1 — Cana: The Word Acts and the Sign Is Witnessed](INVESTIGATION-II-01-CANA-JOHN-2-1-11.md)
+2. [II.2 — The Nobleman's Son: The Word Speaks at a Distance](INVESTIGATION-II-02-NOBLEMAN-SON-JOHN-4-46-54.md)
+3. [II.3 — The Man at Bethesda](INVESTIGATION-II-03-BETHESDA-JOHN-5-1-18.md)
+4. [II.4 — Feeding the Five Thousand](INVESTIGATION-II-04-FEEDING-FIVE-THOUSAND.md)
+5. [II.5 — Jesus Walks on the Sea](INVESTIGATION-II-05-WALKING-ON-SEA.md)
+
 ## Status key
 
 - **WRITTEN** — dedicated event-level study recorded.
@@ -19,9 +27,9 @@
 |---|---|---|
 | Water made wine at Cana | John 2:1–11 | WRITTEN — [Case study II.1](INVESTIGATION-II-01-CANA-JOHN-2-1-11.md) |
 | Healing of the nobleman's son at a distance | John 4:46–54 | WRITTEN — [Case study II.2](INVESTIGATION-II-02-NOBLEMAN-SON-JOHN-4-46-54.md) |
-| Healing at the pool of Bethesda | John 5:1–15 | REGISTERED |
-| Feeding the five thousand | John 6:1–14; parallels Matthew 14, Mark 6, Luke 9 | REGISTERED |
-| Walking on the sea | John 6:16–21; parallels Matthew 14:22–33, Mark 6:45–52 | REGISTERED |
+| Healing at the pool of Bethesda | John 5:1–15 | WRITTEN — [Case study II.3](INVESTIGATION-II-03-BETHESDA-JOHN-5-1-18.md) |
+| Feeding the five thousand | John 6:1–14; parallels Matthew 14, Mark 6, Luke 9 | WRITTEN — [Case study II.4](INVESTIGATION-II-04-FEEDING-FIVE-THOUSAND.md) |
+| Walking on the sea | John 6:16–21; parallels Matthew 14:22–33, Mark 6:45–52 | WRITTEN — [Case study II.5](INVESTIGATION-II-05-WALKING-ON-SEA.md) |
 | Man born blind receives sight | John 9:1–41 | REGISTERED |
 | Raising Lazarus | John 11:1–46 | REGISTERED |
 | Miraculous catch of fish after resurrection | John 21:1–14 | REGISTERED; compare Luke 5:1–11 carefully |
@@ -169,4 +177,4 @@ Each event study must include:
 - The Gospels do not all use the same selection, sequence, or terminology. Preserve each writer's presentation.
 - “All” coverage means all identifiable narrated events in the defined scope, together with grouped summaries and explicit acknowledgment of non-exhaustive statements (e.g., John 20:30). It does not mean pretending the Gospels record every work Jesus ever performed.
 
-**Overall status: OPEN.** Two dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
+**Overall status: OPEN.** Five dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
