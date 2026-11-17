@@ -1,8 +1,8 @@
-# GUA-W Candidate Gear Register — Genesis 2–3
+# Genesis 2–3 — Recognized Relationships and Operational Distinctions
 
-**Status:** PROVISIONAL INVESTIGATION REGISTER; no candidate in this document is admitted as an established GUA-W Gear or canon node.  
+**Status:** Investigation record of Scriptural relationships and operational distinctions already examined against the completed GUA-W. This is not a queue for constructing, adding, or completing Gears.  
 **Source scope:** Genesis 2:18–25 and Genesis 3:1–13, read with Genesis 2:16–17 and the later accountability statement in Genesis 3:17.  
-**Purpose:** Preserve potentially useful operations discovered during text-first reconstruction so they can be compared with the existing GUA-W architecture, tested across Scripture and relevant sciences, and either integrated, consolidated, revised, or rejected.
+**Purpose:** Record the relationships made visible by Genesis 2–3 and recognize their place in the completed GUA-W. The observations below are not proposals to add new architecture. Where a precise technical generalization is not established, the limitation is stated at that level.
 
 ## Governing hierarchy
 
@@ -10,9 +10,9 @@
 
 God alone is Original Cause. A derivative witness may receive, recognize, name, interpret, communicate, and act, but does not become the Author or acquire authority to alter the Source.
 
-This register records architectural candidates, not new revelation, doctrine, or settled project canon. Biblical compliance, scientific coherence, and GUA-W consistency remain jointly required under the Triple Constraint Law.
+This record does not create new revelation, doctrine, or architecture. It identifies textual observations and their relationship to established GUA-W distinctions. Biblical compliance, scientific coherence, and GUA-W consistency remain jointly required under the Triple Constraint Law.
 
-## 1. Candidate: Reference–Admissibility Gate
+## 1. Desirability and Admissibility
 
 **Primary textual basis:** Genesis 2:9, 2:16–17; 3:5–6.
 
@@ -22,17 +22,17 @@ This register records architectural candidates, not new revelation, doctrine, or
 - The serpent introduces an alternative representation and promise (Genesis 3:1–5).
 - The woman evaluates the prohibited tree as good for food, pleasant to the eyes, and desirable for wisdom, then takes and eats (Genesis 3:6).
 
-**Candidate operation:** An apparent benefit, desirability, usefulness, or promised outcome does not independently establish admissibility. Evaluation must be tested against the Author's already-established Word and constraint.
+**Observed distinction:** An apparent benefit, desirability, usefulness, or promised outcome does not independently establish admissibility. Evaluation must be tested against the Author's already-established Word and constraint.
 
-**Provisional formulation:** Desirability is not admissibility. Apparent benefit does not override an established constraint.
+**Recognized formulation:** Desirability is not admissibility. Apparent benefit does not override an established constraint.
 
 **Architecture relationship:** Potentially associated with Admissibility and Constraint. It may be a gate or audit operation rather than a new layer.
 
 **Limits:** The passage supports the distinction in this narrated event. It does not yet establish a universal algorithm or complete decision procedure for all domains.
 
-**Status:** STRONG TEXTUAL CANDIDATE; generalization remains to be tested.
+**Finding:** The narrated event distinguishes apparent desirability from admissibility under the Author's prior command. This is recognized in relation to the existing Admissibility and Constraint elements. The event does not by itself define a universal decision algorithm.
 
-## 2. Candidate: Evaluation-to-Action Sequence
+## 2. Perception, Evaluation, Desire, Action, and Resulting State
 
 **Primary textual basis:** Genesis 3:6–7.
 
@@ -53,9 +53,9 @@ This register records architectural candidates, not new revelation, doctrine, or
 
 **Limits:** Genesis narrates this sequence but does not provide a complete psychological or biological mechanism. The account does not establish that seeing, evaluation, desire, or seeking wisdom is inherently defective. The decisive textual boundary is the prior command.
 
-**Status:** STRONG TEXTUAL SEQUENCE; universal runtime mapping remains provisional.
+**Finding:** Genesis 3:6–7 explicitly distinguishes these steps in the narrated event. They are recognized in relation to the existing Runtime and State descriptions; a complete psychological or biological mechanism is not claimed.
 
-## 3. Candidate: Information Provenance / Source Audit
+## 3. Source, Message, Reception, and Reported Wording
 
 **Primary textual basis:** Genesis 3:1–5, 3:11–13.
 
@@ -80,9 +80,9 @@ This register records architectural candidates, not new revelation, doctrine, or
 
 **Limits:** Genesis does not narrate the exact transmission event by which the woman received the original command. God's question in Genesis 3:11 makes provenance salient but does not record Adam naming an informant. Do not fill those gaps with assumptions.
 
-**Status:** STRONG TEXTUAL AUDIT CANDIDATE; transmission details remain partly unresolved.
+**Finding:** The passage makes source and message fidelity materially relevant. This is recognized in relation to Source/representation, Reception, and Witness-state. The exact transmission by which the woman received the original command is not narrated and remains unknown.
 
-## 4. Candidate: Influence–Action–Responsibility Separation
+## 4. Influence, Action, and Responsibility
 
 **Primary textual basis:** Genesis 3:6, 3:12–13, 3:17.
 
@@ -97,9 +97,9 @@ This register records architectural candidates, not new revelation, doctrine, or
 
 **Limits:** Do not infer identical responsibility, identical knowledge, or identical psychological circumstances for Adam and the woman. Do not infer physical compulsion. The text explicitly records each person's action and gives a specific divine assessment of Adam's heeding.
 
-**Status:** STRONG TEXTUAL DISTINCTION; broader formalization remains provisional.
+**Finding:** The text distinguishes influence, each person's action, and divine attribution. This is recognized as a distinction within the existing Runtime and accountability inquiry; identical responsibility or psychological circumstances are not inferred.
 
-## 5. Candidate: Author-Initiated Accountability Encounter
+## 5. Author-Initiated Accountability Encounter
 
 **Primary textual basis:** Genesis 3:9–13.
 
@@ -117,9 +117,9 @@ This register records architectural candidates, not new revelation, doctrine, or
 
 **Limits:** Do not imply that God asks because He lacks knowledge. The text records the call and questions; claims about the full purpose of each question require wider Scriptural study.
 
-**Status:** TEXTUALLY CLEAR AS AN EVENT; UNIVERSAL GEAR STATUS UNRESOLVED.
+**Finding:** The event is explicit in Genesis 3:9–13 and is recognized in relation to Author primacy and witness accountability. Whether it should be called a universal Gear is not required to preserve the observed relationship.
 
-## 6. Candidate: Recognition–Alignment Distinction
+## 6. Recognition and Alignment
 
 **Primary textual basis:** Genesis 3:8–10, read with Genesis 2:16–17.
 
@@ -134,9 +134,9 @@ This register records architectural candidates, not new revelation, doctrine, or
 
 **Limits:** This is a textual and theological observation about the narrated response, not a complete theory of alignment.
 
-**Status:** STRONG DISTINCTION; likely an existing-state refinement.
+**Finding:** Recognition of the source and alignment of response are distinct in the narrated event. This belongs in the investigation of the existing Alignment and Witness-state terms, not as an assumed new layer.
 
-## 7. Candidate: Correspondence–Joining Operation
+## 7. Correspondence and Joining
 
 **Primary textual basis:** Genesis 2:18–25.
 
@@ -153,9 +153,9 @@ This register records architectural candidates, not new revelation, doctrine, or
 
 **Limits:** Genesis 2:24 explicitly concerns the marital relation. “One flesh” must not be reduced to a mathematical identity or used by itself to prove a universal law of integration. The persons remain distinguishable in the text.
 
-**Status:** STRONG TEXTUAL BASIS FOR THE MARRIAGE/JOINING PATTERN; UNIVERSAL ARCHITECTURAL GENERALIZATION UNRESOLVED.
+**Finding:** Genesis 2:18–25 explicitly records the marital correspondence and joining pattern. This is recognized in relation to the project's Joining Primacy investigation. The passage is not, by itself, a universal mathematical law.
 
-## 8. Consolidation warning — Do not multiply Gears unnecessarily
+## 8. Relationship among the observations
 
 The candidates may not be seven independent Gears. Several may be sub-operations or audit dimensions of a smaller number of mechanisms:
 
@@ -165,23 +165,23 @@ The candidates may not be seven independent Gears. Several may be sub-operations
 - Recognition–Alignment may refine an existing state variable.
 - Correspondence–Joining may belong to the existing Joining Primacy investigation.
 
-The architecture should determine whether each candidate is a Gear, a sub-operation, a state transition, an invariant, or merely a useful audit question. Similarity of wording is not enough to merge them; difference of wording is not enough to make them separate.
+These observations may describe interacting aspects of the existing Admissibility, Constraint, Reception, Runtime, Alignment, Witness-state, and Joining relationships. Similarity of wording is not enough to collapse distinct operations; difference of wording is not enough to invent additional Gears. The completed architecture remains the reference for recognizing their relationships.
 
-## 9. Triple Constraint status
+## 9. Triple Constraint examination
 
-| Candidate | Biblical compliance | Scientific coherence | GUA-W consistency | Current disposition |
+| Candidate | Biblical compliance | Scientific coherence | GUA-W consistency | Finding |
 |---|---|---|---|---|
-| Reference–Admissibility Gate | Supported by Genesis 2:9, 2:16–17; 3:5–6 | Investigable through evaluation, constraints, and decision processes; theological claim remains primary | Preserves Author's Word as reference | Retain as candidate |
+| Reference–Admissibility Gate | Supported by Genesis 2:9, 2:16–17; 3:5–6 | Investigable through evaluation, constraints, and decision processes; theological claim remains primary | Preserves Author's Word as reference | Textual relationship recognized; universal mechanism not asserted |
 | Evaluation-to-Action Sequence | Explicit sequence in Genesis 3:6–7 | Human perception and action are legitimate scientific subjects; mechanisms need separate study | Potential Runtime mapping | Retain as candidate |
 | Information Provenance / Source Audit | Supported by Genesis 3:1–5, 11–13 | Communication and information provenance are scientifically investigable | Preserves Source/representation distinction | Retain as candidate |
 | Influence–Action–Responsibility | Supported by Genesis 3:6, 12–13, 17 | Influence and action are investigable; do not overclaim causation | Preserves individual action and accountability | Retain as candidate |
 | Author-Initiated Accountability Encounter | Explicitly narrated in Genesis 3:9–13 | Theological governance claim; no laboratory reduction implied | Preserves Author primacy | Retain as candidate |
-| Recognition–Alignment | Supported by Genesis 3:8–10 | Recognition and response can be investigated; theological scope remains | May refine Witness-state | Examine for consolidation |
+| Recognition–Alignment | Supported by Genesis 3:8–10 | Recognition and response can be investigated; theological scope remains | May refine Witness-state | Recognized in relation to existing Alignment / Witness-state |
 | Correspondence–Joining | Explicit marital pattern in Genesis 2:18–25 | Relational and biological domains can be studied without replacing the text | Consistent with Author-initiated formation and joining | Retain; do not universalize |
 
-No candidate is marked PASS as a universal scientific law or established GUA-W Gear merely by appearing in this register. Each passes only as a text-grounded candidate for further investigation. Any universal claim requires its own evidence and Triple Constraint review.
+The text-grounded observations are not being held as a construction queue. They are recorded now in relation to the completed architecture. Any broader claim about a universal physical or cognitive mechanism still requires its own evidence and Triple Constraint examination.
 
-## 10. Next tests
+## 10. Further cross-references and scope checks
 
 1. Compare Reference–Admissibility with Genesis 4:6–7, where desire, sin, and ruling are explicitly discussed.
 2. Compare Information Provenance with later Scriptural examples of faithful and unfaithful witnesses, false testimony, and preservation of the Word.
@@ -195,7 +195,7 @@ No candidate is marked PASS as a universal scientific law or established GUA-W G
 - [Genesis 2:18–25 — Text-First Reconstruction](GENESIS-2-18-25-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 3:1–24 — Text-First Reconstruction](GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
 
-**Provisional conclusion:** Genesis 2–3 supplies several strong textual examples of distinct operations relevant to GUA-W: admissibility under an established command, evaluation followed by action, source tracking, influence and responsibility, recognition and alignment, and correspondence/joining. The architecture must still determine which are independent Gears and which are sub-operations or refinements of existing components. No established GUA-W node is changed by this register.
+**Provisional conclusion:** Genesis 2–3 supplies several strong textual examples of distinct operations relevant to GUA-W: admissibility under an established command, evaluation followed by action, source tracking, influence and responsibility, recognition and alignment, and correspondence/joining. These are Scriptural relationships to be recognized within the completed GUA-W, not components awaiting assembly. Further work concerns the scope of each relationship and its cross-Scriptural and scientific coherence—not whether GUA-W needs additional parts.
 
 
 ## 11. Candidate: Consequence–Environment–Function Transition
