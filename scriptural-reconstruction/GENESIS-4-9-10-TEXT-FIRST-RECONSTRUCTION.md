@@ -1,6 +1,6 @@
 # Genesis 4:9–10 — Text-First Reconstruction, Unit 11
 
-**Status:** INITIAL TEXTUAL FINDINGS; interpretive conclusions remain bounded; no architectural law admitted  
+**Status:** Text-first investigation; interpretive conclusions remain bounded and are recorded in relation to the completed GUA-W; no new architectural law is proposed  
 **Date:** 2026-11-16  
 **Scope:** KJV Genesis 4:9–10, read with Genesis 2:15; 3:8–13; 4:1–8  
 **Questions:** What does Cain say he knows? What does “keeper” mean in Hebrew? How does this relate to Genesis 2:15? What does the voice of Abel's blood communicate in the narrative?
@@ -267,7 +267,7 @@ These are research aids. Lexical observations are distinguished from interpretiv
 - [Genesis 3:1–24 — Text-First Reconstruction](GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
 - [Rejected and Unresolved Register](../REJECTED-AND-UNRESOLVED.md)
 - U-006 — Definition and components of human will.
-- U-007 — Knowledge of good and evil versus authority to establish its standard.
+- U-007 — RESOLVED: Knowledge of good and evil does not transfer authority to establish its standard.
 
 ## 14. Revision history
 
