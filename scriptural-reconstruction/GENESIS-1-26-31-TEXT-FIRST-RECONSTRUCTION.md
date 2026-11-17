@@ -1,8 +1,8 @@
 # Genesis 1:26–31 — Text-First Reconstruction, Unit 4
 
-**Status:** INITIAL TEXTUAL OBSERVATION; architectural mappings remain PROPOSED  
+**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
 **Scope:** KJV Genesis 1:26–31  
-**Method:** Record the actual sequence and wording. Do not assume that terms such as Identity, Purpose, Dominion, Integration, or Expression have already been proven as technical stages.
+**Method:** Record the actual sequence and wording, and examine how the text witnesses to the existing GUA-W distinctions, including Identity, Purpose, Dominion, Integration, and Expression. Do not force every term into a passage that does not address it.
 
 ## Genesis 1:26 — Counsel, image, likeness, dominion
 
