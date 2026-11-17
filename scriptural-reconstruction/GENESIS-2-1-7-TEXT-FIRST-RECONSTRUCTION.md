@@ -1,8 +1,8 @@
 # Genesis 2:1–7 — Text-First Reconstruction, Unit 5
 
-**Status:** INITIAL TEXTUAL OBSERVATION; architectural mappings remain PROPOSED  
+**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
 **Scope:** KJV Genesis 2:1–7  
-**Method:** Record the wording and narrated order before assigning GUA-W stages. This is not a canonical revision and does not presume that Completion, Animation, or Integration are already proven technical labels.
+**Method:** Record the wording and narrated order, then recognize how the passage relates to the completed architecture. Do not force Completion, Animation, or Integration labels onto a clause where the text does not support the relationship.
 
 ## Genesis 2:1 — The heavens and earth finished
 
