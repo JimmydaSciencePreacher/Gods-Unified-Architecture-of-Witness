@@ -214,7 +214,7 @@ Related record: [Genesis 4:9–10 — Text-First Reconstruction](scriptural-reco
 
 ## 15. Evidence update — Genesis 4:11–12 (2026-11-16)
 
-This update supplements U-006 and U-007. Neither question is resolved.
+This historical update supplements U-006 and contains an earlier U-007 note. **The U-007 authority question is resolved as stated above; this historical note is superseded and must not be read as reopening it.** U-006 remains unresolved.
 
 ### U-006 supplement — Action and consequence
 
