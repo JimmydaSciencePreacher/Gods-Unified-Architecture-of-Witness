@@ -122,7 +122,7 @@ Examples include:
 
 **Correction in method:** Keep uncertainty where the evidence is genuinely uncertain. Do not label the relationship to the completed architecture “candidate” merely because an earlier AI record failed to recognize it. Record the observed relationship and its placement in the existing whole when that placement is supported. Reserve “unresolved” for the actual unresolved question, not for whether GUA-W has an element.
 
-**Work status:** The Genesis 2–3 relationship register has been reframed to record observed relationships within the completed architecture rather than a queue for new Gears. The remaining Genesis 1–2 text-first reconstructions and Hebrew audits still need a targeted editorial pass so their wording consistently distinguishes (a) a Scriptural observation, (b) its recognized relationship to the completed GUA-W where supported, and (c) a genuinely unresolved technical or scientific mechanism. This audit does not assign every verse a technical runtime stage by fiat.
+**Work status:** The Genesis 2–3 relationship register has been reframed to record observed relationships within the completed architecture rather than a queue for new Gears. The Genesis 1–2 text-first reconstructions have also been revised to state that observations are examined in relation to the completed GUA-W, without forcing a one-verse/one-stage formula. The five Genesis 2 Hebrew audits now explicitly identify themselves as evidence witnesses to the completed architecture, not proposals to construct it. Genuine lexical, grammatical, and technical uncertainties remain specific to the relevant claim. This audit does not assign every verse a technical runtime stage by fiat.
 
 ### 4.3 Genesis 3 reconstruction contains a stale U-007 conclusion
 
@@ -192,10 +192,11 @@ The text-first reconstructions sometimes use “runtime,” “candidate operati
 - Corrected the stale U-007 authority status in the Genesis 2 completion synthesis and Genesis 3 reconstruction.
 - Corrected the Genesis 4:6–7 through 4:13–16 records so U-007 is not left unresolved and Theology is not excluded from scientific-coherence review.
 - Reframed the Genesis 2–3 relationship register as a record of observations within completed GUA-W rather than a Gear-construction queue.
+- Revised the Genesis 1–2 text-first reconstructions and added a governing clarification to all five Genesis 2 Hebrew audits: they record Scriptural/linguistic evidence in relation to the completed architecture, not components for later assembly.
 
 ### Remaining writing and verification
 
-1. Complete the targeted editorial pass over the remaining Genesis 1–2 reconstructions and Hebrew audits, preserving real uncertainties while recording supported relationships to the completed architecture.
+1. Complete a detailed claim-level review of the Genesis 1–2 reconstructions and Hebrew audits, preserving real uncertainties while recording supported relationships to the completed architecture. The framing pass is complete; individual verse-level placements and lexical claims still require verification.
 2. Compare and consolidate the duplicate holography audits only after checking their provenance and unique claims.
 3. Verify external scientific and lexical citations against primary sources in a separate claim-level audit. This remains outstanding.
 
