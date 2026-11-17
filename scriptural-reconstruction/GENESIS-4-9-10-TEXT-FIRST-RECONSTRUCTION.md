@@ -211,7 +211,7 @@ This is relevant to the distinction between:
 
 The passage does not formulate that philosophical distinction explicitly. It narrates an instance in which Cain's words do not change the truth of what occurred.
 
-**U-007 remains UNRESOLVED.**
+**U-007 status: RESOLVED.** This passage does not reopen the settled conclusion: knowledge, evaluation, and human action do not confer God's authority or transfer authority to establish the standard of good and evil. Any remaining question about the precise nature of the knowledge in Genesis 3:22 is separate.
 
 ## 10. Preliminary Triple Constraint review
 
@@ -219,7 +219,7 @@ The passage does not formulate that philosophical distinction explicitly. It nar
 
 The observations are grounded in the KJV and Masoretic wording. The lexical connection between שמר in Genesis 2:15 and שֹׁמֵר in Genesis 4:9 is direct. The thematic interpretation of Cain's question as repudiation of responsibility is supported by context and translation notes but is not simply the dictionary definition of the word.
 
-### Scientific coherence — NOT APPLICABLE AT THIS STAGE
+### Scientific coherence — theological discipline
 
 No scientific mechanism or empirical claim is proposed.
 
@@ -227,7 +227,7 @@ No scientific mechanism or empirical claim is proposed.
 
 The findings distinguish the event, Cain's statement about the event, and God's response. They do not promote Cain's assertion into truth or authority. No new architectural law or node is proposed.
 
-**Overall status:** INITIAL TEXTUAL FINDINGS; no resolution of U-006 or U-007.
+**Overall status:** INITIAL TEXTUAL FINDINGS; U-006 remains unresolved; U-007 is resolved as recorded in the governing register.
 
 ## 11. Unresolved questions retained
 
