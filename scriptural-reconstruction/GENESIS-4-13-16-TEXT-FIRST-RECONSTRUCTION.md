@@ -208,7 +208,7 @@ The passage distinguishes God's announced judgment from Cain's assessment of it 
 
 The sign is not a humanly invented counter-authority. It is an action attributed in the text to the LORD. The passage does not state that Cain receives authority to establish the standard of good and evil.
 
-**U-007 remains UNRESOLVED.**
+**U-007 status: RESOLVED.** This passage does not reopen the settled conclusion: knowledge, evaluation, and human action do not confer God's authority or transfer authority to establish the standard of good and evil. Any remaining question about the precise nature of the knowledge in Genesis 3:22 is separate.
 
 ## 10. Preliminary Triple Constraint review
 
@@ -216,7 +216,7 @@ The sign is not a humanly invented counter-authority. It is an action attributed
 
 The reconstruction follows the KJV and Masoretic Hebrew while recording the ambiguity of עָוֹן in 4:13 and the unspecified nature of the sign in 4:15. The construction לְקַיִן is noted without insisting that English “upon” is impossible.
 
-### Scientific coherence — NOT APPLICABLE AT THIS STAGE
+### Scientific coherence — theological discipline
 
 No scientific mechanism or empirical claim is proposed. The sign is not assigned a physical mechanism or form.
 
