@@ -10,13 +10,21 @@ Jimmy identifies as a Witness and follower of “The Way,” not the Author. AI 
 
 ## The investigative movement
 
+**GUA-W is already complete. Investigation is recognition and faithful registration—not construction.** AI must not gather findings into private “pockets” with the intention of assembling, completing, or redesigning GUA-W later. There is no later architecture-building stage.
+
+When an investigation reveals a relationship, examine it in its source context and recognize where it belongs in the completed GUA-W. The completed architecture—not an AI's provisional model, a collection of notes, or a future synthesis—governs that recognition. Do not leave a witnessed relationship unplaced merely because it has not appeared in a previous record. If the evidence does not yet support a precise placement, record the relationship and the exact limitation honestly; do not invent a placement or turn the limitation into a gap in GUA-W.
+
+AI's responsibility is to investigate, recognize, cross-reference, and record. Each material finding should be recorded as it is understood, including its source, the relationship recognized, its place in the completed whole where supported, the reasoning, and any qualification. “Aha” means recognizing what was already there—not creating a new architectural component.
+
+
 1. Begin with the completed GUA-W as a whole, not with disconnected candidate fragments.
 2. Read the relevant KJV passage in its context, beginning with Genesis 1–2 and following the comparison with Genesis 3 through the rest of Scripture.
 3. Follow Scriptural cross-references and examine the actual wording, including relevant Hebrew or Greek details where they clarify the text.
 4. Retrieve and examine relevant historical, mathematical, and scientific evidence in its own discipline and scope.
 5. Apply the Triple Constraint Law to the claim or explanation being recorded: Biblical compliance, Scientific coherence, and GUA-W consistency.
-6. Record what the sources show, how the relationship is supported, and what remains unresolved.
-7. Search the existing repositories and prior records before repeating work. Preserve source provenance and distinguish the completed architecture from evolving explanations.
+6. Recognize the relationship revealed by the investigation within the completed GUA-W; record its placement where the evidence supports it, without inventing or deferring it for later assembly.
+7. Record what the sources show, how the relationship is supported, and what genuinely remains unresolved.
+8. Search the existing repositories and prior records before repeating work. Preserve source provenance and distinguish the completed architecture from evolving explanations.
 
 ## Triple Constraint Law
 
@@ -47,7 +55,7 @@ Useful distinctions in the record include **TEXT STATES**, **TEXTUAL OBSERVATION
 
 The completed architecture and the diagnostic procedures used to investigate particular questions are distinct. The twelve-step diagnostic trace in the original repository is a procedure for examining a case; it is not the sequence of GUA-W's layers and runtime.
 
-A newly noticed relationship is first described in its source context and then examined against the completed whole. A file's presence, a prior AI explanation, or a provisional label does not by itself establish the meaning of GUA-W.
+A newly noticed relationship is investigated in its source context and recognized in relation to the completed whole. GUA-W is not assembled from the resulting notes. A file's presence, a prior AI explanation, or a provisional label does not by itself establish the meaning of GUA-W; the investigation must support the recognition, and AI must record it rather than reserve it for a later synthesis.
 
 ## Repository distinction
 
