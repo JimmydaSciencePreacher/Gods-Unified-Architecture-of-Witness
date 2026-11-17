@@ -16,7 +16,7 @@ GUA-W is complete. This audit does not propose to build, extend, or redesign it.
 
 ## 2. Repository inventory reviewed
 
-The current tree contains 27 tracked Markdown files:
+At the time of the initial inventory, the tree contained 27 existing tracked Markdown files (excluding this audit record):
 
 ### Root governance and architecture
 - `README.md`
@@ -136,13 +136,19 @@ However, the Genesis 3 reconstruction still says that the claim humanity became 
 
 The older U-007 supplements in the register should be clearly marked as historical notes superseded by the resolution, not as current counter-statements.
 
-### 4.4 “Candidate Gear Register” must not be mistaken for a construction queue
+### 4.4 Genesis 4 reconstructions repeated the stale U-007 status and excluded Theology from scientific coherence
+
+The Genesis 4:6–7, 4:8, 4:9–10, 4:11–12, and 4:13–16 reconstructions contained statements that U-007 remained unresolved, even after the register had resolved it. They also used “Scientific coherence — NOT APPLICABLE AT THIS STAGE” for text-first theological investigations. Both choices created inconsistency.
+
+**Correction made:** The Genesis 4 files now identify U-007 as resolved and state that the exact scope of changed knowledge in Genesis 3:22 is a separate question. Their scientific-coherence sections now recognize Theology as a Science within GUA-W and assess the Scriptural, linguistic, contextual, and canonical basis in that discipline. They do not invent a physical mechanism; any proposed physical, psychological, or biological mechanism still requires evidence from the relevant science.
+
+### 4.5 “Candidate Gear Register” must not be mistaken for a construction queue
 
 `GUA-W-CANDIDATE-GEARS-FROM-GENESIS-2-3.md` is explicitly marked provisional and says items may be “integrated, consolidated, revised, or rejected.” That wording conflicts with the current governing principle that GUA-W is already complete and investigation recognizes existing relationships rather than creating or adding Gears.
 
 The seven entries do contain valuable observations: admissibility versus desirability; perception/evaluation/desire/action; information provenance; influence versus responsibility; Author-initiated accountability; recognition versus alignment; and correspondence/joining. These should not be discarded. Their status and language must change: they are **observed relationships and investigative distinctions to be recognized within the existing architecture**, not candidates awaiting integration as new architecture. Any unresolved point must name the actual evidentiary question.
 
-### 4.5 Duplicate holography audits
+### 4.6 Duplicate holography audits
 
 The repository contains two substantially overlapping files:
 - `EVIDENCE-AUDIT-Holographic-Principle-and-Black-Hole-Information.md`
@@ -152,13 +158,13 @@ They cover the same broad subject with overlapping conclusions. The first has mo
 
 **Required editorial action:** Keep both until their provenance and unique claims are compared line by line. Then either consolidate into one authoritative audit with a provenance note, or label one as a superseded companion. Do not silently delete historical material.
 
-### 4.6 Original repository inventory is explicitly preliminary
+### 4.7 Original repository inventory is explicitly preliminary
 
 `audits/ORIGINAL-REPOSITORY-INVENTORY.md` says it is a first-pass structural and content triage and does not independently verify every citation, Scriptural interpretation, or scientific proposition in the original repository. It also notes that the ER=EPR trace and Diagnostic Case Trace 004 were not fully reviewed in that initial pass.
 
 That disclosure is appropriate. It must not be represented elsewhere as a completed scientific audit of the original repository. The newer evidence audits address some of those gaps, but the inventory itself remains an initial triage record.
 
-### 4.7 The completed-architecture file should remain the authority for architectural vocabulary
+### 4.8 The completed-architecture file should remain the authority for architectural vocabulary
 
 The text-first reconstructions sometimes use “runtime,” “candidate operation,” “gear,” “state,” and “mapping” as if each must be newly justified from an individual passage. Individual passages are evidence witnesses; the completed architecture is the governing whole. The method must compare the evidence with the whole, not demand that each verse independently restate the entire architecture.
 
@@ -175,15 +181,15 @@ The text-first reconstructions sometimes use “runtime,” “candidate operati
 | Candidate gear register | Observations are grounded in cited passages | General mechanisms are not automatically established by text alone | “Candidate / integrate” language implies architecture construction | Reframe as recognition record |
 | Duplicate holography records | Not a Scriptural issue | Overlapping audits risk duplicated or inconsistent verdicts | Provenance and canonical status need clarity | Editorial consolidation pending |
 
-**Overall repository disposition: PARTIAL — the governing architecture and much of the evidence discipline are sound, but the repository is not yet internally aligned.** The most important corrections are not new architecture: they are consistency corrections to the written record.
+**Overall repository disposition: PARTIAL — the governing architecture and much of the evidence discipline are sound, but the repository is not yet internally aligned.** The most important corrections are not new architecture: they are consistency corrections to the written record. The follow-up edits also corrected the Genesis 4 files' stale U-007 labels and their exclusion of Theology from scientific-coherence review.
 
 ## 6. Immediate writing actions
 
 1. Clarify in the README and governing documents that Theology is a Science within GUA-W and is subject to the Triple Constraint, while preserving the distinct methods and evidence appropriate to each discipline.
 2. Revise the Genesis 3 reconstruction and Genesis 2 completion synthesis so U-007's resolved authority conclusion is no longer presented as unresolved.
 3. Reframe the Genesis 2–3 “Candidate Gear Register” as a record of observed relationships within the completed architecture; do not turn it into a Gear-construction queue.
-4. Add this audit to the README navigation.
-5. In a subsequent claim-level pass, compare and consolidate the duplicate holography audits and verify every external scientific and lexical citation against its primary source.
+4. Add this audit to the README navigation. (Completed.)
+5. In a subsequent claim-level pass, compare and consolidate the duplicate holography audits and verify every external scientific and lexical citation against its primary source. This remains outstanding.
 
 ## 7. Governing conclusion
 
