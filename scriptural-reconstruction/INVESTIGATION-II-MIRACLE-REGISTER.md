@@ -45,6 +45,29 @@
 14. [II.14 — Blind Man at Bethsaida](INVESTIGATION-II-14-BLIND-MAN-BETHSAIDA.md)
 15. [II.15 — Ten Lepers](INVESTIGATION-II-15-TEN-LEPERS.md)
 
+## Current written case studies
+
+1. [II.1 — Cana](INVESTIGATION-II-01-CANA-JOHN-2-1-11.md)
+2. [II.2 — Nobleman's Son](INVESTIGATION-II-02-NOBLEMAN-SON-JOHN-4-46-54.md)
+3. [II.3 — Bethesda](INVESTIGATION-II-03-BETHESDA-JOHN-5-1-18.md)
+4. [II.4 — Feeding the Five Thousand](INVESTIGATION-II-04-FEEDING-FIVE-THOUSAND.md)
+5. [II.5 — Walking on the Sea](INVESTIGATION-II-05-WALKING-ON-SEA.md)
+6. [II.6 — Storm Calmed](INVESTIGATION-II-06-STORM-CALMED.md)
+7. [II.7 — Leper Cleansed](INVESTIGATION-II-07-LEPER-CLEANSED.md)
+8. [II.8 — Paralytic](INVESTIGATION-II-08-PARALYTIC-FORGIVENESS.md)
+9. [II.9 — Woman with Issue of Blood and Jairus' Daughter](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md)
+10. [II.10 — Centurion's Servant](INVESTIGATION-II-10-CENTURION-SERVANT.md)
+11. [II.11 — Widow's Son at Nain](INVESTIGATION-II-11-WIDOW-SON-NAIN.md)
+12. [II.12 — Syrophoenician Woman's Daughter](INVESTIGATION-II-12-SYROPHOENICIAN-DAUGHTER.md)
+13. [II.13 — Deaf Man](INVESTIGATION-II-13-DEAF-MAN-HEALED.md)
+14. [II.14 — Blind Man at Bethsaida](INVESTIGATION-II-14-BLIND-MAN-BETHSAIDA.md)
+15. [II.15 — Ten Lepers](INVESTIGATION-II-15-TEN-LEPERS.md)
+16. [II.16 — Lazarus](INVESTIGATION-II-16-LAZARUS-RAISED.md)
+17. [II.17 — Man Born Blind](INVESTIGATION-II-17-MAN-BORN-BLIND.md)
+18. [II.18 — Gadarene/Gerasene Demoniac](INVESTIGATION-II-18-GADARENE-DEM0NIAC.md)
+19. [II.19 — Feeding the Four Thousand](INVESTIGATION-II-19-FEEDING-FOUR-THOUSAND.md)
+20. [II.20 — Fig Tree](INVESTIGATION-II-20-FIG-TREE.md)
+
 ## Status key
 
 - **WRITTEN** — dedicated event-level study recorded.
@@ -61,8 +84,8 @@
 | Healing at the pool of Bethesda | John 5:1–15 | WRITTEN — [Case study II.3](INVESTIGATION-II-03-BETHESDA-JOHN-5-1-18.md) |
 | Feeding the five thousand | John 6:1–14; parallels Matthew 14, Mark 6, Luke 9 | WRITTEN — [Case study II.4](INVESTIGATION-II-04-FEEDING-FIVE-THOUSAND.md) |
 | Walking on the sea | John 6:16–21; parallels Matthew 14:22–33, Mark 6:45–52 | WRITTEN — [Case study II.5](INVESTIGATION-II-05-WALKING-ON-SEA.md) |
-| Man born blind receives sight | John 9:1–41 | REGISTERED |
-| Raising Lazarus | John 11:1–46 | REGISTERED |
+| Man born blind receives sight | John 9:1–41 | WRITTEN — [Case study II.17](INVESTIGATION-II-17-MAN-BORN-BLIND.md) |
+| Raising Lazarus | John 11:1–46 | WRITTEN — [Case study II.16](INVESTIGATION-II-16-LAZARUS-RAISED.md) |
 | Miraculous catch of fish after resurrection | John 21:1–14 | REGISTERED; compare Luke 5:1–11 carefully |
 
 ## B. Birth, infancy, and events surrounding Jesus' coming
@@ -106,7 +129,7 @@
 | Ten lepers cleansed | Luke 17:11–19 | WRITTEN — [Case study II.15](INVESTIGATION-II-15-TEN-LEPERS.md) |
 | Malchus' ear restored | Luke 22:50–51; John 18:10 | REGISTERED |
 | Healing at Bethesda | John 5:1–15 | REGISTERED |
-| Man born blind | John 9:1–41 | REGISTERED |
+| Man born blind | John 9:1–41 | WRITTEN — [Case study II.17](INVESTIGATION-II-17-MAN-BORN-BLIND.md) |
 | Other grouped healings | Matthew 4:23–24; 8:16–17; 9:35; 12:15; 14:14, 34–36; 15:29–31; 19:2; 21:14; Mark 1:32–34; 3:7–12; 6:53–56; Luke 4:40–41; 6:17–19; 7:21 | GROUPED ACCOUNT |
 
 ## E. Deliverance from devils and unclean spirits
@@ -114,7 +137,7 @@
 | Event | Primary passage(s) | Status |
 |---|---|---|
 | Man in synagogue with unclean spirit | Mark 1:21–28; Luke 4:31–37 | REGISTERED |
-| Gadarene/Gergesenes demoniacs | Matthew 8:28–34; Mark 5:1–20; Luke 8:26–39 | REGISTERED; compare number, setting, and details |
+| Gadarene/Gergesenes demoniacs | Matthew 8:28–34; Mark 5:1–20; Luke 8:26–39 | WRITTEN — [Case study II.18](INVESTIGATION-II-18-GADARENE-DEM0NIAC.md); compare number, setting, and details |
 | Blind and mute demoniac | Matthew 12:22–29; Luke 11:14–23 | REGISTERED |
 | Daughter of Syrophenician woman | Matthew 15:21–28; Mark 7:24–30 | REGISTERED |
 | Lunatic child / spirit causing convulsions | Matthew 17:14–21; Mark 9:14–29; Luke 9:37–43 | REGISTERED |
@@ -130,7 +153,7 @@
 | Storm calmed | Matthew 8:23–27; Mark 4:35–41; Luke 8:22–25 | WRITTEN — [Case study II.6](INVESTIGATION-II-06-STORM-CALMED.md) |
 | Feeding five thousand | Matthew 14:13–21; Mark 6:30–44; Luke 9:10–17; John 6:1–14 | REGISTERED |
 | Walking on water; Peter walks and sinks | Matthew 14:22–33; Mark 6:45–52; John 6:16–21 | REGISTERED |
-| Feeding four thousand | Matthew 15:32–39; Mark 8:1–9 | REGISTERED; keep distinct from feeding five thousand |
+| Feeding four thousand | Matthew 15:32–39; Mark 8:1–9 | WRITTEN — [Case study II.19](INVESTIGATION-II-19-FEEDING-FOUR-THOUSAND.md); distinct from feeding five thousand |
 | Coin in fish's mouth | Matthew 17:24–27 | REGISTERED |
 | Fig tree withered | Matthew 21:18–22; Mark 11:12–14, 20–25 | REGISTERED; compare narrative sequence |
 | Second miraculous catch of fishes | John 21:1–14 | REGISTERED; compare with Luke 5 without assuming identity |
@@ -141,7 +164,7 @@
 |---|---|---|
 | Jairus' daughter | Matthew 9:18–26; Mark 5:21–43; Luke 8:40–56 | REGISTERED |
 | Widow's son at Nain | Luke 7:11–17 | WRITTEN — [Case study II.11](INVESTIGATION-II-11-WIDOW-SON-NAIN.md) |
-| Lazarus | John 11:1–46 | REGISTERED |
+| Lazarus | John 11:1–46 | WRITTEN — [Case study II.16](INVESTIGATION-II-16-LAZARUS-RAISED.md) |
 | Jesus' own resurrection | All four Gospels; Acts 1–2; 1 Corinthians 15 | REGISTERED — distinct central investigation, not treated as an ordinary healing |
 
 ## H. Events surrounding the Passion, death, resurrection, and ascension
@@ -208,4 +231,4 @@ Each event study must include:
 - The Gospels do not all use the same selection, sequence, or terminology. Preserve each writer's presentation.
 - “All” coverage means all identifiable narrated events in the defined scope, together with grouped summaries and explicit acknowledgment of non-exhaustive statements (e.g., John 20:30). It does not mean pretending the Gospels record every work Jesus ever performed.
 
-**Overall status: OPEN.** Fifteen dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
+**Overall status: OPEN.** Twenty dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
