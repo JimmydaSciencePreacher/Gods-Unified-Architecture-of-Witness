@@ -1,8 +1,8 @@
 # Genesis 1:6–13 — Text-First Reconstruction, Unit 2
 
-**Status:** INITIAL TEXTUAL OBSERVATION; architectural mappings remain PROPOSED  
+**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
 **Scope:** KJV Genesis 1:6–13  
-**Method:** Record the narrated sequence before assigning GUA-W stages. This document does not revise canon.
+**Method:** Record the narrated sequence, then recognize its relationship to the established GUA-W where the text supports it. Do not impose a technical mechanism or a one-verse/one-stage formula.
 
 ## Textual observations
 
