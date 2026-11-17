@@ -151,3 +151,12 @@ The study preserves Matthew as the sole canonical Gospel witness to this episode
 **Updated central record:** [Investigation III.1 — The Resurrection of Jesus Christ](INVESTIGATION-III-01-RESURRECTION-OF-JESUS-CHRIST.md)
 
 **Disposition:** A canonical trajectory from Creation through Christ's Resurrection toward the promised renewal of Creation is established by the cited texts. Individual literary allusions are graded by strength. John 20:22 / Genesis 2:7 is retained as a research lead, not declared a GUA-W Gear. No new architecture layer or Gear is established.
+
+
+## Investigation III.2 — Dedicated canonical study
+
+**The Breath of the Risen Christ** — Genesis 2:7; Ezekiel 37:1–14; John 1:1–4; 3:5–8; 7:37–39; 14–16; 19:30, 34–35; 20:19–23; Acts 1–2; Romans 8:11; 1 Corinthians 15:45–49.  
+**Status:** TEXT-FIRST CANONICAL INVESTIGATION WRITTEN; the exact interpretive relationship between John 20:22 and the outpouring at Pentecost remains unresolved.  
+**Record:** [Investigation III.2 — The Breath of the Risen Christ](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
+
+The study records the Hebrew and Greek breath-language; the direct lexical correspondence between John 20:22 and the LXX of Genesis 2:7; Ezekiel 37's restoration vision; the Spirit promises in John; the distinction between Jesus' death in John 19 and His breathing upon the disciples in John 20; the commission and reception in John 20:19–23; the promise, Ascension, outpouring, and witness in Acts 1–2; and the Pauline links in Romans 8:11 and 1 Corinthians 15:45–49. It preserves competing interpretations of John 20:22 / Acts 2, does not invent a physical mechanism, and establishes no new GUA-W layer or Gear.
