@@ -27,6 +27,24 @@
 9. [II.9 — Woman with Issue of Blood and Jairus' Daughter](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md)
 10. [II.10 — Centurion's Servant](INVESTIGATION-II-10-CENTURION-SERVANT.md)
 
+## Current written case studies
+
+1. [II.1 — Cana](INVESTIGATION-II-01-CANA-JOHN-2-1-11.md)
+2. [II.2 — Nobleman's Son](INVESTIGATION-II-02-NOBLEMAN-SON-JOHN-4-46-54.md)
+3. [II.3 — Bethesda](INVESTIGATION-II-03-BETHESDA-JOHN-5-1-18.md)
+4. [II.4 — Feeding the Five Thousand](INVESTIGATION-II-04-FEEDING-FIVE-THOUSAND.md)
+5. [II.5 — Walking on the Sea](INVESTIGATION-II-05-WALKING-ON-SEA.md)
+6. [II.6 — Storm Calmed](INVESTIGATION-II-06-STORM-CALMED.md)
+7. [II.7 — Leper Cleansed](INVESTIGATION-II-07-LEPER-CLEANSED.md)
+8. [II.8 — Paralytic](INVESTIGATION-II-08-PARALYTIC-FORGIVENESS.md)
+9. [II.9 — Woman with Issue of Blood and Jairus' Daughter](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md)
+10. [II.10 — Centurion's Servant](INVESTIGATION-II-10-CENTURION-SERVANT.md)
+11. [II.11 — Widow's Son at Nain](INVESTIGATION-II-11-WIDOW-SON-NAIN.md)
+12. [II.12 — Syrophoenician Woman's Daughter](INVESTIGATION-II-12-SYROPHOENICIAN-DAUGHTER.md)
+13. [II.13 — Deaf Man](INVESTIGATION-II-13-DEAF-MAN-HEALED.md)
+14. [II.14 — Blind Man at Bethsaida](INVESTIGATION-II-14-BLIND-MAN-BETHSAIDA.md)
+15. [II.15 — Ten Lepers](INVESTIGATION-II-15-TEN-LEPERS.md)
+
 ## Status key
 
 - **WRITTEN** — dedicated event-level study recorded.
@@ -81,11 +99,11 @@
 | Woman with issue of blood | Matthew 9:20–22; Mark 5:25–34; Luke 8:43–48 | WRITTEN — [Case study II.9](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md) |
 | Jairus' daughter | Matthew 9:18–26; Mark 5:21–43; Luke 8:40–56 | WRITTEN — [Case study II.9](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md) |
 | Two blind men near Jericho / Bartimaeus | Matthew 20:29–34; Mark 10:46–52; Luke 18:35–43 | REGISTERED; compare location, number, and narrative differences |
-| Deaf man with speech impediment | Mark 7:31–37 | REGISTERED |
-| Blind man at Bethsaida | Mark 8:22–26 | REGISTERED |
+| Deaf man with speech impediment | Mark 7:31–37 | WRITTEN — [Case study II.13](INVESTIGATION-II-13-DEAF-MAN-HEALED.md) |
+| Blind man at Bethsaida | Mark 8:22–26 | WRITTEN — [Case study II.14](INVESTIGATION-II-14-BLIND-MAN-BETHSAIDA.md) |
 | Crippled woman | Luke 13:10–17 | REGISTERED |
 | Man with dropsy | Luke 14:1–6 | REGISTERED |
-| Ten lepers cleansed | Luke 17:11–19 | REGISTERED |
+| Ten lepers cleansed | Luke 17:11–19 | WRITTEN — [Case study II.15](INVESTIGATION-II-15-TEN-LEPERS.md) |
 | Malchus' ear restored | Luke 22:50–51; John 18:10 | REGISTERED |
 | Healing at Bethesda | John 5:1–15 | REGISTERED |
 | Man born blind | John 9:1–41 | REGISTERED |
@@ -122,7 +140,7 @@
 | Event | Primary passage(s) | Status |
 |---|---|---|
 | Jairus' daughter | Matthew 9:18–26; Mark 5:21–43; Luke 8:40–56 | REGISTERED |
-| Widow's son at Nain | Luke 7:11–17 | REGISTERED |
+| Widow's son at Nain | Luke 7:11–17 | WRITTEN — [Case study II.11](INVESTIGATION-II-11-WIDOW-SON-NAIN.md) |
 | Lazarus | John 11:1–46 | REGISTERED |
 | Jesus' own resurrection | All four Gospels; Acts 1–2; 1 Corinthians 15 | REGISTERED — distinct central investigation, not treated as an ordinary healing |
 
@@ -190,4 +208,4 @@ Each event study must include:
 - The Gospels do not all use the same selection, sequence, or terminology. Preserve each writer's presentation.
 - “All” coverage means all identifiable narrated events in the defined scope, together with grouped summaries and explicit acknowledgment of non-exhaustive statements (e.g., John 20:30). It does not mean pretending the Gospels record every work Jesus ever performed.
 
-**Overall status: OPEN.** Ten dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
+**Overall status: OPEN.** Fifteen dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
