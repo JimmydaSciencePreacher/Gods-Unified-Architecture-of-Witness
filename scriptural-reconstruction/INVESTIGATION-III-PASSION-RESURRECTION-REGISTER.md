@@ -79,3 +79,12 @@ Continue the central Resurrection investigation without treating the present ope
 **Record:** [Investigation III.A — The Death and Burial of Jesus Christ](INVESTIGATION-III-A-DEATH-AND-BURIAL-OF-JESUS-CHRIST.md)
 
 The study preserves each Gospel's details, including Mark's centurion inquiry, John's account of the soldiers and the piercing, Joseph's role in all four accounts, Nicodemus in John, the women's observations, and Matthew's separate guard account. It records archaeological and historical context without treating the Yehohanan find as evidence about Jesus' own remains, and it leaves the precise medical mechanism unresolved.
+
+
+## Investigation III.E — Dedicated four-Gospel examination
+
+**The Empty Tomb: What the Witnesses Found** — Matthew 28:1–10; Mark 16:1–8; Luke 24:1–12; John 20:1–18.  
+**Status:** FOUR-GOSPEL COMPARATIVE EXAMINATION WRITTEN; textual, historical, and harmonization questions remain open.  
+**Record:** [Investigation III.E — The Empty Tomb: What the Witnesses Found](INVESTIGATION-III-E-EMPTY-TOMB-FOUR-GOSPEL-EXAMINATION.md)
+
+The study preserves each account's named visitors, timing, stone, messenger(s), responses, and distinctive details. It defines “empty tomb” precisely as the absence of Jesus' body from the place where He was laid, while retaining John's linen cloths and separate head-cloth. It treats Matthew's guard/theft allegation separately, preserves Mark 16:9–20 as a KJV reading with an open textual-critical question, and does not overstate the meaning of John 20:8 or the arrangement of the cloths. No new GUA-W Gear is established.
