@@ -20,13 +20,15 @@ AI's responsibility is to investigate, recognize, cross-reference, and record. E
 1. Begin with the completed GUA-W as a whole, not with disconnected candidate fragments.
 2. Read the relevant KJV passage in its context, beginning with Genesis 1–2 and following the comparison with Genesis 3 through the rest of Scripture.
 3. Follow Scriptural cross-references and examine the actual wording, including relevant Hebrew or Greek details where they clarify the text.
-4. Retrieve and examine relevant historical, mathematical, and scientific evidence in its own discipline and scope.
+4. Retrieve and examine relevant theological, historical, linguistic, mathematical, physical, biological, and other scientific evidence in its own discipline and scope.
 5. Apply the Triple Constraint Law to the claim or explanation being recorded: Biblical compliance, Scientific coherence, and GUA-W consistency.
 6. Recognize the relationship revealed by the investigation within the completed GUA-W; record its placement where the evidence supports it, without inventing or deferring it for later assembly.
 7. Record what the sources show, how the relationship is supported, and what genuinely remains unresolved.
 8. Search the existing repositories and prior records before repeating work. Preserve source provenance and distinguish the completed architecture from evolving explanations.
 
 ## Triple Constraint Law
+
+The three considerations are applied together to every material claim, including theological claims. **Theology is a Science within GUA-W** and is examined through disciplined Scriptural, linguistic, historical, and canonical methods. Physical, biological, mathematical, and other sciences retain their appropriate evidence and methods. The disciplines are distinct in method, not detached from the One Creation or exempt from coherence with one another.
 
 The three considerations are applied together:
 
@@ -43,7 +45,7 @@ Substantial records identify, as applicable:
 - the question or observation;
 - the exact Scriptural passage and translation;
 - source wording and textual observations;
-- historical, linguistic, mathematical, or scientific evidence;
+- theological, historical, linguistic, mathematical, physical, biological, or other scientific evidence;
 - the reasoning connecting the evidence to the observation;
 - the Triple Constraint examination;
 - the limits, counterevidence, and unresolved details;
