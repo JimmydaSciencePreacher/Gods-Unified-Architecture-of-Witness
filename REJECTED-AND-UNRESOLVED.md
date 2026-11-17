@@ -234,3 +234,36 @@ The phrase מִן־הָאֲדָמָה (*min-hāʾădāmāh*) in 4:11 has competi
 The ground's opening its mouth to receive Abel's blood is personification in the narrative. No scientific mechanism or independent moral agency of soil is inferred.
 
 Related record: [Genesis 4:11–12 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-11-12-TEXT-FIRST-RECONSTRUCTION.md).
+
+
+## 16. Evidence update — Genesis 4:13–16 (2026-11-16)
+
+This update supplements U-006 and U-007; neither question is resolved.
+
+### U-006 supplement — Assessment, anticipation, protection, and action
+
+Genesis 4:13–16 records Cain's assessment of the announced judgment, his anticipation of being killed, God's protective response, and Cain's departure to Nod. These are distinct stages and should not be collapsed into a single category called “will.”
+
+The Hebrew עָוֹן (*ʿāwōn*) in 4:13 can mean iniquity, guilt, or punishment. The immediate discourse favors “punishment” in the KJV/NET line of translation, while ancient versions preserve a guilt/forgiveness reading. The verse does not explicitly state repentance or confession.
+
+Cain's fear is expressed as an expectation that anyone finding him will kill him. God responds with a sevenfold vengeance declaration and appoints an אוֹת (*ʾōṯ*, sign) for Cain. The text does not specify the sign's physical form.
+
+**Effect on question:** Distinguish a person's assessment of consequences, anticipated danger, protective intervention, and subsequent action. This is relevant to the components of will but does not define will.
+
+**Status remains:** UNRESOLVED.
+
+### U-007 supplement — Judgment and protection remain distinct
+
+God's protection of Cain does not cancel the previously announced ground-related judgment in the text. The sign is appointed by the LORD; Cain does not establish it or define its function. The narrative distinguishes divine judgment from divine protection within the same episode.
+
+**Status remains:** UNRESOLVED.
+
+### Textual and translation cautions
+
+- עָוֹן (*ʿāwōn*) is semantically broad; the KJV/NET “punishment” is contextual, while the LXX and Vulgate support an interpretation involving guilt/forgiveness.
+- אוֹת (*ʾōṯ*) means sign/token; its specific physical form is not disclosed.
+- The Hebrew construction is לְקַיִן (*lə-Qayin*, “for Cain”); English “upon Cain” is idiomatic. Do not infer exact bodily placement from the English.
+- The MT has לָכֵן (*lāḵēn*, “therefore/in that case”). Some ancient versions differ in the opening of God's reply; the MT/KJV reading is retained as the base text.
+- נוֹד (*Nōḏ*) is a place-name associated by wordplay with wandering; its exact geography is not supplied.
+
+Related record: [Genesis 4:13–16 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-13-16-TEXT-FIRST-RECONSTRUCTION.md).
