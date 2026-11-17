@@ -1,18 +1,22 @@
-# Revised GUA-W
+# God's Unified Architecture of Witness (GUA-W)
 
-A Scripture-grounded presentation and evidence record for the **completed Grand Unified Architecture of Witness (GUA-W)**.
+A Scripture-grounded presentation and evidence record for the **completed God's Unified Architecture of Witness (GUA-W)**.
 
-The purpose of this repository is to **show the completed GUA-W and make visible the evidence in Scripture that supports it**. The architecture is not being built, completed, or redesigned through this investigation. The work is to recognize, explain, and document what is already established.
+The purpose of this repository is to **present the completed GUA-W and make visible how Scripture witnesses to the Author through His unified Creation**. GUA-W has always been established; this work clears accumulated interpretive dust and records what the evidence reveals.
 
-This repository does not replace or silently modify the original GUA-W repository. The original remains the historical source record. This repository presents the completed architecture alongside its Scriptural foundations, textual investigations, evidence audits, explanatory mappings, and clearly identified unresolved questions.
+This repository does not replace or silently modify the original GUA-W repository. The original remains the historical source record. This repository presents the completed architecture first, alongside Scriptural foundations, textual investigations, evidence audits, and explanations that distinguish established architecture from the evolving clarity of its written presentation.
 
-## What this repository must show
+## The completed architecture
+
+- [God's Unified Architecture of Witness — Completed Form](GUA-W-COMPLETED-ARCHITECTURE.md)
+
+## What this repository records
 
 1. **The completed GUA-W** — its established architecture, governing relationships, distinctions, and operations, presented as a coherent whole rather than as a collection of disconnected proposals.
 2. **Its Scriptural evidence** — the relevant passages across Scripture, read in context, with references that allow readers to examine the evidence directly.
 3. **The relationship between the two** — explanations of how the Scriptural evidence supports and illuminates the architecture, while distinguishing what the text states from what is inferred or interpreted.
 
-A missing explanation, an unrecognized relationship, or an incomplete investigation is a limitation in our present understanding or documentation. It is not evidence that the completed GUA-W itself is incomplete.
+A missing explanation, an unrecognized relationship, or an incomplete investigation is a limitation in the present written record. It is not a gap in the completed GUA-W.
 
 ## Governing order
 
@@ -25,8 +29,7 @@ GUA-W is a map or blueprint of Creation, not God or Jesus Christ.
 ## Investigation commitments
 
 - Investigate Scripture as a whole. Allow Scripture to illuminate Scripture; do not confine the investigation to conclusions reached in advance.
-- Use GUA-W as a guide for recognizing relationships, not as a design specification for manufacturing them.
-- Do not invent layers, force sequences, or manufacture Gears to make an explanation fit.
+- Read the completed architecture as a whole; do not mistake separate investigations or explanatory fragments for the architecture itself.
 - Recognize operations, relationships, and distinctions that are already present, even when they have not previously been identified.
 - Take initiative in pursuing relevant Scriptural cross-references and evidence; do not wait for every next question to be supplied.
 - Keep the completed architecture distinct from our evolving explanations and records of it.
