@@ -142,3 +142,12 @@ The study preserves Matthew as the sole canonical Gospel witness to this episode
 **Updated central record:** [Investigation III.1 — The Resurrection of Jesus Christ](INVESTIGATION-III-01-RESURRECTION-OF-JESUS-CHRIST.md)
 
 **Disposition:** The central canonical claim is explicit; historical assessment remains in progress; no physical mechanism is invented; no new GUA-W Gear is established. The empty tomb, appearances, and Ascension remain distinct dedicated studies.
+
+
+## Central Resurrection Investigation — Pass III recorded
+
+**Pass III: The Resurrection in the Light of Genesis 1–2** has been added to the central study. It examines John 1 and Genesis 1; completion language in Genesis 2 and John 19; garden and first-day imagery in John 18–20; John 20:22 and Genesis 2:7; Christ as firstfruits and the Adam–Christ contrast in 1 Corinthians 15; Creation's groaning and future liberation in Romans 8; the Son's creative and sustaining work in Hebrews 1; and the consummation in Revelation 21.
+
+**Updated central record:** [Investigation III.1 — The Resurrection of Jesus Christ](INVESTIGATION-III-01-RESURRECTION-OF-JESUS-CHRIST.md)
+
+**Disposition:** A canonical trajectory from Creation through Christ's Resurrection toward the promised renewal of Creation is established by the cited texts. Individual literary allusions are graded by strength. John 20:22 / Genesis 2:7 is retained as a research lead, not declared a GUA-W Gear. No new architecture layer or Gear is established.
