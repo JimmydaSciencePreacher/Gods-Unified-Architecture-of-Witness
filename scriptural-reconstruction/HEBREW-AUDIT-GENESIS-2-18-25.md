@@ -1,5 +1,7 @@
 # Hebrew Language Audit — Genesis 2:18–25
 
+**GUA-W relationship:** This language audit is a witness to the completed GUA-W, not a proposal to construct or revise it. Record the Hebrew wording and its relationship to established GUA-W distinctions where supported; keep genuine lexical, grammatical, and technical uncertainties specific to the claim under examination.
+
 **Status:** PHASE 2 LANGUAGE AUDIT — INITIAL FINDINGS  
 **Text base:** KJV, compared with the Masoretic Hebrew and selected translation/commentary notes  
 **Scope:** The declaration that man should not be alone; *‘ezer kenegdo*; the animals and naming; the woman's formation and presentation; the man's recognition; cleaving and one flesh; nakedness and absence of shame.
