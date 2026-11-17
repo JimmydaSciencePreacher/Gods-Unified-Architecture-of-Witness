@@ -171,3 +171,36 @@ The Masoretic reading does not preserve the content of Cain's speech to Abel. So
 **Status remains:** UNRESOLVED.
 
 Related record: [Genesis 4:8 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-8-TEXT-FIRST-RECONSTRUCTION.md).
+
+
+## 14. Evidence update — Genesis 4:9–10 (2026-11-16)
+
+This update supplements U-006 and U-007; neither question is resolved.
+
+### U-006 supplement — Knowledge claims, acknowledgment, and responsibility
+
+Genesis 4:9 records Cain's “I know not” (לֹא יָדַעְתִּי, *lōʾ yādaʿtî*) after the preceding narrative has explicitly identified Cain as Abel's killer. In context, this is a false denial, not a neutral instance of lacking information. The lexical root ידע (*yādaʿ*) itself means know/perceive; “lie” or “evade responsibility” is the contextual characterization of Cain's utterance, not the root's dictionary meaning.
+
+Cain then asks whether he is his brother's keeper, using שֹׁמֵר (*šōmēr*) from שמר (*šāmar*). This is the same root used in Genesis 2:15 for Adam's charge to keep/guard the garden. The lexical connection is direct; whether it establishes a wider responsibility motif is a question for further contextual study. Genesis 4:9 does not explicitly assign Cain Adam's garden commission or a formal guardianship office over Abel.
+
+Genesis 4:10 presents Abel's blood as crying out to God. Cain's denial does not alter the event or erase its evidence within the narrative.
+
+**Effect on question:** Distinguish actual knowledge, a person's claim about what they know, truthful acknowledgment, and responsibility. This is relevant to a fuller account of will but does not define will.
+
+**Status remains:** UNRESOLVED.
+
+### U-007 supplement — Reality, knowledge, and assertion
+
+Genesis 4:9–10 does not repeat “know good and evil.” It does depict a false statement about a known event. Cain's assertion does not change what happened; God's question and the blood's cry expose the contradiction.
+
+This supports distinguishing reality from a person's statement about reality. It does not establish a formal theory of authority or resolve the precise meaning of Genesis 3:22.
+
+**Status remains:** UNRESOLVED.
+
+### Textual and lexical cautions
+
+- The Masoretic Hebrew has דְּמֵי (*dəmê*), a plural form (“bloods”); the Septuagint and Vulgate render it with singular “blood.” The plural form is observable, while its precise interpretive force remains debated.
+- The “voice” of the blood is explicit in the Hebrew (קוֹל, *qōl*). The NET's courtroom-witness analogy is commentary, not the lexical meaning of the words.
+- The lexical link between Genesis 2:15 and 4:9 should be noted without claiming the two assignments are identical.
+
+Related record: [Genesis 4:9–10 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-9-10-TEXT-FIRST-RECONSTRUCTION.md).
