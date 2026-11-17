@@ -196,3 +196,25 @@ No candidate is marked PASS as a universal scientific law or established GUA-W G
 - [Genesis 3:1–24 — Text-First Reconstruction](GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
 
 **Provisional conclusion:** Genesis 2–3 supplies several strong textual examples of distinct operations relevant to GUA-W: admissibility under an established command, evaluation followed by action, source tracking, influence and responsibility, recognition and alignment, and correspondence/joining. The architecture must still determine which are independent Gears and which are sub-operations or refinements of existing components. No established GUA-W node is changed by this register.
+
+
+## 11. Candidate: Consequence–Environment–Function Transition
+
+**Primary textual basis:** Genesis 2:7, 2:15; 3:17–19.
+
+**Observed sequence**
+- Man is formed from the dust/ground and receives life from God (Genesis 2:7).
+- Man is placed in the Garden with the assigned work of dressing and keeping it (Genesis 2:15).
+- Following the disobedience, God pronounces the ground cursed in connection with Adam (Genesis 3:17).
+- The ground brings forth thorns and thistles; food is obtained through sorrow and sweat (Genesis 3:17–19).
+- Man is told he will return to the ground from which he was taken (Genesis 3:19).
+
+**Candidate operation:** A consequential action is followed by a changed environmental condition under which an existing function continues with altered conditions and outcomes.
+
+**Provisional formulation:** The function may remain while the conditions of its realization change.
+
+**Architecture relationship:** Potentially connects State, Constraint, Structure, Runtime, and environment. It may be a state transition or consequence-propagation relation rather than a separate Gear.
+
+**Limits:** Genesis identifies the ground as cursed in connection with Adam's action and describes hardship in cultivation. It does not state that all physical laws changed, that every ecological process became wholly different, or that work itself originated with the Fall. Work was assigned in Genesis 2:15 before the Fall. The text distinguishes the prior assignment from the post-Fall conditions.
+
+**Status:** STRONG TEXTUAL BASIS FOR A CHANGED HUMAN–ENVIRONMENT CONDITION; UNIVERSAL ARCHITECTURAL GENERALIZATION UNRESOLVED.
