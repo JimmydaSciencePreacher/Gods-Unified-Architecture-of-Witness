@@ -224,7 +224,7 @@ No scientific mechanism or empirical claim is proposed. The sign is not assigned
 
 The record distinguishes judgment, human assessment, anticipated consequence, divine protection, and subsequent action. No new architectural node or universal law is proposed.
 
-**Overall status:** INITIAL TEXTUAL FINDINGS; U-006 and U-007 remain unresolved.
+**Overall status:** Textual findings recorded; U-006 remains unresolved. U-007 is resolved as stated above. Lexical and translation ambiguities remain where individually identified.
 
 ## 11. Unresolved questions retained
 
@@ -239,7 +239,7 @@ The record distinguishes judgment, human assessment, anticipated consequence, di
 9. What is the force of “sevenfold” in 4:15: literal multiplication, conventional intensification, or a legal deterrent formula?
 10. How does God's protection of Cain coexist with the judgment already announced in 4:11–12?
 11. How do Cain's departure from the presence of the LORD and his settlement east of Eden relate to Adam and Eve's expulsion from the Garden?
-12. What does the sequence contribute to U-006 and U-007 without turning it into a definition or universal law?
+12. What does the sequence contribute to the still-unresolved definition of human will (U-006), without turning it into a universal law? U-007 is resolved and is not reopened by this passage.
 
 ## 12. Sources and references
 
