@@ -1,8 +1,8 @@
 # Genesis 2:18–25 — Text-First Reconstruction, Unit 7
 
-**Status:** INITIAL TEXTUAL OBSERVATION; architectural mappings remain PROPOSED  
+**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
 **Scope:** KJV Genesis 2:18–25  
-**Method:** Preserve the narrated order and wording. Do not force this passage into a preselected model of human identity, relationship, or system integration.
+**Method:** Preserve the narrated order and wording. Recognize the relationships already present in the completed GUA-W without forcing every detail into a preselected technical model of human identity, relationship, or system integration.
 
 ## Genesis 2:18 — Not good for man to be alone
 
