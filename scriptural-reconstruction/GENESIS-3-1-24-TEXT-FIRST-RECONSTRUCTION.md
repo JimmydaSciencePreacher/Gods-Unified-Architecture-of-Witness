@@ -1,13 +1,13 @@
 # Genesis 3:1–24 — Text-First Reconstruction, Unit 8
 
-**Status:** INITIAL TEXTUAL OBSERVATION; theological and architectural interpretations remain PROPOSED or UNRESOLVED as individually marked  
+**Status:** Text-first reconstruction of Genesis 3:1–24; settled conclusions are distinguished from questions that remain open  
 **Scope:** KJV Genesis 3:1–24, read in continuity with Genesis 2:15–25  
-**Question:** What does Genesis 3 actually record about the serpent's communication, human perception and action, changed knowledge, divine judgment, and the guarding of life? Does the chapter define an autonomous human will or describe a transfer of authority?  
+**Question:** What does Genesis 3 actually record about the serpent's communication, human perception and action, changed knowledge, divine judgment, and the guarding of life? What does the chapter record about human perception, desire, action, changed knowledge, and the Author's authority?  
 **Method:** Preserve the KJV as the project's base text. Examine Hebrew forms where they materially clarify the wording. Distinguish direct textual statements, grammatical observations, interpretive proposals, and unanswered questions. Do not import a modern philosophical definition of free will into the passage.
 
 ## 1. Prior work and source discipline
 
-This unit follows the text-first reconstruction of Genesis 2:18–25 and the consolidated Genesis 1–2 findings. It does not revise the foundational principles or promote a new GUA-W node.
+This unit follows the text-first reconstruction of Genesis 2:18–25 and the consolidated Genesis 1–2 findings. It investigates the events in their Scriptural context and recognizes their relationship to the completed GUA-W. It does not create or add an architectural node.
 
 The primary Scriptural text is KJV Genesis 3:1–24. The Hebrew text and grammar are consulted to clarify wording, not to replace the KJV. The NET Bible notes are used as a secondary linguistic and translation resource; their interpretive conclusions are not treated as the text itself. Where grammatical or interpretive options remain, they are recorded rather than silently resolved.
 
@@ -288,7 +288,7 @@ The forms differ:
 The correspondence is real. God acknowledges that man has become like one of “us” with respect to knowing good and evil. The verse does not say that man has become God in every respect, become the Creator, or received God's authority to define the standard of good and evil.
 
 **Unresolved distinction**
-“Knowing good and evil” may involve discernment, evaluative judgment, experiential knowledge, moral knowledge, or another related sense. Usage elsewhere in Scripture can illuminate the expression, but it must be examined passage by passage. The phrase alone does not settle whether humanity acquired an independent authority to establish the standard.
+“Knowing good and evil” may involve discernment, evaluative judgment, experiential knowledge, moral knowledge, or another related sense. Usage elsewhere in Scripture can illuminate the expression, but it must be examined passage by passage. The phrase alone does not define every dimension of the changed knowledge. The separate authority question is resolved: the text records no transfer to humanity of God's authority or of authority to establish the standard.
 
 ### The tree of life
 
@@ -355,7 +355,7 @@ There is also a possible wordplay between the use of שָׁלַח (*šālaḥ*) 
 2. The woman's evaluation may be studied as a movement from receiving a command to assessing the tree under the serpent's competing account. The text does not explicitly formulate a theory of independent moral authority.
 3. Adam's heeding of his wife's voice is identified as part of his transgression. This is more specific than describing the Fall as an undifferentiated “choice.”
 4. The question “Who told thee?” foregrounds the source of Adam's changed awareness, but the narrative does not record Adam identifying an informant.
-5. The knowledge acknowledged in 3:22 is real within the narrative. Its exact nature and relation to moral authority remain unresolved.
+5. The knowledge acknowledged in 3:22 is real within the narrative. Its precise nature and scope remain under investigation; it does not confer God's authority or transfer authority to establish the standard.
 
 ### Architectural proposals not admitted as canon
 - The Fall may involve a disruption in the human relation to God's Word as the governing reference for evaluation and action.
@@ -372,7 +372,7 @@ These are proposals/questions only. None is promoted to a settled GUA-W node by 
 | Genesis 3 records a competing account of God's command, followed by human action contrary to the command. | Directly supported by 3:1–7 and 3:17. | This is a theological scientific claim about communication, the handling of information, and the human response to a competing account. The text is the primary evidence for the narrated event. | Preserves distinction between God's command and human response. | PASS, textual/theological scope |
 | Genesis 3 records seeing, evaluation, desire, heeding, and action as distinguishable features. | Directly supported by 3:6 and 3:17. | This is a claim about human perception, evaluation, desire, and action. The Scriptural sequence is the evidence base; any proposed cognitive or biological mechanisms require separate investigation. | Useful as a question for later architecture; not yet a formal runtime sequence. | PASS, textual/theological scope |
 | God acknowledges a change in human knowledge of good and evil. | Directly stated in 3:22, with a grammatical comparison to 3:5. | This is a theological claim about changed human knowledge and awareness. The text establishes the claim's narrative basis; its full nature remains under investigation. | Does not displace Author primacy. | PASS, textual/theological scope |
-| Humanity thereby becomes the independent author of the standard of good and evil. | Not explicitly stated; 3:22 identifies knowledge, not authorship or transferred authority. | Not assessed. | Would require an argument not supplied by this chapter. | UNRESOLVED |
+| Humanity thereby becomes the independent author of the standard of good and evil. | No such transfer is stated; Genesis 2:16–17 establishes the prior source of the command, and Genesis 3:22 acknowledges changed knowledge, not transferred authority. | Theological claim assessed from the canonical text. | Conflicts with the Author/creature distinction. | FAIL as a GUA-W claim |
 | Genesis 3 provides a complete definition of autonomous will. | The chapter does not define that term or enumerate a complete theory of will. | Not assessed. | A complete mapping is not established. | UNRESOLVED |
 | Adam's heeding of his wife's voice is relevant to the account of his disobedience. | Directly stated in 3:17. | No scientific claim is made. | Supports distinguishing hearing/heeding from mere physical action. | PASS, textual scope only |
 
@@ -397,7 +397,7 @@ Genesis 3 records a sequence in which the serpent questions and contradicts God'
 
 Genesis 3:22 confirms that the man has become like one of “us” in knowing good and evil. It does not state that humanity became the Author, acquired God's authority, or became the independent source of the standard of good and evil. The precise meaning of the acquired knowledge and its relation to human will remain open.
 
-**Overall status:** INITIAL TEXTUAL OBSERVATION; the complete definition of autonomous will and any claim of transferred moral authority remain UNRESOLVED. No established GUA-W principle is changed by this reconstruction.
+**Overall finding:** Genesis 3 records a competing representation of the Author's command, human evaluation and action contrary to that command, changed awareness, accountability, judgment, and altered human/environmental conditions. The conclusion that no authority to establish the standard was transferred is resolved. The full definition and operation of human will, and the precise nature and scope of the changed knowledge in 3:22, remain separate questions. These findings are recognized in relation to the completed GUA-W; they do not create a new architecture.
 
 ## Sources and consultation record
 
