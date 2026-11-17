@@ -1,0 +1,173 @@
+# Investigation II: The Miracles of and Surrounding Jesus
+
+**Record opened:** 2026-11-17  
+**Status:** OPEN — initial Scriptural framing recorded; event-by-event examination and full Triple Constraint review remain in progress.  
+**Governing repository:** Revised-GUA-W  
+**Primary Scriptural text:** King James Version (KJV)
+
+## 1. Purpose
+
+This investigation examines the miracles of Jesus Christ and the events surrounding His earthly ministry as Scripture records them. It asks what the biblical witnesses actually report, how the Gospel writers identify and explain these works, how the events relate to the testimony of the rest of Scripture, and what relationships become recognizable when the evidence is examined within the completed GUA-W.
+
+This is an investigation and written witness-record, not an attempt to construct a new architecture, make Jesus a component of GUA-W, or reduce His identity and works to a physical mechanism.
+
+## 2. Governing order and essential distinction
+
+The governing hierarchy remains:
+
+**Author → Word → Creation → Witness**
+
+God alone is Original Cause. The record of a miracle is not its Author, and the witness who reports it does not acquire the authority of the One who performs it.
+
+The investigation must preserve the unique Scriptural identity of Jesus Christ. John 1:1–14 identifies the Word, declares that the Word was made flesh, and records His dwelling among us. John 14:6 identifies Jesus as the Way, the Truth, and the Life. Hebrews 1:1–3 speaks of the Son as the appointed heir, the One by whom the worlds were made, the brightness of God's glory, the express image of His person, and the One upholding all things by the word of His power. Colossians 1:15–17 and 1 Corinthians 15:45–49 must also be examined in their contexts.
+
+**Jesus is not merely another witness within Creation.** The Gospels present Him as the Christ, the Son of God, and the Word made flesh. GUA-W is God's map/blueprint of Creation; it is not God and is not Jesus Christ. The architecture must never be used to diminish, contain, or replace the One to whom Scripture bears witness.
+
+## 3. Scope of the investigation
+
+The phrase “miracles of and surrounding Jesus” is deliberately broad. The records will distinguish the following groups rather than combine them indiscriminately.
+
+### A. Events surrounding His coming and identity
+
+- The announcements and circumstances of His conception and birth (Matthew 1; Luke 1–2).
+- The star and the visit of the wise men (Matthew 2).
+- The testimony at His baptism, including the descent of the Spirit and the voice from heaven (Matthew 3:13–17; Mark 1:9–11; Luke 3:21–22; John 1:29–34).
+- The temptation and the Scriptural testimony concerning His identity and obedience (Matthew 4:1–11; Luke 4:1–13).
+
+These are not all described by the text with the same word “miracle.” Their classification must follow the passage rather than a modern category imposed upon it.
+
+### B. Works performed by Jesus during His ministry
+
+The Gospel accounts include, among other things:
+
+- Healing sickness, disease, infirmity, blindness, deafness, leprosy, and paralysis.
+- Casting out devils and unclean spirits.
+- Cleansing lepers.
+- Raising the dead.
+- Feeding multitudes.
+- Authority over wind, waves, and the sea.
+- Walking upon the sea.
+- The withering of the fig tree.
+- The provision of the coin in the fish's mouth.
+- The miraculous draughts of fishes.
+- The transformation of water into wine.
+- The healing of the nobleman's son and the centurion's servant.
+- The restoration of the ear of the high priest's servant.
+
+Each event must be examined from its actual Gospel passage, including differences between parallel accounts. No list is to be treated as complete merely because it contains familiar examples.
+
+### C. Signs and events associated with the Passion, death, and resurrection
+
+- The darkness during the crucifixion.
+- The veil of the temple being rent.
+- The earthquake and the opening of graves reported in Matthew 27:45–54.
+- The bodily resurrection of Jesus Christ.
+- The empty tomb and the appearances of the risen Christ.
+- The ascension (Luke 24:50–53; Acts 1:1–11).
+
+The resurrection is not to be flattened into the same category as a healing or nature miracle. Its Scriptural identity and significance must be examined on their own terms.
+
+### D. Works performed by others in Jesus' name
+
+Acts records signs and wonders associated with the apostles and other disciples after Jesus' ascension. These must be distinguished from works performed directly by Jesus. The investigation will examine how the text attributes authority, agency, and testimony in these accounts (for example, Acts 3:1–16; 4:29–31; 5:12–16; 9:32–42; 14:8–10).
+
+The distinction between Christ's own works and works performed by His servants in His name must be preserved.
+
+## 4. First Scriptural observations
+
+These are initial observations from the KJV text, not the final findings of the investigation.
+
+### 4.1 The Gospel writers give the signs an expressed purpose
+
+John 2:11 calls the water-to-wine event the beginning of Jesus' miracles/signs in Cana and says that He manifested forth His glory and His disciples believed on Him.
+
+John 20:30–31 states that many other signs were done in the presence of the disciples which were not written in that book, and that the signs which were written were recorded so that readers might believe that Jesus is the Christ, the Son of God, and have life through His name.
+
+**Direct observation:** At least in John's stated purpose, the signs are not presented as spectacle detached from identity. They bear witness to who Jesus is and direct the reader toward belief and life through His name.
+
+### 4.2 Scripture uses more than one term for these works
+
+The New Testament uses words commonly rendered “miracles,” “signs,” “wonders,” and “mighty works.” Relevant passages include Acts 2:22, John 20:30–31, and Hebrews 2:3–4.
+
+**Investigation requirement:** Greek terms and their contexts must be examined before treating these English terms as exact synonyms. The wording of each passage takes precedence over a generalized label.
+
+### 4.3 Jesus' works are associated with authority
+
+The Gospel narratives repeatedly record Jesus speaking, commanding, touching, sending, forgiving, or otherwise acting with authority. Examples requiring close examination include Matthew 8:1–17, Mark 4:35–41, Mark 5:1–43, Luke 7:1–17, and John 11:1–44.
+
+Matthew 8:27 records the witnesses asking what manner of man this is, that even the winds and the sea obey Him. Mark 2:1–12 connects the healing of the paralytic with the stated purpose of showing that the Son of man hath power on earth to forgive sins.
+
+**Direct observation:** The narratives themselves connect certain works with Jesus' authority and identity. The exact scope of each claim must be established from its passage and context.
+
+### 4.4 Jesus Himself directs attention to the works as testimony
+
+In John 5:36, Jesus speaks of the works given Him by the Father to finish, and says that the works bear witness of Him that the Father hath sent Him. In John 10:25, 10:37–38, He refers to His works in relation to belief and the knowledge that the Father is in Him and He in the Father. In Matthew 11:2–6 and Luke 7:18–23, the works are part of the answer given to the messengers of John the Baptist.
+
+**Direct observation:** Jesus' own recorded words assign testimonial significance to His works. This testimony must be read alongside the wider Scriptural declarations about the Son.
+
+## 5. Initial relationship to Genesis 1–2
+
+Genesis 1–2 remains the foundational Creation account under the repository's governing principles. This investigation will compare, rather than assume equivalence between, the Creation account and the Gospel records.
+
+Questions to examine include:
+
+1. What does Genesis 1–2 state about God's originating Word, command, making, ordering, provision, blessing, and completed work?
+2. What do the Gospel accounts explicitly say about the identity of Jesus, His words, His works, and His authority?
+3. How do John 1:1–3, 1:14; Hebrews 1:1–3; Colossians 1:15–17; and other canonical passages relate the Son to Creation?
+4. When Jesus commands wind, waves, disease, unclean spirits, or death, what does the text itself say happens? What does it not explain?
+5. What is the distinction between the Author's authority, the Word, the created order, and the witness who sees and records?
+6. What does each event reveal in its own context, and what relationship to the completed GUA-W is supported by the evidence?
+
+No one-to-one mapping between an individual miracle and an architectural stage is to be presumed. The completed architecture is considered as a whole; the evidence determines which relationships can be recognized.
+
+## 6. Triple Constraint Law — initial application
+
+Every material claim in this investigation, including theological claims, is subject to all three considerations.
+
+| Constraint | Examination required |
+|---|---|
+| **Biblical compliance** | Read the KJV account in context; compare parallel Gospel accounts; follow relevant Old and New Testament cross-references; distinguish explicit text from inference. |
+| **Scientific coherence** | Represent historical, linguistic, medical, biological, physical, and other evidence accurately within each discipline's methods and limits. Do not claim that a modern experiment reproduces or disproves a unique reported event when it does not address that claim. |
+| **GUA-W consistency** | Preserve God as Original Cause; preserve the distinction between Author, Word, Creation, and derivative witness; do not make a witness the Author; do not redesign or add to the completed architecture. |
+
+Theological investigation is a Science within GUA-W and is not exempt from disciplined examination. Historical and textual claims require appropriate historical, linguistic, and textual evidence. Claims about physical or biological processes require evidence and methods appropriate to those disciplines. Distinct methods must not be confused, and no analogy may be promoted to identity without evidence.
+
+## 7. Evidence labels
+
+Subsequent entries will distinguish:
+
+- **TEXT STATES** — what the KJV passage explicitly says.
+- **TEXTUAL OBSERVATION** — wording, structure, context, and comparison of accounts.
+- **HISTORICAL / LINGUISTIC EVIDENCE** — evidence relevant to authorship, transmission, language, setting, and testimony.
+- **SCIENTIFIC EVIDENCE** — findings within the appropriate scientific discipline.
+- **SUPPORTED INFERENCE** — a conclusion supported by stated evidence but not worded explicitly in the passage.
+- **INTERPRETATION** — an explanatory reading that remains distinguishable from the text.
+- **ANALOGY / CORRESPONDENCE** — a comparison whose limits are stated.
+- **UNRESOLVED** — a question the examined evidence does not decide.
+
+## 8. Questions to keep open
+
+The investigation is not to settle these questions in advance:
+
+- How should the Gospel writers' different groupings and counts of signs and miracles be understood?
+- What is the precise relationship between the signs, the identity of Jesus, the Father's witness, and belief?
+- What does each miracle reveal about authority, command, created conditions, and outcome?
+- Which events are explicitly called signs, wonders, miracles, or mighty works, and which are described without those labels?
+- How do the Gospel accounts relate to Old Testament promises and prophetic testimony?
+- What can historical inquiry establish about the reports, and what remains a theological claim grounded in the canonical witness?
+- How should the resurrection be distinguished from other miracle accounts while remaining within the same investigation of Christ's identity and works?
+- How do the apostolic signs in Acts relate to, and differ from, the works of Jesus Himself?
+
+An unresolved question is not a defect in GUA-W. It is a limit in the present investigation record.
+
+## 9. Initial status
+
+**Investigation II is OPEN.** The governing scope, distinctions, and first Scriptural observations are recorded. No final verdict is assigned to the complete body of miracle accounts. No new GUA-W component is proposed. Event-level examination, Greek word study, historical review, relevant scientific examination, cross-reference work, and individual Triple Constraint dispositions remain to be recorded as the investigation proceeds.
+
+## 10. Governing conclusion for this investigation
+
+The miracles and events surrounding Jesus must be examined as Scripture presents them: not as disconnected curiosities, not as material for an invented mechanism, and not as a means of placing Christ inside a humanly constructed system.
+
+The investigation follows the testimony of Scripture concerning Jesus Christ, the Word made flesh. It records what the witnesses say, examines the evidence, recognizes supported relationships within the completed GUA-W, and preserves what remains unresolved.
+
+**The Author is not the witness. The witness does not become the Author. The works bear testimony to the One Scripture identifies.**
