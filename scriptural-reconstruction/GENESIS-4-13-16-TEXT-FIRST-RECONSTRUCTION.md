@@ -1,6 +1,6 @@
 # Genesis 4:13–16 — Text-First Reconstruction, Unit 13
 
-**Status:** INITIAL TEXTUAL FINDINGS; lexical and translation ambiguities retained; no architectural law admitted  
+**Status:** Text-first investigation; lexical and translation ambiguities retained; observed relationships are recorded in relation to the completed GUA-W  
 **Date:** 2026-11-16  
 **Scope:** KJV Genesis 4:13–16, read with Genesis 3:8–24 and 4:11–12  
 **Questions:** What does Cain say about his punishment? What does he fear? What does God appoint as a sign? What does the text actually identify about the sign? What does Cain's departure mean in the narrative?
@@ -270,7 +270,7 @@ These sources are research aids. Traditional interpretations of the sign and the
 - [Genesis 3:1–24 — Text-First Reconstruction](GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
 - [Rejected and Unresolved Register](../REJECTED-AND-UNRESOLVED.md)
 - U-006 — Definition and components of human will.
-- U-007 — Knowledge of good and evil versus authority to establish its standard.
+- U-007 — RESOLVED: Knowledge of good and evil does not transfer authority to establish its standard.
 
 ## 14. Revision history
 
