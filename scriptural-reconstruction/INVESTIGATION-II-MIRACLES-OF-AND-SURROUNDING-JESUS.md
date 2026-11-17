@@ -192,3 +192,9 @@ The register distinguishes **WRITTEN** case studies from events merely **REGISTE
 - [Case Study II.8 — The Paralytic: Forgiveness and Healing](INVESTIGATION-II-08-PARALYTIC-FORGIVENESS.md)
 - [Case Study II.9 — The Woman with the Issue of Blood and Jairus' Daughter](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md)
 - [Case Study II.10 — The Centurion's Servant](INVESTIGATION-II-10-CENTURION-SERVANT.md)
+
+- [Case Study II.11 — The Widow's Son at Nain](INVESTIGATION-II-11-WIDOW-SON-NAIN.md)
+- [Case Study II.12 — The Daughter of the Syrophoenician Woman](INVESTIGATION-II-12-SYROPHOENICIAN-DAUGHTER.md)
+- [Case Study II.13 — The Deaf Man with a Speech Impediment](INVESTIGATION-II-13-DEAF-MAN-HEALED.md)
+- [Case Study II.14 — The Blind Man at Bethsaida](INVESTIGATION-II-14-BLIND-MAN-BETHSAIDA.md)
+- [Case Study II.15 — Ten Lepers Cleansed; One Returns](INVESTIGATION-II-15-TEN-LEPERS.md)
