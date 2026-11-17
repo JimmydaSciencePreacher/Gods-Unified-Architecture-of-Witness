@@ -146,3 +146,28 @@ Every new entry should include:
 - constraints implicated;
 - related investigations;
 - date and revision history.
+
+
+## 13. Evidence update — Genesis 4:8 (2026-11-16)
+
+This update supplements U-006 and U-007. Neither question is resolved.
+
+### U-006 supplement — Responsibility and action after warning
+
+Genesis 4:8 records Cain speaking to Abel, their being in the field, Cain rising against Abel, and Cain killing him. This follows immediately after God's address and warning in Genesis 4:6–7.
+
+The sequence supports distinguishing emotional condition, divine warning, the desire/opposition described in 4:7, and Cain's subsequent action. It establishes Cain as the grammatical and narrative subject of the hostile rising and killing.
+
+It does not establish a complete definition of will or prove that Cain acted from a philosophically autonomous will. Nor should Genesis 4:8 be described as Cain ruling or failing to rule Abel: the referent of the masculine suffixes in 4:7 remains disputed and is not simply Abel.
+
+**Status remains:** UNRESOLVED.
+
+### U-007 supplement — Conduct and the standard
+
+Genesis 4:8 records Cain's action after God has spoken of doing well and not doing well. It does not say Cain claimed authority to redefine good and evil, nor does it describe his internal reasoning in detail.
+
+The Masoretic reading does not preserve the content of Cain's speech to Abel. Some ancient witnesses include “Let us go out to the field”; this is documented as a textual variant, not silently imported into the KJV quotation.
+
+**Status remains:** UNRESOLVED.
+
+Related record: [Genesis 4:8 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-8-TEXT-FIRST-RECONSTRUCTION.md).
