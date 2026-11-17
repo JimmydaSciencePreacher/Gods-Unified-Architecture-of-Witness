@@ -155,7 +155,7 @@
 | Walking on water; Peter walks and sinks | Matthew 14:22–33; Mark 6:45–52; John 6:16–21 | REGISTERED |
 | Feeding four thousand | Matthew 15:32–39; Mark 8:1–9 | WRITTEN — [Case study II.19](INVESTIGATION-II-19-FEEDING-FOUR-THOUSAND.md); distinct from feeding five thousand |
 | Coin in fish's mouth | Matthew 17:24–27 | REGISTERED |
-| Fig tree withered | Matthew 21:18–22; Mark 11:12–14, 20–25 | REGISTERED; compare narrative sequence |
+| Fig tree withered | Matthew 21:18–22; Mark 11:12–14, 20–25 | WRITTEN — [Case study II.20](INVESTIGATION-II-20-FIG-TREE.md); compare narrative sequence |
 | Second miraculous catch of fishes | John 21:1–14 | REGISTERED; compare with Luke 5 without assuming identity |
 
 ## G. Raising the dead
