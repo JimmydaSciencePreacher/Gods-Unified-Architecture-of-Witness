@@ -26,7 +26,7 @@ This record does not create new revelation, doctrine, or architecture. It identi
 
 **Recognized formulation:** Desirability is not admissibility. Apparent benefit does not override an established constraint.
 
-**Architecture relationship:** Potentially associated with Admissibility and Constraint. It may be a gate or audit operation rather than a new layer.
+**Architecture relationship:** Recognized in relation to Admissibility and Constraint. It may be a gate or audit operation rather than a new layer.
 
 **Limits:** The passage supports the distinction in this narrated event. It does not yet establish a universal algorithm or complete decision procedure for all domains.
 
@@ -67,7 +67,7 @@ This record does not create new revelation, doctrine, or architecture. It identi
 - Adam does not directly identify an informant in his answer; he reports fear, refers to the woman, and admits eating (Genesis 3:10, 12).
 - The woman identifies the serpent's deception and admits eating (Genesis 3:13).
 
-**Candidate operation:** Track the originating source of information, the communicating witness, the recipient, the reported wording, and any difference between the original message and its retelling.
+**Observed operation/distinction:** Track the originating source of information, the communicating witness, the recipient, the reported wording, and any difference between the original message and its retelling.
 
 **Audit questions raised by the text**
 - What is the original source?
@@ -130,7 +130,7 @@ This record does not create new revelation, doctrine, or architecture. It identi
 
 **Candidate operation:** Distinguish recognition of a source from alignment or response to that source. Knowing who is speaking does not by itself establish that the recipient is aligned with the speaker.
 
-**Architecture relationship:** Likely a distinction within existing Witness-state / Alignment concepts rather than a new Gear.
+**Architecture relationship:** A distinction within existing Witness-state / Alignment concepts rather than a new Gear.
 
 **Limits:** This is a textual and theological observation about the narrated response, not a complete theory of alignment.
 
@@ -173,7 +173,7 @@ These observations may describe interacting aspects of the existing Admissibilit
 |---|---|---|---|---|
 | Reference–Admissibility Gate | Supported by Genesis 2:9, 2:16–17; 3:5–6 | Investigable through evaluation, constraints, and decision processes; theological claim remains primary | Preserves Author's Word as reference | Textual relationship recognized; universal mechanism not asserted |
 | Evaluation-to-Action Sequence | Explicit sequence in Genesis 3:6–7 | Human perception and action are legitimate scientific subjects; mechanisms need separate study | Recognized in relation to existing Runtime | Recognized textual relationship; broader mechanism not asserted |
-| Information Provenance / Source Audit | Supported by Genesis 3:1–5, 11–13 | Communication and information provenance are scientifically investigable | Preserves Source/representation distinction | Retain as candidate |
+| Information Provenance / Source Audit | Supported by Genesis 3:1–5, 11–13 | Communication and information provenance are scientifically investigable | Preserves Source/representation distinction | Textual relationship recorded; broader mechanism not asserted |
 | Influence–Action–Responsibility | Supported by Genesis 3:6, 12–13, 17 | Influence and action are investigable; do not overclaim causation | Preserves individual action and accountability | Retain as candidate |
 | Author-Initiated Accountability Encounter | Explicitly narrated in Genesis 3:9–13 | Theological governance claim; no laboratory reduction implied | Preserves Author primacy | Retain as candidate |
 | Recognition–Alignment | Supported by Genesis 3:8–10 | Recognition and response can be investigated; theological scope remains | May refine Witness-state | Recognized in relation to existing Alignment / Witness-state |
@@ -188,7 +188,7 @@ The text-grounded observations are not being held as a construction queue. They 
 3. Compare Influence–Action–Responsibility with other passages where deception, command, knowledge, and action are distinguished.
 4. Test Correspondence–Joining against Jesus' use of Genesis 2:24 in Matthew 19:4–6 and Mark 10:6–9, without turning the marriage passage into a universal mathematical formula.
 5. Compare Recognition–Alignment with the existing GUA-W Witness-state and Alignment definitions before adding any new term.
-6. Test whether the candidates map to existing Runtime operations or reveal a genuinely missing operation.
+6. Compare these observed distinctions with the existing Runtime and State descriptions; do not infer a missing architectural element merely because a passage reveals a previously unrecorded relationship.
 
 ## Source documents
 
@@ -211,7 +211,7 @@ The text-grounded observations are not being held as a construction queue. They 
 
 **Candidate operation:** A consequential action is followed by a changed environmental condition under which an existing function continues with altered conditions and outcomes.
 
-**Provisional formulation:** The function may remain while the conditions of its realization change.
+**Recognized formulation:** The function may remain while the conditions of its realization change.
 
 **Architecture relationship:** Potentially connects State, Constraint, Structure, Runtime, and environment. It may be a state transition or consequence-propagation relation rather than a separate Gear.
 
@@ -234,7 +234,7 @@ The text-grounded observations are not being held as a construction queue. They 
 
 **Provisional formulation:** The existence of a provision does not establish unrestricted access to it. Authorization and access boundaries remain under the Author's authority.
 
-**Architecture relationship:** Recognized in relation to Admissibility, Constraint, Reception, and Governance. It is related to but not identical with the Reference–Admissibility Gate: that candidate examines whether an action conforms to the Author's Word; this candidate examines whether access to a provision is authorized and how an established boundary is maintained.
+**Architecture relationship:** Recognized in relation to Admissibility, Constraint, Reception, and Governance. It is related to but not identical with the Reference–Admissibility Gate: that relationship examines whether an action conforms to the Author's Word; this candidate examines whether access to a provision is authorized and how an established boundary is maintained.
 
 **Limits:** Genesis 3:22–24 explicitly records exclusion and guarding of the way to the tree of life. It does not provide a universal access-control algorithm or explain every possible condition for later access. Revelation 22:1–2 supplies a canonical endpoint for further study, not permission to erase the distinction between the two passages.
 
