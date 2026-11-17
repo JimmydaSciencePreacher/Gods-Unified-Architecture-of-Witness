@@ -186,3 +186,9 @@ The register distinguishes **WRITTEN** case studies from events merely **REGISTE
 - [Case Study II.3 — The Man at Bethesda](INVESTIGATION-II-03-BETHESDA-JOHN-5-1-18.md)
 - [Case Study II.4 — Feeding the Five Thousand](INVESTIGATION-II-04-FEEDING-FIVE-THOUSAND.md)
 - [Case Study II.5 — Jesus Walks on the Sea](INVESTIGATION-II-05-WALKING-ON-SEA.md)
+
+- [Case Study II.6 — The Storm Is Calmed](INVESTIGATION-II-06-STORM-CALMED.md)
+- [Case Study II.7 — The Leper Is Cleansed](INVESTIGATION-II-07-LEPER-CLEANSED.md)
+- [Case Study II.8 — The Paralytic: Forgiveness and Healing](INVESTIGATION-II-08-PARALYTIC-FORGIVENESS.md)
+- [Case Study II.9 — The Woman with the Issue of Blood and Jairus' Daughter](INVESTIGATION-II-09-WOMAN-ISSUE-BLOOD-JAIRUS-DAUGHTER.md)
+- [Case Study II.10 — The Centurion's Servant](INVESTIGATION-II-10-CENTURION-SERVANT.md)
