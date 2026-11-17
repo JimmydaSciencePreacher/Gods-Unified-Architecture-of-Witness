@@ -41,6 +41,8 @@ GUA-W is a map or blueprint of Creation, not God or Jesus Christ.
 
 ## Triple Constraint Law
 
+**Theology is a Science within GUA-W.** Theological claims are subject to the Triple Constraint and are examined through disciplined Scriptural, linguistic, historical, and canonical inquiry. This is a scientific discipline with evidence and methods appropriate to its subject; it is not experimental physics or biology, and that methodological distinction does not place Theology outside Science. Claims about physical, biological, ecological, mathematical, or other created processes must also be examined using the evidence and methods of the relevant sciences. The disciplines investigate the same Creation from distinct perspectives; none becomes the Author or may erase the scope of another.
+
 A claim may be admitted as an accepted GUA-W claim only when it satisfies all three constraints:
 
 1. **Biblical compliance** — consistent with the stated KJV Genesis 1–2 foundation and relevant Scriptural context.
@@ -49,7 +51,7 @@ A claim may be admitted as an accepted GUA-W claim only when it satisfies all th
 
 Failure of any one constraint prevents admission as an accepted claim. A useful hypothesis may remain provisional or unresolved if clearly labelled.
 
-Scientific coherence is not scientific proof of Scripture.
+Scientific coherence does not mean that experimental physics must prove Scripture. It means every claim—including theological claims—must be coherent with the evidence and disciplined method appropriate to its domain, and that cross-domain relationships must preserve the distinctions between those domains.
 
 ## Evidence discipline
 
@@ -86,6 +88,7 @@ A PASS is always scope-limited, not a universal endorsement. These labels descri
 ## Initial navigation
 
 - [Governing Principles](GOVERNING-PRINCIPLES.md)
+- [Repository-Wide Triple Constraint Audit — 2026-11-17](REPOSITORY-WIDE-TRIPLE-CONSTRAINT-AUDIT-2026-11-17.md)
 - [Genesis 1:1–5 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-1-5-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 1:6–13 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-6-13-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 1:14–25 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-14-25-TEXT-FIRST-RECONSTRUCTION.md)
