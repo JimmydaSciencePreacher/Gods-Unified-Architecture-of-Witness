@@ -1,5 +1,7 @@
 # Hebrew Language Audit — Genesis 2:8–14
 
+**GUA-W relationship:** This language audit is a witness to the completed GUA-W, not a proposal to construct or revise it. Record the Hebrew wording and its relationship to established GUA-W distinctions where supported; keep genuine lexical, grammatical, and technical uncertainties specific to the claim under examination.
+
 **Status:** PHASE 2 LANGUAGE AUDIT — INITIAL FINDINGS  
 **Text base:** KJV Genesis 2:8–14, compared with the Masoretic Hebrew and selected translation notes  
 **Purpose:** Examine planting, placing, growth, the two named trees, the river, its division, and the named lands/rivers without turning these details into predetermined GUA-W stages.
