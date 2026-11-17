@@ -96,6 +96,14 @@
 24. [II.24 — Blind Men near Jericho / Bartimaeus](INVESTIGATION-II-24-BARTIMAEUS-JERICHO.md)
 25. [II.25 — First Miraculous Catch of Fishes](INVESTIGATION-II-25-FIRST-CATCH-FISH.md)
 
+## Additional written case studies (26–30)
+
+26. [II.26 — The Woman Bowed Together](INVESTIGATION-II-26-WOMAN-BOWED-TOGETHER.md)
+27. [II.27 — The Man with Dropsy](INVESTIGATION-II-27-MAN-WITH-DROPSY.md)
+28. [II.28 — The Boy Delivered from an Unclean Spirit](INVESTIGATION-II-28-BOY-DELIVERED.md)
+29. [II.29 — The Tribute Money in the Fish's Mouth](INVESTIGATION-II-29-COIN-IN-FISH.md)
+30. [II.30 — The Miraculous Catch after the Resurrection](INVESTIGATION-II-30-SECOND-CATCH-FISH.md)
+
 ## Status key
 
 - **WRITTEN** — dedicated event-level study recorded.
@@ -152,8 +160,8 @@
 | Two blind men near Jericho / Bartimaeus | Matthew 20:29–34; Mark 10:46–52; Luke 18:35–43 | WRITTEN — [Case study II.24](INVESTIGATION-II-24-BARTIMAEUS-JERICHO.md); retain differences |
 | Deaf man with speech impediment | Mark 7:31–37 | WRITTEN — [Case study II.13](INVESTIGATION-II-13-DEAF-MAN-HEALED.md) |
 | Blind man at Bethsaida | Mark 8:22–26 | WRITTEN — [Case study II.14](INVESTIGATION-II-14-BLIND-MAN-BETHSAIDA.md) |
-| Crippled woman | Luke 13:10–17 | REGISTERED |
-| Man with dropsy | Luke 14:1–6 | REGISTERED |
+| Crippled woman | Luke 13:10–17 | WRITTEN — [Case study II.26](INVESTIGATION-II-26-WOMAN-BOWED-TOGETHER.md) |
+| Man with dropsy | Luke 14:1–6 | WRITTEN — [Case study II.27](INVESTIGATION-II-27-MAN-WITH-DROPSY.md) |
 | Ten lepers cleansed | Luke 17:11–19 | WRITTEN — [Case study II.15](INVESTIGATION-II-15-TEN-LEPERS.md) |
 | Malchus' ear restored | Luke 22:50–51; John 18:10 | REGISTERED |
 | Healing at Bethesda | John 5:1–15 | REGISTERED |
@@ -259,4 +267,4 @@ Each event study must include:
 - The Gospels do not all use the same selection, sequence, or terminology. Preserve each writer's presentation.
 - “All” coverage means all identifiable narrated events in the defined scope, together with grouped summaries and explicit acknowledgment of non-exhaustive statements (e.g., John 20:30). It does not mean pretending the Gospels record every work Jesus ever performed.
 
-**Overall status: OPEN.** Twenty-five dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
+**Overall status: OPEN.** Thirty dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
