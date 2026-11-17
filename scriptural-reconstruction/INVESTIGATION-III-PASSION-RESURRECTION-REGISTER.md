@@ -124,3 +124,12 @@ The study preserves the three Synoptic reports, John's omission, the sixth-to-ni
 **Record:** [Investigation III.C — The Veil of the Temple Was Rent](INVESTIGATION-III-C-VEIL-OF-THE-TEMPLE-RENT.md)
 
 The study preserves Synoptic wording and sequence differences, the Old Testament sanctuary boundary, Hebrews' distinct argument concerning Christ's priestly entrance and access through His flesh, and the limits of Second Temple historical reconstruction. The earthquake and opened-graves reports remain separate investigations. No new GUA-W Gear is established.
+
+
+## Investigation III.D — Dedicated examination
+
+**The Earthquake and the Opened Graves** — Matthew 27:51–54; Matthew 28:1–4; Daniel 12:1–3; Ezekiel 37:1–14; John 5:21–29; 1 Corinthians 15:12–28, 35–57.  
+**Status:** MATTHEAN TEXT AND SEQUENCE WRITTEN; physical extent, mechanism, identity, precise raising chronology, and subsequent destiny of the saints remain unresolved. Matthew explicitly says the saints came out of the graves after Jesus' resurrection. Matthew 28:2's earthquake at the tomb is treated as a separate event.  
+**Record:** [Investigation III.D — The Earthquake and the Opened Graves](INVESTIGATION-III-D-EARTHQUAKE-AND-OPENED-GRAVES.md)
+
+The study preserves Matthew as the sole canonical Gospel witness to this episode, distinguishes the opening of graves, the saints' arising, their emergence, and their appearances, and does not invent names, numbers, bodily condition, or later destiny. General archaeology and regional seismicity are context, not event-specific verification. No new GUA-W Gear is established.
