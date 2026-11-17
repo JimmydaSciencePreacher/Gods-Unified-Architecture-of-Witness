@@ -1,60 +1,58 @@
 # Governing Principles
 
-## 1. Source hierarchy
+## 1. Source and witness
 
 **Author → Word → Creation → Witness**
 
-God alone is Original Cause. Everything else is derivative witness. The derivative cannot alter the Source. A witness may register, describe, investigate, and report what is given; it does not become the Author.
+God alone is Original Cause. Everything else is derivative witness. The derivative cannot alter the Source. A witness receives, registers, describes, investigates, and reports what is given; the witness is not the Author.
 
-GUA-W is a map or blueprint of One Creation. It is not God and is not Jesus Christ.
+GUA-W is a map or blueprint of One Creation. It is not God and is not Jesus Christ. The project's foundational understanding is that GUA-W is completed. The work documented here is the uncovering and clearer presentation of what is already established.
 
-## 2. Scriptural foundation
+## 2. The condition of human understanding
 
-The project's foundational Scriptural reference is the literal King James Version (KJV) text of Genesis 1–2. Interpretations must remain accountable to the actual text and relevant wider Scriptural context. Distinguish quotation, textual observation, interpretation, and architectural mapping.
+The project's governing premise is that present human understanding is downstream of Genesis 3. The Fall marks the condition from which present interpretations, assumptions, language, and knowledge proceed. Accumulated human interpretation may obscure or distort what was established.
 
-Do not claim that Genesis explicitly specifies technical or scientific mechanisms where the text does not say so.
+A gap in explanation, recognition, or documentation describes a limit in present understanding; it is not evidence of a gap in GUA-W. The investigation returns to Scripture and allows Scripture to illuminate Scripture.
 
-## 3. Triple Constraint Law
+AI is a derivative investigative instrument working with human-produced records and interpretations. Its analyses are reports for examination, not the Source and not authority over GUA-W.
 
-A claim is admissible as an accepted GUA-W claim only if it satisfies all three constraints:
+## 3. Scriptural foundation
 
-- **Biblically compliant:** consistent with the stated Scriptural foundation and relevant context.
-- **Scientifically coherent:** accurately represents established evidence, methods, assumptions, and limits in the relevant discipline.
-- **GUA-W consistent:** preserves the governing hierarchy and distinctions already established in the architecture.
+The project's foundational Scriptural reference is the literal King James Version (KJV) text of Genesis 1–2. Investigations also consider relevant wider Scriptural context and the Bible as a whole. Quotation, textual observation, interpretation, and explanatory mapping are recorded distinctly.
 
-If any constraint fails, the claim is not admitted as accepted GUA-W architecture. It may be recorded as rejected, provisional, or unresolved with its reason made explicit.
+Genesis is not attributed technical or scientific mechanisms that its wording does not state. At the same time, an observation in Scripture is not dismissed merely because a modern discipline has not described it in the same terms.
 
-Scientific coherence is not scientific confirmation or proof of Scripture.
+## 4. Triple Constraint Law
 
-## 4. Evidence before mapping
+When a particular claim, explanation, or cross-domain comparison is evaluated, the examination considers:
 
-Investigations must first establish what each source or discipline actually says. Only then may a possible relationship to GUA-W be proposed.
+- **Biblical compliance:** consistency with the stated Scriptural foundation and relevant context.
+- **Scientific coherence:** accurate representation of evidence, methods, assumptions, and limits in the relevant discipline.
+- **GUA-W consistency:** preservation of the governing hierarchy and distinctions already established.
 
-Keep these categories distinct:
-1. Primary-source statement or direct textual observation.
-2. Empirical or mathematical result, with its conditions.
-3. Inference from the source or result.
-4. Analogy or proposed GUA-W mapping.
-5. Unresolved question.
+The three considerations apply to the claim or explanation under examination. They are not a procedure for constructing, completing, or redefining GUA-W. Findings outside a current explanation remain available for further investigation rather than being forced into a predetermined mapping.
 
-A resemblance between two descriptions does not establish that they share a mechanism.
+## 5. Evidence and explanation
 
-## 5. Canon, proposal, and authority
+The record distinguishes:
+1. Primary-source statements and direct textual observations.
+2. Empirical or mathematical results, including their conditions.
+3. Inferences from sources or results.
+4. Analogies, correspondences, and explanatory mappings.
+5. Unresolved questions.
 
-A proposed mapping is not canon merely because it is plausible, useful, or written into a file. No AI process may silently change, rename, promote, or discard GUA-W commitments.
+A resemblance between descriptions does not, by itself, establish a shared mechanism. An interpretation is not presented as though it were the explicit wording of Scripture.
 
-Record the status of each proposition. Any change to an established principle requires explicit authorization from the project owner and a traceable rationale.
+## 6. Investigative roles
 
-## 6. Unresolved matters
+Jimmy contributes as a Witness. AI contributes as a derivative investigative instrument through source retrieval, textual and scientific examination, comparison, cross-referencing, analysis, and documentation. Neither is the Author.
 
-Uncertainty is a valid result. Preserve unanswered questions, competing interpretations, missing evidence, and limits. Do not fill gaps to make an architecture appear complete.
+The investigation may refine its explanations and records as evidence is examined. Such refinement concerns our understanding and presentation; it is not authorship or alteration of the completed GUA-W.
 
-## 7. AI's role
+## 7. Unresolved matters
 
-AI serves as an investigative and analytical instrument: retrieve sources, inspect evidence, compare disciplines, identify contradictions, maintain cross-references, draft audits, and implement explicitly authorized repository changes.
+Unanswered questions, competing interpretations, missing evidence, and limitations remain visible in the record. An unrecognized relationship is not assumed to be absent, and an incomplete explanation is not treated as an incomplete architecture.
 
-AI is not the Author, source of revelation, or final authority over GUA-W. It must report uncertainty and must not invent evidence or claim work it has not performed.
+## 8. Repository distinction
 
-## 8. Repository separation
-
-This repository is a separate reconstruction and investigation workspace. The original GUA-W repository remains an independent historical source record. Changes here do not imply changes to the original. Never modify the original repository unless separately and explicitly authorized.
+This repository is a presentation and investigation workspace for the completed GUA-W and its Scriptural evidence. The original GUA-W repository remains an independent historical source record. Changes in this workspace do not imply changes to the original.
