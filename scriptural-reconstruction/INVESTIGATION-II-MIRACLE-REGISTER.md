@@ -122,7 +122,7 @@
 | Walking on the sea | John 6:16–21; parallels Matthew 14:22–33, Mark 6:45–52 | WRITTEN — [Case study II.5](INVESTIGATION-II-05-WALKING-ON-SEA.md) |
 | Man born blind receives sight | John 9:1–41 | WRITTEN — [Case study II.17](INVESTIGATION-II-17-MAN-BORN-BLIND.md) |
 | Raising Lazarus | John 11:1–46 | WRITTEN — [Case study II.16](INVESTIGATION-II-16-LAZARUS-RAISED.md) |
-| Miraculous catch of fish after resurrection | John 21:1–14 | REGISTERED; compare Luke 5:1–11 carefully |
+| Miraculous catch of fish after resurrection | John 21:1–14 | WRITTEN — [Case study II.30](INVESTIGATION-II-30-SECOND-CATCH-FISH.md); compare Luke 5:1–11 carefully |
 
 ## B. Birth, infancy, and events surrounding Jesus' coming
 
@@ -176,8 +176,8 @@
 | Gadarene/Gergesenes demoniacs | Matthew 8:28–34; Mark 5:1–20; Luke 8:26–39 | WRITTEN — [Case study II.18](INVESTIGATION-II-18-GADARENE-DEM0NIAC.md); compare number, setting, and details |
 | Blind and mute demoniac | Matthew 12:22–29; Luke 11:14–23 | REGISTERED |
 | Daughter of Syrophenician woman | Matthew 15:21–28; Mark 7:24–30 | WRITTEN — [Case study II.12](INVESTIGATION-II-12-SYROPHOENICIAN-DAUGHTER.md) |
-| Lunatic child / spirit causing convulsions | Matthew 17:14–21; Mark 9:14–29; Luke 9:37–43 | REGISTERED |
-| Mute spirit cast out | Matthew 9:32–34; Luke 11:14 | REGISTERED; assess relation to parallel/grouped summaries |
+| Lunatic child / spirit causing convulsions | Matthew 17:14–21; Mark 9:14–29; Luke 9:37–43 | WRITTEN — [Case study II.28](INVESTIGATION-II-28-BOY-DELIVERED.md) |
+| Mute spirit cast out | Matthew 9:32–34; Luke 11:14 | WRITTEN — [Case study II.23](INVESTIGATION-II-23-MUTE-DEMONIAC.md); relationship to Luke 11:14 remains open |
 | Mary Magdalene and other women delivered | Luke 8:1–3; Mark 16:9 | REGISTERED; distinguish summary from individual narrated episode |
 
 ## F. Authority over nature, provision, and other signs
@@ -190,9 +190,9 @@
 | Feeding five thousand | Matthew 14:13–21; Mark 6:30–44; Luke 9:10–17; John 6:1–14 | REGISTERED |
 | Walking on water; Peter walks and sinks | Matthew 14:22–33; Mark 6:45–52; John 6:16–21 | REGISTERED |
 | Feeding four thousand | Matthew 15:32–39; Mark 8:1–9 | WRITTEN — [Case study II.19](INVESTIGATION-II-19-FEEDING-FOUR-THOUSAND.md); distinct from feeding five thousand |
-| Coin in fish's mouth | Matthew 17:24–27 | REGISTERED |
+| Coin in fish's mouth | Matthew 17:24–27 | WRITTEN — [Case study II.29](INVESTIGATION-II-29-COIN-IN-FISH.md) |
 | Fig tree withered | Matthew 21:18–22; Mark 11:12–14, 20–25 | WRITTEN — [Case study II.20](INVESTIGATION-II-20-FIG-TREE.md); compare narrative sequence |
-| Second miraculous catch of fishes | John 21:1–14 | REGISTERED; compare with Luke 5 without assuming identity |
+| Second miraculous catch of fishes | John 21:1–14 | WRITTEN — [Case study II.30](INVESTIGATION-II-30-SECOND-CATCH-FISH.md); compare with Luke 5 without assuming identity |
 
 ## G. Raising the dead
 
