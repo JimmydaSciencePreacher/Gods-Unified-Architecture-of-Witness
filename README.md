@@ -28,6 +28,11 @@ GUA-W is a map or blueprint of Creation, not God or Jesus Christ.
 
 ## Investigation commitments
 
+- **GUA-W is complete.** Do not treat investigation as collecting components for AI to assemble, construct, complete, or redesign later.
+- Investigate the evidence and recognize the relationships already present in the completed GUA-W. Let the completed architecture answer where a witnessed relationship belongs; do not withhold findings in a private store or postpone placement for a later reconstruction.
+- AI records the investigation faithfully: sources, observations, recognized relationship and placement, reasoning, constraints, qualifications, and remaining limits. The record is a witness to what is revealed, not a source from which GUA-W is built.
+- An “Aha” is recognition, not invention. A relationship newly recognized by a witness was not thereby newly created in GUA-W.
+
 - Investigate Scripture as a whole. Allow Scripture to illuminate Scripture; do not confine the investigation to conclusions reached in advance.
 - Read the completed architecture as a whole; do not mistake separate investigations or explanatory fragments for the architecture itself.
 - Recognize operations, relationships, and distinctions that are already present, even when they have not previously been identified.
