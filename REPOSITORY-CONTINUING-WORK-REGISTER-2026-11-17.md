@@ -411,3 +411,28 @@ The bounded finding is that Jesus is the acting authority in the signs; human re
 
 **Verification:** all three modified studies were read back successfully after writing. The Investigation II and III registers were updated and read back. README navigation was updated to include the Investigation II governing study and miracle register.
 
+
+
+## 2026-11-18 — Repository-wide rebaseline and current order of work
+
+The repository was re-read from its current recursive Git tree, not from the earlier README list alone. The tree contains 101 entries: 98 files and 3 directories. A complete [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) now indexes every tracked file and establishes a reader's path from governing documents through Scripture, canonical investigations, and evidence audits. README navigation points to that complete map. Its inclusion of a file is navigation, not a declaration that every statement in the file is canonical or fully verified.
+
+### Current work order — supersedes the original 2026-11-17 priority queue
+
+The numbered priorities above preserve the historical audit's work plan. They must not be read as current status without this rebaseline. The following order reflects the repository as read on 2026-11-18:
+
+1. **Continue U-008 — John 20:22 and Acts 2.** The canonical chronology and major Old Testament/Johannine connections are already recorded in Investigation III.2 and the unresolved register. The remaining task is a focused comparison of the strongest interpretive models against the full primary texts, including counter-readings and the distinct questions of timing/extent and function. Do not reopen the entire study or manufacture a one-stage/two-stage conclusion.
+2. **Complete the Genesis 1–2 claim-level pass.** The framing is in place, but the earlier audit explicitly leaves individual lexical, grammatical, and verse-level claims for verification. Proceed from the text and Hebrew audits, not from a desired technical mapping. Record what is explicit, inferred, interpreted, or still unresolved.
+3. **Classify the remaining Investigation II register entries.** Thirty-five dedicated event-level studies exist, but the master register still contains REGISTERED rows. Determine whether each is a discrete event, grouped report, prophecy, angelic direction, non-miracle testimony, or apostolic work before opening files. Keep apostolic agency distinct from Christ's own works.
+4. **Continue Investigation III.1 and III.A–III.G only at their named open questions.** The central Resurrection study and dedicated surrounding-event studies exist. Continue historical, textual-critical, chronology, medical, and physical questions at the scope already identified; do not repeat completed descriptive work.
+5. **Pursue U-001–U-005 as separate architecture-related evidence questions.** Identity/persistence, differentiation/propagation, conditions of persistence, Drift, and cross-domain equivalence remain unresolved in the register. Investigate one precise claim at a time with domain-specific sources; do not turn analogy into identity or silently add definitions to the completed architecture.
+6. **Maintain the Human Will reference work as an integrated body.** HW-001–HW-020 and the canonical synthesis through section 37 are present. Future work should address named remaining questions or genuine source-level gaps, not create duplicate passage entries or reopen resolved U-006/U-007 conclusions. Preserve the limits on chronology where Scripture does not state one.
+7. **Retain, do not prematurely merge, the two holography audits.** Their complementary scope and primary-source verification are documented. Revisit consolidation only if a specific inconsistency, duplication, or provenance issue is demonstrated.
+
+### Rebaseline boundaries
+
+- U-006 is narrowed with its foundational answer recorded; U-007 is resolved. Neither belongs in a generic unresolved queue.
+- U-008 remains unresolved for the specific reasons in REJECTED-AND-UNRESOLVED.md.
+- The Human Will work now contains HW-001 through HW-020; older README wording that said HW-019 was corrected in the README update accompanying the repository map.
+- The repository map is a navigation aid. It does not replace the completed architecture, source texts, individual registers, or Triple Constraint review.
+- No new GUA-W layer, component, Gear, or runtime stage was created by this rebaseline.
