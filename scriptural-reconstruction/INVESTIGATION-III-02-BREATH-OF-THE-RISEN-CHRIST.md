@@ -1604,3 +1604,20 @@ The canonical texts establish the following without requiring a final harmonizat
 - **GUA-W consistency — PASS within scope:** the Father is the source of the promise; the risen Son receives and pours forth the Spirit; the disciples receive, are commissioned, and witness. The derivative witnesses do not become the originating cause or authority.
 
 **Disposition:** The chronology and functional emphases are now compared in one integrated record. This narrows the question but does not resolve U-008. No new GUA-W layer, component, or Gear is created or promoted.
+
+## 28. Integrated relationship — reception, commission, and witness within the one architecture (2026-11-18)
+
+The findings in this study connect directly with Investigation II's distinction between the One who acts and the human witnesses who register the act, and with Investigation III.1's distinction between Christ's Resurrection and the testimony that proclaims it.
+
+John 20:19–23 presents the risen Jesus among His disciples. He shows them His hands and side; they are glad when they see the Lord. He sends them as the Father sent Him, breathes on them, and says, “Receive ye the Holy Ghost.” The scene includes recognition, reception, commission, and the authority statement of verse 23. The text does not identify the disciples as the source of the risen Christ, the Spirit, or the authority entrusted to them.
+
+Luke 24:36–49 and Acts 1:1–8 preserve the risen Lord's opening of understanding, commission, promise of the Father's power, and command to wait. Acts 1:3 explicitly records forty days before the Ascension; Acts 2 records the public outpouring and Spirit-given utterance. The precise relation between John's breathing/reception and Luke–Acts' promise/outpouring remains unresolved in timing, extent, and function. That limit must remain visible.
+
+The integrated order supported by these texts is not an invented mechanism: the risen Christ appears; the disciples see and recognize Him; He sends and commands; the promised Spirit is given in the canonical testimony; the disciples bear witness. The witnesses' reception and proclamation are real, but derivative. They do not author the Resurrection or originate the Spirit's work.
+
+This parallels the miracle records without making the events identical. At Cana, servants obey and convey while Jesus is the source of the sign. In the centurion account, messengers convey the request and verify the healing while Jesus' word is central. At Lazarus' tomb, people remove the stone and graveclothes, but Jesus calls the dead man forth. In John 20 and Acts 1–2, disciples receive, are commissioned, and witness; they are not the originating cause of the risen Christ or the Spirit.
+
+**Reception is not origination. Commission is not authorship. Witness is not the Author.**
+
+No new GUA-W component or chronological sequence beyond the text is proposed. This section integrates established relationships and preserves the unresolved question concerning John 20:22 and Acts 2.
+
