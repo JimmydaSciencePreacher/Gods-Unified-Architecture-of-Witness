@@ -78,7 +78,7 @@ It means that the witness's present knowledge is not the measure of what exists,
 
 ## Relationship to Theology as Queen of the Sciences
 
-The principle also clarifies why the question of ultimate purpose cannot be answered merely by accumulating descriptions of mechanisms. The sciences investigate how differentiated aspects of the One Creation operate; Theology addresses why the Creation exists, who its Author is, and its ultimate purpose and end. This does not deny that individual sciences answer legitimate proximate or functional *why* questions. It distinguishes those domain-specific explanations from the ultimate theological WHY. The disciplines remain distinct in method while belonging to the investigation of one Creation. See [Theology: The Queen of the Sciences](THEOLOGY-QUEEN-OF-THE-SCIENCES.md).
+The principle also clarifies why the ultimate WHY of the One Creation cannot be answered merely by accumulating descriptions of mechanisms. The sciences investigate how differentiated aspects of the One Creation operate; Theology addresses why the Creation exists, who its Author is, and its ultimate purpose and end. This does not deny that individual sciences answer legitimate proximate or functional *why* questions. It distinguishes those domain-specific explanations from the ultimate theological WHY. The disciplines remain distinct in method while belonging to the investigation of one Creation. See [Theology: The Queen of the Sciences](THEOLOGY-QUEEN-OF-THE-SCIENCES.md).
 
 ## Relationship to the completed architecture
 
