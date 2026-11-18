@@ -256,14 +256,112 @@ The Hebrew findings support the plain contrast in the chapter: Israel is address
 
 **Status:** PASS for the narrow finding that the passage commands covenant choice; FAIL for the claim that the command itself proves autonomous human will as the originating cause of spiritual birth or salvation; PARTIAL for broader questions concerning ability and the canonical relation between covenant heart-circumcision and regeneration.
 
-## 9. Initial passage register — not yet adjudicated
+## 9. Entry — HW-003: Joshua 24:14–28
+
+### A. Exact KJV passage
+
+> **Joshua 24:14–28**
+>
+> 14 Now therefore fear the Lord, and serve him in sincerity and in truth: and put away the gods which your fathers served on the other side of the flood, and in Egypt; and serve ye the Lord.
+>
+> 15 And if it seem evil unto you to serve the Lord, choose you this day whom ye will serve; whether the gods which your fathers served that were on the other side of the flood, or the gods of the Amorites, in whose land ye dwell: but as for me and my house, we will serve the Lord.
+>
+> 16 And the people answered and said, God forbid that we should forsake the Lord, to serve other gods;
+>
+> 17 For the Lord our God, he it is that brought us up and our fathers out of the land of Egypt, from the house of bondage, and which did those great signs in our sight, and preserved us in all the way wherein we went, and among all the people through whom we passed:
+>
+> 18 And the Lord drave out from before us all the people, even the Amorites which dwelt in the land: therefore will we also serve the Lord; for he is our God.
+>
+> 19 And Joshua said unto the people, Ye cannot serve the Lord: for he is an holy God; he is a jealous God; he will not forgive your transgressions nor your sins.
+>
+> 20 If ye forsake the Lord, and serve strange gods, then he will turn and do you hurt, and consume you, after that he hath done you good.
+>
+> 21 And the people said unto Joshua, Nay; but we will serve the Lord.
+>
+> 22 And Joshua said unto the people, Ye are witnesses against yourselves that ye have chosen you the Lord, to serve him. And they said, We are witnesses.
+>
+> 23 Now therefore put away, said he, the strange gods which are among you, and incline your heart unto the Lord God of Israel.
+>
+> 24 And the people said unto Joshua, The Lord our God will we serve, and his voice will we obey.
+>
+> 25 So Joshua made a covenant with the people that day, and set them a statute and an ordinance in Shechem.
+>
+> 26 And Joshua wrote these words in the book of the law of God, and took a great stone, and set it up there under an oak, that was by the sanctuary of the Lord.
+>
+> 27 And Joshua said unto all the people, Behold, this stone shall be a witness unto us; for it hath heard all the words of the Lord which he spake unto us: it shall be therefore a witness unto you, lest ye deny your God.
+>
+> 28 So Joshua let the people depart, every man unto his inheritance.
+
+### B. Argument commonly made
+
+The common argument takes Joshua 24:15—“choose you this day whom ye will serve”—as proof that God has given every person an independent Free Will by which he can choose God and thereby originate his own salvation. The people's declaration in verses 16–18 and Joshua's statement in verse 22 that they have chosen the LORD are then used as confirmation.
+
+The passage plainly records a real covenant decision and holds the people accountable for it. But the question is whether the choice between covenant service and idolatry establishes autonomous spiritual ability, or whether Joshua's own warning in verse 19 and the historical/covenantal setting qualify that inference.
+
+### C. Immediate biblical context
+
+Joshua 24 is a covenant-renewal address at Shechem. The chapter opens with Joshua gathering Israel's tribes and recounting the LORD's acts in their history (vv. 1–13): the LORD called Abraham, multiplied his seed, delivered Israel from Egypt, brought them through the wilderness, and gave them the land. The people are not presented with a choice in a historical vacuum. The LORD's prior acts are the foundation of Joshua's appeal.
+
+In verses 14–15, Israel is commanded to fear and serve the LORD, put away other gods, and choose whom they will serve. The alternatives are covenantal allegiance to the LORD or service to the gods associated with their ancestors and the Amorites. Joshua declares his own household's allegiance.
+
+The people answer that they will not forsake the LORD, citing His deliverance and protection (vv. 16–18). Joshua then says, “Ye cannot serve the Lord” (v. 19), explaining that He is holy and jealous and will not bear their transgressions and sins in the manner they appear to assume. He warns that forsaking the LORD for strange gods will bring judgment (v. 20). The people renew their declaration (v. 21). Joshua identifies them as witnesses against themselves that they have chosen the LORD (v. 22), commands them to put away the strange gods among them and incline their hearts to the LORD (v. 23), and records the covenant with a stone as witness (vv. 25–27).
+
+The chapter therefore contains both an explicit choice and an explicit warning about their capacity/fitness to serve the holy and jealous LORD. It is a covenant summons grounded in God's prior historical deliverance, not a direct discourse defining the origin of individual regeneration.
+
+### D. Counter-texts and contextual qualifications
+
+**Joshua 24:19** is the immediate qualification and cannot be passed over. Joshua says, “Ye cannot serve the Lord.” The KJV wording is categorical. Its explanation is covenantal and moral: the LORD is holy and jealous, and He will not bear their transgressions and sins. The next verse warns of judgment if they forsake Him.
+
+The exact force of “cannot” in this warning requires care. The Hebrew uses a form of יָכֹל (*yākōl*), “be able / be capable,” with “serve” as its infinitive. This is genuine ability language. However, the immediate explanation concerns God's holiness, jealousy, and the danger of covenant unfaithfulness. The text does not explicitly define a universal metaphysical inability of every fallen person to perform every act of service, nor does it explain the mechanism of regeneration. Neither may the warning be neutralized as though Joshua did not say “cannot.”
+
+**Joshua 24:23** further qualifies the people's verbal declaration: Joshua commands them to put away the strange gods already among them and incline their heart to the LORD. Their spoken pledge is not treated as sufficient evidence that the covenant problem has disappeared. The presence of foreign gods among them is a concrete issue in the scene.
+
+**Joshua 24:2–13** supplies the controlling prior-action context. The LORD's call, deliverance, preservation, and gift of the land precede this covenant response in the narrative. Israel's choice is a response to the LORD's historical acts; the passage does not portray Israel as the originating cause of its own deliverance.
+
+Deuteronomy 30:6 remains a relevant canonical comparison: the LORD promises to circumcise Israel's heart so that they will love Him. That text must be read in its own restoration context, but it prevents a simplistic claim that the covenant Scriptures speak only of human choice and never of God's action upon the heart.
+
+### E. Original Hebrew findings
+
+- **בָּחַר (*bāḥar*)**, “choose” (vv. 15, 22): the verb describes choosing/selecting. In verse 15, Israel is summoned to choose whom it will serve; in verse 22, Joshua says the people have chosen the LORD for service. The verb establishes choice in the covenant scene. It does not by itself define autonomous spiritual power or the source of regeneration.
+- **עָבַד (*ʿāḇaḏ*)**, “serve” (vv. 14–19, 21–24): the repeated verb concerns service/allegiance. The choice is specifically whom Israel will serve. It is not an abstract choice detached from covenant loyalty and worship.
+- **לֹא תוּכְלוּ (*lōʾ tūḵəlū*)**, “ye cannot” (v. 19): לֹא is the negative particle; תוּכְלוּ is Qal imperfect, second-person masculine plural, from יָכֹל (*yākōl*), “be able, be capable.” The following infinitive לַעֲבֹד (*laʿăḇōḏ*) means “to serve.” The grammar supports the KJV's direct ability wording. Context is required to determine the precise scope and force of the warning.
+- **קְדֹשִׁים (*qədōšîm*)**, “holy” (v. 19): the adjective describes the LORD's holiness; the verse grounds Joshua's warning in who the LORD is.
+- **קַנּוֹא (*qannōʾ*)**, “jealous” (v. 19): describes the LORD's covenant jealousy/exclusive claim. In this covenant context it underscores that Israel cannot combine service to the LORD with rival gods.
+- Verse 23's “incline your heart” is a command addressed to the people. It must be read alongside Joshua's warning in verse 19, not used to erase it.
+
+The Hebrew therefore gives no basis for pretending that the word “choose” is absent or that the word “cannot” is merely an English embellishment. Both are present in the same covenant exchange. Their relationship must be interpreted from the whole scene.
+
+### F. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| Choice/response | ESTABLISHED | Israel is told to choose whom it will serve, and Joshua says they have chosen the LORD (vv. 15, 22). |
+| Covenant responsibility | ESTABLISHED | The people are commanded to put away idols, incline their hearts, and remain faithful; a covenant and witness-stone formalize accountability (vv. 23–27). |
+| Ability | EXPLICITLY QUALIFIED / SCOPE REQUIRES CARE | Joshua says “Ye cannot serve the Lord” (v. 19); the precise scope of this warning must be read in its covenant context. |
+| Willingness | PRESENT IN THE PEOPLE'S DECLARATIONS | They repeatedly say they will serve the LORD (vv. 16–18, 21, 24); Joshua nevertheless confronts the idols among them. |
+| Divine initiative | ESTABLISHED IN THE HISTORICAL NARRATIVE | The LORD called, delivered, preserved, and gave the land before the covenant response (vv. 2–13). |
+| Spiritual regeneration | NOT ESTABLISHED AS A TECHNICAL SUBJECT | The passage addresses covenant allegiance and idolatry, not the mechanics or order of the new birth. |
+| Human will as the originating cause of salvation | NOT ESTABLISHED | The people choose covenant service, but the text does not identify their choice as the originating cause of deliverance, regeneration, or salvation. |
+| Witness/accountability | ESTABLISHED | The people are witnesses against themselves; the stone is set as a covenant witness (vv. 22, 26–27). |
+
+### G. GUA-W Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** The real command to choose and the people's declared choice are preserved. So is Joshua's warning that they cannot serve the LORD, the command to put away idols, and the LORD's prior acts in Israel's history.
+- **Scientific coherence — PASS, within scope.** The Hebrew forms support both the choice language and the ability-negation in verse 19. The entry does not extend either verb beyond the covenant scene without further evidence.
+- **GUA-W consistency — PASS, within scope.** The LORD's prior acts are narrated as the ground of Israel's covenant response. Human choice is a real witness-response and responsibility; it is not presented as the Original Cause of God's deliverance.
+
+**Entry finding:** Joshua 24:15 establishes that Israel is summoned to make a real covenant choice concerning whom it will serve. Verse 22 confirms that the people have chosen the LORD and are witnesses against themselves. But Joshua 24:19 immediately warns, “Ye cannot serve the Lord,” and verses 23–27 expose the continuing demand to put away idols and formalize covenant accountability. The chapter is not a proof that autonomous human Free Will originates salvation. It is a covenant-renewal summons grounded in the LORD's prior deliverance, and it contains a direct warning about the people's capacity and fidelity in serving the holy God.
+
+**Status:** PASS for the existence of covenant choice and responsibility; PARTIAL for the precise scope of “Ye cannot serve the Lord”; FAIL for using this passage alone as proof that independent human will originates spiritual birth or salvation.
+
+## 10. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
 
 | ID | Passage | Initial question to test |
 |---|---|---|
 | HW-002 | Deuteronomy 30:11–20 | COMPLETED — see entry above. |
-| HW-003 | Joshua 24:14–28 | What does “choose you this day” address, and how does Joshua's own assessment in v. 19 qualify the appeal? |
+| HW-003 | Joshua 24:14–28 | COMPLETED — see entry above. |
 | HW-004 | Genesis 3:1–7 | What do seeing, desiring, taking, and eating establish about human action after the command? |
 | HW-005 | John 3:1–8 | What does the birth “of the Spirit” establish about source, necessity, and human capacity? |
 | HW-006 | John 6:35–45, 63–65 | How do coming, believing, the Father's giving/drawing, and the Spirit's quickening relate? |
@@ -278,11 +376,11 @@ The following passages are candidates for investigation because they are commonl
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
-## 10. Related register
+## 11. Related register
 
 The exact KJV English expression **“freewill”** is maintained separately in [KJV Freewill Phrase Register](KJV-FREEWILL-PHRASE-REGISTER.md). It must not be conflated with the wider biblical teaching about choosing, willing, desire, ability, or the philosophical concept of autonomous Free Will.
 
-## 11. Governing question retained
+## 12. Governing question retained
 
 **Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
 
