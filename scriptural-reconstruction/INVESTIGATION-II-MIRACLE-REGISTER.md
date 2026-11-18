@@ -276,3 +276,10 @@ Each event study must include:
 - “All” coverage means all identifiable narrated events in the defined scope, together with grouped summaries and explicit acknowledgment of non-exhaustive statements (e.g., John 20:30). It does not mean pretending the Gospels record every work Jesus ever performed.
 
 **Overall status: OPEN.** Thirty-five dedicated case studies are written. The Passion/Resurrection items formerly listed as REGISTERED are now cross-referenced to their dedicated Investigation III records. Remaining REGISTERED rows are a work queue; some are grouped summaries, prophetic/angelic events, or apostolic works and must be classified before deciding whether each requires an individual case study.
+
+## 2026-11-18 — Integrated witness and authority connection
+
+The governing Investigation II study now includes section 12, integrating the Cana, centurion, and Lazarus case studies with the Creator-authority and Resurrection findings. The entries preserve the distinct narrative settings and do not infer one universal mechanism. Jesus is identified as the acting authority; human requests, obedience, conveyance, observation, reporting, and response remain real but derivative. The raising of Lazarus is not collapsed into Christ's own Resurrection.
+
+**Read-back verified:** Investigation II governing study section 12 is present. The case studies cited are II.1, II.10, and II.16. No new event number or GUA-W component was created.
+
