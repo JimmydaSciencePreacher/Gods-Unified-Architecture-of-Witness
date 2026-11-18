@@ -109,6 +109,8 @@ This register distinguishes genuinely unresolved questions from matters already 
 - John 20:22's Greek breathing verb has a significant lexical correspondence with the LXX of Genesis 2:7; Ezekiel 37 remains a relevant Scriptural breath/Spirit/restoration parallel.
 - The passages establish both the Resurrection-day scene and the later Pentecost event, but do not explicitly state the complete theological relation between them.
 
+**Additional Lukan evidence (Luke 24:36–49; Acts 1:1–8):** The risen Jesus commands the disciples to wait in Jerusalem until they are endued with power from on high (Luke 24:49). Acts records the command to wait for the Father's promise, the promised baptism with the Holy Ghost, and power when the Holy Ghost comes upon them so that they will be witnesses (Acts 1:4–8). Acts 2:32–33 identifies the outpouring with the exalted Jesus' shedding forth of the Father's promise. This establishes a future endowment after the Resurrection; it does **not** explicitly say that no earlier reception or work of the Spirit occurred. The relationship to John 20:22 remains to be demonstrated.
+
 **Questions that must remain distinct:**
 1. **Extent/timing:** anticipatory sign; actual impartation; partial or temporary reception; complete gift; or a staged relation across more than one event.
 2. **Function:** life/new-creation imagery; indwelling; revelation; mission empowerment; prophetic enablement; commissioned ministry; or more than one function.
@@ -122,7 +124,7 @@ This register distinguishes genuinely unresolved questions from matters already 
 
 **Scholarly source:** Adrian P. Rosen, “Interpretive Questions Related to the Gift of the Spirit in John 20:22,” *Journal of the Evangelical Theological Society* 68, no. 2 (2025): 285–97. The article is used as a map of scholarly questions and proposals, not as an authority that settles the biblical interpretation.
 
-**Revision history:** Expanded 2026-11-17 after the scholarly interpretive audit of Investigation III.2. The question remains open pending further canonical, historical, and textual-critical examination.
+**Revision history:** Expanded 2026-11-17 after the scholarly interpretive audit and comparison of Luke 24 / Acts 1 in Investigation III.2. The question remains open pending further canonical, historical, and textual-critical examination.
 
 ## 12. Evidence update — Genesis 4:6–7 (2026-11-16)
 
