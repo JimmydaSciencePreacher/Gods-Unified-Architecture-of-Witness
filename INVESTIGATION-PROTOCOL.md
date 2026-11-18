@@ -38,6 +38,23 @@ The three considerations are applied together:
 
 A claim failing any one consideration is not admitted as an accepted GUA-W claim. Unexamined or incomplete evidence remains unresolved. A label or analogy is not a substitute for examining the evidence itself.
 
+## Cross-disciplinary investigation: recognition, not persuasion
+
+Do not attempt to persuade a scientific discipline to adopt GUA-W as a prerequisite for participation. Investigate each discipline's findings in their own evidentiary and methodological context, then use the completed GUA-W as the governing map for examining whether those findings reveal relationships, common order, or mistaken interpretations.
+
+GUA-W does not need to make the sciences agree with it. The question is whether their findings, properly understood, reveal the unified order of the One Creation. This does not authorize forcing agreement: GUA-W governs the map-level inquiry, while the discipline's evidence, methods, scope, and uncertainty govern what may accurately be said about its findings.
+
+For each cross-disciplinary investigation:
+1. Begin with the discipline's actual question, source material, methods, data, equations, and stated scope.
+2. Separate empirical or mathematical results from the researchers' interpretations and from our own interpretation.
+3. Examine competing explanations, assumptions, limitations, and counterevidence before proposing a GUA-W correspondence.
+4. Apply all three parts of the Triple Constraint to each material claim.
+5. Recognize a relationship in the completed GUA-W only where the evidence supports it. Label analogy as analogy; do not assert a shared mechanism without evidence.
+6. If a finding does not map clearly, conflicts remain, or evidence is insufficient, preserve the issue as unresolved rather than forcing a match or rejecting the disciplinary evidence.
+7. Record the source, scope, reasoning, counterevidence, status, and next discriminating question in the appropriate repository record.
+
+This is an investigative procedure, not a new GUA-W layer or runtime sequence. See [Cross-Disciplinary Investigation Principle](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md).
+
 ## Recording what is witnessed
 
 Substantial records identify, as applicable:
