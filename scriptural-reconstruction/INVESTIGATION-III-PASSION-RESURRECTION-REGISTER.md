@@ -231,3 +231,13 @@ Key canonical connections:
 
 **Disposition:** Strong intertextual connection recorded; the exact relation of John 20:22 to Pentecost remains unresolved; no new GUA-W Gear established.
 
+### Investigation III.2 — Ezekiel 37:15–28 and the Johannine shepherd/gathering witness
+
+The study now follows the dry-bones vision into its immediate continuation. Ezekiel's two sticks are explicitly interpreted as the divided houses of Israel, whom the LORD promises to gather and reunite as one nation under one Davidic shepherd-king, in covenant peace, with His sanctuary among them.
+
+John 10:14–18 presents Jesus as the good shepherd who lays down His life and takes it again, bringing the other sheep into one flock under one shepherd. John 11:51–52 explains Jesus' death as serving the gathering of the scattered children of God into one. These are strong canonical correspondences to Ezekiel's one-shepherd and gathering promises, while the original Israel-restoration setting of Ezekiel remains intact.
+
+**Updated study:** [Investigation III.2 — The Breath of the Risen Christ](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
+
+**Disposition:** The larger restoration horizon of Ezekiel 37 is now recorded; John 20:22's relation to Pentecost remains unresolved; no new GUA-W Gear established.
+
