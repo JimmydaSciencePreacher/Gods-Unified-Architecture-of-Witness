@@ -123,8 +123,8 @@ Preserve genuine lexical and grammatical uncertainty. Recognize supported relati
 ### Priority 6 — Cross-disciplinary evidence verification
 
 1. **Completed 2026-11-17:** Compared the two holography/black-hole-information audits. They overlap but are complementary: one provides a concise thematic review and RT/HRT/reconstruction discussion; the other gives a more granular claim-by-claim treatment, including entropy definitions and AdS/CFT dimensional scope. Both retain PARTIAL status and the same major scientific boundaries. The comparison is recorded in [Comparative Review — Holography and Black-Hole Information Audits](audits/COMPARATIVE-REVIEW-HOLOGRAPHY-BLACK-HOLE-INFORMATION-AUDITS.md). Both source audits are retained pending external claim-level verification; no premature merge or deletion was made.
-2. **Next:** Verify external scientific and lexical citations against primary sources, starting with the area law, AdS/CFT, Ryu-Takayanagi/HRT, Page curve, and quantum-extremal-surface/island results.
-3. Recheck quantum claims at claim level, especially the boundary between established experimental results, interpretations, conjectures, and cross-domain analogy.
+2. **Completed 2026-11-17:** A primary-source verification of the foundational holography and black-hole-information claims is recorded in [Primary-Source Verification — Holography and Black-Hole Information](audits/PRIMARY-SOURCE-VERIFICATION-HOLOGRAPHY-BLACK-HOLE-INFORMATION-2026-11-17.md). It checks Bekenstein and Hawking's distinct historical contributions, Maldacena's scoped conjecture, RT/HRT, quantum extremal surfaces, Page's 1993 conditional argument, and later island/replica-wormhole calculations. Overall status remains PARTIAL: theoretical claims pass only within their stated frameworks; universal screen claims and GUA-W proof claims are not admitted. The README navigation links the new record.
+3. **Next:** Recheck remaining quantum claims at claim level, especially the boundary between established experimental results, interpretations, conjectures, and cross-domain analogy.
 4. Revisit the original repository inventory's explicitly preliminary items, including the ER=EPR trace and Diagnostic Case Trace 004, before carrying forward older verification labels.
 
 ### Priority 7 — Possible Investigation III.3
@@ -139,7 +139,7 @@ A new governing methodological principle has been recorded in [Cross-Disciplinar
 
 - Current root documents explicitly define the name as **God's Unified Architecture of Witness**, and explicitly say the word is “God's,” not “Grand.” This is internally consistent across the current README, Governing Principles, and completed-architecture presentation. It is recorded here as the repository's current governing terminology; do not silently change it.
 - The filename `GUA-W-CANDIDATE-GEARS-FROM-GENESIS-2-3.md` retains the historical word “CANDIDATE,” but its current document title and body say it is a recognition record, not a construction queue. The body governs its current purpose; a filename cleanup is optional editorial work, not an architecture change.
-- Two holography/black-hole-information audits remain in the tree. Their relationship requires comparison before deciding whether one should be retired, merged, or retained for a distinct scope.
+- Two holography/black-hole-information audits remain in the tree. Their relationship has been compared: they are overlapping but complementary and are retained pending any future consolidation justified by source-level work. A separate primary-source verification now records the foundational literature check.
 - The original repository inventory is explicitly preliminary. It must not be described as a complete scientific or claim-level audit of the original repository.
 
 ## 8. Overall disposition
