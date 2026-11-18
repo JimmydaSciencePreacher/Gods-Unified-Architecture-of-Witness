@@ -463,3 +463,59 @@ These passages form a coherent sequence of commission and accomplishment, but th
 The Father gives; the Son is sent; those given come; the Son receives and does not cast out the one who comes; the Son keeps those given Him and gives eternal life; those who believe have everlasting life; and the Son promises to raise them at the last day. The human response is real, but the originating initiative and saving purpose described in these passages belong to the Father and are carried out by the Son.
 
 This is the people-focused dimension of the work given to the Son. It clarifies John 17:4 without making it a fourth completion, and it clarifies the redemptive mission that reaches its climactic declaration at John 19:30. The Resurrection and final raising remain essential to the complete canonical account.
+
+
+## 13. The Father's purpose before the foundation — the given people, the Lamb, and the Book of Life
+
+### 13.1 Return to Genesis 2:1–5
+
+Genesis 2:1–3 declares the heavens, earth, and all their host finished; God ended His work, rested, blessed, and sanctified the seventh day. Genesis 2:4–5 then describes the generations/conditions of the earth before the man is formed in the following narrative. The created order and its completion are God's work, not the product of human willing.
+
+Genesis 2:1–5 does **not** explicitly mention the Book of Life, list names, or narrate the act of writing names. It is the foundation in the created order from which the investigation begins. The wider canon explicitly reveals that God's purpose in Christ precedes the world's foundation.
+
+### 13.2 Christ's purpose precedes His manifestation in time
+
+- **1 Peter 1:19–20:** Christ, as the Lamb without blemish and without spot, “was foreordained before the foundation of the world,” and was manifested in these last times.
+- **Ephesians 1:4–5:** God chose us in Christ before the foundation of the world and speaks of predestination according to the good pleasure of His will.
+- **2 Timothy 1:9:** grace was given us in Christ Jesus before the world began.
+- **Titus 1:2:** eternal life is set within the hope of God's promise, which He promised before the world began.
+- **John 17:5, 24:** the Son speaks of the glory He had with the Father before the world was and of the Father's love for Him before the foundation of the world.
+- **John 17:6, 9, 24:** Jesus speaks of those who were the Father's and were given to Him; He prays for those given Him and speaks of their being with Him to behold His glory.
+
+**Finding:** The Son's mission and the Father's saving purpose are not reactions invented after the Fall. Scripture places Christ's foreordination, God's choosing in Christ, and the promise of grace before the world's foundation. John 17 reveals the Father/Son giving relationship as Jesus speaks from within His earthly mission.
+
+### 13.3 When were names written in the Book of Life?
+
+The relevant texts must be distinguished carefully:
+
+- **Revelation 17:8 (KJV):** speaks of those “whose names were not written in the book of life from the foundation of the world.” This directly relates the status of names in the Book of Life to the foundation of the world.
+- **Revelation 13:8 (KJV):** has a well-known grammatical attachment question: “from the foundation of the world” may be read with the Lamb's being slain or with the names not written. Do not use this verse alone as unqualified proof of either attachment.
+- **Revelation 21:27:** identifies those who enter the holy city as those written in the Lamb's book of life, but does not state the date or moment when their names were written.
+- **Luke 10:20; Philippians 4:3; Hebrews 12:23:** refer to names written in heaven / the book of life, without independently specifying the time of inscription.
+
+**Careful conclusion:** Revelation 17:8 places the non-inscription of the condemned in relation to the foundation of the world; Ephesians 1:4 explicitly places God's choosing in Christ before the foundation; 1 Peter 1:20 explicitly places Christ's foreordination before the foundation. Together these establish pre-creation purpose and election in Christ. They do not give a narrative timestamp for a separate act of writing every individual name. The exact mechanics or moment of inscription should not be invented. Revelation 13:8's grammatical ambiguity must remain visible.
+
+### 13.4 When does the Father give people to the Son?
+
+John 6:37–40 and John 17:1–26 reveal the giving in the Son's earthly mission: the Father gives; those given come; the Son receives, keeps, gives eternal life, and raises them at the last day. These passages disclose the giving from the standpoint of the Son's mission in time. Ephesians 1:4–5, 1 Peter 1:19–20, 2 Timothy 1:9, and Titus 1:2 disclose the prior purpose before the foundation/world began.
+
+Thus the giving is not to be treated as a new plan initiated during Jesus' earthly ministry. The temporal manifestation of the Father's purpose must be distinguished from the purpose's prior establishment.
+
+### 13.5 The answer to the question of “Free Will”
+
+The phrase “free will” is ambiguous and must be defined before it is accepted or rejected.
+
+1. If it means that a human being genuinely perceives, desires, chooses, acts, responds, and is accountable, Genesis 2–3 plainly depicts those realities.
+2. If it means that the human will is an independent, self-originating authority that authors its own life, establishes good and evil as its own standard, or originates God's saving purpose, the cited Scriptures do not support that claim.
+
+Genesis 2 establishes the Creator's prior work, man's received life and appointed place, and God's command and boundary. Genesis 3 narrates human willing—hearing, perceiving, evaluating, desiring, taking, eating, hiding, answering—and God's questioning, judgment, provision, and governance. Human action is real and accountable, but it does not transfer authorship or ultimate authority from Creator to creature.
+
+The New Testament adds that God's choice in Christ precedes the foundation (Ephesians 1:4); Christ was foreordained before the foundation (1 Peter 1:20); grace was given in Christ before the world began (2 Timothy 1:9); the Father gives people to the Son (John 6; John 17); and the Son gives life and raises them. Therefore the human will is a real creaturely capacity, not an independent originating cause or sovereign author.
+
+**Finding:** Scripture does not require us to deny human choosing in order to deny autonomous human sovereignty. Human willing is real, derivative, bounded, and accountable. The will does not author the Source, the created order, the promised Seed, or the Father's purpose in Christ.
+
+### 13.6 GUA-W placement and boundary
+
+This is a Scriptural finding about Creator/creature order and the Father's purpose, not a new GUA-W component. The architecture remains complete. The investigation records the distinction between Original Cause and derivative witness: the Father purposes; the Son is foreordained and sent; creation and history manifest the purpose; Scripture witnesses to what God has revealed.
+
+Do not claim Genesis 2:1–5 explicitly names the Book of Life or records the inscription of names. Do not claim Revelation 13:8 is grammatically unambiguous. Do not turn the real human acts in Genesis 3 into autonomous authorship. Do not turn divine purpose into a claim that the text has given a complete technical chronology of every saving operation.
