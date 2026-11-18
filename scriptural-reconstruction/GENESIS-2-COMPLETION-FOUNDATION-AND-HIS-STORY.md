@@ -391,3 +391,75 @@ The Father gives the work; the Son is sent and accomplishes it; the earthly mini
 
 This preserves the distinct statements and events. “Finished” is not a claim that every later event has already occurred; it is a declaration of the completion of the work in its stated context. The Resurrection is not an optional appendix to the Cross, and the final new Creation is not collapsed into either John 17 or John 19.
 
+
+
+## 12. The Father gives; the Son receives, keeps, and raises — John 6:37–45, 64–65 and John 17
+
+### 12.1 Read John 6 in its discourse
+
+John 6:37–40 must be read within the Bread of Life discourse (6:22–71), not as an isolated formula.
+
+- **6:35:** Jesus identifies Himself as the bread of life and speaks of coming to Him and believing on Him.
+- **6:36:** He identifies the problem of seeing and yet not believing.
+- **6:37:** “All that the Father giveth me shall come to me”; the one coming to Him He will not cast out.
+- **6:38:** Jesus says He came down from heaven not to do His own will, but the will of the One who sent Him.
+- **6:39:** The Father's will is that Jesus lose nothing of all that the Father has given Him, but raise it up again at the last day.
+- **6:40:** The one seeing the Son and believing on Him has everlasting life, and Jesus will raise that one at the last day.
+- **6:44–45:** No man can come to Jesus except the Father who sent Him draw him; the one who has heard and learned of the Father comes to Jesus.
+- **6:64–65:** Jesus identifies unbelief among the hearers and says that no man can come to Him unless it is given to him by the Father.
+
+### 12.2 What the passage explicitly establishes
+
+The passage places several realities together without treating them as rivals:
+
+1. **The Father's giving:** the people are described as given by the Father to the Son (6:37, 39).
+2. **Their coming:** all that the Father gives shall come to the Son (6:37).
+3. **The Son's reception:** the one who comes is not cast out (6:37).
+4. **The Son's commission:** Jesus came to do the will of the Father who sent Him (6:38).
+5. **The Son's keeping and raising:** He is to lose nothing of what the Father has given Him and will raise it at the last day (6:39).
+6. **Human believing:** the one seeing the Son and believing on Him has everlasting life (6:40).
+7. **The Father's drawing and teaching:** coming is not represented as originating in autonomous human capacity; the Father draws, and the one who has heard and learned of the Father comes (6:44–45).
+8. **The Father's enabling/giving:** 6:65 repeats that coming to Jesus is not possible unless it is given by the Father.
+
+The text does not erase the human act of coming or believing. Nor does it present that act as the independent originating cause of the Father's giving, drawing, or the Son's saving work.
+
+### 12.3 John 17 — the same Father/Son relationship in the prayer
+
+John 17 develops the commission and the people given to the Son in the hour before the Passion.
+
+- **17:1–3:** the hour has come; the Father has given the Son authority over all flesh, that He should give eternal life to as many as the Father has given Him. Eternal life is described in relation to knowing the only true God and Jesus Christ whom He sent.
+- **17:4–5:** Jesus says He has glorified the Father on earth and finished the work the Father gave Him; He then speaks of the glory He had with the Father before the world was.
+- **17:6–8:** Jesus has manifested the Father's name to the men given Him out of the world; they were the Father's, were given to the Son, have kept the Father's word, and have received the words given by the Father through the Son.
+- **17:9–11:** Jesus prays for those given Him, speaks of them as the Father's, and asks the Father to keep them in His name.
+- **17:12:** Jesus says He kept those given Him while He was with them; the verse also names “the son of perdition” in connection with the fulfillment of Scripture. The exact relation of this clause to the wording “those that thou gavest me I have kept” should be handled from the verse and its context, not simplified into an unsupported universal formula.
+- **17:20:** Jesus explicitly extends the prayer beyond the immediate disciples to those who will believe on Him through their word.
+- **17:24:** Jesus speaks of those the Father has given Him and desires that they be with Him and behold His glory.
+
+### 12.4 What “given” does and does not mean here
+
+The repeated giving is the Father's action and belongs to the Father's authority and purpose. The Son receives those given, manifests the Father's name and words, keeps them, gives eternal life, and promises their resurrection. The language is not a transfer of authorship from the Father to the Son; it is the Father's commission and the Son's faithful accomplishment within the unity expressed in John's Gospel.
+
+Do not collapse every occurrence of “given” into an identical referent without examining its local context. John 17:6–19 directly concerns the disciples with Jesus; 17:20 explicitly includes later believers through their word; 17:24 speaks of those given to the Son in the prayer's wider scope. The passage itself broadens the prayer's horizon.
+
+### 12.5 The covenant seed line and the people given to the Son must not be conflated
+
+The Old Testament covenant line through Abraham, Isaac, Jacob, Judah, and David is the historical line through which the Messiah came according to the flesh. John 6 and 17, however, are speaking about those the Father gives to the Son and the Son's saving work toward them. These are related within God's one purpose, but they are not interchangeable categories.
+
+Natural descent alone is not equivalent to saving reception:
+- John 8:39–47 distinguishes mere appeal to Abrahamic descent from doing Abraham's works and hearing God's words.
+- Romans 9:6–8 distinguishes Israel according to the flesh from the children of promise.
+- Galatians 3:7, 26–29 explains the children of Abraham in relation to faith in Christ and belonging to Christ.
+
+Therefore, do not say that every physical descendant in the preserved line is thereby one of those given to the Son for eternal life. The preserved covenant line serves the coming of the Messiah; the Father's giving in John 6 and 17 concerns the people whom the Son receives, keeps, and raises.
+
+### 12.6 Relationship to John 17:4 and John 19:30
+
+John 6:37–40 gives the Father's purpose concerning those given to the Son: they come, are received, are not lost, and are raised at the last day. John 17 shows the Son speaking of the authority, people, words, keeping, and work given by the Father as the hour arrives. John 19:28–30 records the climactic Cross declaration, “It is finished.”
+
+These passages form a coherent sequence of commission and accomplishment, but they do not provide a complete chronological chart of every saving operation. Do not infer a precise order of regeneration, faith, or every aspect of salvation from the word “given” alone. The passages establish divine initiative, the Son's commission and keeping, human coming and believing, and promised resurrection. Any more detailed chronology requires explicit additional Scriptural evidence.
+
+### 12.7 Integrated finding
+
+The Father gives; the Son is sent; those given come; the Son receives and does not cast out the one who comes; the Son keeps those given Him and gives eternal life; those who believe have everlasting life; and the Son promises to raise them at the last day. The human response is real, but the originating initiative and saving purpose described in these passages belong to the Father and are carried out by the Son.
+
+This is the people-focused dimension of the work given to the Son. It clarifies John 17:4 without making it a fourth completion, and it clarifies the redemptive mission that reaches its climactic declaration at John 19:30. The Resurrection and final raising remain essential to the complete canonical account.
