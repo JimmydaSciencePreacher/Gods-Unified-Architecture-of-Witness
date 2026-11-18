@@ -354,7 +354,106 @@ The Hebrew therefore gives no basis for pretending that the word “choose” is
 
 **Status:** PASS for the existence of covenant choice and responsibility; PARTIAL for the precise scope of “Ye cannot serve the Lord”; FAIL for using this passage alone as proof that independent human will originates spiritual birth or salvation.
 
-## 10. Initial passage register — not yet adjudicated
+## 10. Entry — HW-004: Genesis 3:1–7
+
+### A. Exact KJV passage
+
+> **Genesis 3:1–7**
+>
+> 1 Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?
+>
+> 2 And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:
+>
+> 3 But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.
+>
+> 4 And the serpent said unto the woman, Ye shall not surely die:
+>
+> 5 For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
+>
+> 6 And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat.
+>
+> 7 And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.
+
+### B. Argument commonly made
+
+This passage is sometimes used to argue that the first humans possessed an independent Free Will that enabled them to choose either obedience or disobedience, and that the Fall therefore originated in an autonomous human decision. Others use Eve's evaluation of the tree and her act of taking and eating to argue that she exercised the authority to determine good and evil for herself.
+
+The passage does show deliberate human action: the woman sees, evaluates, takes, and eats; the man also eats. It does not describe them as physically compelled. But the text must be examined carefully before turning those actions into a complete philosophical account of Free Will, the origin of sin, or the source of salvation.
+
+A second question is whether the decisive change occurred simply when the humans exercised the capacity to choose, or when the serpent challenged God's word and the woman accepted a rival account of what was true, desirable, and to be gained by disobedience. The sequence is explicit; a full theory of the human will is not.
+
+### C. Immediate biblical context
+
+Genesis 3:1–7 follows directly after Genesis 2:15–25. God placed the man in the garden to dress and keep it (2:15), gave him the command concerning the tree of the knowledge of good and evil (2:16–17), formed the woman and brought her to the man (2:18–25), and the man and woman were naked and not ashamed (2:25).
+
+The command in Genesis 2:16–17 is important to the comparison:
+
+> **Genesis 2:16–17**
+>
+> 16 And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:
+>
+> 17 But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.
+
+The command contains both generous permission and a specific prohibition. The serpent's opening question in Genesis 3:1 distorts the emphasis by asking whether God had prohibited eating from every tree. The woman answers that the fruit of the trees may be eaten, but says of the central tree, “Ye shall not eat of it, neither shall ye touch it, lest ye die” (3:2–3). The prohibition against touching is not present in the command as recorded in Genesis 2:16–17. The text does not tell us whether this wording was supplied by the woman, learned from another instruction, or reflects some unrecorded detail; it only records the difference between the two statements.
+
+The serpent then contradicts God's warning: “Ye shall not surely die” (3:4). He offers a rival explanation of God's motive and promises opened eyes and godlike knowledge (3:5). Verse 6 narrates the woman's evaluation and action in three descriptions: the tree was good for food, pleasant to the eyes, and desirable to make one wise. She takes and eats, gives to her husband who is with her, and he eats.
+
+Verse 7 records the immediate result: their eyes are opened, they know they are naked, and they make coverings. The promised opening of eyes occurs, but the result narrated is not the uncomplicated elevation promised by the serpent. Shame and concealment enter the account. The larger consequences continue in Genesis 3:8 onward and must be examined there before claiming that verses 1–7 contain the whole account of the Fall.
+
+### D. Counter-texts and contextual qualifications
+
+**Genesis 2:16–17** is the controlling prior command. The serpent's question and denial must be tested against what God actually said. The text records permission to eat freely from every tree except the specified tree, and a clear death warning concerning disobedience.
+
+**Genesis 3:4–5** records the serpent's direct contradiction and his attribution of motive to God. The claim that God is withholding godlike knowledge is the serpent's speech, not an inspired narrator's confirmation that God acted from jealousy or deception. The narrator records the temptation; readers must not adopt the serpent's accusation as fact.
+
+**Genesis 3:7–13** shows the immediate aftermath in greater detail: opened eyes, awareness of nakedness, hiding, fear, blame, and interrogation. These developments qualify any claim that the act simply produced the promised wisdom in an unambiguously beneficial sense.
+
+**1 Timothy 2:13–14** later states that Adam was not deceived, but the woman being deceived was in the transgression. **2 Corinthians 11:3** refers to the serpent beguiling Eve through subtilty. These later texts add canonical testimony about deception and the distinct roles of Eve and Adam. They do not erase the Genesis narrative's statement that Adam also ate, nor do they make him a passive nonparticipant.
+
+**Romans 5:12–19** places the entrance of sin and death in the world through one man and develops the Adam/Christ contrast. That passage must be examined in its own argument; it prevents reducing the biblical account of the Fall to Eve's act alone.
+
+### E. Original Hebrew findings
+
+- **עָרוּם (*ʿārūm*)**, “subtil” (3:1): the adjective describes the serpent as shrewd/crafty. Genesis 2:25 uses the related-sounding **עֲרוּמִּים (*ʿărummîm*)**, “naked.” The sound-play links the couple's unashamed nakedness at the close of chapter 2 with the serpent's craftiness at the opening of chapter 3. The shared sound does not mean the words have the same meaning.
+- **אַף כִּי (*ʾap kî*)**, introducing the serpent's question (3:1): the expression can carry a questioning or challenging force in context. The serpent's formulation places God's generosity under suspicion by framing the command as a broad restriction.
+- **לֹא תֹאכְלוּ (*lōʾ tōʾḵəlū*)**, “ye shall not eat” (3:3): the woman's report contains the prohibition. Her additional phrase **וְלֹא תִגְּעוּ (*wəlōʾ tigəʿū*)**, “neither shall ye touch,” is not in the wording of Genesis 2:16–17. The difference is textually observable; the reason for the difference is not stated.
+- **לֹא מוֹת תְּמֻתוּן (*lōʾ mōṯ təmutūn*)**, “Ye shall not surely die” (3:4): the serpent directly negates the death warning. The Hebrew uses a negative followed by the infinitive-absolute construction with the finite verb, echoing the emphatic death formulation in Genesis 2:17 while reversing its polarity.
+- **יֹדֵעַ (*yōḏēaʿ*)**, “doth know” (3:5): the serpent asserts that God knows what will happen. This is part of the serpent's accusation and promise, not a narrator-certified explanation of God's motive.
+- **וַתֵּרֶא (*wattērēʾ*)**, “and [the woman] saw” (3:6): a wayyiqtol form narrating the next event in the sequence. What follows is her assessment of the tree.
+- **טוֹב (*ṭōḇ*)**, “good” (3:6): the tree is assessed as good for food. The word “good” here describes the tree's perceived suitability for eating; it does not by itself mean that the woman formally claimed God's authority to define moral good and evil.
+- **תַּאֲוָה (*taʾăwāh*)**, “desire/delight” (3:6): the tree is described as a delight to the eyes. This names attraction or desire, not an independent philosophical faculty.
+- **נֶחְמָד (*neḥmāḏ*)**, “to be desired” (3:6): a Niphal participial form from חָמַד (*ḥāmaḏ*), describing the tree as desirable. The text presents desire as part of the woman's evaluation.
+- **לְהַשְׂכִּיל (*ləhaśkîl*)**, “to make one wise” (3:6): a Hiphil infinitive from שָׂכַל (*śāḵal*), expressing the prospect of gaining insight or becoming wise. The phrase connects the tree's desirability to the serpent's promise of knowledge in verse 5.
+- **וַתִּקַּח (*wattiqqaḥ*)**, “and she took”; **וַתֹּאכַל (*wattōʾḵal*)**, “and she ate”; **וַתִּתֵּן (*wattittēn*)**, “and she gave”; **וַיֹּאכַל (*wayyōʾḵal*)**, “and he ate” (3:6): the narrative chain of wayyiqtol verbs advances the actions in sequence. It records deliberate acts but does not, by grammatical form alone, explain the metaphysical origin of the will or the complete causal process behind the transgression.
+- **עִמָּהּ (*ʿimmāh*)**, “with her” (3:6): the phrase says her husband was with her when she gave him the fruit. It supports his presence in the scene, but the verse does not narrate every preceding moment or specify how long he had been there.
+
+The Hebrew supports the narrative sequence of perception, evaluation/desire, taking, eating, giving, and the man's eating. It also preserves the distinction between what God commanded, what the woman reports, and what the serpent says. The grammar does not by itself establish a comprehensive doctrine of autonomous Free Will.
+
+### F. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| Human choice/action | ESTABLISHED | The woman takes and eats; the man also eats (v. 6). |
+| Responsibility | ESTABLISHED IN THE NARRATIVE, WITH FULL JUDGMENT DEVELOPED LATER | The humans act contrary to the command; the following verses record God's interrogation and consequences. |
+| Ability to choose between actions | ACTION IS RECORDED; GENERAL CAPACITY THEORY NOT DEFINED | They perform the prohibited act; the passage does not offer a philosophical account of the will's capacities. |
+| Desire/willingness | ESTABLISHED AS PART OF THE WOMAN'S EVALUATION | The tree is perceived as good, attractive, and desirable for wisdom (v. 6). |
+| Deception/competing testimony | ESTABLISHED | The serpent questions, contradicts, and promises; later Scripture explicitly describes Eve as deceived. |
+| Authority to define good and evil independently | NOT EXPLICITLY FORMULATED IN THESE VERSES | The tree concerns knowledge of good and evil, but the text does not say in these verses that the woman formally claimed divine authority to define moral categories. |
+| Divine initiative | GOD'S PRIOR COMMAND IS ESTABLISHED | The prohibition precedes the temptation (Gen. 2:16–17). |
+| Spiritual regeneration/salvation | NOT THE SUBJECT OF THIS PASSAGE | Genesis 3:1–7 narrates temptation and transgression, not the origin of saving faith or the new birth. |
+| Human will as the originating cause of salvation | NOT ADDRESSED / NOT ESTABLISHED | The passage concerns the Fall, not the source of salvation. |
+
+### G. GUA-W Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** The record preserves God's original command, the serpent's distortion and contradiction, the woman's recorded evaluation, both humans' eating, and the immediate result. It does not treat the serpent's account of God's motive as truth.
+- **Scientific coherence — PASS, within scope.** Hebrew observations distinguish the words and narrative forms without deriving a complete psychology or metaphysics from lexical glosses. The difference between Genesis 2:16–17 and the woman's quotation in 3:3 is noted without inventing an explanation for it.
+- **GUA-W consistency — PASS, within scope.** God's command precedes the human response. The humans are witnesses/agents who act within an order they did not author. Their choice is real, but the passage does not grant them authorship of the command or authority to revise what God said.
+
+**Entry finding:** Genesis 3:1–7 records a progression from the serpent's challenge to God's word, through a competing account of God's command and motive, to the woman's evaluation and desire, her taking and eating, and the man's eating. The text establishes human action, desire, deception, and transgression. It does not say that the mere possession of choice is itself the Fall, nor does it provide a complete philosophical definition of Free Will. The distinction between choosing an action and claiming authority to redefine God's word is a supported line of inquiry, but the stronger claim that the woman formally assumed divine authority to define good and evil is not explicitly stated in these seven verses. The tree's promised knowledge, the serpent's lie, and the human evaluation must be examined in the wider Genesis 2–3 context.
+
+**Status:** PASS for the narrated sequence of temptation, desire, choice, and transgression; PARTIAL for the precise relationship between deception, desire, and volition; NOT ESTABLISHED for a comprehensive philosophical doctrine of autonomous Free Will; NOT THE SUBJECT for the origin of regeneration or salvation.
+
+## 11. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
 
@@ -362,7 +461,7 @@ The following passages are candidates for investigation because they are commonl
 |---|---|---|
 | HW-002 | Deuteronomy 30:11–20 | COMPLETED — see entry above. |
 | HW-003 | Joshua 24:14–28 | COMPLETED — see entry above. |
-| HW-004 | Genesis 3:1–7 | What do seeing, desiring, taking, and eating establish about human action after the command? |
+| HW-004 | Genesis 3:1–7 | COMPLETED — see entry above. |
 | HW-005 | John 3:1–8 | What does the birth “of the Spirit” establish about source, necessity, and human capacity? |
 | HW-006 | John 6:35–45, 63–65 | How do coming, believing, the Father's giving/drawing, and the Spirit's quickening relate? |
 | HW-007 | Romans 9:6–24 | What does “not of him that willeth, nor of him that runneth” mean in Paul's argument and context? |
@@ -376,11 +475,11 @@ The following passages are candidates for investigation because they are commonl
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
-## 11. Related register
+## 12. Related register
 
 The exact KJV English expression **“freewill”** is maintained separately in [KJV Freewill Phrase Register](KJV-FREEWILL-PHRASE-REGISTER.md). It must not be conflated with the wider biblical teaching about choosing, willing, desire, ability, or the philosophical concept of autonomous Free Will.
 
-## 12. Governing question retained
+## 13. Governing question retained
 
 **Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
 
