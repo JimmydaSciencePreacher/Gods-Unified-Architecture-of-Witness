@@ -135,6 +135,11 @@ The following update supplements U-006. The U-007 notes are historical evidence 
 
 **Constraint on interpretation:** Any proposed account must explain the relation among the promised Spirit in John 7, the departure and Comforter sayings, the breathing and command in John 20:22, and the future endowment in Luke 24 / Acts 1–2. Do not claim that the Spirit did not exist before the Cross; do not make John 19:30 alone prove a Spirit impartation; do not collapse glorification into only one instant without accounting for John's narrative.
 
+
+**Earlier Johannine Spirit testimony (John 1:32–34; 3:5–8, 34):** John records the Spirit descending and remaining upon Jesus and the Baptist's testimony identifying Jesus as the one who baptizes with the Holy Ghost. Jesus teaches that birth from water and Spirit is necessary for entrance into the kingdom, and that the Spirit's action is not controlled by the human observer. These passages establish that the Spirit's activity and teaching precede John 20:22; they do not by themselves settle the nature or timing of the disciples' later reception.
+
+**Interpretive cautions:** John 1:33's wording identifies the Spirit-baptizer, but scholars debate whether the Gospel depicts this as direct bestowal or as the effect of Jesus' Spirit-endowed ministry. John 3:5's “water” has more than one proposed interpretation. The KJV's “unto him” in John 3:34 should be read with the Greek syntax and immediate context. None of these debates removes the explicit statements; they constrain claims about their precise mechanism or function.
+
 ### U-006 supplement — Human will, responsibility, desire, and mastery
 
 **New evidence reviewed:** Genesis 4:6–7, in continuity with Genesis 4:1–8 and Genesis 3:16–17.
