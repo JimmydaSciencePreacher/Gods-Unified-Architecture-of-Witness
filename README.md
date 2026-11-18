@@ -94,6 +94,10 @@ A PASS is always scope-limited, not a universal endorsement. These labels descri
 6. Record material changes with rationale and provenance.
 7. Keep the original repository unchanged unless its owner separately authorizes a specific change.
 
+## Complete repository map and reading order
+
+The [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) inventories every tracked file and presents the recommended path through the governing documents, completed architecture, Scriptural foundations, canonical investigations, and scientific audits. Use it as the full index; the shorter links below remain the principal entry points.
+
 ## Initial navigation
 
 - [Governing Principles](GOVERNING-PRINCIPLES.md)
@@ -147,5 +151,5 @@ A file's presence here does not, by itself, make its contents canonical.
 
 ## Human Will and Salvation Reference Work
 
-- [The Biblical Examination of the Human Will](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md) — includes HW-001 through HW-019, with a retrospective canonical cross-reference completion audit and entry-level synchronization for all nineteen entries; section numbering and the completed passage register were also corrected; HW-007 now includes a full-context Romans 9–11 quality-control review; HW-001 has an expanded canonical review of divine drawing, granting, Gospel means, and faith. Romans 9:6–24 is examined once in HW-007; John 6:35–45, 63–65 is examined once in HW-006; 1 Peter 1:1–5 is examined once in HW-018; Titus 3:3–7 is examined once in HW-019.
+- [The Biblical Examination of the Human Will](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md) — includes HW-001 through HW-020, with a retrospective canonical cross-reference completion audit and entry-level synchronization for all nineteen entries; section numbering and the completed passage register were also corrected; HW-007 now includes a full-context Romans 9–11 quality-control review; HW-001 has an expanded canonical review of divine drawing, granting, Gospel means, and faith. Romans 9:6–24 is examined once in HW-007; John 6:35–45, 63–65 is examined once in HW-006; 1 Peter 1:1–5 is examined once in HW-018; Titus 3:3–7 is examined once in HW-019.
 - [KJV “Freewill” Phrase Register](scriptural-reconstruction/KJV-FREEWILL-PHRASE-REGISTER.md)
