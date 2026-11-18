@@ -122,7 +122,8 @@ Preserve genuine lexical and grammatical uncertainty. Recognize supported relati
 
 ### Priority 6 — Cross-disciplinary evidence verification
 
-1. Compare the two holography/black-hole-information audits, identify shared and unique claims, check provenance, and consolidate only after the claim-level comparison.
+1. **Completed 2026-11-17:** Compared the two holography/black-hole-information audits. They overlap but are complementary: one provides a concise thematic review and RT/HRT/reconstruction discussion; the other gives a more granular claim-by-claim treatment, including entropy definitions and AdS/CFT dimensional scope. Both retain PARTIAL status and the same major scientific boundaries. The comparison is recorded in [Comparative Review — Holography and Black-Hole Information Audits](audits/COMPARATIVE-REVIEW-HOLOGRAPHY-BLACK-HOLE-INFORMATION-AUDITS.md). Both source audits are retained pending external claim-level verification; no premature merge or deletion was made.
+2. **Next:** Verify external scientific and lexical citations against primary sources, starting with the area law, AdS/CFT, Ryu-Takayanagi/HRT, Page curve, and quantum-extremal-surface/island results.
 2. Verify external scientific and lexical citations against primary sources.
 3. Recheck quantum claims at claim level, especially the boundary between established experimental results, interpretations, conjectures, and cross-domain analogy.
 4. Revisit the original repository inventory's explicitly preliminary items, including the ER=EPR trace and Diagnostic Case Trace 004, before carrying forward older verification labels.
