@@ -130,6 +130,11 @@ This register distinguishes genuinely unresolved questions from matters already 
 
 The following update supplements U-006. The U-007 notes are historical evidence records and are superseded by the resolution above.
 
+
+**Further Johannine evidence (John 7:37–39; 12:23–33; 13:1, 31–32; 16:5–7; 17:1–5; 19:30–37):** John explicitly identifies the living-water promise with the Spirit believers were to receive and relates that reception to Jesus' glorification (7:39). The KJV's word “given” is supplied in italics; the shorter Greek wording is “the Spirit was not yet.” This does not mean the Spirit did not exist or act before Jesus' glorification; John has already described the Spirit's activity (1:32–33; 3:5–8). The Cross is central to John's glorification language, while Jesus' departure/return to the Father is also connected with the Comforter's coming (16:7). John 19:30 primarily records Jesus' death; whether it also carries a proleptic Spirit-gift resonance is debated and remains unproven as its primary meaning.
+
+**Constraint on interpretation:** Any proposed account must explain the relation among the promised Spirit in John 7, the departure and Comforter sayings, the breathing and command in John 20:22, and the future endowment in Luke 24 / Acts 1–2. Do not claim that the Spirit did not exist before the Cross; do not make John 19:30 alone prove a Spirit impartation; do not collapse glorification into only one instant without accounting for John's narrative.
+
 ### U-006 supplement — Human will, responsibility, desire, and mastery
 
 **New evidence reviewed:** Genesis 4:6–7, in continuity with Genesis 4:1–8 and Genesis 3:16–17.
