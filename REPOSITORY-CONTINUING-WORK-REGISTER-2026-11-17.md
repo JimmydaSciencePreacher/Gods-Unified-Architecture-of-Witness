@@ -172,7 +172,9 @@ The reference work requires every entry to preserve the exact KJV passage, the a
 
 **Second entry recorded:** HW-002, Deuteronomy 30:11–20. The entry confirms that Israel is genuinely commanded to choose life and is accountable under the covenant, while reading that command alongside Deuteronomy 30:6, where the LORD promises to circumcise the heart so that Israel will love Him. The immediate context concerns covenant restoration, obedience, blessing, curse, and life in the promised land. The command to choose does not, by itself, establish autonomous human will as the originating cause of spiritual birth or salvation. The broader relation between this heart-circumcision and later regeneration language remains open.
 
-**Next passage:** HW-003, Joshua 24:14–28, with particular attention to Joshua 24:19 and the covenant setting of “choose you this day.”
+**Third entry recorded:** HW-003, Joshua 24:14–28. The entry preserves both the command to choose whom Israel will serve and Joshua's warning, “Ye cannot serve the Lord” (v. 19). The Hebrew form is genuine ability language, but its precise scope is kept within the covenant warning concerning the LORD's holiness, jealousy, and Israel's unfaithfulness; it is not inflated into a universal metaphysical formula. The chapter recounts the LORD's prior acts of calling, deliverance, preservation, and giving the land (vv. 2–13), then makes Israel's covenant allegiance and accountability explicit. It does not establish independent human will as the originating cause of salvation.
+
+**Next passage:** HW-004, Genesis 3:1–7, examining the serpent's temptation, the woman's seeing/desiring/taking, and what the passage does and does not establish about human will and the Fall.
 
 The KJV phrase register currently records 17 exact joined-form occurrences of “freewill”; its occurrence-level text and morphology audit remains PARTIAL. Do not conflate freewill offerings or Ezra 7:13's voluntary return with a complete philosophical doctrine of autonomous Free Will. Do not add other English forms such as “freely,” “willingly,” or “voluntary” to the exact-phrase count.
 
