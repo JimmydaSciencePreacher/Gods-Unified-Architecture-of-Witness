@@ -3,7 +3,7 @@
 **Opened:** 2026-11-17  
 **Governing repository:** Revised-GUA-W  
 **Primary Scriptural text:** King James Version (KJV)  
-**Status:** OPEN — central Resurrection study opened; surrounding events remain separately queued for text-first investigation.
+**Status:** OPEN — the central Resurrection study is written through Pass III; historical, textual-critical, and domain-specific examination remains in progress. Dedicated studies III.A–III.G and III.2 are recorded; their specifically identified questions remain open.
 
 ## Purpose and boundary
 
@@ -18,7 +18,7 @@ GUA-W is complete. These investigations recognize and record evidence in relatio
 ## Investigation III.1 — Central study
 
 1. **The Resurrection of Jesus Christ** — Matthew 28; Mark 16; Luke 24; John 20–21; Acts 1:1–11; 1 Corinthians 15.  
-   **Status:** CENTRAL SCRIPTURAL STUDY WRITTEN THROUGH PASS II; historical, textual-critical, and scientific examination remains in progress.  
+   **Status:** CENTRAL SCRIPTURAL STUDY WRITTEN THROUGH PASS III; historical, textual-critical, and scientific examination remains in progress.  
    **Record:** [Investigation III.1 — The Resurrection of Jesus Christ](INVESTIGATION-III-01-RESURRECTION-OF-JESUS-CHRIST.md)
 
 ## Related Passion and Resurrection events
@@ -32,6 +32,7 @@ GUA-W is complete. These investigations recognize and record evidence in relatio
 | III.E | The Resurrection and empty tomb | Matthew 28; Mark 16; Luke 24; John 20 | FOUR-GOSPEL EMPTY-TOMB EXAMINATION WRITTEN; central Resurrection investigation remains open |
 | III.F | Appearances of the risen Christ | Matthew 28; Luke 24; John 20–21; Acts 1:1–11; 1 Corinthians 15:3–8 | COMPARATIVE APPEARANCE STUDY WRITTEN; chronology remains partly unresolved |
 | III.G | The Ascension | Luke 24:50–53; Acts 1:1–11 | TWO-ACCOUNT SCRIPTURAL EXAMINATION WRITTEN; chronology and textual questions remain open |
+| III.2 | The Breath of the Risen Christ | Genesis 2:7; Ezekiel 37:1–14; John 1–3; 7; 14–16; 19–20; Acts 1–2; Romans 8:11; 1 Corinthians 15:45–49 | TEXT-FIRST CANONICAL STUDY WRITTEN; exact relationship between John 20:22 and Acts 2 remains unresolved |
 
 ## Governing distinctions
 
@@ -60,16 +61,15 @@ GUA-W is complete. These investigations recognize and record evidence in relatio
 
 ## Next work
 
-Continue the central Resurrection investigation without treating the present opening record as a final verdict. The next focused passes should examine:
+The dedicated event-level studies listed above are now written. Continuing work should address the remaining questions rather than repeat completed coverage:
 
-1. the death and burial accounts, including John 19:31–42;
-2. the empty tomb narratives individually and their textual differences;
-3. the risen body's identity, continuity, and transformation in Luke 24, John 20–21, Romans 6, and 1 Corinthians 15;
-4. the appearance traditions and their sequence without premature harmonization;
-5. the darkness, veil, earthquake, and opened graves as separate Passion-sign investigations;
-6. the Ascension in Luke 24 and Acts 1.
+1. **Investigation III.1 — historical and textual-critical examination:** verify the cited external historical sources and early testimony claim by claim; examine the textual questions already identified, including Mark 16:9–20 and the Luke 24:51–52 variant; preserve the distinction between historical assessment and the theological claim.
+2. **Investigation III.2 — John 20:22 and Acts 2:** continue the canonical and historical examination of whether John records an actual Resurrection-day impartation, an enacted sign/anticipation, or another relationship to Pentecost. Do not force a harmonization where the evidence remains disputed.
+3. **III.A–III.G — open subquestions:** pursue the medical, physical, geographical, chronological, textual, and historical limits identified in each dedicated study. A written study does not mean every question within it is resolved.
+4. **Cross-register consistency:** keep the Investigation II master register aligned with the dedicated Passion/Resurrection studies, and distinguish a separately narrated event from a grouped summary or overlapping report.
+5. **Possible Investigation III.3 — The Word Given, Received, Challenged, and Witnessed:** a preliminary conversation outline exists, but no dedicated repository study has yet been opened or verified. Before registering it as a completed investigation, examine the full Scriptural sequence, relevant Hebrew/Greek wording, countertexts, and its relationship to the completed GUA-W.
 
-**Thirty-five event-level studies recorded in Investigation II. The Resurrection now receives its own central investigation.**
+**Coverage note:** Investigation II has thirty-five dedicated event-level case studies. Investigation III separately records the central Resurrection study, the Passion and post-Resurrection event studies III.A–III.G, and the breath/Spirit study III.2. Their remaining questions are tracked as continuing work, not as evidence that the completed GUA-W is unfinished.
 
 
 ## Investigation III.A — Dedicated comparative study
