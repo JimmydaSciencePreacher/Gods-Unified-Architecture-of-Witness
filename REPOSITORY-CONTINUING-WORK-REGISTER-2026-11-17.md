@@ -233,3 +233,9 @@ Continue by independently verifying the KJV phrase occurrences and then investig
 
 **Next passage:** HW-016, Romans 8:28–30, examining foreknowledge, predestination, calling, justification, and glorification.
 
+
+
+**Sixteenth entry recorded — HW-016, Romans 8:28–30 (2026-11-18).** Paul presents God as the grammatical subject of foreknowing, predestining, calling, justifying, and glorifying; the people are the objects linked through the repeated “whom … them” construction. Predestination's stated purpose is conformity to the image of the Son. The passage does not state that an independently originating human decision causes God's purpose, while the wider chapter retains human response and responsibility. The precise nuance of foreknowledge and its relation to faith remain for wider canonical examination. Romans 8:23 prevents treating “glorified” as proof that bodily redemption has already been experienced. No GUA-W architectural change is proposed.
+
+**Next passage:** HW-017, Ephesians 1:3–14, examining election, adoption, redemption, hearing the Word of truth, believing, and sealing with the Spirit.
+
