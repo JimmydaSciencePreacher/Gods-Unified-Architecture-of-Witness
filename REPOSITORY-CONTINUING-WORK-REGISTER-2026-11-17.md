@@ -402,3 +402,12 @@ A read-back check exposed that the latest contents of `HUMAN-WILL-AND-SALVATION-
 Added section 37, an integrated canonical connection showing how the Creator-authority finding (Job 40:8; Isaiah 45:9; Romans 1:18–25) illuminates already completed Human Will investigations, especially Philippians 2:12–13, John 6, Ephesians 2, Titus 3, James 1, and Philippians 1:29. The finding is bounded: human willing and action are real; they do not confer independent authorship or ultimate authority; divine operation does not make human response fictitious. No HW-021, duplicate passage investigation, or new GUA-W component was created.
 
 **Verification:** The repaired reference work was read back after both writes. The final read-back contains HW-001 through HW-020, the original canonical synthesis and sections 32–36, and the new section 37. Commit: `126abeb57ccdaab5aa0c600f98a7a3d25eea45ec`. This entry records the recovery and integration; it does not claim that every remaining question in the Human Will study is closed.
+
+## 2026-11-18 — Integrate Investigation II miracles with the Resurrection witness
+
+Added an integrated canonical section to the governing Investigation II study and corresponding sections to Investigation III.1 and III.2. The connections use existing written case studies: Cana (II.1), the centurion's servant (II.10), and Lazarus raised (II.16), then distinguish those signs from Christ's own Resurrection and the risen Lord's commission and Spirit-gift.
+
+The bounded finding is that Jesus is the acting authority in the signs; human requests, obedience, conveyance, observation, and reporting are real but do not originate the work. The Resurrection witnesses truly see, hear, receive, and proclaim, but do not cause the Resurrection or originate the Spirit's work. Father, Son, and Spirit remain distinguished according to the passages. The John 20:22 / Acts 2 relation remains unresolved in timing, extent, and function. No new event, GUA-W layer, Gear, or technical mechanism was created.
+
+**Verification:** all three modified studies were read back successfully after writing. The Investigation II and III registers were updated and read back. README navigation was updated to include the Investigation II governing study and miracle register.
+
