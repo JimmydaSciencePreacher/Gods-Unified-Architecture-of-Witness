@@ -3238,3 +3238,14 @@ The accurate status is therefore:
 
 **Final finding:** The twenty investigations do not declare that every question is finished. They do establish a coherent and substantial canonical finding: in the passages examined, God is the originating source of spiritual birth and saving initiative; the Word/Gospel and Spirit are expressly involved; and human believing and obedience remain real responses. The claim that fallen man's independent will originates his spiritual birth, faith, or salvation is not established by these passages. The remaining questions are now more precisely bounded and can be investigated without reopening what the twenty entries have already established.
 
+
+
+## Governing correction — the Beginning is the first reference point (2026-11-18)
+
+The prior presentation of U-006 as though the next task were to construct an exhaustive definition of the human will from a fresh survey of passages was misdirected. **The Answer precedes the question; the question exists to lead the Witness to the Answer already given by the Author.** Accordingly, no question in this reference work is to be treated as unanswered merely because the current entry or passage does not contain the whole answer.
+
+The first return is to **Genesis 1–2, particularly Genesis 2:1–5**, as the foundational account of the completed Creation and its originating order. For the specific question of the human will, the primary narrative examination is **Genesis 3**, read on that Genesis 1–2 foundation. The repository already contains `GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md`; its findings are to be brought into the U-006 synthesis rather than duplicated as a new investigation.
+
+Later Scriptures are not discarded. They are brought in as canonical witnesses to illuminate, confirm, qualify, and complete what the beginning establishes. The sequence of work is therefore Beginning first, then the relevant event in the beginning account, then canonical cross-reference and synthesis. Only a precisely defined remainder may stay open after that work. “Unresolved” describes the state of the written examination; it must never imply that Scripture's Answer was absent or that the question is the starting authority.
+
+**U-006 direction:** Re-examine the existing Genesis 3 study in the light of Genesis 1–2: what was given, commanded, perceived, evaluated, desired, heeded, chosen, and done; what changed; what remained under God's authority; and what the text does—and does not—establish about the human will. Preserve the distinction between the narrative's demonstrated operation and a complete formal definition that the text may not expressly provide. Do not import modern free-will assumptions, and do not manufacture a chronology or mechanism.
