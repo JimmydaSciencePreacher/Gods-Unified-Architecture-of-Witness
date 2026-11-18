@@ -95,6 +95,8 @@ Rosen (2025) provides a map of interpretive questions and proposals, not a final
 
 **Latest recorded pass (2026-11-17):** Ezekiel 34 and the wider Shepherd canon (Psalm 23; 2 Samuel 7; Isaiah 40; Jeremiah 23; John 10–11; Hebrews 13:20; 1 Peter 2 and 5; Revelation 7) have been examined. The LORD's own shepherding and His appointment of “my servant David” are held together. The New Testament identifies Jesus as the Good Shepherd and the risen great Shepherd; Hebrews 13:20 gives an explicit Resurrection connection. Continue by auditing the Davidic identity and the relation of divine Shepherd / appointed Shepherd through the primary texts. Then return to U-008's separate timing/function questions; do not let the shepherd study substitute for evidence about John 20:22 and Acts 2.
 
+**Latest recorded pass (2026-11-17):** The Davidic covenant and its Resurrection fulfillment have been examined through 2 Samuel 7, Psalm 89 and 110, Matthew 1 and 22, Luke 1, Romans 1:1–4, Acts 2:22–36 and 13:22–39, Hebrews 13:20, and Revelation 22:16. Acts 2 explicitly connects David's oath, Jesus' Resurrection, exaltation, and the Spirit outpouring. Next, examine the Gospel Resurrection narratives and Acts 1–2 as one chronological and functional sequence, comparing John 20:19–23 with Luke 24:36–49 and Acts 1:1–8. Keep the questions of actual reception, commissioning, and empowerment distinct; do not infer a settled two-stage or one-stage model prematurely. U-008 remains unresolved.
+
 
 ### Priority 4 — Close open subquestions in III.A–III.G
 
