@@ -201,6 +201,9 @@ Primary reading:
 ## Part VI — Salvation, Calling, and the Human Will
 
 ### Chapter 14. The Human Will: Creaturely Capacity and Creator Authority
+
+**Read the completed chapter:** [Chapter 14 — The Human Will: Creaturely Capacity and Creator Authority](book/14-THE-HUMAN-WILL-CREATURELY-CAPACITY-AND-CREATOR-AUTHORITY.md)
+
 Begin with the foundational question of what the human will is and what authority it does—and does not—possess.
 
 Primary reading:
