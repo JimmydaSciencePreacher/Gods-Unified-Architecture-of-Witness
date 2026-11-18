@@ -191,3 +191,9 @@ The reference work requires every entry to preserve the exact KJV passage, the a
 The KJV phrase register currently records 17 exact joined-form occurrences of “freewill”; its occurrence-level text and morphology audit remains PARTIAL. Do not conflate freewill offerings or Ezra 7:13's voluntary return with a complete philosophical doctrine of autonomous Free Will. Do not add other English forms such as “freely,” “willingly,” or “voluntary” to the exact-phrase count.
 
 Continue by independently verifying the KJV phrase occurrences and then investigating the candidate passages in canonical context. This reference work is an evidence record within the completed GUA-W, not a proposal to alter or reconstruct the architecture.
+
+
+**Ninth entry recorded — HW-009, James 1:16–18 (2026-11-18).** The entry reads James 1:13–18 as one argument. James distinguishes the progression from human lust to sin and death (vv. 14–15) from God's good gifts and His begetting of believers (vv. 17–18). “Of his own will” identifies God's willing as the stated ground; God is the grammatical subject of the active verb “begat,” and “us” are its recipients. The Word of Truth is connected with the begetting through ἐν λόγῳ ἀληθείας; the exact instrumental/sphere nuance of ἐν remains qualified. Verse 18 does not mention faith or settle the complete chronology of regeneration and faith. The following commands to receive and do the Word preserve human response and obedience. No GUA-W architectural change is proposed.
+
+**Next passage:** HW-010, Philippians 2:12–13, examining human working and God's working in believers, including willing and doing. 1 John 5:1 remains a priority comparison for the relation between believing and having been born of God.
+
