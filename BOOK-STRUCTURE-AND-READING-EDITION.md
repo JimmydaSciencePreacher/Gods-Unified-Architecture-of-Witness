@@ -83,7 +83,10 @@ Primary reading:
 - [Consolidated Genesis 1–2 textual findings](scriptural-reconstruction/GENESIS-1-2-CONSOLIDATED-TEXTUAL-FINDINGS.md)
 
 ### Chapter 5. Genesis 2:1–5 — Completion Before the Further Account
-Examine the declaration that the heavens, earth, and all their host were finished; distinguish completion, rest, blessing, sanctification, and the transition into the following account.
+
+**Read the completed chapter:** [Chapter 5 — Genesis 2:1–5: Completion Before the Further Account](book/05-GENESIS-2-1-5-COMPLETION-BEFORE-THE-FURTHER-ACCOUNT.md)
+
+Examine the declaration that the heavens, earth, and all their host were finished. Preserve the distinctions among evaluation, completion, cessation, blessing, and sanctification. Then follow the transition into the generations of the heavens and earth and the specific field conditions in Genesis 2:5, without claiming that no vegetation existed anywhere or inventing a seed-storage mechanism.
 
 Primary reading:
 - [Genesis 2:1–7 text-first reconstruction](scriptural-reconstruction/GENESIS-2-1-7-TEXT-FIRST-RECONSTRUCTION.md)
