@@ -1580,6 +1580,143 @@ Next investigations:
 
 ---
 
+## 14. Entry — HW-014: 1 John 5:1 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **1 John 5:1**
+>
+> Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him.
+
+Read the immediate continuation:
+
+> **1 John 5:4–5**
+>
+> 4 For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.
+>
+> 5 Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?
+
+John joins believing that Jesus is the Christ, being born of God, love for the Father and His children, and overcoming the world. These statements must be read together.
+
+### B. Critical Greek clause
+
+The Greek of 1 John 5:1 begins:
+
+πᾶς ὁ πιστεύων ὅτι Ἰησοῦς ἐστιν ὁ Χριστὸς ἐκ τοῦ θεοῦ γεγέννηται
+
+Transliteration: *pas ho pisteuōn hoti Iēsous estin ho Christos ek tou Theou gegennētai.*
+
+A close rendering is: “Everyone who believes that Jesus is the Christ has been born of God.”
+
+- **πᾶς (*pas*)** — every, everyone.
+- **ὁ πιστεύων (*ho pisteuōn*)** — the one believing; an articular present active participle of πιστεύω (*pisteuō*), functioning substantivally to identify the person characterized by believing.
+- **ὅτι (*hoti*)** — that; introduces the content of the confession.
+- **Ἰησοῦς ἐστιν ὁ Χριστός (*Iēsous estin ho Christos*)** — Jesus is the Christ.
+- **ἐκ τοῦ θεοῦ (*ek tou Theou*)** — from/of God; marks the source or origin of the birth.
+- **γεγέννηται (*gegennētai*)** — perfect passive indicative, third person singular, from γεννάω (*gennaō*), beget/give birth. It means “has been born” and presents a completed birth with a resulting state.
+
+The contrast in verbal form is important: the person is identified by the present participle “believing,” while the predicate says that this person “has been born” of God, using a perfect passive form. The passive voice does not portray the person as the begetter of himself; the phrase explicitly identifies God as the source.
+
+### C. What the perfect tense establishes — and what it does not
+
+The perfect form γεγέννηται presents birth as an accomplished event whose result or state is relevant in the present. John is not merely saying that the person is being born at the moment of speaking. He describes the believer as one who has been born of God.
+
+This is strong evidence that divine birth is not a human self-production. The believer is the recipient of birth; God is its source.
+
+A necessary grammatical qualification: the perfect tense by itself does not provide a stopwatch or a complete causal chronology. It does not, standing alone, prove the exact interval between regeneration and the first act of faith, nor does the word order alone settle every theological question about the relation of faith and new birth. The natural force of the clause is that the believer is one who has been born of God; the broader Johannine context must be examined to assess the theological relation.
+
+Do not overstate the grammatical argument. The passive voice and source phrase establish divine origin; the perfect aspect presents the birth as accomplished with a continuing result. The complete order and mechanism must be determined through the wider canonical witness, not by making the tense carry more than it can bear.
+
+### D. Immediate context — 1 John 5:1–5
+
+**Verse 1 — believing, birth, and love.** The one believing that Jesus is the Christ is described as born of God. The second half of the verse connects love for the Father who begets with love for those begotten of Him. New birth and family likeness are central to John's reasoning.
+
+**Verses 2–3 — love and obedience.** Love for God's children is known in relation to loving God and keeping His commandments. John does not reduce the Christian life to a bare verbal profession; he describes an interconnected life of faith, love, and obedience.
+
+**Verse 4 — birth and overcoming.** “Whatsoever is born of God overcometh the world.” The perfect passive participle “born of God” again identifies the source of the new life, while “overcometh” states what characterizes that life. John names faith as the victory that overcomes the world.
+
+**Verse 5 — the believer identified.** John asks who overcomes the world and answers: the one believing that Jesus is the Son of God. Faith is not optional or unreal. It is the identifiable confession and victorious response of the person John describes.
+
+The paragraph does not set divine birth against believing, love, or obedience. It relates them. Nor does it say that human believing is the efficient cause by which a person begets himself.
+
+### E. Johannine cross-checks
+
+**1 John 2:29.** “If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.” Righteous conduct is associated with having been born of God. The verse is a parallel test of family likeness, not a complete chronology of the new birth.
+
+**1 John 3:9.** “Whosoever is born of God doth not commit sin; for his seed remaineth in him: and he cannot sin, because he is born of God.” John connects divine birth with God's seed remaining and a transformed relation to sin. The precise meaning and scope of “cannot sin” require reading the letter's wider teaching, including 1 John 1:8–2:2; it must not be used to claim that Christians never commit individual sins.
+
+**1 John 4:7.** “Every one that loveth is born of God, and knoweth God.” Love is presented as evidence of birth from God and knowledge of God. Again, John describes marks of divine family life.
+
+**John 1:12–13.** Those who receive Christ and believe on His name are described as born not of blood, nor of the will of the flesh, nor of the will of man, but of God. The passage explicitly attributes the birth's source to God while affirming the reality of receiving and believing. It is a close canonical comparison, but its own syntax and context must be respected.
+
+**John 3:3–8.** Jesus teaches that one must be born again/from above and that birth of the Spirit is necessary. The Spirit's operation is likened to the wind: its sound is heard, but its origin and course are not controlled by the observer. This supports divine initiative and the necessity of the Spirit; it does not make faith or the call to believe unreal.
+
+**James 1:18.** “Of his own will begat he us with the word of truth.” James explicitly attributes begetting to God's own will and identifies the word of truth in the account. This complements, but should not be collapsed into, John's distinct argument.
+
+**1 Peter 1:23.** Believers are born again, not of corruptible seed but incorruptible, by the Word of God which lives and abides for ever. This supplies another witness connecting new birth with God's action and the Word.
+
+### F. Interpretive alternatives and limits
+
+1. **New birth as the source that explains believing.** This reading takes seriously the passive “has been born of God,” the source phrase “of God,” the parallel statements in 1 John 2:29, 3:9, and 4:7, and the wider texts that attribute new birth to God. It is a strong theological synthesis of the Johannine witness. The perfect tense is consistent with this reading but should not be presented as independently proving the entire causal order.
+
+2. **Believing as the condition or identifying mark, with birth asserted of the believer.** The sentence explicitly identifies the believer and predicates birth of God of that person. Some interpreters argue that John is describing the believer's status without intending to settle the chronological or causal order between faith and regeneration in this sentence. This is a valid grammatical caution. It does not, however, turn the verse into a statement that human faith causes divine birth.
+
+3. **The perfect tense alone proves that regeneration must occur at a measurable time before faith.** This overstates what tense and aspect can establish. The perfect presents an accomplished event and its resulting state; it does not specify a measurable interval or give a full order-of-salvation formula.
+
+4. **Faith is unnecessary because birth is of God.** This contradicts the passage. John explicitly identifies the one believing that Jesus is the Christ and later identifies the believer in Jesus as the one who overcomes the world. Divine origin does not erase the reality or necessity of believing.
+
+5. **The believer produces his own birth.** The passive verb and the explicit phrase “of God” do not support self-begetting. The person receives birth from God.
+
+### G. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| John identifies the one believing that Jesus is the Christ as born of God | EXPLICIT | 1 John 5:1 |
+| The birth is “of God” | EXPLICIT | ἐκ τοῦ θεοῦ |
+| The verb for birth is perfect passive | EXPLICIT | γεγέννηται |
+| The perfect presents birth as accomplished with a resulting state | GRAMMATICALLY SUPPORTED | Perfect aspect |
+| The believer begets himself | NOT SUPPORTED | Passive voice and “of God” source phrase |
+| Believing is a real and defining feature of the person described | EXPLICIT | Articular present participle ὁ πιστεύων |
+| Faith is unnecessary | CONTRADICTED | 1 John 5:1, 4–5 |
+| The perfect tense alone specifies the exact chronological interval between new birth and first faith | NOT ESTABLISHED | Tense does not supply such a timeline |
+| The wider Johannine witness associates birth from God with righteousness, love, and overcoming | EXPLICIT | 1 John 2:29; 3:9; 4:7; 5:4 |
+| This single verse explains every aspect of regeneration and faith | NOT ESTABLISHED | Scope of the sentence is limited |
+
+### H. Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** The reading preserves God's stated role as the source of birth, the reality of believing, and John's connection among faith, love, obedience, and overcoming.
+- **Scientific coherence — PASS, within scope.** The grammatical observations distinguish voice, tense/aspect, and syntactic function. No empirical claim is inferred from the theological text.
+- **GUA-W consistency — PASS, within scope.** The passage distinguishes the source of birth from the person who believes and manifests the resulting life. This is a textual observation, not authorization to redesign or add an architectural Gear.
+
+### I. Entry finding and limits
+
+John identifies everyone believing that Jesus is the Christ as one who “has been born of God.” The birth verb γεγέννηται is perfect passive, and the phrase ἐκ τοῦ θεοῦ explicitly identifies God as the source. The person is not described as the author of his own birth. John then connects divine birth with love for God's children, obedience, and overcoming the world.
+
+The passage strongly supports divine origin and rejects self-generated spiritual birth. It does not, by its perfect tense alone, establish a measurable chronology between the beginning of regeneration and the first act of faith. Its syntax identifies the believer as one already described as born of God; the broader Johannine and canonical witness supports divine initiative, while the exact order and mechanics must be assessed across all relevant texts.
+
+**Finding:** 1 John 5:1 does not teach that a person begets himself by believing. It identifies the believer as one who has been born of God. God's agency is explicit in the source phrase and passive birth verb. The perfect form presents the birth as accomplished with a continuing result. The verse affirms real believing but does not, standing alone, specify the complete chronology or mechanism by which new birth and faith are related.
+
+**Status:** PASS for God's being the source of birth; PASS for the believer's real and defining faith; PASS against self-generated birth; UNRESOLVED for the exact chronological and causal relation between regeneration and the first act of faith when this verse is isolated from the wider canon.
+
+### J. GUA-W recognition and research queue
+
+This passage witnesses a distinction between originating source and responding expression: God is named as the source of birth; the person is identified as believing; the resulting life is associated with love, obedience, and overcoming. This recognition is subordinate to the text and is not a new GUA-W architectural rule.
+
+Retain these guardrails:
+- do not claim that a human being begets himself;
+- do not erase the reality of believing;
+- do not make the perfect tense prove a precise chronology it does not encode;
+- do not treat one verse as the complete doctrine of regeneration;
+- keep the Johannine parallels and wider canonical witness in view.
+
+Next investigation:
+1. HW-015 — 2 Thessalonians 2:13–14: examine divine choice, sanctification of the Spirit, belief of the truth, and calling through the gospel.
+2. Retain Romans 8:28–30 and Ephesians 1:3–14 for dedicated examinations.
+3. Retain 1 John 2:29, 3:9, and 4:7 as Johannine parallel tests of birth from God.
+4. Keep U-006 (definition and components of human will) open. This entry establishes divine source and the believer's described state, but does not settle every component of human willing or the complete order of salvation.
+
+---
+
 ## 14. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
@@ -1598,7 +1735,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-011 | 1 Corinthians 2:10–16 | COMPLETED — see entry above. |
 | HW-012 | Romans 8:5–11 | COMPLETED — see entry above. |
 | HW-013 | Acts 13:44–48 | COMPLETED — see entry above. |
-| HW-014 | 1 John 5:1 | What is the grammatical and contextual relation between believing and having been born of God? |
+| HW-014 | 1 John 5:1 | COMPLETED — see entry above. |
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
