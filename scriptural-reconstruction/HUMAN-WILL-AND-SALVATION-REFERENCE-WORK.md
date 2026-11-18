@@ -190,13 +190,36 @@ Lexical caution: θέλημα can denote will, desire, or intention according to
 
 ### Canonical completion review — 2026-11-18
 
-**Original limitation reviewed:** ** The relation between receiving/believing and birth from God is not fully explained by these two verses alone.
+**Original limitation reviewed:** The relation between receiving/believing and birth from God is not fully explained by these two verses alone.
 
-**Canonical passages examined:** **John 3:3–8, 14–21 (HW-005); John 6:35–45, 63–65 (HW-006); 1 John 5:1 (HW-014); James 1:18 (HW-009); 1 Peter 1:23; Ephesians 2:1–10 (HW-008).**
+**Canonical passages examined:** John 3:3–8, 14–21 (HW-005); John 6:35–45, 63–65 (HW-006); Acts 11:18; 13:48; 16:14 (HW-013 context); Romans 10:17; Ephesians 1:13 (HW-017); Philippians 1:29; 2 Thessalonians 2:13–14 (HW-015); James 1:18 (HW-009); 1 Peter 1:3, 23; 1 John 5:1 (HW-014); Titus 3:3–7 (HW-019).**
 
-**Combined biblical finding:** John 1 itself distinguishes receiving and believing from the source of birth, which is not the will of the flesh or man but God. John 3 identifies birth from the Spirit as necessary and then speaks of believing in the Son. First John 5:1 identifies the believer as born of God. James and Peter connect divine begetting/new birth with God's Word. Ephesians describes God making the dead alive and salvation through faith.
 
-**Revised disposition:** **NARROWED.** Scripture establishes divine source, the necessity and reality of believing, and the Word/Spirit's role in new birth. The exact temporal interval and complete causal mechanics between regeneration and the first act of faith are not stated in one exhaustive formula. Do not claim the two verses alone settle that chronology.
+
+#### Canonical passages addressing the source and means of faith
+
+The following passages address the missing dimension more directly. They must be read in their own contexts; they are not interchangeable proof-texts and do not all answer the same question.
+
+| Passage | What it contributes | Boundary that must be preserved |
+|---|---|---|
+| **John 6:44, 65 (HW-006)** | No one can come to Christ unless drawn by the Father; Jesus also says coming is given by the Father. | The text establishes divine drawing/granting and the necessity of coming; it does not give a stopwatch chronology for regeneration and first faith. |
+| **Acts 11:18** | The Jerusalem believers say God granted the Gentiles repentance unto life. | It identifies repentance as granted by God; it does not define every step in the order of salvation. |
+| **Acts 13:48 (HW-013)** | Luke says those appointed to eternal life believed. | The appointment clause is morphologically middle/passive and does not expressly name its agent; the wider context supports divine appointment, but the grammatical qualification in HW-013 remains. |
+| **Acts 16:14** | The Lord opened Lydia's heart so that she attended to the things spoken by Paul. | Divine opening and attention to the preached message are joined; the verse does not specify the complete relation between that opening and regeneration. |
+| **Romans 10:17** | Faith comes by hearing, and hearing by the word of God. | This identifies the proclaimed Word as the means associated with faith; it does not say that hearing, by itself, is the originating cause of new birth. |
+| **Ephesians 1:13 (HW-017)** | The hearers hear the word of truth, believe in Christ, and are sealed with the Holy Spirit of promise. | The sequence in Paul's sentence must be retained, but sealing must not simply be equated with every aspect of regeneration without argument. |
+| **Philippians 1:29** | Paul says it is given to believers not only to believe on Christ but also to suffer for His sake. | Believing is expressly described as granted; the verse does not give a full chronology of regeneration and faith. |
+| **2 Thessalonians 2:13–14 (HW-015)** | God's choice unto salvation is joined with sanctification of the Spirit and belief of the truth; the calling comes through the Gospel. | The elements are joined in Paul's account; the passage does not turn them into a fully specified temporal chart. |
+| **1 Peter 1:3, 23** | New birth is attributed to God's abundant mercy and is also connected with the incorruptible Word. | These verses identify source and Word-related means; they do not independently specify the instant at which faith first occurs. |
+| **James 1:18 (HW-009)** | God begets “of his own will” with the Word of Truth. | The verse names God's will and begetting, but does not mention faith in that sentence. |
+
+**Finding from these additional witnesses:** Scripture does not leave the source of faith wholly unaddressed. It expressly speaks of the Father drawing and granting, God granting repentance, the Lord opening a hearer's heart, believing being given, and the Spirit's sanctifying work joined with belief. It also preserves the public means of the Gospel and Word, and the real response of hearing, attending, believing, repenting, and coming to Christ.
+
+**What remains open:** These texts do not all use “regeneration,” “faith,” “calling,” “drawing,” “sanctification,” and “sealing” as synonyms. We must not collapse their distinct terms into one event or force them into a single chronological order that no passage states. The broad divine initiative and granted character of the response are established; the exhaustive temporal and causal mechanics remain unspecified.
+
+**Combined biblical finding:** John 1 distinguishes receiving and believing from the source of birth, which is not the will of the flesh or man but God. John 3 identifies birth from the Spirit as necessary and then speaks of believing in the Son. John 6 joins coming to Christ with the Father's drawing and granting. Acts records God granting repentance, the Lord opening Lydia's heart to attend to the preached Word, and those appointed to eternal life believing. Philippians explicitly says it is given to believers to believe in Christ; 2 Thessalonians joins God's choice, the Spirit's sanctifying work, belief of the truth, and calling through the Gospel. Ephesians 1:13 records hearing the Gospel, believing, and being sealed. James and Peter connect divine begetting/new birth with God's Word and mercy. First John 5:1 identifies the believer as born of God; Ephesians 2 and Titus 3 identify God's life-giving mercy and saving action.
+
+**Revised disposition:** **ANSWERED as to the rejection of autonomous human will as the originating source of birth; NARROWED as to the wider source and means of faith; PARTIAL as to chronology.** The wider canon explicitly attributes coming, repentance, and believing to the Father's drawing/granting, God's gift, the Lord's opening of the heart, and the Spirit's sanctifying work, while also preserving the preached Word and the person's real believing response. These passages establish more than John 1:12–13 alone. They do not, individually or together, provide one exhaustive technical timeline specifying every moment and causal relation between regeneration and the first act of faith. Do not claim the two verses alone settle that chronology.
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
