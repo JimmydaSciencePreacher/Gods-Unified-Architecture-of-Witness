@@ -214,7 +214,7 @@ These are not defects in the text. They are boundaries on what this chapter may 
 | Genesis 2:5 distinguishes field conditions, rain, and the absence of a tiller. | Directly stated. | No unprovided hydrological or botanical mechanism is inferred. | Preserves the text's conditions and order. | PASS, textual claim |
 | Genesis 2:5 proves that God held seeds until man arrived. | Not stated in those words. | No mechanism established. | Would turn inference into quotation. | REJECT as a direct textual claim |
 
-The Triple Constraint is not a device for making every question disappear. It protects the investigation from claiming more than the evidence warrants. A proposal can be worth pursuing while remaining provisional. A textual statement can be certain while its wider architectural significance remains under examination.
+The Triple Constraint is not a device for making every question disappear. It protects the investigation from claiming more than the evidence warrants. The textual findings in this chapter are examined in relation to the completed GUA-W; they do not wait for the architecture to be built or validated. Where a particular interpretive or scientific extension exceeds what the passage states, that specific extension remains qualified or unresolved. The boundary belongs to the claim, not to the completeness of GUA-W.
 
 ## Why this matters to the whole book
 
