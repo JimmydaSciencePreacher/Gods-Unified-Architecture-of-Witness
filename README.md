@@ -53,6 +53,10 @@ Failure of any one constraint prevents admission as an accepted claim. A useful 
 
 Scientific coherence does not mean that experimental physics must prove Scripture. It means every claim—including theological claims—must be coherent with the evidence and disciplined method appropriate to its domain, and that cross-domain relationships must preserve the distinctions between those domains.
 
+## Cross-disciplinary investigation
+
+We do not attempt to persuade the sciences to adopt GUA-W before they can participate. We investigate each discipline's findings through its own evidence and methods, then use GUA-W as the governing map to examine whether those findings reveal relationships, common order, or mistaken interpretations. GUA-W does not need to make the sciences agree with it; the investigation asks whether their findings, properly understood, reveal the unified order of the One Creation. This is not permission to force a match: preserve domain boundaries, counterevidence, and unresolved questions. See [Cross-Disciplinary Investigation Principle](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md).
+
 ## Evidence discipline
 
 For every material claim, distinguish:
