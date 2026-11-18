@@ -301,7 +301,7 @@ But precision is essential:
 
 **Not established by this chapter:** That Genesis 2:15 defines a new GUA-W component, that the words “purpose,” “constraint,” and “structure” are interchangeable, or that a scientific law has been proven by the Garden account.
 
-The chapter does not redesign the map. It records the Scriptural evidence and identifies the relationship that must be tested against the already completed architecture.
+The chapter does not redesign or retest the completed map. It records the Scriptural evidence and recognizes its relationship within the established architecture. The limits stated above concern what Genesis 2:15 explicitly says and what it does not establish as a separate scientific mechanism or new component.
 
 ## The Triple Constraint applied
 
@@ -317,7 +317,7 @@ The chapter does not redesign the map. It records the Scriptural evidence and id
 | God makes and brings the woman; Adam recognizes and names her. | Directly stated in 2:21–23. | No unprovided biological mechanism is asserted. | Preserves Author and witness distinction. | PASS, textual scope |
 | “One flesh” is a universal mathematical law of integration. | Not stated. | Not established by scientific evidence. | Converts a specific Scriptural relation into an unsupported universal. | REJECT as established claim |
 
-The status of a claim must be precise. A textual observation may pass while a proposed architectural correspondence remains provisional. A meaningful analogy is not automatically a demonstrated law. An unresolved question is not a failure of the investigation; it is a boundary that must be recorded honestly.
+The status of a claim must be precise. The Scriptural observations are recorded in relation to the completed architecture; a particular cross-disciplinary mechanism or universal law may still remain unestablished. A meaningful analogy is not automatically a demonstrated law. An unresolved question is not a failure of the investigation; it is a boundary that must be recorded honestly.
 
 ## What the reader should carry forward
 
