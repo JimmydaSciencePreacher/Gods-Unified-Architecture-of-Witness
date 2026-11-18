@@ -56,11 +56,15 @@ Primary reading:
 - [The Answer Before the Question](THE-ANSWER-BEFORE-THE-QUESTION.md)
 
 ### Chapter 3. Theology and the Differentiated Sciences
-Explain why Theology addresses the ultimate WHY of the One Creation while the sciences investigate HOW and legitimate proximate WHY questions within their respective domains.
+
+**Read the completed chapter:** [Chapter 3 — Theology and the Differentiated Sciences](book/03-THEOLOGY-AND-THE-DIFFERENTIATED-SCIENCES.md)
+
+Establish why Theology addresses the ultimate WHY while the differentiated sciences investigate HOW and legitimate proximate WHY questions within their respective domains. Understand how one Creation can be investigated through many disciplines without making their methods interchangeable. The chapter introduces the governing cross-disciplinary method and prepares the reader to return to Genesis 1.
 
 Primary reading:
 - [Theology: The Queen of the Sciences](THEOLOGY-QUEEN-OF-THE-SCIENCES.md)
 - [Cross-Disciplinary Investigation Principle](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md)
+- [Cross-Disciplinary Investigation Worksheet](CROSS-DISCIPLINARY-INVESTIGATION-WORKSHEET.md)
 
 ## Part II — The Beginning: The Creation Foundation
 
