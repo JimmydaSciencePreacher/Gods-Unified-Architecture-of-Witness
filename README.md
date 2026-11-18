@@ -13,6 +13,7 @@ This repository does not replace or silently modify the original GUA-W repositor
 ## Explanatory principles
 
 - [The Answer Before the Question — Inquiry, Discovery, and the Witness](THE-ANSWER-BEFORE-THE-QUESTION.md)
+- [Theology: The Queen of the Sciences — The Ultimate Why and the Differentiated Hows of One Creation](THEOLOGY-QUEEN-OF-THE-SCIENCES.md)
 
 ## What this repository records
 
@@ -45,7 +46,7 @@ GUA-W is a map or blueprint of Creation, not God or Jesus Christ.
 
 ## Triple Constraint Law
 
-**Theology is a Science within GUA-W.** Theological claims are subject to the Triple Constraint and are examined through disciplined Scriptural, linguistic, historical, and canonical inquiry. This is a scientific discipline with evidence and methods appropriate to its subject; it is not experimental physics or biology, and that methodological distinction does not place Theology outside Science. Claims about physical, biological, ecological, mathematical, or other created processes must also be examined using the evidence and methods of the relevant sciences. The disciplines investigate the same Creation from distinct perspectives; none becomes the Author or may erase the scope of another.
+**Theology is a Science within GUA-W—and the Queen of the Sciences.** Theology addresses the ultimate WHY of the One Creation: its Author, originating Word, purpose, and end. The other sciences investigate HOW the created order operates within their respective domains. They also answer legitimate proximate causal and functional *why* questions; Theology's primacy concerns ultimate origin and purpose. Theological claims are examined through disciplined Scriptural, linguistic, historical, and canonical inquiry. This is a scientific discipline with evidence and methods appropriate to its subject; it is not experimental physics or biology, and that methodological distinction does not place Theology outside Science. Claims about physical, biological, ecological, mathematical, or other created processes must also be examined using the evidence and methods of the relevant sciences. The disciplines investigate the same Creation from distinct perspectives; none becomes the Author or may erase the scope of another. Theological primacy does not replace scientific methods or authorize Theology to invent domain-specific mechanisms. See [Theology: The Queen of the Sciences](THEOLOGY-QUEEN-OF-THE-SCIENCES.md).
 
 A claim may be admitted as an accepted GUA-W claim only when it satisfies all three constraints:
 
