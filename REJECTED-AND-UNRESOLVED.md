@@ -354,3 +354,28 @@ Related record: [Genesis 4:13–16 — Text-First Reconstruction](scriptural-rec
 
 **Related investigation:** [The Biblical Examination of the Human Will — HW-008, Ephesians 2:1–10](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
 
+
+
+## 18. Evidence update — James 1:13–18 (2026-11-18)
+
+### U-006 supplement — Human lust, God's will, and new birth
+
+**New evidence reviewed:** James 1:13–18, with James 1:19–27 as the following context.
+
+**Textual observations:**
+- James denies that God tempts anyone with evil (v. 13).
+- The progression toward sin is described through a person's own lust, enticement, conception, and the bringing forth of sin and death (vv. 14–15).
+- Every good and perfect gift comes from above, from the Father of lights, who has no variableness or shadow of turning (v. 17).
+- God, “of his own will,” begets “us” with/in connection with the Word of Truth (v. 18). God is the grammatical subject of the active verb; “us” are recipients.
+- The following verses command hearing, receiving the Word with meekness, and being doers of the Word (vv. 19–27).
+
+**Effect on question:** James distinguishes the source of temptation and sin from the source of new birth. Human lust is involved in the former progression; God's own will is expressly identified as the ground of the latter. The Word of Truth is connected with the begetting. This supports divine initiative without erasing the human response and obedience commanded in the immediate context.
+
+**Limits:** James 1:18 does not mention faith or provide a complete chronology of regeneration and faith. The exact instrumental or sphere nuance of ἐν in “with the word of truth” remains a grammatical question. The passage does not provide an exhaustive definition of human will.
+
+**Status remains:** UNRESOLVED.
+
+**Guardrail:** Do not attribute temptation to God, which James expressly denies. Do not treat human lust as the source of new birth. Do not infer a complete regeneration/faith chronology from James 1:18 alone. Do not use divine initiative to erase the commands and human obedience in James 1:19–27.
+
+**Related investigation:** [The Biblical Examination of the Human Will — HW-009, James 1:16–18](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
+
