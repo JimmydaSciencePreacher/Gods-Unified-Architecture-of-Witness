@@ -296,3 +296,12 @@ Returned to the existing Genesis 1–2 records, especially Genesis 2:1–7, Gene
 The resulting U-006 synthesis distinguishes the completed created order and Creator's prior work (Genesis 2:1–5), man's formation and received life (2:7), appointed work (2:15), permission and prohibition (2:16–17), and the narrated operations of human willing in Genesis 3: reception/heeding, perception, evaluation, desire, choice/action, and response. It also distinguishes creaturely capacity from authorship and authority. Genesis 3:22 records changed knowledge but does not state a transfer of the Author's authority. U-007's existing resolution remains consistent with this finding.
 
 **Register action:** U-006 has been reclassified from wholly UNRESOLVED to NARROWED — FOUNDATIONAL ANSWER ESTABLISHED IN GENESIS 2–3; NO EXHAUSTIVE ABSTRACT DEFINITION CLAIMED. The Genesis 3 reconstruction and the Human Will reference work now carry the integrated finding. Any later canonical comparison must begin from this foundation and serve as witness/clarification, not replace the Beginning. All four updated files require read-back verification.
+
+
+## 2026-11-18 — Genesis 3:8–24 examination completed within existing reconstruction
+
+Continued the beginning-first Human Will examination through the end of Genesis 3. Added a verse-range review of 3:8–13 (hiding, fear, divine questions, human answers, and attribution); 3:14–19 (differentiated judgments and consequences); 3:20–21 (Eve's naming and God's provision of coats of skins); and 3:22–24 (God's stated concern, expulsion, and guarded access to the tree of life).
+
+The finding preserves both the serpent's beguiling and the humans' accountable participation; neither is erased by the other. God's judgments and boundary-setting are distinguished from human action. Genesis 3:21 is not made to say “sacrifice” when the verse says God made coats of skins. No unstated biological mechanism for the tree of life is asserted. U-006 remains narrowed: Genesis 1–3 provides a substantial narrative account of human willing, accountability, and creaturely limits, without claiming an exhaustive abstract taxonomy.
+
+Updated the existing Genesis 3 reconstruction, Human Will reference synthesis, U-006 register entry, and this continuing-work register. No new HW number and no duplicate passage investigation were created. Read-back verification remains to be completed.
