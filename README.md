@@ -109,6 +109,7 @@ A PASS is always scope-limited, not a universal endorsement. These labels descri
 - [Genesis 3:1–24 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 1–3 — Knowledge, the Author, and the First Departure from the Ultimate WHY](scriptural-reconstruction/GENESIS-1-3-KNOWLEDGE-AUTHORSHIP-AND-THE-ORIGIN-OF-DISCONNECTED-KNOWLEDGE.md)
 - [Romans 1:18–32 — Knowledge, Suppression, Exchange, and the Judgment of Being Given Over](scriptural-reconstruction/ROMANS-1-18-32-KNOWLEDGE-SUPPRESSION-AND-THE-CREATOR.md)
+- [Human Will, Creaturely Capacity, and the Creator's Authority — Job 38–41, Isaiah 40–48, Colossians 2:8, and Romans 1](scriptural-reconstruction/HUMAN-WILL-CREATURELY-CAPACITY-AND-CREATOR-AUTHORITY-JOB-ISAIAH-COLOSSIANS.md)
 - [Genesis 4:6–7 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-6-7-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 4:8 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-8-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 4:9–10 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-9-10-TEXT-FIRST-RECONSTRUCTION.md)
