@@ -57,10 +57,6 @@ Scientific coherence does not mean that experimental physics must prove Scriptur
 
 We do not attempt to persuade the sciences to adopt GUA-W before they can participate. We investigate each discipline's findings through its own evidence and methods, then use GUA-W as the governing map to examine whether those findings reveal relationships, common order, or mistaken interpretations. GUA-W does not need to make the sciences agree with it; the investigation asks whether their findings, properly understood, reveal the unified order of the One Creation. This is not permission to force a match: preserve domain boundaries, counterevidence, and unresolved questions. See [Cross-Disciplinary Investigation Principle](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md).
 
-## AI writing and repository-registration capability
-
-AI can write directly into this repository when the authorized GitHub connection and connected account permissions allow it. This includes creating or updating files, updating related registers and navigation, and reading the resulting files back for verification. This is a tool-mediated recording capability—not authorship of GUA-W, authority over the Source, or proof that a written claim is true. See [AI Writing and Repository-Registration Capability](AI-WRITING-AND-REPOSITORY-REGISTRATION-CAPABILITY.md).
-
 ## Evidence discipline
 
 For every material claim, distinguish:
