@@ -54,6 +54,28 @@ Likewise:
 
 These distinctions are an interpretive control, not a conclusion imposed upon the text. Each passage may establish, qualify, or challenge a category. The investigation must report what it actually says and leave unresolved what it does not settle.
 
+### The canonical cross-reference completion rule
+
+An unresolved statement in one passage is not permission to stop the investigation when the rest of Scripture may address the missing point. Every entry must therefore perform a **Cross-Reference Completion Audit** before a question is finally classified as unresolved.
+
+For each limitation or unresolved question:
+
+1. **Name the precise missing information.** Do not write only “the chronology is unresolved.” Specify which relation or event is not stated (for example, the relation of regeneration to faith, or faith to justification).
+2. **Search the relevant canonical testimony.** Identify passages that directly address that same subject, including passages already examined elsewhere in this reference work.
+3. **State what each passage contributes.** Give the exact reference, its immediate context, and the particular part of the question it clarifies. Do not merely list a string of proof-texts.
+4. **Compare without collapsing contexts.** Explain how the passages relate, where they agree, and whether any apparent tension remains. A cross-reference does not authorize importing another passage's wording into the passage under examination.
+5. **Reclassify the question.** Mark it as answered by the combined testimony, narrowed, still partially unresolved, or not yet investigated. If the cited passages do not settle the issue, say exactly what remains missing.
+6. **Preserve investigation identity.** If a cited passage already has an HW entry, cite and update that entry where necessary. If it has no entry, it may be used as a canonical cross-reference without automatically creating a new numbered investigation. Never create duplicate investigations for the same verses.
+
+**Required reporting format:**
+
+| Original limitation / question | Relevant passage(s) | What the passage(s) establish | Combined finding | What, if anything, remains unresolved |
+|---|---|---|---|---|
+
+**Important safeguard:** A cross-reference is not automatically an answer. The cited passage must actually address the missing information in its own context. Do not claim that Scripture has supplied a complete chronology when it supplies only a relationship, condition, means, purpose, or result. Conversely, do not leave a question marked simply “unresolved” when another passage directly supplies relevant information. The final finding must reflect the combined canonical evidence, not the limits of one isolated passage.
+
+This rule applies to all existing entries when they are next reviewed and to every new entry from this point forward. It does not authorize changing an earlier entry's conclusion without documenting the textual basis for the change.
+
 ## 4. Mandatory record for every passage entry
 
 Every full entry must preserve these fields:
@@ -2557,6 +2579,25 @@ The aorist forms present the saving action and outpouring as events viewed as a 
 - **Philippians 2:12–13 (HW-010):** God works in believers both to will and to do of His good pleasure. Titus 3 does not explicitly state that same willing/doctrine, but its account of mercy, regeneration, and renewal is consistent with examining the source of renewed life before considering the believer's subsequent conduct.
 - **2 Thessalonians 2:13–14 (HW-015):** God's choice unto salvation is described with sanctification of the Spirit and belief of the truth, followed by calling through the Gospel. Titus 3 names regeneration and renewal by the Holy Ghost; neither text should be made to state a chronology it does not expressly give.
 - **Romans 8:28–30 (HW-016), Ephesians 1:3–14 (HW-017), and 1 Peter 1:1–5 (HW-018):** These entries establish further statements concerning God's purpose, election, foreknowledge, calling, new birth, and preservation. They remain completed investigations and are cross-referenced only.
+
+### G1. Cross-reference completion audit — regeneration, faith, and justification
+
+The statement that Titus 3:3–7 does not provide a complete chronology is correct as a statement about this unit alone. It is not the end of the canonical investigation. The following passages supply additional information and must be read in their own contexts.
+
+| Missing information in Titus 3:3–7 | Relevant passage(s) | What the passage(s) establish | Combined finding | What remains unresolved |
+|---|---|---|---|---|
+| What does Jesus say about the necessity and source of new birth? | **John 3:3–8 (HW-005)** | Jesus says a man must be born again/from above and identifies birth of the Spirit as necessary. The Spirit's work is not described as a product of flesh. | Titus's “washing of regeneration, and renewing of the Holy Ghost” belongs with Jesus' teaching that entrance into the kingdom requires birth from the Spirit. | John 3 does not give a complete temporal sequence relating the first act of faith to regeneration. |
+| How are receiving/believing and birth related? | **John 1:12–13 (HW-001)** | Those who receive Christ and believe on His name are described as born not of blood, nor of the will of the flesh, nor of the will of man, but of God. | The text explicitly affirms receiving and believing while attributing the source of the birth to God. Human response and divine source must both remain in the account. | The two verses do not state a measurable interval or exhaustive chronological mechanism between birth and believing. |
+| What is said about being made alive and faith in salvation? | **Ephesians 2:1–10 (HW-008)** | Verses 1–5 describe people dead in trespasses and sins and God making them alive with Christ; verses 8–9 say salvation is by grace through faith, not of works. | This supplies the divine life-giving action and the stated relation of faith to salvation. Faith is not a work that gives humans grounds for boasting. | The passage does not spell out every temporal detail of regeneration and the first act of faith. |
+| What is said directly about faith and justification? | **Romans 4:4–5; Romans 5:1** | Romans 4 contrasts wages owed for work with faith counted for righteousness to the one who believes on Him that justifies the ungodly. Romans 5:1 states, “being justified by faith, we have peace with God through our Lord Jesus Christ.” | These passages directly identify faith's relation to justification. They clarify a relation that Titus 3:7 names as justification by grace but does not describe in terms of faith. | They do not, by themselves, give a complete chronology of regeneration in relation to the first act of faith. |
+| What does the New Testament say about God's begetting and the Word? | **James 1:18 (HW-009); 1 Peter 1:23 (compare HW-018's context, but 1 Peter 1:23 is outside its assigned unit)** | James says God begat us with the word of truth. First Peter 1:23 describes being born again by the incorruptible seed, by the word of God. | These passages add the Word's role in the account of divine begetting/new birth. They should be considered alongside Titus's regeneration and renewal by the Holy Ghost. | Neither statement alone supplies a complete chronology of new birth and the first act of faith. |
+| How does the Spirit's work relate to belief? | **2 Thessalonians 2:13–14 (HW-015)** | Paul joins God's choice unto salvation with sanctification of the Spirit and belief of the truth, then speaks of God's calling through the Gospel. | The Spirit's sanctifying work, belief of the truth, and Gospel calling are all included in Paul's account. This helps prevent separating divine action from the believing response. | The passage does not define every temporal or causal detail between sanctification, regeneration, and faith. |
+
+**Combined finding:** Scripture supplies more information than Titus 3:3–7 supplies by itself. The wider testimony identifies the necessity and divine source of new birth (John 3:3–8; John 1:12–13), God's life-giving action and salvation through faith (Ephesians 2:1–10), faith's relation to justification (Romans 4:4–5; 5:1), God's begetting through the Word (James 1:18; 1 Peter 1:23), and the relation of the Spirit's sanctifying work, belief, and Gospel calling (2 Thessalonians 2:13–14).
+
+Therefore, the broad relationships are not left wholly unresolved. The more precise temporal order and complete causal mechanics between regeneration and the first act of faith are **not fully specified by these passages as a combined set**. We must state the relations Scripture does establish and reserve only the details it does not disclose.
+
+This audit does not create new HW entries or reopen completed investigations. It cross-references existing entries and adds unnumbered references where appropriate.
 
 ### H. What the passage does not establish
 
