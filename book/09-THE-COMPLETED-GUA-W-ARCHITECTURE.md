@@ -240,4 +240,3 @@ This chapter presents the established architecture for the reader. Consult the s
 - [Genesis 4:6–7 — Text-First Reconstruction](../scriptural-reconstruction/GENESIS-4-6-7-TEXT-FIRST-RECONSTRUCTION.md)
 - [Investigation Protocol](../INVESTIGATION-PROTOCOL.md)
 
-**Editorial note:** This chapter recovers and explains the completed architecture. It introduces no new layer, Gear, runtime stage, State term, or universal law. The State terms are not sequential runtime stages. The diagnostic procedure is not the architecture. Unresolved questions remain visible and are not converted into invented answers.
