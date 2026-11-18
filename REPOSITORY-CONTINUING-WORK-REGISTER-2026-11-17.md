@@ -394,3 +394,11 @@ Continued the Genesis 1–3 investigation by examining Paul's argument in Romans
 This is a canonical diagnosis of knowledge suppressed and exchanged in rebellion against the Creator. It must not be turned into a blanket assertion that every scientific finding is false, every scientist consciously rejects God, or empirical investigation itself is sinful. The distinction between ultimate theological WHY and domain-specific HOW remains intact. The study also preserves the distinction between Genesis 3's beginning-account narrative and Paul's later canonical diagnosis; they are related witnesses, not identical passages.
 
 No GUA-W component, layer, Gear, or runtime stage was added or altered. README navigation was updated. The new study and README entry require read-back verification before this register entry is treated as fully synchronized.
+
+## 2026-11-18 — Restore and integrate the complete Human Will reference work
+
+A read-back check exposed that the latest contents of `HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md` contained only sections 32–36, while the earlier authoritative file held the full HW-001–HW-020 investigation body and sections 1–31. The Git commit history was checked; the complete version was recovered from its verified commit, then the current sections 32–36 were preserved and appended. The restored file was read back and checked for all twenty passage entries plus sections 32–36.
+
+Added section 37, an integrated canonical connection showing how the Creator-authority finding (Job 40:8; Isaiah 45:9; Romans 1:18–25) illuminates already completed Human Will investigations, especially Philippians 2:12–13, John 6, Ephesians 2, Titus 3, James 1, and Philippians 1:29. The finding is bounded: human willing and action are real; they do not confer independent authorship or ultimate authority; divine operation does not make human response fictitious. No HW-021, duplicate passage investigation, or new GUA-W component was created.
+
+**Verification:** The repaired reference work was read back after both writes. The final read-back contains HW-001 through HW-020, the original canonical synthesis and sections 32–36, and the new section 37. Commit: `126abeb57ccdaab5aa0c600f98a7a3d25eea45ec`. This entry records the recovery and integration; it does not claim that every remaining question in the Human Will study is closed.
