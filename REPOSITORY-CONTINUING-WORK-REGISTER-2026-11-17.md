@@ -227,3 +227,9 @@ Continue by independently verifying the KJV phrase occurrences and then investig
 
 **Next passage:** HW-015, 2 Thessalonians 2:13–14, examining divine choice, sanctification of the Spirit, belief of the truth, and calling through the gospel.
 
+
+
+**Fifteenth entry recorded — HW-015, 2 Thessalonians 2:13–14 (2026-11-18).** Paul attributes the choice unto salvation to God and joins sanctification of the Spirit with belief of the truth. Verse 14 identifies the Gospel as the means through which God called the believers and Christ's glory as the end. The text does not make faith the originating cause of God's choice, nor does it erase faith or Gospel proclamation. The KJV reading “from the beginning” has a significant manuscript variant, “as firstfruits”; both are documented. The passage does not provide a complete chronology or the full scope/mechanics of election. No GUA-W architectural change is proposed.
+
+**Next passage:** HW-016, Romans 8:28–30, examining foreknowledge, predestination, calling, justification, and glorification.
+
