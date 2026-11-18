@@ -415,7 +415,7 @@ The bounded finding is that Jesus is the acting authority in the signs; human re
 
 ## 2026-11-18 — Repository-wide rebaseline and current order of work
 
-The repository was re-read from its current recursive Git tree, not from the earlier README list alone. The tree contains 101 entries: 98 files and 3 directories. A complete [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) now indexes every tracked file and establishes a reader's path from governing documents through Scripture, canonical investigations, and evidence audits. README navigation points to that complete map. Its inclusion of a file is navigation, not a declaration that every statement in the file is canonical or fully verified.
+The repository was re-read from its current recursive Git tree, not from the earlier README list alone. The tree contains 102 entries: 99 files and 3 directories. A complete [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) now indexes every tracked file and establishes a reader's path from governing documents through Scripture, canonical investigations, and evidence audits. README navigation points to that complete map. Its inclusion of a file is navigation, not a declaration that every statement in the file is canonical or fully verified.
 
 ### Current work order — supersedes the original 2026-11-17 priority queue
 
