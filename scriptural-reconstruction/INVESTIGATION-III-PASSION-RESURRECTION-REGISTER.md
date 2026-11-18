@@ -171,3 +171,13 @@ The lexical link between John 20:22 and the LXX of Genesis 2:7 remains strongly 
 
 **Disposition:** Textual and scholarly refinement recorded; no new GUA-W layer, Gear, or physical mechanism established.
 
+### Investigation III.2 — Luke 24 and Acts 1 comparison added
+
+The dedicated study now examines Luke 24:36–49 and Acts 1:1–8 alongside John 20:19–23. It records the future-oriented promise to wait until endued with power from on high, the promised baptism with the Holy Ghost, and the explicit connection between the Spirit's coming and witness to Jesus. Acts 2:32–33 is included for Peter's attribution of the outpouring to the exalted Christ.
+
+**Key distinction:** Luke 24:49 and Acts 1:4–8 establish a future promised endowment; they do not explicitly state that no earlier reception or work of the Spirit occurred. The relationship to John 20:22 therefore remains unresolved. The study tests anticipatory, actual-reception/distinct-empowerment, partial/staged, and broader one-purpose models without promoting any to settled fact.
+
+**Updated study:** [Investigation III.2 — The Breath of the Risen Christ](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
+
+**Disposition:** Canonical comparison added; U-008 remains UNRESOLVED; no new GUA-W layer or Gear is established.
+
