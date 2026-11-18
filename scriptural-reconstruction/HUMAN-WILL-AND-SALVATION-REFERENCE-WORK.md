@@ -2231,7 +2231,7 @@ Next investigations:
 1. HW-016 — Romans 8:28–30: examine foreknowledge, predestination, calling, justification, and glorification in Paul's argument.
 2. HW-017 — Ephesians 1:3–14: examine election, adoption, redemption, hearing the Word of truth, believing, and sealing with the Spirit.
 3. Retain 1 Thessalonians 1:4–5 and 1 Peter 1:2 as close comparisons.
-4. Keep U-006 (definition and components of human will) open. This passage establishes God's choice and the connected means and responses but does not exhaustively define the human will or every stage of salvation.
+4. U-006 is **NARROWED** by the Genesis 1–3 foundational review; do not reopen or relabel it because Romans 8 leaves the distinct semantic nuance of foreknowledge and some election mechanics bounded. This passage establishes God's purpose and the connected means and responses but does not exhaustively define every aspect of the will or every stage of salvation.
 
 ---
 
@@ -2403,15 +2403,89 @@ Next investigations:
 ---
 
 
+
+
+### M. Integrated canonical connection — purpose, giving, calling, and historical witness (2026-11-18)
+
+This subsection completes the comparisons already named in HW-016. It does not create another HW number. The question is whether Romans 8:28–30's purpose-and-calling sequence belongs to the wider Scriptural account in which the Father's purpose precedes history and is manifested through the Son, the Spirit, the Gospel, and the witness-community.
+
+#### 1. Return to the beginning — Genesis 2:1–5
+
+Genesis 2:1–3 declares the heavens, earth, and all their host finished; distinguishes God's ending of His work from His resting; and records the blessing and sanctification of the seventh day. Genesis 2:4–5 then gives the account's transition to the earth and field conditions preceding the formation of man in the narrative.
+
+This is the foundational Creation-completion record required by the repository's governing rule. It establishes the created order and the Creator's completed work. It does **not** mention foreknowledge, election, predestination, the Book of Life, the Father's giving of people to the Son, or a pre-creation inscription event. “Before the foundation of the world” in later passages and the seventh-day completion scene in Genesis 2 are not interchangeable temporal expressions. Genesis remains the beginning-account foundation; the later texts must supply their own statements about purpose before the world.
+
+#### 2. Romans 8:28–30 — purpose and the same people through the stated sequence
+
+Romans 8:28 identifies the people in view as those loving God, “the called according to his purpose.” Verses 29–30 then name God as the acting subject: He foreknew, predestined, called, justified, and glorified. The repeated “whom … them” construction carries the same people through the sequence. Predestination's stated purpose is conformity to the image of the Son.
+
+The passage therefore establishes divine agency and the unity of the purpose described. It does not itself include the phrase “before the foundation of the world,” nor does the sequence's aorist morphology supply a complete calendar chronology. The prior-purpose timing must be established from passages that actually state it.
+
+#### 3. The Father's giving and the Son's keeping — John 6, John 10, and John 17
+
+These completed comparisons supply the relational and saving-work context for Romans 8:
+
+- **John 6:37–40, 44–45, 63–65 (HW-006):** The Father gives people to the Son; those given come; the Son receives rather than casts out; He loses nothing of what the Father gave Him and raises it at the last day. Coming is not presented as an autonomous origin independent of the Father's giving and drawing. The passage also retains hearing, learning, coming, and believing as real responses.
+- **John 10:26–30 (HW-006 supplement):** Jesus says the unbelieving hearers do not believe because they are not His sheep. His sheep hear and follow; He knows them and gives them eternal life. The Father gave them to the Son, and no one can snatch them from either the Son's hand or the Father's hand. The causal statement in verse 26 must not be reversed.
+- **John 17:6, 9–12, 20, 24 (section 38):** The Father gives people to the Son; the Son manifests the Father's name and Word, keeps those given Him, sends the disciples, and prays also for later believers who will believe through their word. John 17:12's son of perdition clause remains an explicit qualification; “given,” “disciple,” and “saving sheep” must not be made automatically identical categories.
+
+Together these passages support the conclusion that the Father's giving and purpose are not described as a passive response to independently arriving people. They also preserve the real historical means and responses through which the purpose is manifested: the Son's mission, the Word, hearing, coming, believing, following, and apostolic witness. They do not date the giving in John 6 or John 10 by a tense alone.
+
+#### 4. Passages that explicitly place purpose before the world
+
+The temporal claim is supplied by the passages whose own wording reaches before the foundation or before the ages:
+
+- **Ephesians 1:3–14 (HW-017):** God chose in Christ before the foundation of the world (vv. 4–5) and predestinated to adoption according to the good pleasure of His will. The same passage later speaks of hearing the word of truth, believing, and being sealed with the Holy Spirit of promise (v. 13). The passage joins prior purpose with historical Gospel reception and sealing; it must not be flattened into a complete individual chronology beyond its wording.
+- **2 Timothy 1:8–10:** salvation and holy calling are not according to works but according to God's purpose and grace, given in Christ Jesus before the world began, and now made manifest by the appearing of Christ. This is an explicit contrast between prior purpose/grace and historical manifestation.
+- **Titus 1:1–3:** eternal life is described as promised before the world began and manifested in due times through preaching entrusted by God's command. This directly connects prior promise with later proclamation.
+- **1 Peter 1:1–5, 18–21 (HW-018):** believers are elect according to the foreknowledge of God the Father, in sanctification of the Spirit, unto obedience and the sprinkling of Jesus Christ's blood; they are begotten again unto a living hope through Christ's resurrection and kept by God's power through faith. Christ is foreordained before the foundation of the world and manifested in these last times. Peter therefore distinguishes prior divine purpose/foreordination from historical manifestation, while retaining Spirit-sanctification, obedience, faith, and the Word.
+- **John 17:5, 24:** Jesus speaks of the glory He had with the Father before the world and of the Father's love for Him before the foundation of the world. The temporal phrase in 17:24 directly qualifies the Father's love for the Son; it must not be grammatically reassigned to the giving of the disciples.
+- **Revelation 17:8; 13:8 (section 39):** Revelation 17:8 most clearly places the non-inscription of certain names in relation to the foundation of the world. Revelation 13:8 has a known attachment ambiguity, with Revelation 17:8 serving as an internal comparison. Neither verse narrates a positive inscription scene or supplies the mechanics/date for each name.
+
+#### 5. Historical calling and the public means — Romans 10:13–17 and Acts 2
+
+Romans 10:13–17 describes calling upon the Lord, believing, hearing, and preaching; faith comes by hearing, and hearing by the Word of God. This does not replace Romans 8's purpose sequence. It describes the public means and real human response within the Gospel's historical proclamation.
+
+Acts 2:32–42 (section 38) records the risen and exalted Jesus pouring forth the Father's promised Spirit, the apostles' testimony, Peter's proclamation, hearers being pricked in heart and receiving the word, and the growing community. Acts 2:39 states that the promise extends to the hearers, their children, those afar off, and as many as the Lord calls. It does not independently define every individual's chronology of calling, regeneration, faith, and reception.
+
+The two levels must be held together without confusion: God's prior purpose is not created by the historical response; historical proclamation, hearing, believing, receiving, and witness are nevertheless real and expressly appointed in the narrative.
+
+#### 6. What this combined witness answers — and what it does not
+
+**Answered by the combined canonical evidence:**
+1. Is salvation in history presented as the manifestation of a purpose already established by God? **Yes.** Ephesians 1:4–5, 2 Timothy 1:9–10, Titus 1:2–3, and 1 Peter 1:19–20 explicitly place election, purpose/grace, promise, and Christ's foreordination before the world or its foundation, then speak of historical manifestation.
+2. Does Romans 8:28–30 present God as the acting subject of the foreknowing/predestining/calling/justifying/glorifying sequence? **Yes.** Its grammar and repeated “whom … them” construction say so.
+3. Does Scripture describe the Father's giving as originating initiative rather than merely a reaction to autonomous human arrival? **Yes, in the stated relations.** John 6:37, 44–45; John 10:26–29; and John 17:6, 9–12 explicitly place the Father's giving/drawing and the Son's receiving/keeping before or as the ground of the responses described.
+4. Are Gospel proclamation and human response real parts of the historical account? **Yes.** Romans 10:13–17, John 6:45, Ephesians 1:13, 1 Peter 1:2–5, and Acts 2:37–42 explicitly retain hearing, believing, coming, obedience, receiving, and witness.
+
+**Still bounded / not established by these texts as a complete formula:**
+- the exact semantic nuance of προγινώσκω in Romans 8:29 and 1 Peter 1:2 (prescience, relational/covenantal knowledge, or forelove);
+- the precise date/mechanics of the giving in John 6 and John 10;
+- a complete individual chronology of calling, regeneration, first faith, justification, sealing, and perseverance;
+- the positive inscription event and exact mechanics/date for each name in the Book of Life;
+- an equation that makes “foreknown,” “chosen,” “given,” “called,” “believing,” and “written in the Book” interchangeable technical labels.
+
+These boundaries do not erase the answer already established. They identify only the details the cited wording does not specify.
+
+#### 7. Triple Constraint and GUA-W disposition
+
+- **Biblical compliance — PASS within stated scope:** Genesis 2:1–5 is treated as the beginning-account foundation without being made to mention later doctrines. Each later passage is allowed to state its own temporal and relational claims. The distinction between prior purpose and historical manifestation is grounded in explicit wording.
+- **Scientific coherence — PASS within scope:** this is a textual, grammatical, and canonical synthesis. It does not present theological statements as empirical scientific measurements or use grammar to manufacture a chronology.
+- **GUA-W consistency — PASS within scope:** God remains the originating Author and source of purpose; the Father gives and purposes; the Son is sent, accomplishes, receives, keeps, and raises; the Spirit sanctifies, quickens, and seals; the Word is proclaimed; witnesses testify; hearers respond. Derivative witness does not become the originating cause or Author.
+
+**Integrated finding:** The saving work manifested in history is presented in Scripture as proceeding from God's prior purpose, not as a purpose generated by independent human arrival. Romans 8:28–30 gives the linked purpose/calling/justification/glorification account; John 6, 10, and 17 show the Father's giving and the Son's receiving and keeping; Ephesians 1, 2 Timothy 1, Titus 1, and 1 Peter 1 explicitly place purpose, election, grace, promise, or Christ's foreordination before the foundation/world; Romans 10 and Acts 2 record the historical proclamation and real reception of the Word. This is a canonical relationship, not a newly invented GUA-W runtime sequence.
+
+**Disposition:** HW-016 is strengthened by canonical integration, not replaced. No new HW number, GUA-W layer, Gear, or runtime stage is created. The precise semantic nuance of foreknowledge and the detailed chronology/mechanics not stated by the passages remain bounded questions. U-006's foundational human-will status remains **NARROWED** as already recorded; this foreknowledge boundary must not be used to reopen or mislabel the distinct Genesis-based U-006 question.
+
 ### Canonical completion review — 2026-11-18
 
 **Original limitation reviewed:** ** The precise meaning of foreknowledge, its relation to faith, and the scope of the sequence require the whole chapter and related election texts.
 
-**Canonical passages examined:** **Romans 8:18–39; 9:6–24 (HW-007); 10:1–17; 11:1–36; Ephesians 1:3–14 (HW-017); 1 Peter 1:1–5 (HW-018); 2 Timothy 1:9; John 6:37–45 (HW-006).**
+**Canonical passages examined:** **Genesis 2:1–5; Romans 8:18–39; 9:6–24 (HW-007); 10:1–17; 11:1–36; John 6:37–65 and 10:22–30 (HW-006); John 17:5–24; Ephesians 1:3–14 (HW-017); 1 Peter 1:1–5, 18–21 (HW-018); 2 Timothy 1:8–10; Titus 1:1–3; Revelation 13:8; 17:8; Acts 2:32–42.**
 
-**Combined biblical finding:** Romans 8 itself includes present suffering, waiting, Spirit help, love of God, and the assurance sequence. Romans 9–11 supplies Paul's connected discussion of Israel, Gentiles, mercy, hardening, and faith. Ephesians 1 and First Peter 1 add election/foreknowledge contexts. Second Timothy 1:9 speaks of God's purpose and grace before the world began.
+**Combined biblical finding:** Romans 8 itself includes present suffering, waiting, Spirit help, love of God, and the assurance sequence. Romans 9–11 supplies Paul's connected discussion of Israel, Gentiles, mercy, hardening, and faith. John 6, John 10, and John 17 clarify the Father's giving and the Son's receiving/keeping; Ephesians 1, First Peter 1, Second Timothy 1, and Titus 1 explicitly place aspects of God's saving purpose, election, grace, promise, or Christ's foreordination before the world/foundation and distinguish this from historical manifestation. Romans 10 and Acts 2 retain public proclamation and real response. Genesis 2:1–5 remains the Creation-completion foundation but does not itself state the later pre-foundation saving-purpose claims.
 
-**Revised disposition:** **NARROWED.** God is the acting subject of the sequence in Romans 8:29–30; conformity to Christ is the stated purpose. The wider canon confirms that believing, calling, and response are real. The exact semantic nuance of foreknowledge and a complete theory of its relation to faith are not settled by one lexical item or one passage.
+**Revised disposition:** **NARROWED.** God is the acting subject of the sequence in Romans 8:29–30; conformity to Christ is the stated purpose. The wider canon answers that the historical saving work manifests God's prior purpose and that the Father's giving is not merely a reaction to autonomous human arrival. Believing, calling, and response remain real. The exact semantic nuance of foreknowledge and a complete individual chronology/mechanics are not settled by one lexical item or one passage.
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
