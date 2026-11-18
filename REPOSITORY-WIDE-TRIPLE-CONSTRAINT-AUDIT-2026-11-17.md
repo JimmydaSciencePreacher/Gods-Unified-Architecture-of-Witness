@@ -208,3 +208,21 @@ The repository must not imply that GUA-W is incomplete because the written inves
 
 ---
 **Audit provenance:** This document records a cross-file review of the current `main` tree on 2026-11-17. It is an audit record, not an amendment to the completed GUA-W architecture.
+
+
+## 8. Follow-up rebaseline — 2026-11-18
+
+This section supplements the 2026-11-17 audit; it does not rewrite its historical findings or imply that the original claim-level work is complete.
+
+A fresh recursive tree inspection on 2026-11-18 found 101 entries: 98 files and 3 directories. A complete [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) was added, and the README now links to it. The map indexes all tracked files and provides a reader's route through the governing documents, completed architecture, Scriptural foundation, canonical investigations, and evidence audits. It is a navigation record, not a certification of every claim.
+
+The continuing-work register now contains a dated rebaseline that supersedes the original 2026-11-17 priority queue as a statement of current order. In particular:
+- U-006 is narrowed with its beginning-account answer recorded; U-007 is resolved. These are not to be carried forward as wholly unresolved questions.
+- U-008 remains open on the specific relation between John 20:22 and Acts 2, after the extensive canonical work already recorded.
+- Genesis 1–2 claim-level verification, remaining Investigation II classification, named open questions in Investigation III, and U-001–U-005 remain active work.
+- The Human Will reference work now includes HW-001 through HW-020 and its integrated synthesis through section 37.
+- The two holography audits remain distinct because their complementary coverage and primary-source verification are documented; no merge is warranted merely to reduce file count.
+
+**Updated disposition:** The 2026-11-17 finding of PARTIAL internal alignment remains the historical audit conclusion. The follow-up work improves navigation and status control, but does not establish that every Scriptural, linguistic, historical, scientific, or mathematical claim has been freshly verified. The repository remains active; GUA-W remains complete.
+
+No GUA-W layer, component, Gear, or runtime stage was added, altered, or promoted by this follow-up.
