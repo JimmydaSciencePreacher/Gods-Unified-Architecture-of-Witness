@@ -10,6 +10,8 @@ We do not attempt to persuade the sciences to adopt GUA-W before they can partic
 
 **GUA-W does not need to make the sciences agree with it. It needs to investigate whether their findings, properly understood, reveal the unified order of the One Creation.**
 
+**Theology is the Queen of the Sciences** in the specific sense that it addresses the ultimate WHY of the One Creation—its Author, originating Word, purpose, and end. The other sciences investigate HOW the created order operates within their respective domains. Their findings remain necessary and authoritative within their proper scope; they do not, by describing mechanisms, independently settle the ultimate WHY. This primacy does not authorize Theology to invent or dictate domain-specific mechanisms. See [Theology: The Queen of the Sciences](THEOLOGY-QUEEN-OF-THE-SCIENCES.md) for the full distinction.
+
 This is an investigative orientation, not a demand that evidence reach a predetermined result. The map governs the questions of relationship, order, and architectural consistency; it does not replace the methods, data, equations, standards of measurement, or domain-specific expertise by which a discipline establishes its findings.
 
 ## What this means in practice
