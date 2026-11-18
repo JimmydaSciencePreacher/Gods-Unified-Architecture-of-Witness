@@ -457,3 +457,29 @@ Related record: [Genesis 4:13–16 — Text-First Reconstruction](scriptural-rec
 
 **Related investigation:** [The Biblical Examination of the Human Will — HW-012, Romans 8:5–11](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
 
+
+
+## 22. Evidence update — Acts 13:44–48 (2026-11-18)
+
+### U-006 supplement — Appointment and believing
+
+**New evidence reviewed:** Acts 13:44–48, with Acts 13:13–43 and 13:49–52 as narrative context.
+
+**Textual observations:**
+- The Word of God is preached and heard (13:44–46).
+- Some hearers oppose and reject the Word; Paul and Barnabas hold them accountable for putting it away and judging themselves unworthy of eternal life (13:45–46).
+- The Gentile mission is grounded in the Lord's command (13:47).
+- The Gentiles rejoice and glorify the Word; those appointed to eternal life believe (13:48).
+- The Greek construction ἦσαν τεταγμένοι uses an imperfect form of “to be” with a perfect middle/passive participle of τάσσω, naturally read as a periphrastic pluperfect: “had been appointed.”
+- The passive clause does not explicitly name the agent. Divine appointment is the leading contextual/canonical inference, not an expressed agent in the clause itself.
+
+**Effect on question:** The text does not naturally place belief as the cause of appointment. It identifies the believers as those appointed to eternal life. At the same time, preaching, hearing, rejection, rejoicing, glorifying the Word, and believing remain real elements of the narrative. Appointment does not make the gospel means or human response irrelevant.
+
+**Limits:** The passage does not specify the full mechanics, grounds, timing, or scope of election. It does not classify every individual in the city. The relation of this statement to texts concerning God's saving will and the scope of the gospel call remains for canonical examination.
+
+**Status remains:** UNRESOLVED.
+
+**Guardrail:** Do not reverse the natural grammatical relation and claim that Acts 13:48 says belief caused appointment. Do not claim the passive clause explicitly names God as agent. Do not use appointment to erase preaching or accountable human response. Do not infer the complete doctrine or scope of election from this one verse.
+
+**Related investigation:** [The Biblical Examination of the Human Will — HW-013, Acts 13:44–48](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
+
