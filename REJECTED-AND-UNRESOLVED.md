@@ -81,6 +81,11 @@ This register distinguishes genuinely unresolved questions from matters already 
 **Related records:** [Genesis 3:1–24 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md); HW-004, Genesis 3:1–7; U-007, resolved distinction between knowledge/evaluation and authority to establish the standard.
 
 **Revision history:** Reclassified on 2026-11-18 after returning to Genesis 1–2 and integrating the existing Genesis 3 reconstruction.
+
+**Genesis 3:8–24 completion review (2026-11-18):** The full chapter further establishes that the humans hear God, hide, fear, answer, and attribute responsibility (3:8–13); God identifies Adam's hearkening and eating and pronounces differentiated judgments (3:14–19); Adam names his wife Eve and God makes clothing for them (3:20–21); and God sends the man from the Garden and guards the way to the tree of life (3:22–24). These verses deepen the answer: human beings remain responsive and accountable within consequences they do not author, while God retains authority over judgment, provision, expulsion, and access to life. Genesis 3:21 says God made coats of skins; it does not explicitly state a sacrifice or ritual mechanism. Genesis 3:22–24 records the stated concern and guarded access; do not invent a biological mechanism for the tree of life.
+
+**Updated disposition:** NARROWED — THE BEGINNING ACCOUNT ESTABLISHES THE WILL'S NARRATED OPERATIONS, ACCOUNTABILITY, AND CREATURELY LIMITS. The chapter is now reviewed through verse 24 in the existing reconstruction. The remaining boundary is the absence of an exhaustive abstract taxonomy and the need to examine specific later doctrinal questions through their own canonical witnesses. This is not a reason to call the beginning-account answer absent.
+
 ### U-007 — Knowledge of good and evil versus authority to establish its standard
 
 **Status: RESOLVED — no transfer of divine authority to establish the standard of good and evil is described or granted.**
