@@ -46,6 +46,7 @@ This map orders the written record; it does not establish a new authority hierar
 - [Chapter 4 — Genesis 1: The Word Establishes Order](book/04-GENESIS-1-THE-WORD-ESTABLISHES-ORDER.md)
 - [Chapter 5 — Genesis 2:1–5: Completion Before the Further Account](book/05-GENESIS-2-1-5-COMPLETION-BEFORE-THE-FURTHER-ACCOUNT.md)
 - [Chapter 6 — The Garden, Humanity, Purpose, and Relationship](book/06-THE-GARDEN-HUMANITY-PURPOSE-AND-RELATIONSHIP.md)
+- [Chapter 7 — Genesis 3: The Question of Authority and the Origin of Disconnected Knowledge](book/07-GENESIS-3-THE-QUESTION-OF-AUTHORITY-AND-DISCONNECTED-KNOWLEDGE.md)
 
 ## II. Scriptural foundation — Genesis and Hebrew examinations
 
