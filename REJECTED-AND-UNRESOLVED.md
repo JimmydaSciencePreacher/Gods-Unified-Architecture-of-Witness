@@ -56,22 +56,31 @@ This register distinguishes genuinely unresolved questions from matters already 
 
 **Guardrail:** Do not equate Drift with sin, entropy, mutation, noise, or system failure by default.
 
-### U-006 — Definition and components of human will
+### U-006 — Human will: its operation, capacity, and limits
 
-**Question:** Can human will be defined from Scripture without importing a modern philosophical definition, and how are perception, knowledge, evaluation, desire, choice, heeding, action, and authority related or distinguished?
+**Question:** What does the beginning account reveal about human willing—what operations are present, what can the human do, what authority does the human not possess, and what does the text attribute to God?
 
-**Current status:** UNRESOLVED.
+**Current status:** NARROWED — FOUNDATIONAL ANSWER ESTABLISHED IN GENESIS 2–3; NO EXHAUSTIVE ABSTRACT DEFINITION CLAIMED.
 
-**Evidence reviewed:** Genesis 3:1–24, especially 3:5–7, 3:8–13, 3:17, and 3:22; Genesis 2:16–17 as the prior command context.
+**Foundational evidence:** Genesis 1:1; 2:1–7; 2:15–17; 3:1–24, especially 3:1–7, 3:8–13, 3:17, and 3:22–24.
 
-**Reason:** Genesis 3 narrates distinguishable elements: competing communication, seeing and evaluating, desire, taking/eating, heeding another's voice, changed awareness, fear, and divine assessment. It does not provide a formal or exhaustive definition of “will” or “autonomous will.” The relation among these elements requires wider Scriptural examination.
+**Finding:** Genesis 2 establishes the Creator's prior work and order; Genesis 2:16–17 gives the command and boundary; Genesis 3 narrates human willing in operation. The account distinguishes reception/heeding of communication, perception, evaluation, desire, taking/eating and other action, and response to consequence. These operations are real and accountable, but they are not interchangeable.
 
-**Guardrail:** Do not define will as merely the ability to choose, act, evaluate, or know. Do not assume that capacity to evaluate entails authority to establish the standard of good and evil.
+**What the human will is shown doing:** receiving/responding to competing communication; perceiving; evaluating; desiring; heeding; choosing and acting; responding to the consequences and to God's questioning.
 
-**Related investigation:** [Genesis 3:1–24 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md).
+**What it is not shown to possess:** authorship of the created order, authorship of human life, authority to issue or revise the Creator's command, or authority to establish the governing standard of good and evil. Genesis 3:22 acknowledges changed knowledge; it does not state a transfer of divine authority.
 
-**Revision history:** Added 2026-11-16 following the first text-first reconstruction of Genesis 3.
+**What is attributed to God:** creation and completion (Genesis 1:1; 2:1–3); man's formation and life (2:7); planting and placement (2:8, 15); appointed work (2:15); permission and prohibition (2:16–17); questioning and judgment (3:9–19); and guarding access to the tree of life (3:22–24).
 
+**Important scope distinction:** Genesis 2:1–5 establishes the completed Creation and conditions preceding man's formation; it is the foundational return, not a direct abstract definition of the will. The direct command relevant to the Fall is Genesis 2:16–17. Genesis 3 supplies the narrated operation of human willing. Do not collapse these distinct contributions.
+
+**Remaining boundary:** Genesis 1–3 gives a foundational narrative account, not an exhaustive philosophical, psychological, or physiological taxonomy of every faculty of will. Later canonical passages may illuminate or qualify specific operations. This bounded limit does not justify labeling the foundational question wholly unanswered.
+
+**Guardrails:** Do not import a modern definition of free will; do not reduce will to choice alone; do not equate capacity to evaluate with authority to establish the standard; do not erase real human action or accountability; do not claim that Genesis 3 supplies a complete abstract definition; do not create a duplicate investigation.
+
+**Related records:** [Genesis 3:1–24 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md); HW-004, Genesis 3:1–7; U-007, resolved distinction between knowledge/evaluation and authority to establish the standard.
+
+**Revision history:** Reclassified on 2026-11-18 after returning to Genesis 1–2 and integrating the existing Genesis 3 reconstruction.
 ### U-007 — Knowledge of good and evil versus authority to establish its standard
 
 **Status: RESOLVED — no transfer of divine authority to establish the standard of good and evil is described or granted.**
