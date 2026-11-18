@@ -168,12 +168,16 @@ These chapters form the promise-context for John 20:22. They do not allow the in
 
 Acts 1:4–8 records Jesus commanding the disciples to wait for the Father's promise and promising power when the Holy Ghost comes upon them. Acts 2 records the sound from heaven as of a rushing mighty wind, the appearance of cloven tongues like as of fire, the disciples being filled with the Holy Ghost, and their speaking with other tongues as the Spirit gave them utterance.
 
-Two major readings of John 20:22 and Acts 2 must be represented fairly:
+The dedicated Investigation III.2 preserves several interpretive proposals rather than reducing the question to a simple actual-versus-symbolic binary:
 
-- **Actual reception on Resurrection day:** Jesus' breathing and command are understood as an actual impartation or reception of the Holy Ghost. Pentecost is then understood as a distinct subsequent public outpouring, empowerment, or manifestation for witness.
-- **Enacted sign or anticipation:** Jesus' breathing is understood as a symbolic or prophetic action pointing toward the fuller reception or empowerment at Pentecost.
+- **Actual reception on Resurrection day, followed by distinct empowerment:** Jesus' breathing and command are understood as an actual reception of the Holy Ghost, while Pentecost is understood as a subsequent endowment or empowerment for public witness.
+- **Enacted sign or anticipation:** Jesus' action is understood as a prophetic or enacted sign pointing toward the promised outpouring.
+- **Partial or staged reception:** John 20:22 is understood as one aspect or stage of the Spirit's work, with Acts 2 recording a further or fuller manifestation.
+- **Distinct narrative and theological presentations:** John's account and Luke–Acts are understood as presenting related dimensions of the promised Spirit and the disciples' commission, without assuming that their descriptions are interchangeable.
 
-John's wording strongly joins Jesus' breathing with the command, “Receive ye the Holy Ghost.” Acts explicitly records the later promise and outpouring. The exact theological and chronological relationship between the two passages remains unresolved in the dedicated investigation. Neither passage should be erased to protect a preferred reading of the other.
+These are proposals to examine, not conclusions adopted wholesale. The study separately considers the extent and timing of reception, the function of the gift, the relation among the Gospel and Acts narratives, and the scope of the recipients. It also compares John 20:19–23, Luke 24:33–49, Acts 1:12–15, and Acts 2:1–4 without assuming that every gathering has an identical membership or a precisely established headcount.
+
+John's wording expressly joins Jesus' breathing with the command, “Receive ye the Holy Ghost.” Luke and Acts expressly record the future promise, the Ascension context, the outpouring, and its public witness. The exact theological and chronological relationship remains unresolved in the dedicated investigation. The lexical and canonical connections are evidence to weigh; they do not by themselves settle the question. Neither passage should be erased to protect a preferred reading of the other.
 
 John 20:23 follows the sending and reception language. The precise ecclesial and sacramental implications of the authority to remit and retain sins have been interpreted differently across Christian traditions. The immediate context and wider canonical teaching concerning repentance and remission in Christ's name remain central to its examination.
 
