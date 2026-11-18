@@ -313,3 +313,10 @@ The John 6 / John 17 examination is now situated within the wider pre-creation t
 **Book of Life boundary:** Revelation 17:8 relates names not written to the foundation of the world; Revelation 21:27 speaks of those written in the Lamb's book. Revelation 13:8 has an attachment ambiguity and is not used as unqualified proof of the timing of the inscription. The texts establish prior purpose and election, but do not narrate the exact moment or mechanics of writing each name.
 
 **Will boundary:** genuine human willing and accountability remain; autonomous human sovereignty and self-originating salvation do not follow. This is a canonical synthesis, not an additional Passion event or completion.
+
+## 2026-11-18 — Integrated witness and authority connection
+
+The central Resurrection study now includes section 46, distinguishing Jesus' signs, Lazarus' raising, Christ's unique Resurrection, the attributed actions of Father/Son/Spirit, and the derivative role of apostolic witnesses. Investigation III.2 now includes section 28, connecting reception, commission, and witness while preserving the unresolved relation between John 20:22 and Acts 2 in timing, extent, and function.
+
+**Read-back verified:** sections 46 and 28 are present in their respective studies. No new Resurrection event, chronological scheme, or GUA-W component was created. Historical, chronological, and interpretive limits remain open where the texts do not settle them.
+
