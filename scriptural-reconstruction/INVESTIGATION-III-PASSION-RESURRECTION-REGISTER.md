@@ -160,3 +160,14 @@ The study preserves Matthew as the sole canonical Gospel witness to this episode
 **Record:** [Investigation III.2 — The Breath of the Risen Christ](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
 
 The study records the Hebrew and Greek breath-language; the direct lexical correspondence between John 20:22 and the LXX of Genesis 2:7; Ezekiel 37's restoration vision; the Spirit promises in John; the distinction between Jesus' death in John 19 and His breathing upon the disciples in John 20; the commission and reception in John 20:19–23; the promise, Ascension, outpouring, and witness in Acts 1–2; and the Pauline links in Romans 8:11 and 1 Corinthians 15:45–49. It preserves competing interpretations of John 20:22 / Acts 2, does not invent a physical mechanism, and establishes no new GUA-W layer or Gear.
+
+### Investigation III.2 — Scholarly interpretive audit added
+
+The dedicated study now includes a focused review of Adrian P. Rosen (2025), which maps the scholarly questions surrounding John 20:22 without advocating one final interpretation. The register now tracks the distinction between (a) extent and timing of the Spirit's reception and (b) the function of the gift in relation to life/new creation, indwelling, revelation, mission, and the commission of John 20:21–23.
+
+The lexical link between John 20:22 and the LXX of Genesis 2:7 remains strongly supported; Ezekiel 37 remains a relevant restoration parallel. The exact relation between John 20:22 and Acts 2 remains **UNRESOLVED**. The study does not reduce the alternatives to a simplistic “actual versus symbolic” binary, and it does not promote a scholarly proposal to settled fact.
+
+**Updated study:** [Investigation III.2 — The Breath of the Risen Christ](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
+
+**Disposition:** Textual and scholarly refinement recorded; no new GUA-W layer, Gear, or physical mechanism established.
+
