@@ -64,13 +64,17 @@ When the evidence reveals a relationship, investigate it in context and recogniz
 
 AI's role is to retrieve, investigate, compare, cross-reference, recognize, and record. An “Aha” is a witness recognizing a relationship already present—not AI creating a component. The record is made as the finding is understood and remains a witness to the Source, never a construction kit for the architecture.
 
-## 7. Evidence and presentation
+## 7. AI writing and repository registration
+
+AI may use an available, authorized GitHub connection to write findings directly into the appropriate Revised-GUA-W files, update affected registers and navigation, and read the files back to verify the changes. This is a tool-mediated capability of the investigative instrument, not authorship, authority over the Source, or evidence that a claim is true. Capability, repository permission, and the user's task authorization remain distinct. A successful commit verifies that a change was made; only evidence and the Triple Constraint Law govern the admissibility of its claims. Do not leave material findings in private working notes for later assembly when they can be properly recorded in the repository. See [AI Writing and Repository-Registration Capability](AI-WRITING-AND-REPOSITORY-REGISTRATION-CAPABILITY.md).
+
+## 8. Evidence and presentation
 
 The record distinguishes the wording of Scripture, textual and historical observations, empirical or mathematical findings, supported inference, interpretation, analogy, and unresolved matters. The distinctions clarify the evidence; they do not turn the completed architecture into a collection of disconnected fragments.
 
 Architectural terms present the established GUA-W framework. They are not represented as technical words explicitly printed in the KJV unless the text itself uses them.
 
-## 8. Repository provenance
+## 9. Repository provenance
 
 This repository presents the completed GUA-W and records the Scriptural and cross-disciplinary evidence examined in connection with it. The original repository remains an independent historical source record. Its twelve-step diagnostic trace is distinct from the GUA-W architecture sequence; a diagnostic procedure is not the architecture itself.
 
