@@ -1,7 +1,7 @@
 # The Biblical Examination of the Human Will
 
 **GUA-W Scripture Reference Work**  
-**Status:** ACTIVE — HW-001–HW-020 recorded; retrospective cross-reference audit and entry-level synchronization completed; final quality control in progress  
+**Status:** ACTIVE — HW-001–HW-020 passage investigations, retrospective cross-reference audit, entry-level synchronization, and final canonical synthesis recorded; bounded questions remain open  
 **Governing question:** Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?
 
 ## 1. Scriptural starting point and governing posture
@@ -3125,9 +3125,11 @@ Each entry below is reviewed against its own unresolved questions, existing comp
 7. **No duplicate investigations are created.** All twenty original passage identities and numbers remain unchanged. Existing entries remain the authoritative locations for their assigned verses. These audit links supplement those entries and do not create duplicate investigations or alter the next unassigned number.
 8. **Philippians 1:29 (HW-020) has one authoritative entry.** Its wording establishes believing in Christ as part of the gracious grant, while preserving active human believing and the second granted matter of suffering for Christ. Its mechanism and full chronology are not stated in that verse; the wider canonical means and divine initiative are recorded without collapsing the distinct passages.
 
-### Required follow-through
+### Entry-level synchronization record
 
-This repository-wide audit is the cross-reference map for HW-001–HW-020. When an entry is next substantively revised, its own “unresolved” table and final status must be synchronized with the findings above. A question that has been answered by canonical comparison must not remain labelled wholly unresolved in that entry. A question narrowed by the audit must name the remaining precise limitation. No entry may claim that a reference settles a matter unless the cited passage actually addresses it in context.
+The retrospective entry-level synchronization required by this audit is recorded in the dated **Canonical completion review** attached to each of HW-001–HW-020. Those reviews distinguish a limitation of the assigned passage from a question left unanswered by the canon as a whole. Accordingly, an older entry-level label such as “not settled by this passage alone” or “unresolved” must be read with its attached canonical completion review and this audit; it must not be detached from that subsequent qualification.
+
+The synchronization does not erase genuine open questions. It narrows them to the exact remaining matters identified in the reviews and in the final synthesis below. No cited passage may be said to settle a matter unless it addresses that matter in its own context.
 
 
 ## 28. Completed passage register — HW-001–HW-020
@@ -3169,3 +3171,70 @@ The exact KJV English expression **“freewill”** is maintained separately in 
 **Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
 
 Every entry must answer only to the extent its text and context allow. The final conclusion must emerge from the complete canonical examination, not from a predetermined list of proof-texts.
+
+## 31. Final canonical synthesis — HW-001–HW-020 (2026-11-18)
+
+### A. The governing question
+
+**Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
+
+**Finding from this twenty-investigation body of evidence:** No. None of the twenty assigned passages identifies fallen man's independent will as the originating cause of spiritual birth, faith, or salvation. The combined testimony repeatedly identifies God as the source and acting initiator of spiritual birth, begetting, life-giving, mercy, renewal, drawing, granting, choosing, calling, and preserving. The Word/Gospel and its proclamation are identified as means through which the message is heard; the Spirit's work is expressly named in several passages.
+
+This is a conclusion from the examined passages and their documented canonical comparisons. It is not a claim that these twenty passages exhaust every biblical text relevant to salvation, nor does it authorize an inference beyond the evidence recorded here.
+
+### B. What the twenty investigations establish together
+
+1. **God is identified as the source of spiritual birth and new life.** John 1:12–13 expressly contrasts birth from God with birth from the will of the flesh or the will of man. John 3:3–8 identifies birth of the Spirit as necessary. James 1:18 says God begat believers of His own will with the Word of Truth. First Peter 1:3 attributes new birth to God's abundant mercy through the resurrection of Jesus Christ. Titus 3:5 names regeneration and renewal of the Holy Ghost. First John 5:1 describes the believer as having been born of God.
+
+2. **God's saving purpose and initiative are not presented as originating in an autonomous human decision.** Romans 8:28–30 attributes the purpose, foreknowledge, predestination, calling, justification, and glorification in its stated sequence to God. Ephesians 1:3–14 repeatedly attributes choosing, predestining, purposing, and working to God, with the blessings located in Christ. Second Thessalonians 2:13–14 joins God's choice, the Spirit's sanctifying work, belief of the truth, and calling through the Gospel. First Peter 1:1–5 speaks of the Father's foreknowledge, the Spirit's sanctification, God's begetting, and God's power keeping believers through faith.
+
+3. **Faith and believing are real human acts, and Scripture does not erase them.** The passages speak of receiving Christ, believing, hearing, repenting, coming to Christ, obeying, working, standing fast, and enduring. The active forms and direct commands must be allowed to say what they say. Philippians 1:29 is especially direct: believing in Christ is included in what has been graciously granted, while the Philippians themselves truly perform the act of believing. Divine initiative and real human response are both present in the testimony.
+
+4. **The Word and Gospel are not incidental.** Romans 10:13–17 connects calling, believing, hearing, and preaching, and says faith comes by hearing the Word of God. Acts 16:14 records the Lord opening Lydia's heart as she attends to Paul's message. First Peter 1:23 connects new birth with the incorruptible Word. James 1:18 connects God's begetting with the Word of Truth. These passages identify proclamation and the Word as meaningful means; they do not make the preacher or hearer the Original Cause.
+
+5. **Divine operation does not make human obedience unreal.** Deuteronomy 30 and Joshua 24 contain real covenant summonses and accountability. Philippians 2:12–13 commands believers to work out their salvation while stating that God works in them both to will and to do. Ephesians 2:8–10 excludes boasting and presents good works as the intended walk, not the earning source of salvation. Romans 9–11 must be read as one connected argument, preserving both divine mercy and the real preaching, hearing, believing, and response in Romans 10.
+
+6. **The examined texts distinguish categories that must not be collapsed.** Choice is not identical to ability; responsibility is not itself a proof of ability; willingness is not identical to originating cause; active human believing does not by itself establish independent causal origination; and a passive verb does not automatically identify an unnamed agent. Grammar, context, and canonical comparison must each do their proper work.
+
+### C. What has been answered, narrowed, and left open
+
+| Question | Combined disposition | Exact boundary |
+|---|---|---|
+| Does a human independent will originate spiritual birth in these passages? | **ANSWERED: NO.** | The passages identify God as source/agent of birth and expressly exclude human-will origin in John 1:13. |
+| Is God identified as the source of begetting, regeneration, and life-giving? | **ANSWERED.** | Explicit across John 1 and 3, James 1, 1 Peter 1, and Titus 3. |
+| Is believing a real human act? | **ANSWERED: YES.** | Receiving, hearing, coming, and believing are expressly described; human response is not erased. |
+| Is believing included in divine gracious provision? | **ANSWERED in Philippians 1:29's stated scope.** | The grant includes believing and suffering for Christ; the passive verb does not itself name the giver, while the context supports God as source. |
+| Are the Gospel/Word and proclamation involved in the means by which people hear and believe? | **ANSWERED: YES.** | Romans 10:14–17, Acts 16:14, James 1:18, 1 Peter 1:23, and related passages establish this connection. They do not provide one exhaustive internal mechanism. |
+| Can divine initiative and real human responsibility/obedience both be affirmed? | **ANSWERED: YES.** | Deuteronomy 30, Joshua 24, Philippians 2:12–13, and the wider passages preserve both; they must not be forced into a false either/or. |
+| What is the complete chronological and causal relation between regeneration and the first act of faith? | **NARROWED; NOT EXHAUSTIVELY SETTLED.** | Scripture gives important relations and some local ordering in particular texts, but these twenty investigations do not produce one complete technical timetable for every stage or interval. Do not manufacture one. |
+| What is the exact referent of “water” in John 3:5? | **OPEN INTERPRETIVE QUESTION.** | Ezekiel 36 and the wider canon clarify the cleansing/Spirit background, but the precise referent remains to be argued from context. |
+| Does “washing of regeneration” in Titus 3:5 refer exclusively to water baptism, inward cleansing, or a joined image? | **OPEN INTERPRETIVE QUESTION.** | Romans 6, Acts 2, Ephesians 5, and Hebrews 10 must be compared in their own contexts; the cross-reference list alone does not settle the issue. |
+| What is the full semantic force of foreknowledge in Romans 8:29 and 1 Peter 1:2? | **NARROWED; OPEN IN NUANCE.** | God is the subject in the relevant clauses; the precise semantic and theological relation to persons, faith, and election is not settled by a lexical gloss alone. |
+| What are the full grounds and scope of election/appointment, including the unexpressed agent in Acts 13:48 and Romans 9:22? | **NARROWED; PARTLY OPEN.** | The contexts and canonical comparisons support divine initiative, but grammar must not be made to state an agent or scope it does not expressly state. Romans 9–11 remains one argument. |
+| What is the exact scope of “this” in Ephesians 2:8 and the referent of “from the beginning” in 2 Thessalonians 2:13? | **OPEN IN GRAMMATICAL/INTERPRETIVE DETAIL.** | The wider saving claims remain clear, but these specific textual questions require careful contextual and textual-critical treatment. |
+| What is the exhaustive biblical definition of the human will and all its components? | **NOT YET ESTABLISHED BY THIS WORK.** | U-006 remains open. The twenty entries distinguish choice, responsibility, ability, willingness, and divine initiative but do not claim an exhaustive anthropology of the will. |
+| Do the twenty passages prove universal individual salvation? | **NO SUCH CONCLUSION IS ESTABLISHED.** | Romans 9–11, Ephesians 1, and the other texts must not be made to say universal individual salvation beyond their wording and context. |
+
+### D. The completion judgment — “It is Finished” as a phase marker, not a theological declaration
+
+The twenty assigned investigations are complete as a defined passage-investigation phase: HW-001 through HW-020 each has one authoritative entry; the cross-reference completion audit has been performed; entry-level dispositions have been synchronized; and this synthesis records the combined findings and remaining boundaries.
+
+That does **not** mean every question about the human will and salvation has been answered. It does not mean Scripture has supplied a complete technical chronology of regeneration and first faith in these passages. It does not close the open interpretive questions listed above. It does not equate this research milestone with Christ's words “It is finished.”
+
+The accurate status is therefore:
+
+**THE TWENTY-PASSAGE INVESTIGATION PHASE IS COMPLETE. THE CANONICAL FINDING IS SUBSTANTIAL AND BOUNDED. THE WIDER STUDY REMAINS ACTIVE WHERE SPECIFIC QUESTIONS ARE STILL OPEN.**
+
+### E. Final guardrails
+
+- Do not call a passage-level limitation a whole-canon silence when another passage directly addresses the matter.
+- Do not call a question answered merely because related verses have been listed; explain what each passage actually contributes.
+- Do not turn a logical distinction into a chronological sequence unless the text establishes that sequence.
+- Do not make active human believing into proof of independent originating causality.
+- Do not use divine initiative to erase real human believing, repentance, obedience, or accountability.
+- Do not treat a grammatical tense, aspect, voice, or participle as a complete theological timetable.
+- Do not claim the twenty passages exhaust the canon or exhaustively define the human will.
+- Do not create HW-021 merely to restate a question already covered by an existing entry. A new investigation requires a genuinely distinct passage and a repository check first.
+
+**Final finding:** The twenty investigations do not declare that every question is finished. They do establish a coherent and substantial canonical finding: in the passages examined, God is the originating source of spiritual birth and saving initiative; the Word/Gospel and Spirit are expressly involved; and human believing and obedience remain real responses. The claim that fallen man's independent will originates his spiritual birth, faith, or salvation is not established by these passages. The remaining questions are now more precisely bounded and can be investigated without reopening what the twenty entries have already established.
+
