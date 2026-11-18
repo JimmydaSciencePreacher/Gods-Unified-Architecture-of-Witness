@@ -52,7 +52,7 @@ For a closed system governed by a self-adjoint Hamiltonian, Schrödinger evoluti
 
 **Assessment:** **PASS — for unitary evolution of the state being considered.**
 
-For a density operator evolving as (ho(t)=U(t)ho(0)U^†(t)), the eigenvalues of (ho) are unchanged. Therefore its von Neumann entropy (S(ho)=-mathrm{Tr}(holnho)) is unchanged.
+For a density operator evolving as \(\rho(t)=U(t)\rho(0)U^\dagger(t)\), the eigenvalues of \(\rho\) are unchanged. Therefore its von Neumann entropy \(S(\rho)=-\mathrm{Tr}(\rho\ln\rho)\) is unchanged.
 
 **Limit:** This does not mean every subsystem's entropy remains constant. Entanglement with an environment can change the entropy of a reduced subsystem even while the combined closed system evolves unitarily. The entropy statement must specify which system and which state are being described.
 
