@@ -534,3 +534,30 @@ Related record: [Genesis 4:13–16 — Text-First Reconstruction](scriptural-rec
 
 **Related investigation:** [The Biblical Examination of the Human Will — HW-015, 2 Thessalonians 2:13–14](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
 
+
+
+## 25. Evidence update — Romans 8:28–30 (2026-11-18)
+
+### U-006 supplement — God's purpose and the sequence of salvation
+
+**New evidence reviewed:** Romans 8:18–39, especially 8:23, 26–30, and 31–39.
+
+**Textual observations:**
+- God's purpose is explicit in Romans 8:28.
+- In verses 29–30 God is the grammatical subject of foreknowing, predestining, calling, justifying, and glorifying.
+- The objects are people (“whom”), and the repeated “whom … them” construction links the same people through the sequence.
+- Predestination's stated purpose is conformity to the image of God's Son.
+- The exact nuance of προγινώσκω (“foreknow”) is debated: prior knowledge, relational/covenantal knowledge, and forelove are interpretations requiring broader contextual and canonical examination.
+- Human response remains present in Romans 8, including loving God, walking according to the Spirit, putting to death the deeds of the body, suffering with Christ, waiting, and hope.
+- The aorist “glorified” in verse 30 must be read with verse 23, which still anticipates the redemption of the body.
+
+**Effect on question:** The passage strongly presents God's purpose and actions as governing the sequence described. It does not insert an independently originating human decision as the cause of God's foreknowledge or predestination. The chapter does not erase human response or responsibility.
+
+**Limits:** Romans 8:29 alone does not settle whether foreknowledge means prescience, relational knowledge, or forelove in its full theological sense. The passage does not specify every chronological interval, the complete mechanics or scope of election, or every aspect of human will.
+
+**Status remains:** UNRESOLVED for the precise nuance of foreknowledge, its relation to faith, and the full scope/mechanics of election; PASS for God's agency in the sequence and predestination's stated purpose of conformity to Christ.
+
+**Guardrail:** Do not rewrite “whom he foreknew” as “whose future decision he foresaw” without identifying that as an interpretation. Do not claim the verb alone proves a complete forelove doctrine. Do not detach predestination from conformity to Christ. Do not erase human response in the wider chapter. Do not use “glorified” to deny the future bodily redemption in verse 23.
+
+**Related investigation:** [The Biblical Examination of the Human Will — HW-016, Romans 8:28–30](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
+
