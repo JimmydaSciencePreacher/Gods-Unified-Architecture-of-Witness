@@ -404,3 +404,29 @@ Related record: [Genesis 4:13–16 — Text-First Reconstruction](scriptural-rec
 
 **Related investigation:** [The Biblical Examination of the Human Will — HW-010, Philippians 2:12–13](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
 
+
+
+## 20. Evidence update — 1 Corinthians 2:10–16 (2026-11-18)
+
+### U-006 supplement — Natural man and spiritual discernment
+
+**New evidence reviewed:** 1 Corinthians 2:10–16, with 1 Corinthians 1:18–2:9 and 3:1–4 as context.
+
+**Textual observations:**
+- God reveals the things in view through His Spirit (2:10).
+- The Spirit knows the deep things of God (2:10–11).
+- Reception of the Spirit is connected with knowing the things freely given by God (2:12).
+- Paul describes the natural man as not receiving the things of the Spirit, regarding them as foolishness, and being unable to know them because they are spiritually discerned (2:14).
+- The spiritual person discerns; Paul concludes with “we have the mind of Christ” (2:15–16).
+- The letter then describes believers as carnal and immature (3:1–4), so spiritual status must not be equated with sinless maturity.
+
+**Effect on question:** The text describes more than a lack of information. It states non-reception, a negative evaluation of the things of the Spirit, and inability to know them by spiritual discernment. The relevant knowledge depends upon God's revelation and the Spirit's teaching. This is a specific spiritual inability; the passage does not extend it to every form of human knowledge, ordinary reasoning, or choice.
+
+**Limits:** This passage does not provide an exhaustive definition of the human will or a complete chronology of regeneration and faith. It does not say that every believer is mature or beyond correction.
+
+**Status remains:** UNRESOLVED.
+
+**Guardrail:** Keep the stated object of inability precise: “the things of the Spirit of God.” Do not reduce Paul's claim to mere lack of information; do not expand it into universal intellectual incapacity. Do not equate spiritual status with sinless maturity, in view of 1 Corinthians 3:1–4.
+
+**Related investigation:** [The Biblical Examination of the Human Will — HW-011, 1 Corinthians 2:10–16](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
+
