@@ -94,7 +94,10 @@ Primary reading:
 - [Genesis 2 completion foundation and His Story](scriptural-reconstruction/GENESIS-2-COMPLETION-FOUNDATION-AND-HIS-STORY.md)
 
 ### Chapter 6. The Garden, Humanity, Purpose, and Relationship
-Follow the account through man's formation, placement, command, purpose, work, and relationship. Keep the text's stated sequence distinct from later explanatory conclusions.
+
+**Read the completed chapter:** [Chapter 6 — The Garden, Humanity, Purpose, and Relationship](book/06-THE-GARDEN-HUMANITY-PURPOSE-AND-RELATIONSHIP.md)
+
+Follow Genesis 2:6–25 through watering, man's formation and breath, the Garden's planting and provision, placement and appointed work, permission and prohibition, the naming of creatures, the making and presentation of the woman, and the one-flesh relationship. The chapter distinguishes explicit textual statements from architectural interpretation, especially the question of purpose in Genesis 2:15.
 
 Primary reading:
 - [Genesis 2:4–6 Hebrew audit](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-4-6.md)
