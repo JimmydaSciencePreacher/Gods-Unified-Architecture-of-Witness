@@ -133,11 +133,11 @@ This is not an assignment invented by a later reader. It is stated in the verse.
 
 We must also be precise about the limits. The roots *‘abad* and *shamar* occur in other contexts, including service and keeping responsibilities. Some interpreters investigate a relationship between these terms and later priestly service. That may be a legitimate canonical question, but the two words in Genesis 2:15 do not by themselves prove that Adam held a formal priestly office.
 
-### Purpose is explicit; the architectural bridge remains an interpretation
+### Purpose is explicit; its relationship belongs within the completed architecture
 
-Genesis 2:15 gives us a strong textual foundation for investigating purpose in relation to a prepared place and an appointed activity.
+Genesis 2:15 gives direct Scriptural testimony that the man is placed in a prepared place for an appointed activity. Within the completed GUA-W, this is recognized as a concrete witness to the relation of purpose, place, and assigned operation.
 
-The verse itself says that God placed the man in the Garden to work and keep it. It does not use the modern abstract phrase “Purpose → Constraint → Structure,” nor does it define a new GUA-W component.
+The verse itself says that God placed the man in the Garden to work and keep it. It does not use the modern abstract phrase “Purpose → Constraint → Structure,” nor does it introduce a new GUA-W component. The phrase is an architectural description used to identify a relationship; it is not a quotation from Genesis.
 
 The architectural question is more disciplined:
 
@@ -147,9 +147,9 @@ The architectural question is more disciplined:
 - What boundaries govern his activity?
 - How does the assigned work relate to the environment in which he is placed?
 
-Purpose is not a decorative label added after the fact. The text states the reason for the man's placement. The relationship between purpose, constraint, and the realization or expression of structure is a proposal to examine within the already completed GUA-W—not permission to redesign it.
+Purpose is not a decorative label added after the fact. The text states the reason for the man's placement. Within GUA-W, this passage is read as a witness to the relationship between purpose, the appointed place and boundaries, and the work assigned for its expression. This is a recognition within the completed architecture, not a proposal to add a component or redesign the map.
 
-This distinction matters for the rest of the book. We can recognize that purpose is explicit in Scripture while still testing exactly how that purpose relates to the architecture.
+The distinction remains important: the Scriptural appointment is explicit; the concise architectural wording is an interpretive description of the relationship. The wording must never be mistaken for a verbatim phrase or technical mechanism supplied by Genesis 2:15.
 
 ## Genesis 2:16–17 — Permission, command, prohibition, and consequence
 
@@ -301,7 +301,7 @@ But precision is essential:
 
 **Not established by this chapter:** That Genesis 2:15 defines a new GUA-W component, that the words “purpose,” “constraint,” and “structure” are interchangeable, or that a scientific law has been proven by the Garden account.
 
-The chapter does not redesign or retest the completed map. It records the Scriptural evidence and recognizes its relationship within the established architecture. The limits stated above concern what Genesis 2:15 explicitly says and what it does not establish as a separate scientific mechanism or new component.
+The chapter does not redesign or retest the completed map. It records the Scriptural evidence and recognizes its relationship within the established architecture. The limits stated above concern what Genesis 2:15 explicitly says and what it does not establish as a separate scientific mechanism, a formal priestly office, or a new architectural component.
 
 ## The Triple Constraint applied
 
