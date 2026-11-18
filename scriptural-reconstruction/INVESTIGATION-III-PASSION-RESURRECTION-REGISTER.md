@@ -298,3 +298,18 @@ This canonical comparison is added as a focused examination of the people and wo
 **Finding:** The Father gives; the Son is sent; those given come; the Son receives, keeps, gives eternal life, and promises resurrection; those who believe have everlasting life. These passages establish divine initiative, the Son's commission and keeping, real human coming/believing, and the promised raising at the last day. They do not, by the word “given” alone, supply a complete chronological chart of regeneration, faith, and every saving operation.
 
 This clarifies John 17:4 and the mission that reaches its climactic Cross declaration in John 19:30. It is not a fourth completion, and it does not replace the distinct necessity of the Resurrection and final raising.
+
+
+## The Father's purpose before the foundation and those given to the Son
+
+The John 6 / John 17 examination is now situated within the wider pre-creation testimony:
+- Ephesians 1:4–5 — chosen in Christ before the foundation of the world.
+- 1 Peter 1:19–20 — Christ the Lamb foreordained before the foundation and manifested in the last times.
+- 2 Timothy 1:9 — grace given in Christ before the world began.
+- Titus 1:2 — the promise of eternal life before the world began.
+- John 17:5, 24 — the Son's glory with the Father and the Father's love before the foundation/world.
+- John 17:6, 9, 24 and John 6:37–40 — the Father gives; the Son receives, keeps, gives life, and raises.
+
+**Book of Life boundary:** Revelation 17:8 relates names not written to the foundation of the world; Revelation 21:27 speaks of those written in the Lamb's book. Revelation 13:8 has an attachment ambiguity and is not used as unqualified proof of the timing of the inscription. The texts establish prior purpose and election, but do not narrate the exact moment or mechanics of writing each name.
+
+**Will boundary:** genuine human willing and accountability remain; autonomous human sovereignty and self-originating salvation do not follow. This is a canonical synthesis, not an additional Passion event or completion.
