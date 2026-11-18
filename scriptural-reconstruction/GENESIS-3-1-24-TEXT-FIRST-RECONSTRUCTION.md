@@ -56,3 +56,62 @@ God creates (Genesis 1:1); completes and sanctifies (2:1–3); forms and gives t
 **Limit:** This is a Scriptural account of the will's operation in the beginning narrative, not an exhaustive philosophical or physiological definition of every faculty of human willing. Do not mistake that limit for absence of an answer in the beginning. Later canonical passages may illuminate and confirm this foundation; they must not replace it or reverse its order.
 
 **U-006 disposition:** NARROWED TO A FOUNDATIONAL ANSWER. The beginning account establishes the principal operations of human willing and the distinction between creaturely capacity and the Author's authority. The demand for an exhaustive abstract definition is not established by Genesis 1–3 and must not be used to keep the whole question perpetually unresolved.
+
+
+## 15. Genesis 3:8–24 — divine questioning, human response, judgment, provision, and guarded access
+
+This section continues the same beginning-first examination. Genesis 3:8–24 is not an appendix to the question of human willing: it shows what the humans do after eating, how they respond when addressed by God, and how God acts in judgment and in the continuing order of life.
+
+### A. Genesis 3:8–13 — hiding, calling, questioning, and answers
+
+- **3:8:** The man and woman hear the voice of the LORD God and hide among the trees. Their response to God's presence is fear-driven concealment, not an ability to remove themselves from His presence or authority.
+- **3:9:** The LORD God calls to the man, “Where art thou?” The question initiates the encounter; God is the One who calls. The text does not suggest that God lacks knowledge or is seeking information for His own correction.
+- **3:10:** Adam reports that he heard God's voice, was afraid because he was naked, and hid. He identifies fear and nakedness as his stated reasons.
+- **3:11:** God asks who told him he was naked and whether he had eaten from the prohibited tree. The question directs attention to the prior command and the human act.
+- **3:12:** Adam answers by referring to “the woman whom thou gavest to be with me” and says she gave him the fruit. His answer identifies another person's action and points back to God's gift, but it does not deny that he ate.
+- **3:13:** The woman says the serpent beguiled her and she ate. Her answer identifies deception and her own eating.
+
+**Finding:** The humans retain the capacity to hear, fear, hide, answer, explain, and attribute responsibility. The responses also reveal evasion and displacement of attention: Adam points to the woman and to God's giving; the woman points to the serpent's beguiling. Neither answer changes the recorded acts of eating. The narrative preserves both the influence of another's communication and the actors' own participation.
+
+**Boundary:** The text records the serpent's beguiling and the humans' answers. It does not say that deception erased their agency or that their agency made the serpent's deception unreal. Do not flatten these distinct factors into one.
+
+### B. Genesis 3:14–19 — God's judgments and the consequences of disobedience
+
+- **3:14–15:** God addresses the serpent with a curse and declares enmity between the serpent and the woman, and between their respective seeds. The passage establishes hostility and an ongoing conflict in the terms stated. Later canonical interpretation may illuminate the promised seed; the immediate text must first be allowed to say what it says.
+- **3:16:** God addresses the woman concerning multiplied sorrow/conception and childbirth, her relation to her husband, and his rule. This is a divine pronouncement following the transgression. Do not convert the verse into a command authorizing every form of human domination, nor erase the verse's actual wording.
+- **3:17:** God identifies Adam's hearkening to his wife's voice and eating from the tree God had commanded him not to eat. The ground is cursed for his sake; sorrowful labor and its produce are described.
+- **3:18:** Thorns and thistles, and the eating of the field's herb, describe the altered conditions of man's labor.
+- **3:19:** Man eats bread in the sweat of his face until he returns to the ground from which he was taken; the verse explicitly recalls his formation from dust and declares his return to dust.
+
+**Finding:** God names the acts and assigns judgment. The human will is not the authority that determines the consequence of its own act. Adam's heeding is expressly identified by God as part of the account of his transgression; the judgment also reaches the ground and the conditions of human labor. The text distinguishes the serpent, the woman, the man, and the ground rather than presenting one undifferentiated consequence.
+
+**Boundary:** These verses describe judgments and consequences. They do not authorize an interpreter to infer that every instance of suffering, childbirth difficulty, marital conflict, or agricultural hardship can be mapped one-to-one to a particular personal sin.
+
+### C. Genesis 3:20–21 — naming and God's provision
+
+- **3:20:** Adam calls his wife's name Eve, with the stated reason that she was the mother of all living. The naming occurs after the judgment pronouncements and before the expulsion.
+- **3:21:** The LORD God makes coats of skins and clothes them. The text explicitly attributes this provision to God.
+
+**Finding:** Even after the transgression and judgment, the narrative records continued human life and a concrete provision made by God. The text says God made garments of skins. It does not explicitly describe a sacrifice, name an animal, or explain a ritual mechanism here; those claims must not be inserted as though stated in this verse.
+
+### D. Genesis 3:22–24 — mortality, expulsion, and guarded access to life
+
+- **3:22:** The LORD God speaks of the man having become “as one of us, to know good and evil,” and states the concern that he might take also of the tree of life, eat, and live for ever.
+- **3:23:** The LORD God sends the man forth from the Garden of Eden to till the ground from which he was taken.
+- **3:24:** God drives out the man and places cherubims and a flaming sword east of the Garden to keep the way of the tree of life.
+
+**Finding:** The passage explicitly presents God as the One who determines the man's continued access to the Garden and the tree of life. The man does not secure immortality by his own initiative. The guarded way is a divine action and boundary. This follows the earlier pattern: God gives life, establishes the command, judges the transgression, provides clothing, and governs access to the tree of life.
+
+**Boundary:** Genesis 3:22–24 states the action and stated concern about eating from the tree of life and living forever. Do not add an unstated theory about the tree's biological mechanism or claim that the passage transfers divine authority to mankind. “As one of us” must be interpreted within the verse and the wider canon; it is not a declaration that man became God.
+
+### E. Integrated finding for Genesis 3:1–24
+
+The whole chapter shows more than a single “choice.” It records a sequence of distinguishable human operations and responses: hearing competing speech; reporting a command; seeing; evaluating; desiring; taking; eating; giving; heeding; recognizing; covering; hiding; fearing; answering; attributing; and continuing to act within consequences. It also records God's initiating and governing actions: speaking the command, calling the humans, questioning, identifying acts, pronouncing judgment, providing clothing, sending the man from the Garden, and guarding the way to the tree of life.
+
+**The human will acts, but it does not become the Author.** Human action is real and accountable; it does not originate Creation, life, the command, the judgment, or the boundary governing access to life. The chapter does not teach that human capacity is unreal, nor that human capacity is sovereign.
+
+### F. U-006 refinement
+
+The Genesis 3 narrative supplies a substantial beginning-account answer to the question of human willing. It distinguishes capacities and operations, demonstrates accountability, and establishes the Creator/creature boundary. The remaining limitation is not that Genesis 3 says nothing about the will; it is that the narrative does not present a formal exhaustive taxonomy of every human faculty or answer every later doctrinal question about the source and operation of saving faith.
+
+The latter questions must be taken back to the Beginning first and then compared with the relevant canonical witnesses. They must not be smuggled into Genesis 3 or treated as though its narrative account were silent.
