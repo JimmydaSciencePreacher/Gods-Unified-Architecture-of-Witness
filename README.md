@@ -89,6 +89,7 @@ A PASS is always scope-limited, not a universal endorsement. These labels descri
 
 - [Governing Principles](GOVERNING-PRINCIPLES.md)
 - [Repository-Wide Triple Constraint Audit — 2026-11-17](REPOSITORY-WIDE-TRIPLE-CONSTRAINT-AUDIT-2026-11-17.md)
+- [Repository Audit and Continuing-Work Register — 2026-11-17](REPOSITORY-CONTINUING-WORK-REGISTER-2026-11-17.md)
 - [Genesis 1:1–5 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-1-5-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 1:6–13 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-6-13-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 1:14–25 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-14-25-TEXT-FIRST-RECONSTRUCTION.md)
