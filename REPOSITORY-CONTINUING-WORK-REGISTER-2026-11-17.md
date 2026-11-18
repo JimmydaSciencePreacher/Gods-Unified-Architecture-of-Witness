@@ -135,18 +135,14 @@ A preliminary chat outline titled “The Word Given, Received, Challenged, and W
 
 A new governing methodological principle has been recorded in [Cross-Disciplinary Investigation Principle](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md). It clarifies that the sciences are not asked to adopt GUA-W before their evidence can be investigated. Each discipline's findings are examined in their own methods and scope; GUA-W is the governing map for recognizing supported relationships, common order, and mistaken interpretations. The principle explicitly guards against confirmation bias, forced correspondences, and claims of scientific confirmation beyond the evidence. It is a method for inquiry, not a new architectural component. Future cross-disciplinary audits should follow it and cite their sources, alternatives, counterevidence, Triple Constraint disposition, and unresolved questions.
 
-## 7. AI write capability and repository workflow
-
-A dedicated record, [AI Writing and Repository-Registration Capability](AI-WRITING-AND-REPOSITORY-REGISTRATION-CAPABILITY.md), documents the demonstrated ability to create and update Revised-GUA-W files through the authorized GitHub connection, update related registers/navigation, and verify changes by reading files back. This is a capability of the connected investigative instrument, not authorship, authority, or proof of claim validity. Capability, repository permission, and user authorization remain distinct. The 2026-11-17 cross-disciplinary update provides a concrete verified example. Future authorized recording tasks should use this workflow rather than leaving material findings in private notes.
-
-## 8. Terminology and editorial notes
+## 7. Terminology and editorial notes
 
 - Current root documents explicitly define the name as **God's Unified Architecture of Witness**, and explicitly say the word is “God's,” not “Grand.” This is internally consistent across the current README, Governing Principles, and completed-architecture presentation. It is recorded here as the repository's current governing terminology; do not silently change it.
 - The filename `GUA-W-CANDIDATE-GEARS-FROM-GENESIS-2-3.md` retains the historical word “CANDIDATE,” but its current document title and body say it is a recognition record, not a construction queue. The body governs its current purpose; a filename cleanup is optional editorial work, not an architecture change.
 - Two holography/black-hole-information audits remain in the tree. Their relationship requires comparison before deciding whether one should be retired, merged, or retained for a distinct scope.
 - The original repository inventory is explicitly preliminary. It must not be described as a complete scientific or claim-level audit of the original repository.
 
-## 9. Overall disposition
+## 8. Overall disposition
 
 **Repository status: ACTIVE; documentation and investigations remain in progress. GUA-W status: COMPLETE.**
 
