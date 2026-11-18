@@ -59,6 +59,7 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 - [Chapter 15 — God's Purpose and the Saving Work of Christ](book/15-GODS-PURPOSE-AND-THE-SAVING-WORK-OF-CHRIST.md)
 - [Chapter 16 — Investigating the Sciences Without Forcing a Match](book/16-INVESTIGATING-THE-SCIENCES-WITHOUT-FORCING-A-MATCH.md)
 - [Chapter 17 — Scientific Evidence Audits and Open Questions](book/17-SCIENTIFIC-EVIDENCE-AUDITS-AND-OPEN-QUESTIONS.md)
+- [Chapter 18 — What Is Established, What Remains Open](book/18-WHAT-IS-ESTABLISHED-WHAT-REMAINS-OPEN.md)
 
 ## II. Scriptural foundation — Genesis and Hebrew examinations
 
