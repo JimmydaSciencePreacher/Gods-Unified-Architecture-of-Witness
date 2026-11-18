@@ -2429,6 +2429,185 @@ The passage does not identify independent human will or foreseen autonomous fait
 **No GUA-W architectural change is proposed.** HW-018 is one investigation of 1 Peter 1:1–5. Future discoveries concerning these same verses must be added to this entry, not opened as another investigation.
 
 
+## 19. Entry — HW-019: Titus 3:3–7 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **Titus 3:3–7**
+>
+> 3 For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another.
+>
+> 4 But after that the kindness and love of God our Saviour toward man appeared,
+>
+> 5 Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;
+>
+> 6 Which he shed on us abundantly through Jesus Christ our Saviour;
+>
+> 7 That being justified by his grace, we should be made heirs according to the hope of eternal life.
+
+### B. Passage boundary and immediate context
+
+The assigned examination is Titus 3:3–7. The immediate context is Titus 3:1–8.
+
+Verses 1–2 instruct believers to be subject to principalities and powers, obey magistrates, be ready to every good work, speak evil of no man, avoid being contentious, be gentle, and show meekness toward all men. Verse 8 returns to the practical consequence: those who have believed God should be careful to maintain good works. The passage therefore does not set salvation and conduct against one another. It distinguishes the source of salvation from the good works expected in the life of those who have believed.
+
+Verse 3 explains the former condition with a shared “we ourselves also.” Paul includes himself and his fellow believers in the description; the former condition is not assigned only to an outside class. Verses 4–7 then establish the contrast: God's kindness and love appeared; He saved according to mercy, not according to righteous works done by us; the saving action is described in relation to regeneration and renewal of the Holy Ghost, the Spirit's abundant outpouring through Jesus Christ, justification by grace, and inheritance according to the hope of eternal life.
+
+### C. Original-language observations
+
+**Verse 3 — the former condition**
+
+- **ἦμεν (*ēmen*)**, “we were”: imperfect active indicative, first person plural, from εἰμί (*eimi*), “to be.” Paul describes the former state as continuing in the past.
+- **ἀνόητοι (*anoētoi*)**, “foolish”: nominative masculine plural adjective. It describes a failure of understanding or discernment; it is not a technical definition of every human cognitive capacity.
+- **ἀπειθεῖς (*apeitheis*)**, “disobedient”: nominative masculine plural adjective, conveying disobedience or unwillingness to be persuaded. It identifies a moral and relational condition.
+- **πλανώμενοι (*planōmenoi*)**, “deceived”: present middle/passive participle, nominative masculine plural, from πλανάω (*planaō*). The form describes those being led astray or deceived; the exact force is passive in this context.
+- **δουλεύοντες (*douleuontes*)**, “serving”: present active participle, nominative masculine plural, from δουλεύω (*douleuō*), “to serve / be enslaved.” The former life is described as active service to diverse lusts and pleasures.
+- **ἐπιθυμίαις (*epithymiais*)** and **ἡδοναῖς (*hēdonais*)**, “lusts” and “pleasures”: dative plural nouns. They identify the desires and pleasures to which the former life was enslaved.
+- **διάγοντες (*diagontes*)**, “living”: present active participle, nominative masculine plural, from διάγω (*diagō*). The text describes a lived pattern characterized by malice and envy.
+- **μισοῦντες (*misountes*)**, “hating”: present active participle, nominative masculine plural, from μισέω (*miseō*). Paul describes reciprocal hostility: hateful and hating one another.
+
+The former condition includes deception and disobedience, but also active serving, living, and hating. The text does not portray people as without desire or action. Nor does it say that these actions are the source of salvation. The former conduct is a description of the condition from which God saves.
+
+**Verse 4 — divine appearance and initiative**
+
+- **ὅτε δὲ (*hote de*)**, “But after that / but when”: introduces the contrast and transition from the former condition to God's saving action.
+- **ἡ χρηστότης (*hē chrēstotēs*)**, “kindness”: nominative feminine singular noun. It identifies God's benevolent kindness.
+- **ἡ φιλανθρωπία (*hē philanthrōpia*)**, “love toward man / philanthropy”: nominative feminine singular noun. The term expresses God's benevolent love toward humanity.
+- **ἐπεφάνη (*epephanē*)**, “appeared”: aorist passive-form verb, third person singular, from ἐπιφαίνω (*epiphainō*). It describes the manifestation or appearance of God's kindness and love. The passive form does not make the kindness its own independent agent; God is the one whose kindness and love are in view.
+- The KJV identifies God as “our Saviour” in verse 4. Verse 6 also names Jesus Christ as “our Saviour.” The text should preserve both designations and the explicit mediation through Jesus Christ in verse 6.
+
+**Verse 5 — source, means, and saving action**
+
+- **οὐκ ἐξ ἔργων (*ouk ex ergōn*)**, “not by / not out of works”: ἐκ (*ek*) with the genitive marks source or origin. Paul explicitly denies that salvation originates from works of righteousness which we ourselves have done.
+- **τῶν ἐν δικαιοσύνῃ ἃ ἐποιήσαμεν ἡμεῖς**, “of righteousness which we have done”: the aorist active indicative **ἐποιήσαμεν (*epoiēsamen*)**, first person plural, identifies the works as actions we performed. Paul excludes those works as the source or basis of the saving action.
+- **ἀλλὰ κατὰ τὸ αὐτοῦ ἔλεος (*alla kata to autou eleos*)**, “but according to his mercy”: κατά with the accusative expresses accordance with or basis according to which the saving action occurs. The explicit alternative to our righteous works is God's mercy.
+- **ἔσωσεν (*esōsen*)**, “he saved”: aorist active indicative, third person singular, from σῴζω (*sōzō*). God is the subject carried forward from verse 4; “us” is the direct object. The sentence attributes the saving action to God.
+- **διὰ λουτροῦ παλιγγενεσίας (*dia loutrou palingenesias*)**, “by/through the washing of regeneration”: διά with the genitive marks means or mediation. **λουτρόν (*loutron*)** means washing or bath; **παλιγγενεσία (*palingenesia*)** means regeneration, rebirth, or renewal of life. The phrase identifies regeneration as integral to the saving action. The wording alone does not settle every debate about the relation of this washing to water baptism, cleansing imagery, or the precise order of conversion.
+- **καὶ ἀνακαινώσεως πνεύματος ἁγίου (*kai anakainōseōs pneumatos hagiou*)**, “and renewing of the Holy Ghost”: **ἀνακαίνωσις (*anakainōsis*)** means renewal or making new. The genitive “of the Holy Ghost” places this renewal in relation to the Holy Spirit. The paired terms “washing of regeneration” and “renewing of the Holy Ghost” belong together in Paul's description; the syntax should not be forced to prove that they are two entirely separate chronological events.
+
+**Verse 6 — the Spirit poured out through Christ**
+
+- **οὗ / ὃ** in the relative construction connects the abundant outpouring to the preceding reference to the Holy Ghost; the KJV renders the clause “Which he shed on us abundantly.” The subject of the outpouring is God, carried forward from the saving action.
+- **ἐξέχεεν (*execheen*)**, “he shed / poured out”: aorist active indicative, third person singular, from ἐκχέω (*ekcheō*). The verb depicts abundant outpouring.
+- **πλουσίως (*plousiōs*)**, “abundantly”: adverb modifying the outpouring.
+- **διὰ Ἰησοῦ Χριστοῦ (*dia Iēsou Christou*)**, “through Jesus Christ”: διά with the genitive identifies Jesus Christ as the mediator through whom the Spirit is poured out. The verse expressly connects God's saving work and the Spirit's outpouring with Jesus Christ our Saviour.
+
+**Verse 7 — justification and inheritance**
+
+- **δικαιωθέντες (*dikaiōthentes*)**, “being justified”: aorist passive participle, nominative masculine plural, from δικαιόω (*dikaioō*). The passive form describes the recipients as those justified; they are not presented as the originating justifier.
+- **τῇ ἐκείνου χάριτι (*tē ekeinou chariti*)**, “by his grace”: the dative identifies grace as the basis or means in the description of justification. The antecedent is God our Saviour.
+- **κληρονόμοι (*klēronomoi*)**, “heirs”: nominative masculine plural, describing the status given to those justified.
+- **γενηθῶμεν (*genēthōmen*)**, “we should be made / become”: aorist passive subjunctive, first person plural, from γίνομαι (*ginomai*), in the purpose clause introduced by ἵνα. The clause expresses the intended result that those justified by grace should become heirs.
+- **κατ᾽ ἐλπίδα ζωῆς αἰωνίου (*kat’ elpida zōēs aiōniou*)**, “according to the hope of eternal life”: the inheritance is oriented toward the hope of eternal life.
+
+### D. What the passage establishes
+
+1. **The former condition:** foolishness, disobedience, deception, enslavement to desires and pleasures, malice, envy, hatred, and reciprocal hostility (v. 3).
+2. **The turning point:** God's kindness and love toward humanity appeared (v. 4).
+3. **The source of salvation:** God's mercy, not righteous works performed by us (v. 5).
+4. **The saving action:** God saved us (v. 5).
+5. **Regeneration and renewal:** the saving action is described through the washing of regeneration and renewal of the Holy Ghost (v. 5).
+6. **The Spirit's outpouring:** the Holy Ghost is poured out abundantly through Jesus Christ our Saviour (v. 6).
+7. **Justification:** recipients are justified by God's grace (v. 7).
+8. **Inheritance:** those justified by grace are made heirs according to the hope of eternal life (v. 7).
+9. **Good works:** the immediate context commands readiness for good works (v. 1), and verse 8 says believers should maintain good works. Those works are the fitting consequence of God's saving mercy, not the originating source of salvation.
+
+### E. Human will, desire, and response
+
+Titus 3:3–7 does not offer a formal definition of the human will. It does, however, describe several aspects of human willing and conduct:
+
+- The former condition includes foolishness and disobedience.
+- People are described as deceived.
+- People are actively serving desires and pleasures.
+- People are living in malice and envy and hating one another.
+- Paul includes himself and his fellow believers in the former condition: “we ourselves also.”
+- The text does not say that those former desires or actions produced salvation.
+- The decisive saving action is attributed to God, according to His mercy.
+- The passage does not name faith as a term in verses 3–7; faith is named in verse 8 (“they which have believed God”) in the immediate continuation.
+- Good works are commanded and maintained by believers, but are not the source of the salvation described in verse 5.
+
+The passage therefore does not erase human desire, conduct, or response. It denies that human righteous works are the originating source of salvation and identifies God's mercy as the basis of His saving action.
+
+### F. Regeneration, renewal, and the order of salvation
+
+The phrase “washing of regeneration, and renewing of the Holy Ghost” is one of the most direct statements in this study concerning regeneration and the Spirit's renewing work.
+
+What the passage explicitly states:
+- God saved us according to His mercy.
+- The saving action is described through the washing of regeneration and renewal of the Holy Ghost.
+- God poured out the Holy Ghost abundantly through Jesus Christ.
+- Those justified by grace become heirs according to the hope of eternal life.
+
+What the passage does not explicitly specify:
+- A complete measurable chronology between regeneration, renewal, faith, justification, and every other aspect of conversion.
+- Whether “washing” should be identified exclusively with water baptism, inward cleansing, or a combined baptismal/cleansing image.
+- Whether regeneration and renewal are two distinct successive events or closely joined descriptions of the same divine saving work.
+- The precise relation of the Spirit's renewal to the first act of faith.
+
+The aorist forms present the saving action and outpouring as events viewed as a whole; they do not, by themselves, provide a full theological timeline. The text must be allowed to state God's action without forcing a chronological scheme into the grammar.
+
+### G. Canonical comparisons — comparison only, not duplicate investigations
+
+- **John 1:12–13 (HW-001):** Receiving and believing are real responses, while birth is explicitly said to be not of the will of the flesh or of man, but of God. This comparison must preserve both statements.
+- **John 3:1–8 (HW-005):** Jesus teaches the necessity of birth from above/from the Spirit. Titus 3 adds the language of regeneration and renewal of the Holy Ghost. The two entries complement one another without becoming duplicate examinations.
+- **John 6:35–45, 63–65 (HW-006):** Jesus speaks of the Father's giving and drawing and the Spirit's quickening. This remains a cross-reference to the completed entry.
+- **Romans 9:6–24 (HW-007):** Paul denies that mercy originates in the one who wills or runs and asserts God's authority to show mercy. Titus 3 states salvation according to God's mercy rather than our righteous works. The two passages have distinct arguments and must not be collapsed.
+- **Ephesians 2:1–10 (HW-008):** God makes alive those dead in trespasses and sins; salvation is by grace through faith and not of works. Titus 3 likewise identifies mercy rather than our righteous works as the source of salvation and names regeneration and renewal.
+- **James 1:16–18 (HW-009):** James says God begat us of His own will with the word of truth. Titus 3 describes salvation according to God's mercy through regeneration and renewal of the Holy Ghost.
+- **Philippians 2:12–13 (HW-010):** God works in believers both to will and to do of His good pleasure. Titus 3 does not explicitly state that same willing/doctrine, but its account of mercy, regeneration, and renewal is consistent with examining the source of renewed life before considering the believer's subsequent conduct.
+- **2 Thessalonians 2:13–14 (HW-015):** God's choice unto salvation is described with sanctification of the Spirit and belief of the truth, followed by calling through the Gospel. Titus 3 names regeneration and renewal by the Holy Ghost; neither text should be made to state a chronology it does not expressly give.
+- **Romans 8:28–30 (HW-016), Ephesians 1:3–14 (HW-017), and 1 Peter 1:1–5 (HW-018):** These entries establish further statements concerning God's purpose, election, foreknowledge, calling, new birth, and preservation. They remain completed investigations and are cross-referenced only.
+
+### H. What the passage does not establish
+
+| Question | Finding | Textual limit |
+|---|---|---|
+| Are human beings described as active in their former desires and conduct? | EXPLICITLY ESTABLISHED | Serving, living, and hating are active descriptions (v. 3). |
+| Does Paul include himself among those formerly in this condition? | EXPLICITLY ESTABLISHED | “We ourselves also” (v. 3). |
+| Are righteous works the source of salvation? | EXPLICITLY DENIED | “Not by works of righteousness which we have done” (v. 5). |
+| Is God's mercy the stated basis of salvation? | EXPLICITLY ESTABLISHED | “According to his mercy he saved us” (v. 5). |
+| Is regeneration named? | EXPLICITLY ESTABLISHED | “Washing of regeneration” (v. 5). |
+| Is the Holy Ghost's renewing work named? | EXPLICITLY ESTABLISHED | “Renewing of the Holy Ghost” (v. 5). |
+| Is the Spirit poured out through Jesus Christ? | EXPLICITLY ESTABLISHED | Verse 6. |
+| Is justification by grace named? | EXPLICITLY ESTABLISHED | Verse 7. |
+| Are faith and believing named in the assigned verses 3–7? | NOT IN THIS UNIT | Believing appears in the immediate context, verse 8. |
+| Does the passage settle the complete chronology of regeneration and faith? | UNRESOLVED | No full temporal sequence is stated. |
+| Does “washing” alone settle the baptism question? | UNRESOLVED | The phrase's imagery and theological application require wider canonical examination. |
+| Does the passage define every component of human will? | UNRESOLVED | It describes former desire and conduct but is not a comprehensive anthropology. |
+| Are good works irrelevant after salvation? | EXPLICITLY DENIED BY CONTEXT | Verses 1 and 8 call believers to good works; verse 5 excludes them as salvation's source. |
+
+### I. GUA-W recognition and Triple Constraint disposition
+
+The text establishes a distinction between the source of salvation and the conduct of those saved:
+
+- The former condition is characterized by disordered desire, deception, and disobedience.
+- God's kindness and love appear.
+- God saves according to His mercy, not according to our righteous works.
+- Regeneration and renewal of the Holy Ghost are named within the saving action.
+- The Spirit is poured out abundantly through Jesus Christ.
+- Justification is by grace.
+- Those justified become heirs of eternal life.
+- Believers are instructed to maintain good works.
+
+**Biblical compliance — PASS, within scope.** The reading preserves both the active human conduct in verse 3 and the explicit divine agency in verses 4–7. It does not turn good works into the source of salvation or erase the good works expected of believers.
+
+**Scientific coherence — PASS, within scope.** The analysis distinguishes grammatical subject, object, active and passive forms, prepositional relations, and the limits of aspect. It makes no empirical scientific claim from the theological text.
+
+**GUA-W consistency — PASS, within scope.** God is the stated source of mercy and salvation. Regeneration and renewal are attributed to the Holy Ghost, and the Spirit's outpouring is through Jesus Christ. Human conduct and good works remain real, but are not the originating cause of salvation.
+
+No new GUA-W layer, operator, Gear, or architectural change is proposed.
+
+### J. Entry finding and limits
+
+**Finding:** Titus 3:3–7 describes humanity's former condition as foolish, disobedient, deceived, and enslaved to diverse desires and pleasures, with malice, envy, and mutual hatred. Paul includes himself and his fellow believers in this description. The turning point is God's kindness and love appearing. God saves us according to His mercy, not according to righteous works that we have done. This saving action is described through the washing of regeneration and renewal of the Holy Ghost, whom God poured out abundantly through Jesus Christ our Saviour. Those justified by God's grace become heirs according to the hope of eternal life.
+
+The passage does not identify human righteous works as the source of salvation. It does not erase human desire, conduct, or the believer's subsequent responsibility to good works. It names regeneration and renewal by the Holy Ghost, but does not settle the complete chronology of regeneration, faith, and justification, nor does it by itself settle the full meaning of the washing imagery.
+
+**Status:** PASS for God's mercy as the stated basis of salvation; PASS for the explicit exclusion of human righteous works as its source; PASS for regeneration and renewal of the Holy Ghost; PASS for the Spirit's abundant outpouring through Jesus Christ; PASS for justification by grace and inheritance of eternal life; PASS for preserving human conduct and subsequent good works; UNRESOLVED for the complete chronology of regeneration, faith, and justification, the precise relation between washing and baptism, and an exhaustive definition of human will.
+
+**No GUA-W architectural change is proposed.** HW-019 is one investigation of Titus 3:3–7. Any future discoveries concerning these same verses must be added to this entry, not opened as another investigation.
+
+
 ## 14. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
@@ -2452,6 +2631,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-016 | Romans 8:28–30 | COMPLETED — see entry above. |
 | HW-017 | Ephesians 1:3–14 | COMPLETED — see entry above. |
 | HW-018 | 1 Peter 1:1–5 | COMPLETED — see entry above. |
+| HW-019 | Titus 3:3–7 | COMPLETED — see entry above. |
 
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
