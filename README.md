@@ -137,5 +137,5 @@ A file's presence here does not, by itself, make its contents canonical.
 
 ## Human Will and Salvation Reference Work
 
-- [The Biblical Examination of the Human Will](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md) — includes HW-001 through HW-019. Romans 9:6–24 is examined once in HW-007; John 6:35–45, 63–65 is examined once in HW-006; 1 Peter 1:1–5 is examined once in HW-018; Titus 3:3–7 is examined once in HW-019.
+- [The Biblical Examination of the Human Will](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md) — includes HW-001 through HW-019, with a retrospective canonical cross-reference completion audit for all nineteen entries. Romans 9:6–24 is examined once in HW-007; John 6:35–45, 63–65 is examined once in HW-006; 1 Peter 1:1–5 is examined once in HW-018; Titus 3:3–7 is examined once in HW-019.
 - [KJV “Freewill” Phrase Register](scriptural-reconstruction/KJV-FREEWILL-PHRASE-REGISTER.md)
