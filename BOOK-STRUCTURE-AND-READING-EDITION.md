@@ -110,12 +110,16 @@ Primary reading:
 ## Part III — The Departure and Its Consequences
 
 ### Chapter 7. Genesis 3 — The Question of Authority and the Origin of Disconnected Knowledge
-Examine the temptation, the human evaluation of good and evil, disobedience, and the consequences recorded in the text. Distinguish creaturely capacity from Creator authority.
+
+**Read the completed chapter:** [Chapter 7 — Genesis 3: The Question of Authority and the Origin of Disconnected Knowledge](book/07-GENESIS-3-THE-QUESTION-OF-AUTHORITY-AND-DISCONNECTED-KNOWLEDGE.md)
+
+Follow the serpent's challenge to the Word already given, the woman's report, the serpent's contradiction, human perception, evaluation, desire, and action, and the consequences recorded through Genesis 3:24. Distinguish differentiation from disconnection, creaturely capacity from Creator authority, and explicit Genesis statements from later canonical clarification. The chapter connects the beginning account to the Human Will and Salvation investigations without forcing Genesis 3 to answer every question about regeneration and faith.
 
 Primary reading:
 - [Genesis 3:1–24 reconstruction](scriptural-reconstruction/GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 1–3: Knowledge, Authorship, and Disconnected Knowledge](scriptural-reconstruction/GENESIS-1-3-KNOWLEDGE-AUTHORSHIP-AND-THE-ORIGIN-OF-DISCONNECTED-KNOWLEDGE.md)
 - [Human Will: Creaturely Capacity and Creator Authority](scriptural-reconstruction/HUMAN-WILL-CREATURELY-CAPACITY-AND-CREATOR-AUTHORITY-JOB-ISAIAH-COLOSSIANS.md)
+- [The Biblical Examination of the Human Will](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md)
 
 ### Chapter 8. Genesis 4 — The First Recorded Human Consequences
 Read the account of Cain and Abel and the ensuing consequences in textual sequence.
