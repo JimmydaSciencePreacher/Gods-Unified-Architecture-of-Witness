@@ -243,10 +243,17 @@ Primary reading:
 - [Theology: The Queen of the Sciences](THEOLOGY-QUEEN-OF-THE-SCIENCES.md)
 
 ### Chapter 17. Scientific Evidence Audits and Open Questions
-Read the evidence audits as technical case studies. Each must be judged by its primary sources, current scientific understanding, and the limits recorded in the audit.
+
+**Read the completed chapter:** [Chapter 17 — Scientific Evidence Audits and Open Questions](book/17-SCIENTIFIC-EVIDENCE-AUDITS-AND-OPEN-QUESTIONS.md)
+
+Examine four technical case studies—quantum foundations and unitarity, the double-slit experiment and observer, entanglement and ER=EPR, and holography and black-hole information. The chapter separates established results from interpretations, conjectures, analogies, and unresolved questions. It demonstrates why an evidence audit must preserve both what a source establishes and the boundary of its reach.
 
 Primary reading:
-- [Scientific and primary-source audits](REPOSITORY-MAP-AND-READING-ORDER.md#vii-cross-disciplinary-evidence-and-scientific-audits)
+- [Evidence Audit — Quantum Foundations and Unitarity](audits/EVIDENCE-AUDIT-Quantum-Foundations-and-Unitarity.md)
+- [Evidence Audit — Double-Slit and Observer Anomaly](audits/EVIDENCE-AUDIT-Double-Slit-and-Observer-Anomaly.md)
+- [Evidence Audit — ER=EPR and Quantum Entanglement](audits/EVIDENCE-AUDIT-ER-EPR-and-Quantum-Entanglement.md)
+- [Evidence Audit — Holographic Principle and Black-Hole Information](audits/EVIDENCE-AUDIT-Holographic-Principle-and-Black-Hole-Information.md)
+- [Primary-source verification records](REPOSITORY-MAP-AND-READING-ORDER.md#vii-cross-disciplinary-evidence-and-scientific-audits)
 - [Repository-wide Triple Constraint Audit](REPOSITORY-WIDE-TRIPLE-CONSTRAINT-AUDIT-2026-11-17.md)
 
 ## Part VIII — What Is Established, What Remains Open
