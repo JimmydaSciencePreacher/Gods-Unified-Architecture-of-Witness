@@ -107,6 +107,7 @@ A PASS is always scope-limited, not a universal endorsement. These labels descri
 - [Genesis 2:8–17 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-2-8-17-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 2:18–25 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-2-18-25-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 3:1–24 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
+- [Genesis 1–3 — Knowledge, the Author, and the First Departure from the Ultimate WHY](scriptural-reconstruction/GENESIS-1-3-KNOWLEDGE-AUTHORSHIP-AND-THE-ORIGIN-OF-DISCONNECTED-KNOWLEDGE.md)
 - [Genesis 4:6–7 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-6-7-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 4:8 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-8-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 4:9–10 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-9-10-TEXT-FIRST-RECONSTRUCTION.md)
