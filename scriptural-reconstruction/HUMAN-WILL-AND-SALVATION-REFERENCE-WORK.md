@@ -27,7 +27,34 @@ The investigation is not a collection of isolated proof-texts. Each passage must
 
 The work does not assume that every use of will, choose, desire, receive, believe, obey, or come has the same meaning. Nor does it assume that demonstrating human choice establishes autonomous spiritual ability, or that responsibility by itself proves ability.
 
-## 3. Mandatory record for every passage entry
+## 3. Order of distinction before scriptural interpretation
+
+Before quoting or interpreting a passage about the human will, the categories involved must be distinguished. These are not interchangeable terms, and one must not be silently substituted for another:
+
+1. **Choice** — selecting, deciding, or responding among alternatives.
+2. **Responsibility** — being morally or covenantally accountable for an action or omission.
+3. **Ability** — possessing the capacity to perform the particular action under examination.
+4. **Willingness** — desire, intention, readiness, or volition concerning that action.
+5. **Divine initiative** — what God originates or performs, including calling, giving, drawing, opening, quickening, and working.
+6. **Regeneration / spiritual birth** — the giving or origin of spiritual life.
+7. **Faith** — believing or trusting; distinguish the act, its object, its source, and its relation to spiritual birth.
+8. **Salvation** — God's saving purpose and accomplishment, and the distinct matters of reception, application, perseverance, and final completion.
+
+### The order-of-distinction safeguard
+
+**Logical distinction is not necessarily chronological sequence.** Listing or defining these categories in an analytical order does not claim that they occur in that temporal or causal order. For example, distinguishing faith from regeneration does not, by itself, establish which precedes the other. That question must be investigated from the relevant passages, their grammar, and their canonical context.
+
+Likewise:
+- Choice does not, by itself, establish ability.
+- Responsibility does not, by itself, establish ability.
+- Willingness does not, by itself, establish independent originating power.
+- The presence of faith does not, by itself, identify faith's source.
+- A command does not, by itself, settle the question of the hearer's capacity.
+- A divine act and a human response must not be collapsed into one category.
+
+These distinctions are an interpretive control, not a conclusion imposed upon the text. Each passage may establish, qualify, or challenge a category. The investigation must report what it actually says and leave unresolved what it does not settle.
+
+## 4. Mandatory record for every passage entry
 
 Every full entry must preserve these fields:
 
@@ -42,7 +69,7 @@ Every full entry must preserve these fields:
 
 No passage may be made to answer a question it does not address. A passage that establishes choice must not automatically be cited as proof of autonomous spiritual ability. A passage that establishes responsibility must not automatically be treated as proof of ability. A passage that describes belief must not automatically be treated as identifying the originating cause of regeneration.
 
-## 4. Governing distinctions
+## 5. Governing distinctions
 
 - **Choice:** selection, decision, or response among alternatives.
 - **Responsibility:** moral or covenantal accountability for an action or omission.
@@ -55,7 +82,7 @@ No passage may be made to answer a question it does not address. A passage that 
 
 The term **independent will** is used here in a carefully limited sense: a human will alleged to originate spiritual birth, faith, or salvation independently of God's prior saving initiative. It does not mean that a person has no will, makes no choices, or bears no responsibility.
 
-## 5. Triple Constraint application
+## 6. Triple Constraint application
 
 Each entry is tested under all three constraints:
 
@@ -65,7 +92,7 @@ Each entry is tested under all three constraints:
 
 Failure under any one constraint prevents admission of a claim as an accepted GUA-W conclusion. A disputed reading may remain recorded as a competing interpretation or unresolved question.
 
-## 6. Initial entry — HW-001: John 1:12–13
+## 7. Initial entry — HW-001: John 1:12–13
 
 ### A. Exact KJV passage
 
@@ -138,7 +165,7 @@ Lexical caution: θέλημα can denote will, desire, or intention according to
 
 **Status:** PASS for the narrow finding concerning the source of birth; PARTIAL for the wider question concerning the origin of faith and the complete order of salvation.
 
-## 7. Initial passage register — not yet adjudicated
+## 8. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
 
@@ -160,11 +187,11 @@ The following passages are candidates for investigation because they are commonl
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
-## 8. Related register
+## 9. Related register
 
 The exact KJV English expression **“freewill”** is maintained separately in [KJV Freewill Phrase Register](KJV-FREEWILL-PHRASE-REGISTER.md). It must not be conflated with the wider biblical teaching about choosing, willing, desire, ability, or the philosophical concept of autonomous Free Will.
 
-## 9. Governing question retained
+## 10. Governing question retained
 
 **Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
 
