@@ -137,11 +137,15 @@ Primary reading:
 ## Part IV — The Architecture Made Readable
 
 ### Chapter 9. The Completed GUA-W Architecture
-After reading the foundation, return to the architecture as a whole. Understand the foundational distinctions, Structure as the hinge, the derived arrangement, runtime, and state without treating explanatory layers as additions to the completed architecture.
+
+**Read the completed chapter:** [Chapter 9 — The Completed GUA-W Architecture](book/09-THE-COMPLETED-GUA-W-ARCHITECTURE.md)
+
+Return to the architecture as a whole after reading its Scriptural foundation. The chapter explains the foundational distinctions, Structure as the hinge, the derived arrangement, runtime, and state. It also distinguishes the architecture from the diagnostic procedure and makes clear that recognized relationships do not create new components.
 
 Primary reading:
 - [GUA-W Completed Architecture](GUA-W-COMPLETED-ARCHITECTURE.md)
-- [Candidate Gears from Genesis 2–3](scriptural-reconstruction/GUA-W-CANDIDATE-GEARS-FROM-GENESIS-2-3.md)
+- [Governing Principles](GOVERNING-PRINCIPLES.md)
+- [Recognized Relationships from Genesis 2–3](scriptural-reconstruction/GUA-W-CANDIDATE-GEARS-FROM-GENESIS-2-3.md)
 
 ### Chapter 10. The Triple Constraint and the Discipline of Witness
 Learn how Biblical compliance, scientific coherence, and GUA-W consistency govern admissibility. Distinguish explicit evidence, inference, interpretation, analogy, and unresolved questions.
