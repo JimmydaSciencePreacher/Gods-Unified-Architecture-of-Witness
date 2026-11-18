@@ -87,6 +87,8 @@ Rosen (2025) provides a map of interpretive questions and proposals, not a final
 
 **Latest recorded pass (2026-11-17):** John 7:37–39 and the Johannine glorification/departure passages (John 12:23–33; 13:1, 31–32; 16:5–7; 17:1–5; 19:30–37) have been added to Investigation III.2. Next, test the relationship between John 7:39's promised reception, John 20:22, and Luke 24 / Acts 1–2. Preserve the textual point that “given” is supplied in the KJV; do not infer that the Spirit did not exist or act before glorification. Treat John 19:30 primarily as Jesus' death; possible Spirit-gift resonance remains debated.
 
+**Latest recorded pass (2026-11-17):** John 1:32–34 and 3:5–8, 34 have been examined and refined with scholarly counter-readings. Next, compare the Gospel's Spirit testimony (John 1:32–34; 3:5–8, 34; 7:37–39; 14–16; 20:19–23) against the complete Lukan chronology and relevant Old Testament promises. Keep explicit text, strong inference, and disputed interpretation separate. In particular, do not assume a settled mechanism for John 1:33, a settled referent for “water” in John 3:5, or a settled syntax-based conclusion from John 3:34.
+
 
 ### Priority 4 — Close open subquestions in III.A–III.G
 
