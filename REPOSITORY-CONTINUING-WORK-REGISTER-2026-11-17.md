@@ -215,3 +215,9 @@ Continue by independently verifying the KJV phrase occurrences and then investig
 
 **Next passage:** HW-013, Acts 13:44–48, examining belief, divine appointment, and the response to the word in Luke's narrative.
 
+
+
+**Thirteenth entry recorded — HW-013, Acts 13:44–48 (2026-11-18).** Luke identifies those who believed as those who had been appointed to eternal life. The Greek construction ἦσαν τεταγμένοι is a periphrastic pluperfect with a perfect middle/passive participle of τάσσω; the natural reading is prior appointment with a resulting state relevant to the believing. The passive clause does not explicitly name the agent, though divine appointment is the leading contextual and canonical reading. The narrative preserves preaching, hearing, accountable rejection, Gentile rejoicing, glorifying the Word, and believing. The passage does not explain the full mechanics, grounds, timing, or scope of election. No GUA-W architectural change is proposed.
+
+**Next passage:** HW-014, 1 John 5:1, examining the relation between believing that Jesus is the Christ and having been born of God.
+
