@@ -181,3 +181,18 @@ The dedicated study now examines Luke 24:36–49 and Acts 1:1–8 alongside John
 
 **Disposition:** Canonical comparison added; U-008 remains UNRESOLVED; no new GUA-W layer or Gear is established.
 
+### Investigation III.2 — John 7:39 and glorification study added
+
+The primary study now examines John 7:37–39 alongside John 12:23–33; 13:1, 31–32; 16:5–7; 17:1–5; 19:30–37; 20:19–23; Luke 24:49; and Acts 1–2.
+
+Key findings recorded:
+- John explicitly identifies the living-water promise with the Spirit believers were to receive.
+- The KJV's “given” in John 7:39 is supplied in italics; the shorter Greek wording is “the Spirit was not yet.” This must not be read as denying the Spirit's prior existence or activity.
+- Johannine glorification is Cross-centered and connected with Jesus' return to the Father; it should not be reduced to one isolated instant.
+- John 19:30 primarily records Jesus' death. A possible proleptic Spirit-gift resonance is debated and is not established as the verse's primary meaning.
+- The relation among John 7:39, John 20:22, and Pentecost remains unresolved.
+
+**Updated study:** [Investigation III.2 — The Breath of the Risen Christ](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
+
+**Disposition:** Further canonical and textual refinement recorded; U-008 remains UNRESOLVED; no new GUA-W layer or Gear established.
+
