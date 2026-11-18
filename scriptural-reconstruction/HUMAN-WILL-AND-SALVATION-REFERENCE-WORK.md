@@ -3378,3 +3378,89 @@ The immediate context must remain in view: Christ's humility and obedience (2:5�
 Across these distinct contexts, Scripture preserves two truths without collapsing them: **the creature truly wills and acts; the Creator remains the originating source and governing authority.** The new creature-authority investigation sharpens the interpretation of the existing Human Will work: a real human act is not thereby an act of independent authorship, and a divine operation does not make the human response fictitious.
 
 This connection reinforces the existing section 31 synthesis. It does not add a new HW number, reopen the completed twenty-passage phase, create a new GUA-W component, or settle the remaining chronology and lexical questions. It is an integrated cross-reference among already examined witnesses.
+
+
+## 38. The Father's giving, the Son's keeping, and the widening promise — John 17 and Acts 2:32–42 (2026-11-18)
+
+This is a canonical cross-reference, not a new numbered passage investigation and not a replacement for the dedicated John 17 / John 6 examination in Investigation III. It examines how the Father's purpose, the Son's commission and keeping, the promised Spirit, and the multiplication of witnesses are related across Jesus' prayer and Peter's Pentecost proclamation.
+
+### A. John 17: the Father's giving and the Son's entrusted work
+
+Read the prayer as a whole (John 17:1–26), with the following distinctions:
+
+- **Authority and life (vv. 1–3):** The Father gives the Son authority over all flesh, that the Son should give eternal life to as many as the Father has given Him. Jesus defines eternal life in relation to knowing the only true God and Jesus Christ whom He has sent.
+- **The work entrusted to the Son (vv. 4–5):** Jesus says He has glorified the Father on earth and finished the work given Him to do. He then speaks of the glory He had with the Father before the world was. This is not a statement that the Cross and Resurrection have already occurred; the prayer stands at the threshold of the hour.
+- **Those given and the Word received (vv. 6–8):** Jesus manifests the Father's name to the men given Him out of the world. They were the Father's, were given to the Son, kept the Father's word, and received the words given by the Father through the Son. The text retains both divine giving and the disciples' real reception.
+- **Keeping (vv. 9–12):** Jesus prays for those given Him, not for the world in the same immediate sense, and asks the Holy Father to keep them through His name. He says He kept them while with them, with the son of perdition clause retained rather than omitted. The prayer does not present the disciples as keeping themselves by autonomous power.
+- **Sending and witness (vv. 13–19):** Jesus speaks of sending His disciples into the world as the Father sent Him (v. 18), and sanctifies Himself for their sakes (v. 19). The disciples' mission is derivative: they are sent; they do not originate the message or the authority.
+- **Those who later believe through their word (vv. 20–23):** Jesus expressly includes those who shall believe on Him through the disciples' word. The prayer's horizon therefore reaches beyond the first disciples. Their unity is related to the world's believing that the Father sent the Son (vv. 21, 23).
+- **Those given and the final end (vv. 24–26):** Jesus desires that those given Him be with Him and behold His glory. He has declared the Father's name and will continue to declare it, that the Father's love may be in them and Christ in them.
+
+**What John 17 explicitly establishes:** the Father gives; the Son is sent and entrusted with work; the Son manifests the Father's name and words, keeps those given Him, sends His disciples, and prays for later believers who come through their word. The prayer places the mission and the later witness within the Father's purpose.
+
+**What John 17 does not explicitly provide:** it does not give a complete chronological order for every person's calling, new birth, faith, reception of the Spirit, and perseverance. Nor does it say that every occurrence of “given,” “believe,” and “called” is a technical synonym.
+
+### B. Acts 2:32–39 — the exalted Jesus and the promised Spirit
+
+Peter's proclamation must be read from the Resurrection testimony into the promise:
+
+1. **Resurrection witness (vv. 32):** Peter says God raised Jesus, and “we all are witnesses.”
+2. **Exaltation and the Father's promise (v. 33):** Jesus, being by the right hand of God exalted and having received of the Father the promise of the Holy Ghost, “hath shed forth this, which ye now see and hear.” Peter directly attributes the outpouring to the exalted Jesus in relation to the Father's promise.
+3. **Lordship (vv. 34–36):** Peter uses Psalm 110 and concludes that God has made the crucified Jesus both Lord and Christ.
+4. **Hearers' response (vv. 37–38):** The hearers are pricked in their heart and ask what they must do. Peter commands repentance and baptism in the name of Jesus Christ for the remission of sins, and promises the gift of the Holy Ghost.
+5. **The reach of the promise (v. 39):** “For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call.”
+
+The immediate connection of verse 39 is the promise just named in verses 33 and 38, including the gift of the Holy Ghost. The promise is not confined to those physically present in Jerusalem at Pentecost. Peter names his hearers, their children, those afar off, and those whom the Lord calls.
+
+**Greek observation:** In Acts 2:39, “shall call” translates προσκαλέσηται (*proskalesētai*), a form of προσκαλέομαι (*proskaleomai*), “to call/summon to oneself.” The subject is “the Lord our God.” The form is aorist middle subjunctive, governed by the extent expression “as many as.” This supports the text's attribution of the calling to the Lord; morphology alone does not supply a complete doctrine of the call's mechanism or chronology.
+
+### C. Acts 2:40–42 — the word received and the witnesses multiplied
+
+The narrative does not stop at the promise:
+
+- Peter testifies and exhorts his hearers (v. 40).
+- Those who gladly receive his word are baptized, and about three thousand souls are added (v. 41).
+- They continue steadfastly in the apostles' doctrine and fellowship, breaking of bread, and prayers (v. 42).
+
+This is a narrated expansion of the community of witness. The apostolic word is preached; hearers receive it; baptism and continuing fellowship follow. The text attributes the promise and calling to God while recording the hearers' real reception and the community's continuing response. It does not say the apostles originate the life or promise they proclaim.
+
+### D. The canonical relationship — connection without category collapse
+
+The passages can be placed alongside one another in this order of subject and witness:
+
+| Witness | What it expressly contributes |
+|---|---|
+| John 17:1–8 | The Father gives the Son authority and people; the Son manifests the Father's name and words. |
+| John 17:9–19 | The Son prays for and keeps those given Him, and sends His disciples into the world. |
+| John 17:20–26 | Later believers come through the disciples' word; the prayer reaches toward their unity and final beholding of Christ's glory. |
+| Acts 2:32–33 | God raises Jesus; the exalted Jesus receives the Father's promise and pours forth the Spirit. |
+| Acts 2:37–39 | Hearers are summoned to repent; the promise of the Spirit is stated to extend to children, those afar off, and as many as the Lord calls. |
+| Acts 2:40–42 | The apostolic word is received, hearers are baptized, and the continuing community grows in doctrine, fellowship, and prayer. |
+
+**Supported canonical connection:** John 17 anticipates later believers through the disciples' word. Acts 2 records the risen and exalted Jesus pouring forth the Father's promised Spirit, Peter's witness, the hearers' reception of the word, and the stated extension of the promise to those whom the Lord calls. The two passages therefore belong to a continuous account of the Son's mission and the widening witness that follows His Resurrection and exaltation.
+
+**Necessary limit:** John 17's “those whom thou hast given me,” its “them also which shall believe on me through their word,” and Acts 2:39's “as many as the Lord our God shall call” are related within the canonical account, but the texts do not expressly define these phrases as coextensive technical categories. The passages do not provide a complete individual-by-individual map identifying every person in each expression. Nor does Acts 2:39, by itself, state the complete timing of each person's calling, faith, reception, and perseverance.
+
+### E. The Father's purpose before the foundation and the historical manifestation
+
+The prior-purpose witnesses already recorded in section 35 remain relevant: Ephesians 1:4–5 speaks of choosing in Christ before the foundation of the world; 1 Peter 1:19–20 places Christ's foreordination before the foundation and His manifestation in the last times; 2 Timothy 1:9 and Titus 1:2 place grace and the promise of eternal life before the world began; John 17:5, 24 speaks of the Son's glory and the Father's love before the world.
+
+These passages establish that the saving purpose is not an improvised response originating in the Pentecostal crowd or in the apostles' preaching. Acts 2 records historical proclamation and manifestation of the promised work. Do not claim that Acts 2:39 itself explains the full pre-creation counsel; read it with the passages that explicitly speak of that prior purpose.
+
+### F. Triple Constraint assessment
+
+- **Biblical compliance — PASS within stated limits:** John 17 is read as a complete prayer; Acts 2 is read from Peter's Resurrection testimony through the promise, response, and continuing community. The terms “given,” “believe,” “receive,” and “call” are not silently made synonyms.
+- **Scientific coherence — PASS within scope:** the analysis is grammatical, contextual, and canonical. The Greek observation is limited to the form and contextual subject; it is not used to manufacture a complete soteriological timeline.
+- **GUA-W consistency — PASS:** God is the originating source; the Father gives and promises; the Son is sent, accomplishes His work, is raised and exalted, and pours forth the promised Spirit; the Spirit is given; the apostles bear derivative witness; hearers receive the word and the witness-community grows. No witness is made the Author.
+
+### G. Integrated finding and boundaries
+
+The canonical connection is established at the level of purpose, mission, promise, and witness:
+
+**The Father gives and purposes → the Son is sent and accomplishes the entrusted work → the Father raises and exalts the Son → the exalted Son pours forth the Father's promised Spirit → the apostles testify through the Word → the Lord's promise reaches those He calls → hearers receive the Word and the witness-community grows.**
+
+This is a summary of the relationships expressly narrated across the cited passages, not a newly proposed GUA-W runtime sequence. It must not be inserted as an additional layer or Gear. The sequence also does not settle every individual's chronology of calling, regeneration, faith, reception, and perseverance.
+
+**Finding:** The Father's purpose precedes the historical witness; the Son's keeping and sending are explicit in John 17; the Spirit's outpouring by the exalted Jesus is explicit in Acts 2:33; the promise's reach to those the Lord calls is explicit in Acts 2:39; and the apostles' word is the stated means through which later believers come to Christ in John 17:20. These passages illuminate one another without erasing their distinct audiences, contexts, or terms.
+
+This section extends the integrated canonical synthesis. It does not create a new HW number, a new Resurrection event, a new GUA-W component, or a complete chronological doctrine beyond what the texts state.
