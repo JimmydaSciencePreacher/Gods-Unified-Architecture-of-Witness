@@ -2261,8 +2261,7 @@ Retain these guardrails:
 Next investigations:
 1. HW-018 remains unassigned. Select a distinct passage not already examined; do not duplicate HW-006 (John 6) or HW-007 (Romans 9).
 2. Compare Romans 10:13–17 and 2 Corinthians 1:21–22 as cross-references within the relevant existing entries, not as duplicate full investigations.
-3. Compare Romans 10:13–17 and 2 Corinthians 1:21–22 in a dedicated cross-reference audit of hearing, believing, and sealing.
-4. Keep U-006 (definition and components of human will) open. Ephesians 1 identifies believing as a real response but does not by itself exhaustively define its origin or every aspect of human willing.
+3. Keep U-006 (definition and components of human will) open. Ephesians 1 identifies believing as a real response but does not by itself exhaustively define its origin or every aspect of human willing.
 
 ---
 
