@@ -2,7 +2,7 @@
 
 **Primary texts:** Genesis 2:7; Ezekiel 37:1–14; John 1:1–4; 3:5–8; 7:37–39; 14–16; 19:30, 34–35; 20:19–23; Acts 1–2; Romans 8:11; 1 Corinthians 15:42–49 (KJV).  
 **Related texts:** Luke 24:36–43; John 10:17–18; 1 Peter 3:18; Matthew 16:19; 18:18; Luke 24:46–49; Acts 2:32–39.  
-**Status:** TEXT-FIRST CANONICAL INVESTIGATION WRITTEN; the precise relationship between the impartation in John 20:22 and the Pentecostal outpouring in Acts 2 remains an interpretive question. Further historical, textual-critical, and domain-specific work remains open.
+**Status:** TEXT-FIRST CANONICAL INVESTIGATION AND INITIAL SCHOLARLY INTERPRETIVE AUDIT WRITTEN; the precise relationship between John 20:22 and the Pentecostal outpouring in Acts 2 remains unresolved. The scholarly audit maps major interpretive questions and positions but is not an exhaustive history of interpretation or a final adjudication.
 
 ## 1. Governing question
 
@@ -347,3 +347,112 @@ The witness does not create the life it receives. The disciples do not originate
 This is a substantial canonical relationship to record in the completed GUA-W. It is not permission to invent a mechanism or add an architectural component. The John 20:22 / Acts 2 question remains open until the full Scriptural and historical evidence warrants a more exact conclusion.
 
 **Investigation III.2 is recorded as a text-first canonical study, with the unresolved questions explicitly preserved.**
+
+
+## 19. Scholarly audit — the interpretive problem is wider than “symbolic or actual”
+
+A focused review of Adrian P. Rosen's 2025 article, “Interpretive Questions Related to the Gift of the Spirit in John 20:22,” *Journal of the Evangelical Theological Society* 68.2 (2025): 285–97, materially sharpens this investigation. Rosen explicitly does not defend one interpretation. He maps the questions that an adequate interpretation must address. That restraint is useful: the article is a guide to the debate, not a verdict that can be substituted for the text.
+
+### 19.1 The Genesis 2:7 connection is substantial, but its precise force must be tested
+
+Rosen reports that most scholars understand Jesus' breathing/blowing in John 20:22 against Genesis 2:7, because John uses ἐμφυσάω (*emphysaō*), the verb found in the Septuagint's account of God's breathing into Adam. He also records dissenting scholars who deny or do not use that connection, and proposals that Ezekiel 37:9 is the more immediate Scriptural background.
+
+This refines, rather than overturns, the earlier finding:
+
+- The lexical correspondence with the LXX of Genesis 2:7 is real and significant.
+- A deliberate creation/breath allusion is strongly supported and widely recognized.
+- Ezekiel 37 remains a serious canonical background because its Greek text also uses this breathing vocabulary in a restoration vision.
+- The presence of an allusion does not, by itself, decide whether the act in John 20:22 conveys the Spirit at that moment, signifies a future gift, or performs more than one narrative/theological function.
+
+The verb has also been discussed as “breathe on” or “blow on.” Rosen notes the debate and cites arguments for both renderings. The KJV's “breathed on” remains the text under examination; no doctrinal conclusion should rest on an English preposition alone.
+
+### 19.2 The imperative “Receive” requires its own grammatical and contextual examination
+
+John 20:22 joins Jesus' action with the imperative λάβετε (*labete*), “receive.” Rosen identifies several possibilities debated by interpreters: an anticipatory command pointing forward; an invitation or command calling for the disciples' response; a performative utterance that effects what it declares; or an utterance that explains the significance of the breathing/blowing.
+
+These options are not interchangeable. If the breathing itself conveys the Spirit, the command may explain or accompany that act. If the breathing is symbolic, the command may still be interpreted as anticipatory or as the actual bestowal. The grammar and discourse must be examined together; the imperative alone does not settle the event's timing or function.
+
+The expression πνεῦμα ἅγιον (“Holy Spirit”) is anarthrous in Greek. Rosen notes that some have argued from the absence of the article, while other grammarians and commentators regard the anarthrous construction as entirely compatible with reference to the Holy Spirit. The absence of the article is therefore not sufficient evidence to reduce the phrase to an impersonal “holy breath” or mere life-force.
+
+### 19.3 Two separate axes must not be collapsed
+
+Rosen's most useful contribution for the present investigation is the distinction between questions of **extent/timing** and questions of **function**.
+
+**Extent and timing questions:**
+- Is the action wholly symbolic and anticipatory, with no impartation at that moment?
+- Is there an actual but partial or temporary bestowal?
+- Is there a complete bestowal on Resurrection day?
+- Is John 20:22 one stage in a process that includes John 19:30 and/or Acts 2?
+- Is the reception described corporately, individually, or in both senses?
+
+**Function questions:**
+- Is the Spirit's work here life-giving or new-creation oriented?
+- Is it empowerment for mission?
+- Is it revelatory or prophetic enablement?
+- Does it concern the indwelling presence of the Spirit?
+- Is it related to the disciples' commissioned authority in John 20:21–23?
+
+A proposed answer to one axis does not automatically answer the other. For example, saying that John 20:22 is an actual gift does not yet establish whether its function is life-giving, ministerial, prophetic, or several of these. Saying Pentecost is an empowerment for public witness does not prove that no genuine reception occurred earlier.
+
+### 19.4 The immediate context supplies essential controls
+
+John 20:19–23 must be read as one connected sequence:
+
+1. The risen Jesus appears and gives peace.
+2. He shows His hands and side; the disciples recognize the Lord.
+3. He sends them as the Father sent Him.
+4. He breathes/blows upon them and says, “Receive ye the Holy Ghost.”
+5. He speaks of remitting and retaining sins.
+
+The commission in verse 21 and the authority statement in verse 23 frame the Spirit saying in verse 22. This strongly associates the Spirit passage with the disciples' sent witness and ministry. It does not prove that the Spirit's only function here is ministerial authorization; the creation/breath allusion may also carry life-giving significance. Both dimensions require examination.
+
+The earlier Johannine promises also remain in view: John 7:39 relates the promised Spirit to Jesus' glorification; John 14–16 describes the Comforter, the Father's sending, Christ's sending, remembrance, testimony, conviction, and guidance. A satisfactory account must explain how John 20 relates to these promises rather than selecting one saying and ignoring the others.
+
+### 19.5 The scholarly positions cannot be reduced to two simple camps
+
+Rosen's survey documents a wider range of proposals, including:
+
+- a symbolic or anticipatory sign fulfilled at Pentecost;
+- an actual Resurrection-day gift, with Pentecost as a distinct public outpouring or empowerment;
+- an actual but partial or temporary reception followed by a fuller experience;
+- a distinction between life-giving work in John and mission-empowerment in Acts, or the reverse;
+- a process extending across the Cross, Resurrection day, and Pentecost;
+- a relationship between the Spirit's gift and the commissioning/authority in John 20:21–23;
+- interpretations involving the fulfillment of selected Paraclete promises at different points.
+
+These are scholarly proposals, not facts established merely by their existence. Their variety demonstrates why the question must be resolved from the texts and arguments rather than by counting commentators or importing a denominational system.
+
+### 19.6 What the evidence presently permits
+
+**Established by the KJV text:**
+- The risen Jesus breathes upon the disciples and commands them to receive the Holy Ghost (John 20:22).
+- This occurs within His Resurrection-day appearance and commission (John 20:19–23).
+- Acts records a later event in which the disciples are filled with the Holy Ghost and speak as the Spirit gives utterance (Acts 2:1–4).
+- Acts 1:8 expressly connects the coming of the Holy Ghost with power to be witnesses of Jesus.
+- Peter interprets the Pentecost event in relation to the exalted Jesus and the Father's promise (Acts 2:32–33).
+
+**Strongly supported:**
+- John's breathing language intentionally evokes the Scriptural breath/creation field, especially Genesis 2:7, while Ezekiel 37 remains a relevant restoration parallel.
+- The Spirit saying is integrated with the sending and witness of the disciples, not detached from their commission.
+- John 20 and Acts 2 must both retain their full textual weight.
+
+**Not yet established:**
+- That John 20:22 is merely symbolic.
+- That John 20:22 and Acts 2 are identical in timing, extent, or function.
+- That John 20:22 gives only a partial measure of the Spirit.
+- That Pentecost is only a public display of a gift already fully received.
+- That one passage cancels or corrects the other.
+- That the breathing is a physical transfer of a material substance.
+- That any one scholarly model has been demonstrated conclusively.
+
+### 19.7 Triple Constraint assessment of this scholarly pass
+
+- **Biblical compliance — PASS within scope:** the explicit actions and statements in John and Acts are retained; scholarly models are not inserted into the biblical wording.
+- **Scientific coherence — PASS within scope:** this is a textual, grammatical, and historical-theological inquiry. No biological or physical mechanism is claimed.
+- **GUA-W consistency — PASS:** God remains the Source; Christ's action and the Spirit's work are not reduced to an impersonal process; the disciples receive, are sent, and witness. No new layer, Gear, or mechanism is proposed.
+
+**Disposition:** The interpretive question remains UNRESOLVED, but its shape is now more precise. Further work must test the major models against the complete Johannine sequence, Luke 24, Acts 1–2, the relevant Old Testament promises, and the historical reception of these texts. The investigation must keep extent/timing separate from function and must not treat “actual versus symbolic” as the only available distinction.
+
+### Scholarly source added
+
+- Adrian P. Rosen, “Interpretive Questions Related to the Gift of the Spirit in John 20:22,” *Journal of the Evangelical Theological Society* 68, no. 2 (2025): 285–97. https://etsjets.org/wp-content/uploads/JETS_68.2_285_Rosen.pdf. The article surveys the interpretive questions and range of scholarly proposals; it expressly does not defend one final interpretation.
