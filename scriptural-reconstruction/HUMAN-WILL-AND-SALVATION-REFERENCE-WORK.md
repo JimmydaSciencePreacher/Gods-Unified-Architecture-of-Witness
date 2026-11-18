@@ -105,3 +105,13 @@ Genesis 3 records real human willing: hearing, perceiving, evaluating, desiring,
 **Boundaries:** Genesis 2:1–5 does not itself mention the Book of Life or the act of writing names. Revelation 13:8's attachment remains grammatically disputed. The exact moment/mechanics of inscription are not narrated. The conclusion about the will is a canonical synthesis, not a claim that one verse supplies a philosophical definition.
 
 This section extends U-006's existing Genesis-first synthesis; it does not create a new numbered passage investigation or GUA-W component.
+
+
+## 36. Creaturely capacity and the Creator's authority — Job 38–41, Isaiah 40–48, Colossians 2:6–15, and Romans 1:18–32
+
+The canonical investigation [Human Will, Creaturely Capacity, and the Creator's Authority](HUMAN-WILL-CREATURELY-CAPACITY-AND-CREATOR-AUTHORITY-JOB-ISAIAH-COLOSSIANS.md) extends the Genesis 1–3 foundation and the resolved U-007 distinction. It examines the Creator's questions to Job, Isaiah's contrast between the living Creator and idols, Paul's warning against teaching not according to Christ, and Romans 1's description of the exchange of Creator for creature.
+
+**Cross-reference finding:** Human beings genuinely perceive, reason, investigate, explain, evaluate, choose, act, and bear responsibility. These capacities do not confer ultimate authority to originate Creation, determine its ultimate purpose, overturn the Creator's judgment, or establish the governing standard of good and evil. Job 40:8, Isaiah 45:9, Colossians 2:8, and Romans 1:25 are central witnesses.
+
+**Boundary:** This finding does not condemn all philosophy, science, or disciplined inquiry; does not attribute idolatrous motives to every researcher or scientific conclusion; and does not settle the complete causal/chronological relation of regeneration and faith. The nineteen passage-level HW investigations remain authoritative for their own texts. No new HW number is assigned because this is a cross-canonical synthesis of the authority distinction, not a duplicate passage entry.
+
