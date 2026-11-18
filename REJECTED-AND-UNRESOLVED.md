@@ -508,3 +508,29 @@ Related record: [Genesis 4:13–16 — Text-First Reconstruction](scriptural-rec
 
 **Related investigation:** [The Biblical Examination of the Human Will — HW-014, 1 John 5:1](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
 
+
+
+## 24. Evidence update — 2 Thessalonians 2:13–14 (2026-11-18)
+
+### U-006 supplement — God's choice, Spirit's sanctification, faith, and Gospel calling
+
+**New evidence reviewed:** 2 Thessalonians 2:10–17, with 1 Thessalonians 1:4–5 and 1 Peter 1:2 as close comparisons.
+
+**Textual observations:**
+- Paul gives thanks to God because God chose the Thessalonian believers unto salvation (KJV reading, 2:13).
+- The sentence joins sanctification of the Spirit and belief of the truth.
+- Verse 14 says God called them through the Gospel preached by Paul and his companions.
+- The calling is directed toward obtaining the glory of the Lord Jesus Christ.
+- Verses 15–17 preserve real exhortation to stand fast and hold the apostolic teaching, together with prayer for God's strengthening.
+- The KJV's ἀπ᾽ ἀρχῆς (“from the beginning”) has a significant variant, ἀπαρχήν (“as firstfruits”). The manuscript evidence is divided; the variant must remain recorded.
+
+**Effect on question:** The passage explicitly attributes the choice unto salvation to God. It does not present human faith as the originating cause of that choice. Yet belief of the truth is expressly included, and the Gospel is expressly named as the means of calling. Divine initiative does not cancel faith, proclamation, or exhortation.
+
+**Limits:** The two verses do not specify a complete chronology of regeneration and faith, the full mechanics or scope of election, or the exact referent of “from the beginning” if that reading is retained. The textual variant affects the temporal/firstfruits expression and must not be hidden.
+
+**Status remains:** UNRESOLVED for the full chronology, mechanics, and scope; PASS for God's being the subject of the choice, the inclusion of the Spirit's sanctification and belief, and the Gospel as means of calling.
+
+**Guardrail:** Do not make faith the originating cause of God's choice. Do not erase belief or the Gospel means. Do not claim the text supplies a complete order-of-salvation timeline. Preserve the textual variant.
+
+**Related investigation:** [The Biblical Examination of the Human Will — HW-015, 2 Thessalonians 2:13–14](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
+
