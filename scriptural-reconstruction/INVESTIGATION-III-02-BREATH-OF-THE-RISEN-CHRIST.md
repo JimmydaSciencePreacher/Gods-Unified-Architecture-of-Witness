@@ -1285,3 +1285,194 @@ The sequence therefore gives the Resurrection-day breathing scene a wider covena
 - Revelation 7:9–17.
 - Isaiah 49:8–13.
 
+## 26. The Davidic promise — historical David, promised throne, and Jesus Christ the risen Lord
+
+The preceding shepherd investigation repeatedly encountered the phrase “my servant David” (Ezekiel 34:23–24; 37:24–25). This section tests the identity and canonical development of that promise through the Davidic covenant, the royal psalm, the Gospel genealogies and announcements, and the apostolic Resurrection proclamation.
+
+The controlling distinction is essential: the historical David is not Jesus; the covenant promise is not its fulfillment; and the promised Son is not merely another Davidic king. The New Testament identifies Jesus as David's descendant according to the flesh and also as the risen and exalted Lord.
+
+### 26.1 Second Samuel 7:8–17 — the LORD establishes David's house
+
+The LORD reminds David that He took him from the sheepcote and made him ruler over Israel (vv. 8–9). The LORD has been with David, cut off his enemies, and made his name great. The LORD then promises to appoint a place for His people and give them rest (vv. 10–11).
+
+The covenant turns on the LORD's initiative:
+
+> “Also the LORD telleth thee that he will make thee an house.” (2 Samuel 7:11, KJV)
+
+David proposes to build a house for the LORD, but the LORD declares that He will build David a house: a continuing royal dynasty. After David's days, the LORD will raise up his seed, establish his kingdom, and establish the throne of his kingdom for ever (vv. 12–13). The promised son will build a house for the LORD's name. The LORD will be his father, and he will be the LORD's son (v. 14). The LORD's mercy will not depart as it did from Saul, and David's house and kingdom will be established for ever (vv. 15–16).
+
+**Immediate historical horizon:** the promise includes a successor from David's own line, with Solomon as the son who builds the temple (compare 1 Kings 5–8; 1 Chronicles 22:6–10). The text therefore cannot be read as though it had no reference to David's immediate royal succession.
+
+**Extended covenant horizon:** the language of an enduring house, kingdom, and throne exceeds the lifetime of one successor. Later Scripture develops this promise through the expectation of a righteous Davidic ruler and an enduring kingdom.
+
+The originating action is repeatedly the LORD's: He takes, makes, establishes, raises, and promises. David receives the covenant; he does not originate it.
+
+### 26.2 David's response — the recipient acknowledges the Giver
+
+In 2 Samuel 7:18–29, David sits before the LORD and responds with humility. He asks, “Who am I, O Lord GOD? and what is my house, that thou hast brought me hitherto?” (v. 18). He acknowledges that the LORD has spoken of His servant's house for a great while to come (v. 19), praises the LORD's greatness and uniqueness (vv. 22–24), and asks that the LORD establish what He has promised (vv. 25–29).
+
+David's response preserves the distinction between promise and recipient. The covenant is the LORD's word and action; David receives it, acknowledges it, and asks the LORD to perform it.
+
+### 26.3 Psalm 89 — the covenant with David and the enduring throne
+
+Psalm 89 recalls the LORD's covenant with David: “Thy seed will I establish for ever, and build up thy throne to all generations” (vv. 3–4, KJV). The psalm recounts the LORD's choice and strengthening of David (vv. 19–27), then repeats the promise that David's seed and throne will endure (vv. 28–37).
+
+The psalm also faces the apparent contradiction of the Davidic kingdom's humiliation and defeat (vv. 38–51). It does not conceal the crisis. The covenant promise is remembered precisely while the visible royal condition appears to contradict it.
+
+This is important for the canonical trajectory: the Davidic promise survives the failure and judgment of historical kings. The later prophetic hope is not simply that every descendant of David will rule faithfully; it is that the LORD will fulfill His covenant purpose.
+
+### 26.4 Psalm 110:1 — David's Lord
+
+The psalm opens:
+
+> “The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.” (Psalm 110:1, KJV)
+
+Jesus cites this text in Matthew 22:41–46 and asks how the Christ can be David's son if David, speaking in the Spirit, calls Him Lord. Jesus does not deny the Messiah's Davidic descent. He exposes the inadequacy of treating the Messiah as merely a descendant who is less than David in status.
+
+The question is not resolved by collapsing the LORD, David, and the Messiah into one person. The psalm distinguishes the LORD who speaks from the Lord invited to sit at His right hand. Jesus' argument requires that the Christ be both David's son and David's Lord.
+
+The text's precise historical setting and the identity of the enthroned figure have been discussed in scholarship. For this investigation, the decisive canonical fact is that Jesus applies Psalm 110:1 to the Christ and Peter explicitly applies it to the risen and exalted Jesus in Acts 2:34–36.
+
+### 26.5 The prophets — the promised Davidic ruler
+
+Several prophetic passages develop the covenant expectation:
+
+- **Isaiah 9:6–7:** the government rests upon the promised child; He sits upon the throne of David and establishes it with judgment and justice.
+- **Isaiah 11:1–10:** a rod comes forth from the stem of Jesse; the Spirit of the LORD rests upon Him, and He judges righteously.
+- **Jeremiah 23:5–6:** the LORD raises unto David a righteous Branch, a King who reigns wisely and executes judgment and justice.
+- **Jeremiah 33:14–17:** the LORD performs the good promise made concerning Israel and Judah, raising the Branch of righteousness unto David.
+- **Ezekiel 34:23–24:** the LORD appoints “my servant David” as one shepherd over His flock.
+- **Ezekiel 37:24–25:** the reunited people have one king, “David my servant,” as prince for ever.
+
+These texts retain their individual historical and prophetic contexts. Together they establish a sustained expectation of a righteous Davidic ruler under the LORD's promise and authority.
+
+“David” in Ezekiel's future-looking oracle need not mean the historical king literally returns from the grave to resume his former reign. The text presents the promised Davidic shepherd-ruler. The New Testament's identification of Jesus as the Davidic Messiah supplies the Christian canonical identification; that identification should be stated as a conclusion from the wider witness, not smuggled into the wording of Ezekiel as though the name Jesus appeared there.
+
+### 26.6 Matthew 1:1 — Jesus Christ, the son of David
+
+Matthew opens:
+
+> “The book of the generation of Jesus Christ, the son of David, the son of Abraham.” (Matthew 1:1, KJV)
+
+The Gospel places Jesus within Israel's covenant history from its first sentence. The genealogy proceeds through Abraham and David and traces the royal line through the exile to Joseph, the husband of Mary, of whom Jesus was born (Matthew 1:2–16).
+
+Matthew's opening is not an incidental family detail. “Son of David” identifies Jesus with the royal covenant expectation. The genealogy also includes the exile, showing that the promise is carried through Israel's historical judgment and displacement.
+
+Matthew 1:16 carefully changes the genealogy's ordinary formula: Joseph is identified as the husband of Mary, “of whom was born Jesus.” The text does not say Joseph physically fathered Jesus. Matthew 1:18–25 explains the conception and Joseph's role in receiving Mary and naming the child. The genealogy and birth narrative must be read together rather than forcing the ordinary father-son formula onto Jesus' conception.
+
+### 26.7 Luke 1:26–33, 68–79 — the throne of David and the covenant oath
+
+Gabriel tells Mary that the child will be great, called the Son of the Highest, and given “the throne of his father David.” He will reign over the house of Jacob for ever, and His kingdom will have no end (Luke 1:32–33).
+
+This is an explicit joining of Davidic kingship with the Son's identity and everlasting reign. The promise is not merely that Jesus will resemble David; He receives the promised throne and reigns without end.
+
+In Luke 1:68–79, Zacharias blesses the Lord God of Israel because He has visited and redeemed His people and raised up a horn of salvation in the house of His servant David (vv. 68–69). Zacharias connects this with the holy prophets and the covenant oath sworn to Abraham (vv. 70–75). The song thus places the Davidic salvation within God's prior covenant purpose.
+
+The initiating verbs belong to God: He visits, redeems, raises, remembers, and performs His oath. The promised salvation is received by the people; it is not authored by them.
+
+### 26.8 Romans 1:1–4 — David's seed and the Son of God
+
+Paul describes the Gospel as promised beforehand through the prophets in the holy Scriptures, concerning God's Son:
+
+> “Which was made of the seed of David according to the flesh; And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead.” (Romans 1:3–4, KJV)
+
+This passage is especially important to the present Resurrection investigation. Paul holds together two affirmations:
+- Jesus is of David's seed according to the flesh.
+- Jesus is declared Son of God with power in relation to the Resurrection from the dead.
+
+The Resurrection is not a replacement for the Davidic identity. Nor does Davidic descent exhaust the identity of the risen Son. Paul's wording joins the historical and covenantal lineage with the Resurrection proclamation.
+
+The phrase “declared to be the Son of God with power” should not be misread as teaching that Jesus first became God's Son at the Resurrection. The wider Pauline witness already speaks of the Son's pre-existence and sending (compare Galatians 4:4; Philippians 2:6–11). Romans 1:4 describes the powerful public designation or manifestation of the Son in the Resurrection, not a change from non-Son to Son.
+
+### 26.9 Acts 2:22–36 — Peter connects David, Resurrection, and enthronement
+
+Peter's Pentecost proclamation provides the clearest continuous apostolic argument for the relation of David's promise to Jesus' Resurrection and exaltation.
+
+Peter first declares that Jesus was approved by God through mighty works, wonders, and signs, was delivered according to God's determinate counsel and foreknowledge, and was crucified and slain by lawless hands (Acts 2:22–23). He then declares that God raised Him up, loosing the pains of death, because it was not possible that He should be held by it (v. 24).
+
+Peter cites Psalm 16 and argues that David died, was buried, and had a known sepulchre (vv. 25–31). David, being a prophet and knowing God's oath to raise up Christ from his descendants to sit on his throne, spoke beforehand of Christ's Resurrection (v. 30). Peter then declares:
+
+> “This Jesus hath God raised up, whereof we all are witnesses.” (Acts 2:32, KJV)
+
+Peter continues that Jesus is exalted by the right hand of God and has received the promise of the Holy Ghost from the Father, which He has shed forth (v. 33). He then cites Psalm 110:1 and concludes:
+
+> “Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both Lord and Christ.” (Acts 2:36, KJV)
+
+This is a direct apostolic chain:
+1. God made covenant promise to David.
+2. David spoke prophetically concerning the coming Christ and His throne.
+3. Jesus was crucified.
+4. God raised Jesus from the dead.
+5. The risen Jesus is exalted at God's right hand.
+6. The exalted Jesus receives the Father's promised Spirit and pours it forth.
+7. Psalm 110:1 is applied to His exaltation.
+8. Jesus is proclaimed Lord and Christ.
+
+**Critical distinction for U-008:** Acts 2:33 explicitly connects the outpouring with the exalted Jesus and the Father's promise. This clarifies the source and authority of the Pentecostal outpouring. It does not, by itself, fully explain whether John 20:22 was an earlier impartation, a sign, a commissioning act, or a distinct stage in the same larger work. That remains a separate textual question.
+
+### 26.10 Acts 13:22–39 — the promise to David and the Resurrection
+
+Paul's synagogue address recounts God's choice of David, a man after His own heart, and the raising of Jesus as the promised Saviour from David's seed (Acts 13:22–23). Paul then proclaims that the rulers condemned Jesus, He was laid in a sepulchre, and God raised Him from the dead (vv. 27–30).
+
+Paul cites Psalm 2, Isaiah 55, and Psalm 16 (vv. 33–37), distinguishing the promise to David from the corruption of David's own body. David served his generation, died, and saw corruption; the One whom God raised saw no corruption.
+
+This second apostolic sermon independently joins the Davidic promise and the Resurrection. It confirms that the Christian proclamation does not rest on an isolated use of Psalm 110 in Acts 2.
+
+### 26.11 Revelation 22:16 — the root and offspring of David
+
+The risen and glorified Christ declares:
+
+> “I am the root and the offspring of David, and the bright and morning star.” (Revelation 22:16, KJV)
+
+The title holds together origin and descent in a striking way. Christ is David's offspring, affirming the promised lineage; He is also David's root. The verse does not invite us to erase the distinction between David and Christ. It presents Christ's relation to David as more profound than descent alone.
+
+This declaration belongs to the final witness of Revelation, where the risen Christ speaks to the churches and testifies to His identity and coming. The Davidic promise is carried to the end of the canon.
+
+### 26.12 The distinction of identities and actions
+
+The primary texts establish the following distinctions:
+
+| Person / promise | What the text says |
+|---|---|
+| Historical David | The LORD chose him, raised him from shepherding, and made him king (2 Samuel 7; Psalm 89). |
+| Davidic covenant | The LORD promises a house, seed, kingdom, and enduring throne (2 Samuel 7:11–16). |
+| Promised Davidic ruler | The prophets announce a righteous Branch and one shepherd under the LORD's purpose (Jeremiah 23; Ezekiel 34; 37). |
+| Jesus Christ | The Gospels identify Him as Son of David and heir to David's throne (Matthew 1:1; Luke 1:32–33). |
+| Risen and exalted Lord | The apostles proclaim that God raised Jesus and exalted Him; Psalm 110 is applied to Him (Acts 2:22–36; 13:22–39). |
+| Root and offspring | Christ identifies Himself as both root and offspring of David (Revelation 22:16). |
+
+The texts do not teach that David is the Author of the promise, that the covenant is self-fulfilling, or that Jesus is merely another historical king. The LORD originates the covenant; David receives it; the prophetic witness carries it forward; the New Testament identifies Jesus as its promised Davidic Messiah and proclaims His Resurrection and exaltation.
+
+### 26.13 Relation to the risen Shepherd and John 20
+
+This Davidic investigation clarifies the identity of the risen Shepherd in the prior sections:
+- Ezekiel 34 and 37 promise one shepherd from the Davidic expectation.
+- John 10 presents Jesus as the Good Shepherd who lays down His life and takes it again.
+- Hebrews 13:20 calls the risen Jesus the great Shepherd of the sheep.
+- Acts 2:30–36 connects David's oath, Jesus' Resurrection, His exaltation, and the outpouring of the Holy Ghost.
+- Revelation 22:16 identifies the glorified Christ as the root and offspring of David.
+
+The Resurrection is therefore central to the apostolic witness that Jesus is the promised Davidic Lord. The risen Shepherd is not an unrelated figure added to Ezekiel's prophecy; the New Testament presents Him as the one in whom the Davidic promise reaches its Christological fulfillment.
+
+However, this does not collapse John 20:22 into Acts 2. Acts 2 clarifies the exalted Christ as the One who pours forth the Father's promise. The exact relationship between the Resurrection-day breathing and Pentecost still requires its own full examination.
+
+### 26.14 Triple Constraint assessment
+
+- **Biblical compliance — PASS within scope:** the immediate Solomonic horizon of 2 Samuel 7 is retained alongside the enduring covenant language. David, the promised Davidic ruler, and Jesus are distinguished. The New Testament's identification of Jesus as Messiah is grounded in Matthew, Luke, Romans, Acts, and Revelation.
+- **Scientific coherence — PASS within scope:** this is historical, textual, and canonical analysis. No empirical mechanism is claimed from a covenant promise or prophetic image.
+- **GUA-W consistency — PASS:** the LORD originates and establishes the covenant; David receives it; the prophets witness its development; Jesus is identified as the promised Son and risen Lord. The Father's authority and the Son's mission remain visible in Acts 2:33. No derivative witness is made the Author.
+
+**Disposition:** The New Testament explicitly identifies Jesus as David's promised Son and the risen, exalted Lord. Acts 2:22–36 provides the clearest apostolic connection of David's covenant, Resurrection, enthronement, and Spirit outpouring. This substantially clarifies the identity and authority of the risen Shepherd, but it does not resolve the precise relationship between John 20:22 and Pentecost. U-008 remains UNRESOLVED. No new GUA-W Gear is promoted.
+
+### 26.15 Primary-text control list
+
+- 2 Samuel 7:8–29; 1 Chronicles 17:7–27; 22:6–10.
+- Psalm 2; 16; 23; 89; 110.
+- Isaiah 9:6–7; 11:1–10; Jeremiah 23:1–6; 33:14–17.
+- Ezekiel 34:11–31; 37:21–28.
+- Matthew 1:1–25; 22:41–46.
+- Luke 1:26–33, 68–79; 2:1–14.
+- Romans 1:1–4; Galatians 4:4; Philippians 2:6–11.
+- Acts 2:22–36; 13:22–39.
+- Hebrews 13:20–21; Revelation 22:16.
+
