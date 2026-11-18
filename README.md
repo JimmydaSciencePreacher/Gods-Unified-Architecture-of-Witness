@@ -10,6 +10,10 @@ This repository does not replace or silently modify the original GUA-W repositor
 
 - [God's Unified Architecture of Witness — Completed Form](GUA-W-COMPLETED-ARCHITECTURE.md)
 
+## Explanatory principles
+
+- [The Answer Before the Question — Inquiry, Discovery, and the Witness](THE-ANSWER-BEFORE-THE-QUESTION.md)
+
 ## What this repository records
 
 1. **The completed GUA-W** — its established architecture, governing relationships, distinctions, and operations, presented as a coherent whole rather than as a collection of disconnected proposals.
