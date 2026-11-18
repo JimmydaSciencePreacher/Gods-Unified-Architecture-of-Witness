@@ -561,3 +561,34 @@ Related record: [Genesis 4:13–16 — Text-First Reconstruction](scriptural-rec
 
 **Related investigation:** [The Biblical Examination of the Human Will — HW-016, Romans 8:28–30](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
 
+
+
+## 26. Evidence update — Ephesians 1:3–14 (2026-11-18)
+
+### U-006 supplement — election in Christ, Gospel hearing, believing, and sealing
+
+**New evidence reviewed:** Ephesians 1:3–14, with Romans 10:13–17, 2 Corinthians 1:21–22, Ephesians 4:30, and Romans 8:23 as comparisons.
+
+**Textual observations:**
+- God is the subject of choosing, predestinating, purposing, revealing, and working in the passage.
+- The choosing is “in Christ” and “before the foundation of the world.”
+- Predestination is unto adoption; the passage also names holiness as the purpose of choosing.
+- Redemption is in Christ through His blood.
+- God's purpose includes gathering all things in Christ.
+- Verse 13 expressly includes hearing the word of truth/Gospel and believing.
+- The Greek has active participles ἀκούσαντες (“having heard”) and πιστεύσαντες (“having believed”), followed by the passive finite verb ἐσφραγίσθητε (“you were sealed”).
+- The KJV's first “trusted” in verse 13 is supplied in English; there is no separate finite Greek verb at that exact point.
+- The Holy Spirit is identified as the promised seal and the earnest/guarantee of the inheritance in verse 14.
+- The precise temporal relation between believing and sealing is debated; the aorist participles alone do not prove a lengthy interval.
+- The dative “with/by the Spirit” has a grammatical interpretive question: instrument/means or the Spirit as the seal. The Spirit's association with the sealing and guarantee is explicit.
+
+**Effect on question:** God's purpose and action are foundational in the passage. Human believing is nevertheless expressly included as a real response to the Gospel. The active voice of believing does not establish that faith is the independent originating cause of God's choosing; equally, God's initiative does not erase believing from Paul's account. The passive sealing presents the believers as recipients of the action, and the Spirit is the promised guarantee of inheritance.
+
+**Limits:** The passage does not explain every internal mechanism by which faith arises, the precise temporal interval between faith and sealing, the full grammatical force of the Spirit's dative, or every detail of final redemption. “All things in Christ” should not be expanded into universal individual salvation without further canonical evidence.
+
+**Status remains:** UNRESOLVED for the full mechanics/origin of faith, precise temporal relation of faith and sealing, and exact grammatical force of the Spirit's dative; PASS for God's initiative, election in Christ, Gospel hearing, believing, and the Spirit's sealing/guarantee as explicit elements of the text.
+
+**Guardrail:** Do not detach election from Christ. Do not erase hearing or believing. Do not make active voice proof of independent originating causality. Do not mistake the KJV's supplied “trusted” for a separate Greek finite verb. Do not claim a long gap between believing and sealing based only on aorist participles. Preserve the Spirit's role as promised seal/guarantee.
+
+**Related investigation:** [The Biblical Examination of the Human Will — HW-017, Ephesians 1:3–14](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
+
