@@ -209,3 +209,11 @@ John 3:5's water/Spirit phrase and the syntax of John 3:34 remain interpretive q
 
 **Disposition:** Canonical sequence extended; U-008 remains UNRESOLVED; no new GUA-W Gear established.
 
+### Investigation III.2 — John 1:32–34 and 3:5–8, 34; scholarly refinement
+
+The study now records the Spirit's descent and remaining upon Jesus, Jesus' teaching about birth from water and Spirit, and the identification of Jesus as the one who baptizes with the Holy Ghost. The scholarly refinement adds important controls: John 1's account is presented as the Baptist's revelatory testimony rather than a narrated baptism scene; the interpretation of how Jesus' Spirit-baptizing role is realized has a scholarly counter-position; John 3:5's “water” remains debated; and the KJV's “unto him” in 3:34 must be considered with the compact Greek syntax and context.
+
+**Updated study:** [Investigation III.2 — The Breath of the Risen Christ](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
+
+**Disposition:** Findings refined without forcing consensus; U-008 remains UNRESOLVED; no new GUA-W Gear established.
+
