@@ -370,3 +370,15 @@ Examined the Book of Life references. Revelation 17:8 relates names not written 
 Recorded a bounded canonical answer to “Free Will”: genuine human perception, desire, choice, action, response, and accountability are real in Genesis 2–3; independent self-originating sovereignty or authorship of God's purpose is not supported. Human willing is real, derivative, bounded, and accountable. This is not the denial of creaturely choice; it is the denial that creaturely choice is Original Cause or sovereign authority.
 
 Updated the existing Genesis 2 completion foundation, Human Will reference work, Passion/Resurrection register, and continuing-work register. No new numbered investigation, fourth completion, or GUA-W component was created. Read-back verification required.
+
+## 2026-11-18 — Genesis 1–3: knowledge, the Author, and the first departure from the ultimate WHY
+
+Investigated the question raised by the Theology-as-Queen-of-the-Sciences principle: where does the separation of knowledge from its ultimate WHY first appear in the beginning account? Began with Genesis 1–2, then examined Genesis 3, and brought in bounded canonical witnesses from Proverbs 1:7, Romans 1:18–25, Colossians 1:16–17, and Romans 11:36.
+
+The new text-first explanatory study is recorded in [Genesis 1–3 — Knowledge, the Author, and the First Departure from the Ultimate WHY](scriptural-reconstruction/GENESIS-1-3-KNOWLEDGE-AUTHORSHIP-AND-THE-ORIGIN-OF-DISCONNECTED-KNOWLEDGE.md).
+
+**Finding:** Genesis 1–2 already presents human observation, naming, appointed work, and responsibility within the Author's order. Genesis 3:1–6 records a rival testimony questioning and contradicting God's prior Word, followed by human perception, evaluation, desire, and action. The supported theological interpretation is that the first recorded rupture is relational and authoritative: the human response departs from the Author's Word and follows a competing account. It is not the birth of science or the historical separation of modern academic disciplines; those claims are not in the text.
+
+The study preserves the distinction between valid investigation of HOW and the ultimate WHY grounded in the Author. It does not declare all post-Fall scientific findings false, nor does it permit Theology to invent domain-specific mechanisms. Each finding remains subject to its proper evidence and the Triple Constraint Law.
+
+No GUA-W component, layer, Gear, or runtime stage was added or changed. README navigation was updated. The new study and README entry must be read back; this register entry records the investigation and its limits, not a claim that all related scientific or historical questions are closed.
