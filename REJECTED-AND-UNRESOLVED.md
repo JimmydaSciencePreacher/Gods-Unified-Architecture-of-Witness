@@ -142,6 +142,11 @@ The following update supplements U-006. The U-007 notes are historical evidence 
 
 **Interpretive cautions:** John 1:33's wording identifies the Spirit-baptizer, but scholars debate whether the Gospel depicts this as direct bestowal or as the effect of Jesus' Spirit-endowed ministry. John 3:5's “water” has more than one proposed interpretation. The KJV's “unto him” in John 3:34 should be read with the Greek syntax and immediate context. None of these debates removes the explicit statements; they constrain claims about their precise mechanism or function.
 
+
+**Ezekiel 37:15–28 and Johannine gathering:** Ezekiel's two sticks are explicitly interpreted as the divided houses of Israel, whom the LORD gathers and reunites as one nation under one Davidic shepherd-king, in covenant peace, with His sanctuary among them. John 10:14–18 presents Jesus as the good shepherd who lays down His life and takes it again, bringing the other sheep into one flock under one shepherd. John 11:51–52 explains Jesus' death as serving the gathering of the scattered children of God into one. These are strong canonical correspondences to Ezekiel's one-shepherd and gathering promises. Ezekiel's original referent remains Israel's restoration; the Christian identification of the promised Davidic shepherd with Jesus is a canonical conclusion supported by the New Testament, not a name explicitly supplied in Ezekiel 37.
+
+**Effect on U-008:** This widens the prophetic context for the breath/Spirit investigation to include the gathered people, shepherd-king, covenant peace, and divine dwelling. It does not resolve the timing or relationship of John 20:22 and Acts 2. U-008 remains UNRESOLVED.
+
 ### U-006 supplement — Human will, responsibility, desire, and mastery
 
 **New evidence reviewed:** Genesis 4:6–7, in continuity with Genesis 4:1–8 and Genesis 3:16–17.
