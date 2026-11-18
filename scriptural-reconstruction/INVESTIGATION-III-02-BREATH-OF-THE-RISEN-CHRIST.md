@@ -1476,3 +1476,131 @@ However, this does not collapse John 20:22 into Acts 2. Acts 2 clarifies the exa
 - Acts 2:22–36; 13:22–39.
 - Hebrews 13:20–21; Revelation 22:16.
 
+
+
+## 27. Integrated chronology — Resurrection day, Ascension, and Pentecost
+
+The preceding sections have examined the major texts individually. This pass places their narrated events and promises beside one another. The purpose is not to force a single harmonization, but to identify what each witness explicitly says, what sequence it supports, and what remains open.
+
+### 27.1 The Resurrection day in the four-Gospel witness
+
+| Witness | Textual sequence | What is explicit |
+|---|---|---|
+| Matthew | Matthew 28:1–10; 28:16–20 | The women encounter the risen Jesus; the disciples later meet Him in Galilee and receive the commission. Matthew does not narrate the breathing of John 20:22 or a Pentecost scene. |
+| Mark | Mark 16:1–8; 16:9–20 (textual-critical qualification) | The shorter ending reports the empty tomb and fear; the longer ending records appearances and commission in the KJV. Neither form narrates John 20:22. |
+| Luke | Luke 24:1–12; 13–35; 36–49 | The women find the tomb empty; Jesus meets the Emmaus disciples; He appears to the gathered disciples on the first day, opens their understanding, commissions proclamation, and promises the Father's power from on high. |
+| John | John 20:1–18; 19–23 | Mary encounters the risen Jesus; later that first day Jesus appears to the gathered disciples, shows His wounds, sends them as the Father sent Him, breathes upon them, and says, “Receive ye the Holy Ghost.” |
+
+The accounts are not identical in selection or order of presentation. Their differences must be preserved rather than treated as errors to be removed by a premature harmony. Matthew and Mark do not supply a parallel to the specific breathing scene. Luke supplies a first-day appearance and future promise; John supplies the breathing and reception command.
+
+### 27.2 John 20:17–23 — what the immediate Johannine order contributes
+
+John's own sequence is important:
+
+1. In the morning, Jesus tells Mary, “I am not yet ascended to my Father” (John 20:17).
+2. Later that same first day, Jesus appears to the gathered disciples (20:19).
+3. He shows them His hands and side (20:20).
+4. He declares the sending pattern: “as my Father hath sent me, even so send I you” (20:21).
+5. He breathes upon them and commands, “Receive ye the Holy Ghost” (20:22).
+6. He speaks of remitting and retaining sins (20:23).
+
+**Textual observation:** John does not narrate the Ascension between verses 17 and 22. On the narrative surface, the breathing belongs to the Resurrection-day appearance before any Ascension is narrated in this Gospel. But John's Gospel does not provide a full chronological account of every event between Resurrection and the later life of the Church. Therefore the text should not be made to state more than it does about the exact historical interval between John 20:17 and the Ascension recorded elsewhere.
+
+**Strong contextual inference:** John 20:22 is not an isolated breath action. It is located between Jesus' sending of the disciples and His words about their commissioned authority. The Spirit-reception command is therefore related to the mission and authority context, though the exact function of the gift remains debated.
+
+### 27.3 Luke 24:36–49 — the risen Lord commissions and promises
+
+Luke reports that while the two from Emmaus and the others are speaking, Jesus stands in their midst (Luke 24:36). He shows His hands and feet, invites them to handle Him, and eats before them (vv. 39–43). He then opens their understanding of the Scriptures (vv. 44–45), declares that His suffering and Resurrection fulfill what was written (vv. 46–47), and says:
+
+> “And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.” (Luke 24:49, KJV)
+
+This is explicit: after the Resurrection appearance and commission, the disciples are instructed to wait for the Father's promise and a future endowment described as power from on high.
+
+Luke 24:49 does not say that the disciples had received nothing of the Spirit before this promise. It also does not identify the promised power as a mere repetition of John 20:22. It establishes a future promised endowment whose fulfillment Luke will narrate in Acts.
+
+### 27.4 Luke 24:50–53 and Acts 1:1–11 — the Ascension and the forty-day interval
+
+Luke's Gospel then narrates Jesus leading the disciples toward Bethany, blessing them, and being parted from them (Luke 24:50–53). Read by itself, the closing chapter moves rapidly from the Resurrection-day events to the Ascension.
+
+Acts, written as the continuation of Luke's account, supplies an explicit temporal marker:
+
+- Jesus presents Himself alive after His Passion over **forty days** (Acts 1:3).
+- He commands the disciples not to depart from Jerusalem, but to wait for the Father's promise (1:4–5).
+- He distinguishes their question about restoring the kingdom to Israel from the Father's times and seasons (1:6–7).
+- He promises that they will receive power when the Holy Ghost comes upon them and will be His witnesses (1:8).
+- He is taken up, and the disciples see Him ascend (1:9–11).
+
+**Chronological control:** Acts 1:3 prevents us from reading Luke 24:50–53 as though Luke intended to deny the forty-day period. The Gospel's ending is compressed; Acts' opening restates and expands the post-Resurrection period. This is a literary and canonical relationship between the two volumes, not permission to ignore either account.
+
+### 27.5 Acts 2 — the promised public outpouring
+
+Acts 2:1–4 records the coming of the Holy Ghost at Pentecost: the sound from heaven, the divided tongues like fire, the filling of all present, and speech as the Spirit gave utterance.
+
+Peter's explanation in Acts 2:14–36 interprets the event through Joel and the Resurrection/exaltation of Jesus. Particularly decisive is Acts 2:32–33:
+
+- God raised Jesus, “whereof we all are witnesses” (v. 32).
+- Jesus is exalted by the right hand of God.
+- Having received the promise of the Holy Ghost from the Father, He has shed forth what the hearers see and hear (v. 33).
+
+Acts therefore explicitly attributes the Pentecostal outpouring to the exalted Jesus, who acts in relation to the Father's promise. The apostles are witnesses to the Resurrection and recipients of the Spirit's utterance; they are not the source of either.
+
+### 27.6 Two axes must remain distinct: chronology and function
+
+The investigation must not confuse two separate questions.
+
+**Axis A — chronology / extent of reception**
+
+1. Did John 20:22 record an actual reception of the Holy Ghost on Resurrection day?
+2. Was the act anticipatory or proleptic, with the promised reception realized later?
+3. Was there an actual but partial or functionally distinct impartation, followed by the Pentecostal outpouring?
+4. Does John present the event with theological fullness without intending a one-to-one chronological parallel with Luke-Acts?
+5. Are John and Luke-Acts narrating distinct but related Spirit-giving events?
+
+These proposals overlap in the scholarly literature. They should not be reduced to a simplistic “literal versus symbolic” binary.
+
+**Axis B — function / purpose**
+
+1. Life or new-creation reception.
+2. Indwelling and the promised abiding presence.
+3. Commissioning and authority in John 20:21–23.
+4. Empowerment for public witness in Luke 24:49 and Acts 1:8.
+5. Prophetic utterance and public proclamation in Acts 2.
+6. A broader unity of Spirit-gift in which more than one function is present.
+
+The texts make some functional emphases more explicit than others. Acts 1:8 explicitly names power for witness. John 20:21–23 explicitly places the breath and reception command within the sending and authority scene. John 14–16 supplies the Paraclete's teaching, remembrance, testimony, conviction, and glorification of Christ. Whether these are distinct gifts, distinct functions of one gift, or stages in a unified work is not settled by simply comparing English labels such as “receive,” “filled,” and “come upon.”
+
+### 27.7 Scholarly control — why no single model is to be assumed
+
+The existing scholarly survey by Adrian P. Rosen emphasizes that interpretations of John 20:22 differ not only over whether reception occurred, but also over the extent, function, relation to Pentecost, and relation to the Paraclete promises. This supports the decision to keep chronology and function as separate questions rather than forcing every proposal into two camps.
+
+Craig Keener's treatment likewise warns against assuming that John's narrative function must be harmonized into a precise chronology with Acts 2. He discusses the possibility that John theologically gathers Passion, Resurrection, Ascension, and Spirit-gift into the Easter narrative, while Luke-Acts gives the extended chronology. This is a scholarly proposal to consider, not a textual statement that the events occurred simultaneously.
+
+Other proposals distinguish a Resurrection-day impartation from the later Pentecostal empowerment. These are possible harmonizations, but they must be tested against the whole texts rather than adopted merely because they make the chronology easier.
+
+Sources for this pass:
+- Adrian P. Rosen, “Interpretive Questions Related to the Gift of the Spirit in John 20:22,” *Journal of the Evangelical Theological Society* 68.2 (2025), 285–297: https://etsjets.org/wp-content/uploads/JETS_68.2_285_Rosen.pdf
+- Craig S. Keener, *The Gospel of John: A Commentary*, discussion of John 20:19–23: https://azbyka.org/otechnik/world/the-gospel-of-john/34_14
+- Phillemon M. Chamburuka, “A socio-historical analysis of Lukan and Johannine pneumatological conceptions,” *HTS Teologiese Studies* (2020): https://hts.org.za/index.php/hts/article/view/6099/16803
+- Cornelis Bennema, “The Giving of the Spirit in John’s Gospel – A New Proposal?” *Evangelical Quarterly* 74.3 (2002), 195–213: https://doi.org/10.1163/27725472-07403001
+
+### 27.8 Integrated finding
+
+The canonical texts establish the following without requiring a final harmonization:
+
+1. Jesus rose bodily from the dead and appeared to His disciples.
+2. On the first day, John records Jesus breathing upon the disciples and commanding them to receive the Holy Ghost.
+3. Luke records the risen Jesus commissioning the disciples and promising the Father's power from on high.
+4. Acts explicitly places a forty-day period between Resurrection and Ascension, then records the disciples waiting in Jerusalem.
+5. At Pentecost, the Holy Ghost comes upon the gathered disciples, who speak as the Spirit gives utterance.
+6. Peter attributes the outpouring to the exalted Jesus, who has received the Father's promise.
+7. The disciples bear witness to what God has done; they do not originate the Resurrection, the Spirit, or the message.
+
+**Strong conclusion:** John 20:22 and Acts 2 are both genuine parts of the canonical witness and neither may be erased to protect a preferred chronology. Acts 2's public outpouring and empowerment for witness are explicit. John's breathing, reception command, sending, and authority context are explicit. Their exact relation in extent, timing, and function remains unresolved.
+
+### 27.9 Triple Constraint assessment
+
+- **Biblical compliance — PASS within scope:** the distinct narrative sequences in John, Luke, and Acts are retained; the forty-day interval in Acts 1:3 is not erased; no text is made to say that John 20:22 was merely symbolic or that Acts 2 was unnecessary.
+- **Scientific coherence — PASS within scope:** this is textual, historical, and canonical analysis. No physiological or physical mechanism is invented for the Spirit's reception.
+- **GUA-W consistency — PASS within scope:** the Father is the source of the promise; the risen Son receives and pours forth the Spirit; the disciples receive, are commissioned, and witness. The derivative witnesses do not become the originating cause or authority.
+
+**Disposition:** The chronology and functional emphases are now compared in one integrated record. This narrows the question but does not resolve U-008. No new GUA-W layer, component, or Gear is created or promoted.
