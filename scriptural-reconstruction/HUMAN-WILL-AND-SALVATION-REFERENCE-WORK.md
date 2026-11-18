@@ -1181,6 +1181,147 @@ No new GUA-W layer, Gear, or architectural component is proposed by this entry.
 
 ---
 
+## 14. Entry — HW-011: 1 Corinthians 2:10–16 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **1 Corinthians 2:10–16**
+>
+> 10 But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.
+>
+> 11 For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God.
+>
+> 12 Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God.
+>
+> 13 Which things also we speak, not in the words which man's wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual.
+>
+> 14 But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.
+>
+> 15 But he that is spiritual judgeth all things, yet he himself is judged of no man.
+>
+> 16 For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ.
+
+The argument begins before verse 10. In 1 Corinthians 1:18–2:9 Paul contrasts the wisdom of God with the wisdom of the world, proclaims Christ crucified, and says that the rulers of this world did not know God's wisdom. The revelation in 2:10 is God's action through the Spirit. The passage then contrasts the Spirit's knowledge and teaching with the natural person's inability to receive and know the things of the Spirit. Chapter 3:1–4 continues by describing believers who are still carnal and behaving as men. That continuation prevents a simplistic equation of “spiritual” with flawless maturity.
+
+### B. Argument commonly made
+
+This passage is used to argue that the natural man cannot receive or know the things of the Spirit of God without spiritual enablement. The explicit language is strong: the natural man “receiveth not” these things, they are foolishness to him, and “neither can he know them,” because they are spiritually discerned.
+
+The scope must remain precise. Paul is discussing “the things of the Spirit of God,” the wisdom God has revealed through the Spirit, and the message of Christ crucified in the context. He is not saying that an unregenerate person cannot learn ordinary facts, reason about created things, make choices, or understand any sentence about religion. The inability stated here concerns reception and discernment of the things of God's Spirit.
+
+The passage also does not, by itself, define every faculty of the human will or give a complete chronology of regeneration and faith. It does establish that the natural person's problem is not merely a shortage of neutral information: the things of the Spirit are foolishness to him, and he cannot know them by the mode of discernment Paul describes. The Spirit is the source of revelation and the one who teaches.
+
+### C. Immediate context and argument
+
+**1 Corinthians 1:18–25 — the word of the cross.** Paul contrasts the preaching of the cross, which is foolishness to those who perish, with the power of God to those who are saved. God's wisdom is not measured by the world's standards. This establishes the conflict between human/worldly evaluation and God's revealed wisdom.
+
+**1 Corinthians 1:26–31 — God's calling and boasting.** Paul reminds the believers that not many were wise, mighty, or noble according to the flesh. God chose what the world regards as foolish and weak, so that no flesh should glory in His presence. The stated result is that boasting is in the Lord. This is relevant to divine initiative and human boasting, but the passage should not be made to answer every question about the mechanics of the will.
+
+**1 Corinthians 2:1–5 — Paul's proclamation.** Paul did not come with excellency of speech or worldly wisdom; he determined to know Jesus Christ and Him crucified. His speech and preaching were in demonstration of the Spirit and power, so that faith would not stand in the wisdom of men but in the power of God. The source and character of the message are central.
+
+**1 Corinthians 2:6–9 — God's hidden wisdom.** Paul speaks wisdom among the mature, not the wisdom of this world or its rulers. God's wisdom was ordained before the world unto glory, and the rulers did not know it, as shown by their crucifixion of the Lord of glory. The quotation concerning what eye has not seen, nor ear heard, nor entered into the heart of man, is followed by God's revelation through the Spirit in verse 10. Do not detach verse 9 from verse 10 and imply that the revealed things remain unknowable to believers.
+
+**1 Corinthians 2:10–11 — revelation belongs to the Spirit.** God reveals the things in view through His Spirit. The Spirit searches all things, including the deep things of God. Paul uses an analogy: a man's own spirit knows the things of the man; correspondingly, the things of God are known by the Spirit of God. The point is the Spirit's unique knowledge, not a claim that the Holy Spirit must search because He lacks knowledge.
+
+**1 Corinthians 2:12 — reception of the Spirit.** “We have received” the Spirit which is of God, not the spirit of the world, so that believers might know the things freely given by God. The verse links reception of the Spirit with knowing God's gifts. It does not say that unaided natural human reasoning can produce this spiritual knowledge.
+
+**1 Corinthians 2:13 — Spirit-taught communication.** Paul says that the things revealed are spoken not in words taught by man's wisdom but in words taught by the Holy Ghost, “comparing spiritual things with spiritual.” The final phrase has a debated translation and interpretation: it may mean explaining/interpreting spiritual things with spiritual words, or combining spiritual things with spiritual people. The core contrast is clear: the communication is Spirit-taught, not derived from merely human wisdom. The precise syntax should remain qualified.
+
+**1 Corinthians 2:14 — the natural man.** The natural man does not receive the things of the Spirit of God. They are foolishness to him, and he cannot know them because they are spiritually discerned. The causal “because” matters: the limitation is tied to the spiritual mode of discernment required. The verse concerns these spiritual things, not every possible form of human knowledge or every exercise of choice.
+
+**1 Corinthians 2:15–16 — the spiritual person and the mind of Christ.** The spiritual person discerns all things, while not being rightly assessed by the standards of the natural/worldly person. Paul then cites the question of who has known the mind of the Lord so as to instruct Him, and declares, “we have the mind of Christ.” This is not a claim that every believer possesses exhaustive divine knowledge. It identifies the believers' access to and orientation by Christ's revealed mind through the Spirit.
+
+**1 Corinthians 3:1–4 — immature believers.** Paul says he could not speak to the Corinthians as spiritual but as carnal, as babes in Christ, because of envy, strife, and divisions. Thus “spiritual” in chapter 2 must not be treated as a synonym for sinless, fully mature, or incapable of error. A believer may have received the Spirit and yet require rebuke and growth.
+
+### D. Original-language findings
+
+- **ἀπεκάλυψεν (*apekalypsen*)**, “hath revealed” (v. 10): aorist active indicative, third person singular, from ἀποκαλύπτω (*apokalyptō*), “reveal, disclose, uncover.” God is the subject. The revelation is God's act, and it is “by his Spirit.”
+- **διὰ τοῦ πνεύματος (*dia tou pneumatos*)**, “by his Spirit” (v. 10): διά (*dia*) with the genitive commonly expresses agency or means. The Spirit is identified as the agent/means through whom God reveals the things in view.
+- **ἐραυνᾷ (*erauna*)**, “searcheth” (v. 10): present active indicative, third person singular, from ἐραυνάω (*eraunaō*), “search, examine, investigate.” The verse describes the Spirit's comprehensive knowledge, including the deep things of God. It must not be used to imply ignorance or acquisition of information by the omniscient Spirit.
+- **οὐδεὶς ἔγνωκεν (*oudeis egnōken*)**, “no man knoweth” (v. 11): the perfect form of γινώσκω (*ginōskō*) is used in the analogy concerning knowledge of the things of God. The contrast identifies the Spirit of God as the one who knows God's things. The analogy should be read according to its stated point, not pressed into an exhaustive account of human and divine psychology.
+- **ἐλάβομεν (*elabomen*)**, “we have received” (v. 12): aorist active indicative, first person plural, from λαμβάνω (*lambanō*), “receive, take.” Paul speaks of reception of the Spirit who is from God. The first-person plural refers to the Christian “we” in the argument; the precise scope of Paul's “we” (apostolic witnesses, believers more broadly, or both in the rhetorical flow) should be assessed contextually.
+- **εἰδῶμεν (*eidōmen*)**, “that we might know” (v. 12): a form of οἶδα (*oida*), “know.” The purpose clause connects reception of the Spirit with knowing the things freely given by God.
+- **ψυχικὸς ἄνθρωπος (*psychikos anthrōpos*)**, “natural man” (v. 14): ψυχικός (*psychikos*) is an adjective related to ψυχή (*psychē*), often rendered natural, unspiritual, or soulish according to context. It contrasts here with the spiritual person and identifies a person considered apart from the Spirit's discernment. The phrase should not be reduced to “a person with a body” or to a claim about ordinary human intelligence.
+- **οὐ δέχεται (*ou dechetai*)**, “receiveth not” (v. 14): present middle indicative, third person singular, from δέχομαι (*dechomai*), “receive, accept, welcome.” The natural person does not welcome or accept the things of the Spirit of God. The verb expresses reception/acceptance, not merely failure to hear the words.
+- **μωρία (*mōria*)**, “foolishness” (v. 14): the things of the Spirit are regarded as folly by the natural man. This indicates an evaluative/dispositional dimension, not merely an absent data point.
+- **οὐ δύναται γνῶναι (*ou dynatai gnōnai*)**, “neither can he know” (v. 14): δύναται (*dynatai*) is present middle/deponent indicative, third person singular, from δύναμαι (*dynamai*), “be able, be capable”; γνῶναι (*gnōnai*) is an aorist active infinitive from γινώσκω (*ginōskō*), “know.” This is explicit inability concerning the things of the Spirit in view. It must neither be weakened into mere unwillingness nor expanded into universal inability to know anything.
+- **πνευματικῶς ἀνακρίνεται (*pneumatikōs anakrinetai*)**, “they are spiritually discerned” (v. 14): πνευματικῶς means spiritually/by the Spirit; ἀνακρίνεται is present middle/passive-form indicative, third person singular, from ἀνακρίνω (*anakrinō*), “examine, evaluate, discern.” The things of the Spirit require spiritual discernment. The form and context concern the means or character of discernment, not a neutral test that the natural man can perform independently.
+- **ὁ πνευματικός (*ho pneumatikos*)**, “he that is spiritual” (v. 15): the substantivized adjective “spiritual,” contrasted with the ψυχικός of verse 14. The contrast is in relation to the Spirit and the discernment of God's things. Chapter 3 shows that believers can be carnal/immature in conduct; therefore “spiritual” here must not be equated with sinless perfection.
+- **ἀνακρίνει (*anakrinei*)**, “judgeth” (v. 15): present active indicative from ἀνακρίνω, “examine, evaluate, discern.” It is the same word family as the discernment in verse 14. The spiritual person can evaluate all things in the relevant context, while not being rightly evaluated by the natural person's standards. “All things” must be read in context and not inflated into omniscience.
+- **νοῦν Χριστοῦ (*noun Christou*)**, “mind of Christ” (v. 16): νοῦς (*nous*) denotes mind, understanding, or outlook. Paul concludes with the declaration that “we have the mind of Christ,” in contrast to the inability of the natural man to know God's mind. This is a shared Christian possession through the Spirit and apostolic revelation, not a claim that believers become omniscient or equal to Christ.
+
+### E. Canonical comparisons and counter-texts
+
+**John 3:3–8.** Jesus says a man must be born again/of the Spirit to see and enter the kingdom of God. This is relevant to spiritual perception and the Spirit's work. The passage should be examined in its own terms; 1 Corinthians 2:14 is not a substitute for the new-birth language in John 3.
+
+**John 6:44, 63–65.** Jesus says no man can come to Him except the Father draw him, and that the Spirit quickens while the flesh profits nothing. He also says that coming is given by the Father. This is a direct comparison for inability and divine enablement, but the wording and context of John 6 must be separately handled.
+
+**Romans 8:5–11.** Paul contrasts the mind set on the flesh with the mind set on the Spirit, including the statement that the carnal mind is enmity against God and is not subject to God's law, “neither indeed can be.” This is a priority next entry (HW-012), not a conclusion to import prematurely into 1 Corinthians 2.
+
+**Ephesians 2:1–10.** Paul describes those dead in trespasses and sins as made alive by God. This is relevant to spiritual life and divine initiative, but the metaphor of death should not be used to erase every form of human agency; the precise scope is established by Paul's own argument.
+
+**James 1:18.** God begets believers of His own will with/in connection with the Word of Truth. This is consistent with the divine source of spiritual life, while 1 Corinthians 2 specifically addresses revelation and discernment.
+
+**Philippians 2:12–13.** God works in believers both to will and to do, while believers are commanded to obey. This is relevant to divine operation and real human conduct, but it addresses believers' ongoing life rather than directly defining the natural man's state.
+
+**1 Corinthians 3:1–4.** This is an essential internal qualification: people who are “in Christ” can be carnal and immature. Spiritual reception and possession of the Spirit do not mean every believer is fully mature in conduct or beyond correction.
+
+### F. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| God reveals the things in view | EXPLICITLY ESTABLISHED | “God hath revealed them unto us by his Spirit” (v. 10). |
+| The Spirit knows the deep things of God | EXPLICITLY ESTABLISHED | The Spirit searches all things, including God's deep things (vv. 10–11). |
+| Reception of the Spirit is connected with knowing God's gifts | EXPLICITLY ESTABLISHED | The Spirit is received so believers might know what God freely gives (v. 12). |
+| Spirit-taught communication | EXPLICITLY ESTABLISHED | Paul says the things are spoken in words taught by the Holy Ghost (v. 13). |
+| Natural man does not receive the things of the Spirit | EXPLICITLY ESTABLISHED | Direct statement in verse 14. |
+| Natural man regards them as foolishness | EXPLICITLY ESTABLISHED | Direct statement in verse 14. |
+| Natural man cannot know them by spiritual discernment | EXPLICITLY ESTABLISHED | “Neither can he know them, because they are spiritually discerned” (v. 14). |
+| The inability concerns all human knowledge whatsoever | NOT ESTABLISHED | The stated object is the things of the Spirit of God. |
+| The passage defines every faculty of the human will | NOT ESTABLISHED | It addresses reception, evaluation, and spiritual knowledge, not an exhaustive anthropology. |
+| The natural man's problem is merely lack of information | NOT ADEQUATE TO THE TEXT | Paul describes non-reception, an evaluation of foolishness, and inability to know. |
+| The natural man cannot make ordinary choices or understand ordinary facts | NOT ESTABLISHED | These are outside the stated scope. |
+| Every believer is spiritually mature or sinless | CONTRADICTED BY THE LETTER'S CONTINUATION | 1 Corinthians 3:1–4 calls believers carnal and immature. |
+| Believers possess exhaustive divine knowledge | NOT ESTABLISHED | “Mind of Christ” concerns spiritual understanding, not omniscience. |
+| Complete chronology of regeneration and faith | NOT SETTLED | The passage establishes Spirit-dependent revelation and discernment but does not provide a full chronology. |
+
+### G. Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** The reading preserves God's revelation through the Spirit, the Spirit's unique knowledge, the natural man's non-reception and inability concerning the things of the Spirit, and the spiritual person's discernment. It also respects the context in chapters 1–3 and does not make the passage teach universal intellectual incapacity.
+- **Scientific coherence — PASS, within scope.** The grammatical claims distinguish reception (δέχομαι), ability (δύναμαι), knowledge (γινώσκω), and discernment (ἀνακρίνω). The conclusion is limited to the text's stated object. No empirical or neurological claims are inferred from Paul's theological language.
+- **GUA-W consistency — PASS, within scope.** God is the revealer; the Spirit is the one who knows and teaches; spiritual knowledge is received rather than independently authored by the natural person. Human reasoning and ordinary agency are not denied. No GUA-W architectural modification is proposed.
+
+### H. Entry finding and limits
+
+Paul describes a definite limitation in the natural man's relation to the things of the Spirit of God. The natural man does not receive them, regards them as foolishness, and cannot know them because they are spiritually discerned. This is stronger than saying that the person simply has not yet encountered enough information. The passage locates the relevant knowledge within God's revelation by the Spirit and the Spirit's teaching.
+
+The scope must remain disciplined. Paul does not say that the natural man cannot know ordinary facts, reason about creation, or make choices. Nor does he define every aspect of human will. The passage does not independently establish the exact chronology of regeneration and faith. The continuation in 1 Corinthians 3 also prevents equating “spiritual” with sinless maturity: believers can be carnal and require correction.
+
+**Finding:** 1 Corinthians 2:10–16 explicitly teaches that reception and discernment of the things of the Spirit depend upon God's revelation and the Spirit's teaching. The natural man, as contrasted with the spiritual person in this context, does not receive those things and cannot know them by spiritual discernment. The passage does not establish universal human intellectual inability or supply an exhaustive definition of the human will.
+
+**Status:** PASS for Spirit-dependent revelation and discernment; PASS for the stated inability of the natural man concerning the things of the Spirit; FAIL for reducing the problem to mere lack of information; FAIL for expanding the verse into inability to know any ordinary truth or make any choice; UNRESOLVED for the complete relation of this inability to regeneration, faith, and the chronology of conversion.
+
+### I. Related GUA-W recognition and cross-references
+
+This passage witnesses a distinction between the Source of revelation and the recipient's capacity to discern what is revealed. God reveals; the Spirit knows and teaches; believers receive the Spirit and know the gifts of God; the natural man does not receive or discern the things of the Spirit. This is a textual recognition only, not a proposal to create or modify GUA-W architecture.
+
+Cross-references for continued examination:
+- John 3:3–8 — birth of the Spirit and seeing/entering the kingdom;
+- John 6:44, 63–65 — inability to come, drawing, quickening, and what is given;
+- Romans 8:5–11 — mind of the flesh, inability, and the Spirit's indwelling;
+- Ephesians 2:1–10 — death in trespasses and God's quickening;
+- 1 Corinthians 3:1–4 — carnal believers and spiritual immaturity.
+
+### J. Research queue
+
+1. HW-012 — Romans 8:5–11: examine flesh, Spirit, inability, indwelling, and life.
+2. Retain John 3:3–8 and John 6:44, 63–65 as priority comparisons for spiritual perception, inability, and divine action.
+3. Retain 1 Corinthians 3:1–4 as an internal control against equating spiritual status with sinless maturity.
+4. Retain Acts 13:44–48 and 1 John 5:1 for later examination of belief, appointment, and birth of God.
+5. Keep U-006 (definition and components of human will) open. This passage establishes a specific inability in spiritual reception and discernment but does not define every aspect of human willing.
+
+---
+
 ## 14. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
@@ -1196,7 +1337,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-008 | Ephesians 2:1–10 | COMPLETED — see entry above. |
 | HW-009 | James 1:16–18 | COMPLETED — see entry above. |
 | HW-010 | Philippians 2:12–13 | COMPLETED — see entry above. |
-| HW-011 | 1 Corinthians 2:10–16 | What does the natural man's inability to receive the things of the Spirit establish? |
+| HW-011 | 1 Corinthians 2:10–16 | COMPLETED — see entry above. |
 | HW-012 | Romans 8:5–11 | What is the relation between flesh, Spirit, inability, indwelling, and life? |
 | HW-013 | Acts 13:44–48 | How does Luke narrate belief, appointment, and the response to the word? |
 | HW-014 | 1 John 5:1 | What is the grammatical and contextual relation between believing and having been born of God? |
