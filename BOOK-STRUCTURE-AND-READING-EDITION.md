@@ -3,7 +3,7 @@
 
 **Purpose:** Present the existing GUA-W record as a coherent book-length reading journey while preserving the complete research library as its evidence base.
 
-**Editorial status:** All 18 planned chapters have been drafted. Full-book editorial review, cross-chapter consistency checks, and source-link verification are in progress.
+**Editorial status:** All 18 chapters are drafted and placed in the reading sequence. The current editorial pass is correcting identified inconsistencies and verifying the links between the chapters and the research library. The manuscript remains subject to further source-level review.
 
 **Governing order:** Author → Word → Creation → Witness.
 
