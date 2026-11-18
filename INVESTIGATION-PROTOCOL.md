@@ -53,7 +53,7 @@ For each cross-disciplinary investigation:
 6. If a finding does not map clearly, conflicts remain, or evidence is insufficient, preserve the issue as unresolved rather than forcing a match or rejecting the disciplinary evidence.
 7. Record the source, scope, reasoning, counterevidence, status, and next discriminating question in the appropriate repository record.
 
-This is an investigative procedure, not a new GUA-W layer or runtime sequence. See [Cross-Disciplinary Investigation Principle](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md).
+This is an investigative procedure, not a new GUA-W layer or runtime sequence. See [Cross-Disciplinary Investigation Principle](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md) and use the [Cross-Disciplinary Investigation Worksheet](CROSS-DISCIPLINARY-INVESTIGATION-WORKSHEET.md) to document each discipline's evidence, interpretations, proposed relationships, Triple Constraint assessment, and unresolved questions.
 
 ## Recording what is witnessed
 
