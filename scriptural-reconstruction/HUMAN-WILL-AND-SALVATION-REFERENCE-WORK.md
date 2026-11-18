@@ -2023,7 +2023,7 @@ Retain these guardrails:
 
 Next investigations:
 1. HW-017 — Ephesians 1:3–14: examine election, adoption, redemption, hearing the Word of truth, believing, and sealing with the Spirit.
-2. HW-018 — Romans 9:6–24: examine mercy, hardening, election, and the potter/clay argument in context.
+2. HW-018 remains unassigned. Select a distinct passage not already examined; do not duplicate HW-006 or HW-007.
 3. Retain 1 Peter 1:1–5 and 2 Timothy 1:9 as comparisons for foreknowledge, election, calling, and purpose.
 4. Keep U-006 (definition and components of human will) open. Romans 8:28–30 establishes a strong account of God's purpose and action for the people in view, but does not exhaustively define every aspect of human willing or the complete scope and mechanics of election.
 
@@ -2237,29 +2237,35 @@ Ephesians 1:3–14 attributes the choosing, predestinating, purposing, revealing
 
 Verses 13–14 expressly include the hearers' hearing of the Gospel and believing. The verb “were sealed” is passive, presenting the believers as recipients of the sealing, and the promised Holy Spirit is identified as the earnest/guarantee of their inheritance. The KJV's first “trusted” in verse 13 is supplied in English; the Greek construction contains the participles “having heard” and “having believed” with “you were sealed” as the finite verb.
 
-The active voice of believing does not establish that faith is the independent originating cause of God's choosing or purpose. Conversely, God's purpose does not make believing unreal or unnecessary in Paul's account. The pn response and accountability. It does not turn Romans 11:32 into an unsupported universal-salvation conclusion.
+The active voice of believing does not establish that faith is the independent originating cause of God's choosing or purpose. Conversely, God's purpose does not make believing unreal or unnecessary in Paul's account. The precise temporal relation between believing and sealing is not fully settled by the aorist forms alone; the events may be sequential yet closely connected, or closely coincident in conversion. The passage does not explain every internal mechanism of faith, sealing, or final redemption.
 
-**Scientific coherence — PASS, within scope.** The grammatical distinction between the passive “fitted” in 9:22 and the active “afore prepared” in 9:23 is preserved. Historical and canonical backgrounds are identified as contexts, not used to overwrite Paul's wording. No unexpressed agent or complete causal mechanism is supplied.
+**Finding:** Ephesians 1:3–14 presents God's purpose and action as foundational, Christ as the sphere and mediator of the blessings, redemption through Christ's blood, the Gospel as the message heard, human believing as an explicit response, and the Holy Spirit as the promised seal and guarantee of inheritance. The text neither makes human faith the independent originating cause of God's purpose nor erases faith from the saving account. The exact temporal relation of believing and sealing, the grammatical force of the Spirit's dative, and the full mechanics of faith remain matters for careful comparison.
 
-**GUA-W consistency — PASS, within scope.** God alone is presented as Original Cause and the Author of the promise and mercy. Human willing, striving, hearing, believing, confessing, and calling remain real derivative responses; they are not made the originating source of God's mercy. The potter/clay image preserves Creator/creature distinction.
+**Status:** PASS for God's initiative and purpose; PASS for election and predestination being explicitly in Christ and directed toward adoption/holiness; PASS for the inclusion of Gospel hearing and human believing; PASS for the passive sealing and the Spirit as guarantee; UNRESOLVED for the precise temporal relation of faith and sealing, the full mechanics of faith, and the exact grammatical force of the Spirit's dative.
 
-### J. Finding, limits, and relationship to HW-007
+### L. GUA-W recognition and research queue
 
-**Supplementary finding:** HW-018 confirms the central finding of HW-007: Romans 9:6–24 expressly denies that God's mercy is sourced in the human being who wills or runs, and it identifies God's purpose according to election, calling, mercy, and hardening as divine actions. It also confirms that Paul does not present this as an isolated argument detached from human response. Romans 10 explicitly includes Gospel proclamation, hearing, believing, confessing, and calling; Romans 11 develops the remnant, partial hardening, Gentile inclusion, warning against boasting, and God's mercy.
+The passage witnesses distinct but connected roles: God's purpose and choosing; Christ as the one in whom the blessings and redemption are found; the Gospel as the message heard; human believing; the Spirit's sealing; and the inheritance guaranteed until redemption. These roles must not be collapsed into one another. This is a textual recognition, not a new GUA-W architectural rule.
 
-The supplementary audit sharpens three limits:
+Retain these guardrails:
+- do not detach election from the repeated “in Christ” language;
+- do not erase the stated purposes of holiness and adoption;
+- do not turn active believing into proof of independent originating causality;
+- do not erase hearing and believing from the passage;
+- do not mistake the KJV's supplied “trusted” for a separate repeated Greek finite verb;
+- do not claim a long gap between believing and sealing from the aorist forms alone;
+- do not obscure the Spirit's identity as the promised seal/guarantee;
+- do not claim universal individual salvation solely from “gather together all things in Christ”;
+- retain the translation range of ἐκληρώθημεν in verse 11.
 
-1. “Not of him that willeth” concerns the source of mercy in Paul's immediate argument; it is not a denial that human beings will, choose, believe, or act.
-2. The potter/clay image asserts Creator authority but does not disclose every mechanism of divine action and human accountability.
-3. The grammar of Romans 9:22 does not identify the agent of the vessels of wrath being “fitted,” whereas verse 23 explicitly identifies God as the one who prepared the vessels of mercy beforehand.
-
-**Status:** PASS for the denial that human willing or striving is the originating source of God's mercy; PASS for God's purpose according to election and His stated authority to show mercy and harden; PASS for preserving the real human responses described in Romans 10; PARTIAL for the complete relation between individual and corporate election; UNRESOLVED for the unexpressed agent in Romans 9:22 and the complete mechanics/chronology of salvation; NOT ESTABLISHED for universal final salvation from Romans 11:32 alone.
-
-**Repository disposition:** HW-007 remains the original full examination. HW-018 is retained as a supplementary canonical audit and cross-check. No prior finding is silently overwritten. No new GUA-W layer, component, Gear, or governing rule is proposed.
-
-**Next investigation:** HW-019 — John 6:35–65. The earlier HW-006 entry remains intact; HW-019 will be a supplementary canonical cross-check focused on coming, believing, the Father's giving and drawing, the Spirit's quickening, and how John 6 relates to Romans 9–11 and the wider human-will investigation.
+Next investigations:
+1. HW-018 — Romans 9:6–24: SUPPLEMENTARY AUDIT RECORDED; original full entry remains HW-007.
+2. HW-019 — John 6:35–65: supplementary canonical cross-check of coming, believing, the Father's giving and drawing, the Spirit's quickening, and the Son's reception.
+3. Compare Romans 10:13–17 and 2 Corinthians 1:21–22 in a dedicated cross-reference audit of hearing, believing, and sealing.
+4. Keep U-006 (definition and components of human will) open. Ephesians 1 identifies believing as a real response but does not by itself exhaustively define its origin or every aspect of human willing.
 
 ---
+
 
 ## 14. Initial passage register — not yet adjudicated
 
