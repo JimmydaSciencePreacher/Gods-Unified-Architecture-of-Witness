@@ -657,7 +657,137 @@ The Greek therefore establishes the Father as giver and drawer, the Spirit as li
 
 **Status:** PASS for the necessity of the Father's drawing/grant and the Spirit's life-giving work; PASS for the reality of coming and believing; PARTIAL for the precise scope/manner of drawing and the complete chronology of regeneration and faith; FAIL for using this passage to establish autonomous human will as the originating cause of coming, faith, or salvation.
 
-## 13. Initial passage register — not yet adjudicated
+## 13. Entry — HW-007: Romans 9:6–24
+
+### A. Exact KJV passage
+
+> **Romans 9:6–24**
+>
+> 6 Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:
+>
+> 7 Neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called.
+>
+> 8 That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.
+>
+> 9 For this is the word of promise, At this time will I come, and Sara shall have a son.
+>
+> 10 And not only this; but when Rebecca also had conceived by one, even by our father Isaac;
+>
+> 11 (For the children being not yet born, neither having done any good or evil, that the purpose of God according to election might stand, not of works, but of him that calleth;)
+>
+> 12 It was said unto her, The elder shall serve the younger.
+>
+> 13 As it is written, Jacob have I loved, but Esau have I hated.
+>
+> 14 What shall we say then? Is there unrighteousness with God? God forbid.
+>
+> 15 For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
+>
+> 16 So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.
+>
+> 17 For the scripture saith unto Pharaoh, Even for this same purpose have I raised thee up, that I might shew my power in thee, and that my name might be declared throughout all the earth.
+>
+> 18 Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
+>
+> 19 Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
+>
+> 20 Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?
+>
+> 21 Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?
+>
+> 22 What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
+>
+> 23 And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,
+>
+> 24 Even us, whom he hath called, not of the Jews only, but also of the Gentiles?
+
+### B. Argument commonly made
+
+Romans 9:16 is often cited as a direct denial that human willing or effort is the originating cause of God's mercy: “it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.” Verses 11 and 18 are also central to arguments about election and divine hardening.
+
+A common counterargument says Paul is discussing only historical or corporate roles—Israel's place in salvation history, the selection of peoples, or service in God's plan—and not the eternal salvation of individuals. Another argument treats Paul's potter-and-clay language as a statement about God's sovereign authority while insisting that the passage does not address human faith or regeneration.
+
+The investigation must test both. Paul's immediate question concerns God's word and Israel, and his examples include historical peoples and rulers. Yet the passage also speaks of children of God, promise, mercy, wrath, destruction, vessels of mercy, glory, and those whom God calls. It cannot responsibly be reduced to a discussion of mere earthly usefulness. Conversely, it must not be made to answer every question about individual election, regeneration, or the order of salvation without reading Romans 9–11 as a whole.
+
+### C. Immediate biblical context
+
+Romans 9 begins with Paul's grief over his kinsmen according to the flesh (vv. 1–5). He lists Israel's privileges: adoption, glory, covenants, law, service of God, promises, fathers, and the coming of Christ according to the flesh. The question raised by this grief is whether God's word and promises have failed because many Israelites do not believe.
+
+Verse 6 answers: God's word has not failed, because “they are not all Israel, which are of Israel.” Paul then uses the patriarchal history to distinguish physical descent from the children identified with promise. Isaac, not Ishmael, is named in the promise line (vv. 7–9). Paul next turns to Rebecca's twin sons, Jacob and Esau. Before they were born and before either had done good or evil, God's purpose according to election was declared to stand “not of works, but of him that calleth” (vv. 10–13).
+
+Paul anticipates the objection that this makes God unrighteous (v. 14), rejects it, and cites God's declaration to Moses concerning mercy (v. 15; Exodus 33:19). Verse 16 draws the conclusion: mercy does not originate in the willing or running person, but in God who shows mercy.
+
+Paul then cites Pharaoh and the purpose of God's power and name being declared (v. 17; Exodus 9:16). Verse 18 summarizes: God has mercy on whom He will and hardens whom He will. Paul anticipates a further objection: if God's will cannot be resisted, why does He still find fault? (v. 19). He answers with the creature/Creator distinction and the potter/clay image (vv. 20–21), then speaks of God's longsuffering toward vessels of wrath and His making known the riches of glory on vessels of mercy prepared beforehand for glory (vv. 22–23). Verse 24 identifies the called as including both Jews and Gentiles.
+
+Romans 9 does not end at verse 24. Verses 25–33 continue with Hosea, Isaiah, the remnant, and Israel's stumbling over Christ. Romans 10 then speaks extensively of Israel's zeal, ignorance of God's righteousness, Christ, the word of faith, believing, confessing, hearing, and preaching. Romans 11 addresses the remnant, the hardening of Israel in part, the inclusion of Gentiles, and God's purpose toward Israel. Any account that quotes Romans 9 while ignoring Paul's continuation through chapters 10 and 11 is incomplete.
+
+### D. Counter-texts and contextual qualifications
+
+**Romans 10:9–17** explicitly speaks of confessing Jesus as Lord, believing that God raised Him from the dead, calling upon the Lord, hearing, and preaching. These are not to be erased by Romans 9. But Romans 10 does not state that autonomous human will is the originating cause of faith. Paul asks how people can believe in Him of whom they have not heard and how they can hear without a preacher (10:14), and then says faith comes by hearing, and hearing by the word of God (10:17). Romans 9 and 10 must be read together rather than pitted against one another.
+
+**Romans 11:5–7** continues the remnant/election discussion and says the election obtained what Israel sought, while the rest were blinded. **Romans 11:25–32** speaks of partial hardening, Gentile inclusion, God's mercy, and disobedience. This broader argument confirms that Romans 9 is not an isolated philosophical excursus; Paul is explaining God's faithfulness and purpose in the history of Israel and the nations.
+
+**Genesis 25:23** is the oracle concerning the two nations in Rebecca's womb: “The elder shall serve the younger.” Its original setting concerns two peoples as well as the twins who represent them. Romans 9 applies the oracle within Paul's argument about God's purpose according to election. The corporate/national dimension must be acknowledged; it does not by itself prove that Paul's argument has no bearing on the individuals named.
+
+**Malachi 1:2–5** is the source of “Jacob have I loved, but Esau have I hated” (Romans 9:13). Malachi's immediate context contrasts Israel/Jacob with Edom/Esau and speaks of their historical destinies. Paul's use of the text belongs to his argument about election and promise. The language must not be detached from either Malachi's setting or Paul's application.
+
+**Exodus 33:19** supplies the declaration about God's freedom to show mercy; **Exodus 9:16** supplies the Pharaoh citation. Exodus narrates both Pharaoh's hardening and the LORD's hardening of Pharaoh, with the narrative sequence and agency described in multiple ways. Romans 9:17–18 expressly attributes the hardening to God's sovereign action, but the full account should also be read alongside the Exodus narrative rather than flattened into a single isolated sentence.
+
+**Romans 9:22–23** contains an asymmetry that must be preserved. Verse 23 says God “afore prepared” the vessels of mercy unto glory, using an active verb with God as subject. Verse 22 describes vessels of wrath as “fitted to destruction” with a perfect passive participle and does not name an agent in that clause. It is not sound exegesis to silently make the two clauses grammatically identical or to claim that the Greek explicitly says God prepared the vessels of wrath in precisely the same way He prepared the vessels of mercy. The passage does affirm God's endurance, wrath, power, and authority; the exact force and agency of “fitted” require care.
+
+**Ephesians 2:1–10**, **John 6:35–45**, and **John 3:1–8** address spiritual death, divine quickening, drawing, and new birth directly. They are relevant canonical comparisons, but Romans 9 must first be allowed to make its own argument about promise, calling, mercy, election, and hardening.
+
+### E. Original Greek findings
+
+- **οὐχ οἷον δὲ ὅτι ἐκπέπτωκεν ὁ λόγος τοῦ θεοῦ (*ouch hoion de hoti ekpeptōken ho logos tou theou*)**, “Not as though the word of God hath taken none effect” (v. 6): Paul opens by denying that God's word has failed or fallen away. This states the problem he is answering; the passage is not introduced as an abstract treatise on free choice.
+- **οὐ γὰρ πάντες οἱ ἐξ Ἰσραήλ, οὗτοι Ἰσραήλ (*ou gar pantes hoi ex Israēl, houtoi Israēl*)**, “they are not all Israel, which are of Israel” (v. 6): Paul distinguishes physical descent from the Israel defined in the promise argument. The precise relation between ethnic Israel and the people of promise is developed across Romans 9–11.
+- **ἐπαγγελίας (*epangelias*)**, “promise” (vv. 8–9): Paul identifies the children of promise, not mere physical descent, as counted for the seed. The promise to Sarah concerning Isaac is the example.
+- **κατ’ ἐκλογὴν πρόθεσις τοῦ θεοῦ (*kat’ eklogēn prothesis tou theou*)**, “the purpose of God according to election” (v. 11): ἐκλογή (*eklogē*) means election/choice; πρόθεσις (*prothesis*) means purpose/plan. The purpose is explicitly God's, and Paul says it stands before the twins have done good or evil, “not of works, but of him that calleth.”
+- **τοῦ καλοῦντος (*tou kalountos*)**, “of him that calleth” (v. 11): present active participle, genitive masculine singular, from καλέω (*kaleō*). The caller is the one identified as the source in the contrast. Paul does not say the purpose stands because of the twins' prior willing or performance.
+- **οὐκ ἐξ ἔργων (*ouk ex ergōn*)**, “not of works” (v. 11): the preposition ἐκ (*ek*) marks source or basis. In this immediate context the distinction is God's purpose according to election, not the works of the unborn children.
+- **ἐλεήσω ὃν ἂν ἐλεῶ (*eleēsō hon an eleō*)**, “I will have mercy on whom I will have mercy” (v. 15): Paul cites God's own declaration to Moses. The repeated mercy language places the decision to show mercy with God.
+- **τοῦ θέλοντος (*tou thelontos*)**, “of him that willeth” (v. 16): present active participle, genitive masculine singular, from θέλω (*thelō*), “will/wish/desire.” It represents the willing person in the source/basis contrast.
+- **τοῦ τρέχοντος (*tou trechontos*)**, “of him that runneth” (v. 16): present active participle, genitive masculine singular, from τρέχω (*trechō*), “run.” It represents exertion or striving. The exact rhetorical range may include human effort generally; the contrast is with God's showing mercy.
+- **τοῦ ἐλεῶντος θεοῦ (*tou eleōntos theou*)**, “of God that sheweth mercy” (v. 16): present active participle, genitive masculine singular, from ἐλεέω (*eleeō*), “show mercy.” God is the grammatical subject of the mercy action. Paul's sentence contrasts the willing and running person with God as the one who shows mercy.
+- **σκληρύνει (*sklērynei*)**, “he hardeneth” (v. 18): present active indicative, third-person singular, from σκληρύνω (*sklērynō*), “harden.” God is the subject in Paul's statement. The text explicitly attributes hardening to God's action; the wider Exodus narrative must still be read for the full account of Pharaoh's own acts and the progressive hardening narrative.
+- **τίς ἀνθέστηκεν τῷ βουλήματι αὐτοῦ (*tis anthestēken tō boulēmati autou*)**, “who hath resisted his will?” (v. 19): ἀνθέστηκεν is perfect active indicative from ἀνθίστημι (*anthistēmi*), “stand against/resist”; βούλημα (*boulēma*) denotes will, purpose, or intention. The objection is voiced by Paul's interlocutor; it must not be mistaken for Paul's unqualified endorsement of every premise in the objection.
+- **πλάσμα (*plasma*) / πλάσαντι (*plasanti*)**, “thing formed” / “him that formed it” (v. 20): the vocabulary presents the Creator/creature relation. The formed thing does not occupy the Creator's position to call Him to account as though it possessed His authority.
+- **ἐξουσίαν (*exousian*)**, “power” (v. 21): authority/right. The potter has authority over the clay to make vessels for differing uses. The image stresses the Creator's authority; its exact application must be read in the argument that follows.
+- **κατηρτισμένα (*katērtismena*)**, “fitted” (v. 22): perfect passive participle, accusative neuter plural, from καταρτίζω (*katartizō*), “prepare, fit, make ready.” The grammatical form is passive and no agent is expressed in the clause. It should not be silently converted into the active statement “God prepared the vessels of wrath” as though that were the exact wording.
+- **προητοίμασεν (*proētoimasen*)**, “he had afore prepared” (v. 23): aorist active indicative, third-person singular, from προετοιμάζω (*proetoimazō*). God is the expressed subject who beforehand prepares the vessels of mercy for glory. The difference in grammatical construction between verses 22 and 23 is material and must be preserved.
+- **οὓς καὶ ἐκάλεσεν (*hous kai ekalesen*)**, “even us, whom he hath called” (v. 24): ἐκάλεσεν is aorist active indicative, third-person singular, from καλέω. Paul identifies the called as including people from Jews and Gentiles. This is part of the answer to the question of God's promise and the identity of His people.
+
+The Greek strongly supports Paul's explicit contrast: the purpose according to election stands not on the works of the unborn children but on God who calls; mercy is not sourced in the willing or running person but in God who shows mercy. The grammar also requires restraint in verse 22: the passive participle “fitted” does not name its agent, unlike the active “he had afore prepared” in verse 23.
+
+### F. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| God's word and promise | EXPLICITLY PRESERVED | Paul begins by denying that God's word has failed (v. 6). |
+| Physical descent as sufficient basis for promise membership | DENIED | Not all descended from Israel are Israel; Isaac and the children of promise distinguish the line (vv. 6–9). |
+| Election/purpose before human works | EXPLICITLY ESTABLISHED IN THE JACOB/ESAU EXAMPLE | The purpose stands before the children have done good or evil, not of works, but of Him that calls (vv. 10–13). |
+| Human willing as source of divine mercy | EXPLICITLY DENIED | Mercy is “not of him that willeth” (v. 16). |
+| Human exertion as source of divine mercy | EXPLICITLY DENIED | Mercy is “not of him that runneth” (v. 16). |
+| God as the one who shows mercy | EXPLICITLY ESTABLISHED | God is the grammatical and stated subject of showing mercy (vv. 15–16, 18). |
+| Divine hardening | EXPLICITLY ESTABLISHED | Paul says God hardens whom He wills (v. 18), citing Pharaoh's history. |
+| Human accountability and divine judgment | PRESENT IN PAUL'S ARGUMENT | Paul anticipates the objection about fault (v. 19) and answers through Creator/creature authority (vv. 20–23). |
+| Potter/creature distinction | EXPLICITLY ESTABLISHED | The Creator has authority over what He forms (vv. 20–21). |
+| Vessels of mercy prepared for glory | EXPLICITLY ESTABLISHED | God is the expressed subject of “afore prepared” (v. 23). |
+| Agent of the vessels of wrath being “fitted” | NOT SPECIFIED BY THE GRAMMAR OF v. 22 | The participle is passive and no agent is named. |
+| Jew/Gentile scope of the called | EXPLICITLY ESTABLISHED | Paul identifies the called as “not of the Jews only, but also of the Gentiles” (v. 24). |
+| Full order of regeneration, faith, and salvation | NOT EXHAUSTIVELY SETTLED HERE | Romans 9 addresses promise, election, mercy, hardening, and calling; Romans 10–11 continue the argument and must be read with it. |
+
+### G. GUA-W Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** The entry follows Paul's argument from Israel's privileges and the apparent failure of the promise through Isaac, Jacob and Esau, Moses, Pharaoh, the objection about fault, and the potter/clay image. It does not detach verse 16 from its argument or omit Romans 10–11. It preserves the grammatical asymmetry between the vessels of wrath in verse 22 and the vessels of mercy in verse 23.
+- **Scientific coherence — PASS, within scope.** Greek morphology and syntax are used to distinguish active and passive forms and identify expressed agents. No theological conclusion is based solely on a gloss, and the unexpressed agent in verse 22 is not invented.
+- **GUA-W consistency — PASS, within scope.** God is the one who calls and shows mercy; the creature is not the Author or originating source of the divine purpose. The distinction between Creator and creature is explicit in Paul's potter/clay argument. Human willing and striving are not treated as Original Cause of mercy.
+
+**Entry finding:** Romans 9:6–24 directly denies that God's mercy originates in the human being who wills or runs. Paul's argument places the purpose according to election before the twins' works and identifies God as the one who calls and shows mercy. He also explicitly attributes hardening to God and grounds the Creator's authority in the potter/clay distinction. The passage is situated within Paul's grief for Israel and his explanation of God's faithfulness to His promise; it must be read through Romans 10–11, where believing, hearing, preaching, Israel, Gentiles, and mercy are further addressed. The text does not authorize us to erase human believing or accountability. Nor does the passive wording of verse 22 identify the agent who fitted the vessels of wrath; that grammatical distinction must remain intact.
+
+**Status:** PASS for the denial that human willing or striving is the source of God's mercy; PASS for God's purpose according to election and His authority to show mercy and harden; PARTIAL for the full relation of individual and corporate election and the complete order of salvation, requiring Romans 10–11 and wider canonical comparison; UNRESOLVED as to the unexpressed agent in the “fitted” clause of verse 22; FAIL for claiming Romans 9 teaches that autonomous human will originates divine mercy.
+
+## 14. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
 
@@ -668,7 +798,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-004 | Genesis 3:1–7 | COMPLETED — see entry above. |
 | HW-005 | John 3:1–8 | COMPLETED — see entry above. |
 | HW-006 | John 6:35–45, 63–65 | COMPLETED — see entry above. |
-| HW-007 | Romans 9:6–24 | What does “not of him that willeth, nor of him that runneth” mean in Paul's argument and context? |
+| HW-007 | Romans 9:6–24 | COMPLETED — see entry above. |
 | HW-008 | Ephesians 2:1–10 | What is the relation between being dead in sins, God's quickening, grace, faith, and works? |
 | HW-009 | James 1:16–18 | Who is identified as the source of the new birth, and what is the force of “of his own will”? |
 | HW-010 | Philippians 2:12–13 | How do human working and God's working “in you” relate? |
@@ -679,11 +809,11 @@ The following passages are candidates for investigation because they are commonl
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
-## 14. Related register
+## 15. Related register
 
 The exact KJV English expression **“freewill”** is maintained separately in [KJV Freewill Phrase Register](KJV-FREEWILL-PHRASE-REGISTER.md). It must not be conflated with the wider biblical teaching about choosing, willing, desire, ability, or the philosophical concept of autonomous Free Will.
 
-## 15. Governing question retained
+## 16. Governing question retained
 
 **Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
 
