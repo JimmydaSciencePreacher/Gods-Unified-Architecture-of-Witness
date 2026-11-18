@@ -85,6 +85,9 @@ Rosen (2025) provides a map of interpretive questions and proposals, not a final
 
 **Latest recorded pass (2026-11-17):** Luke 24:36–49 and Acts 1:1–8 have now been compared directly with John 20:19–23 and Acts 2:32–33 in the primary study. The future promise to wait until endued with power is explicit; the text does not explicitly deny an earlier reception. Continue by testing the competing models against the complete passages, rather than assuming “indwelling versus empowerment” as a settled answer.
 
+**Latest recorded pass (2026-11-17):** John 7:37–39 and the Johannine glorification/departure passages (John 12:23–33; 13:1, 31–32; 16:5–7; 17:1–5; 19:30–37) have been added to Investigation III.2. Next, test the relationship between John 7:39's promised reception, John 20:22, and Luke 24 / Acts 1–2. Preserve the textual point that “given” is supplied in the KJV; do not infer that the Spirit did not exist or act before glorification. Treat John 19:30 primarily as Jesus' death; possible Spirit-gift resonance remains debated.
+
+
 ### Priority 4 — Close open subquestions in III.A–III.G
 
 - III.A: exact medical mechanism remains unresolved.
