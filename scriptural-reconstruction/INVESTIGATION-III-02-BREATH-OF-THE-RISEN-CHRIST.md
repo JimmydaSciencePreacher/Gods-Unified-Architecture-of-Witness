@@ -1621,3 +1621,97 @@ This parallels the miracle records without making the events identical. At Cana,
 
 No new GUA-W component or chronological sequence beyond the text is proposed. This section integrates established relationships and preserves the unresolved question concerning John 20:22 and Acts 2.
 
+
+
+## 29. Recipient scope — the gathered disciples, the absent Thomas, and the widening promise (2026-11-18)
+
+The chronology and function questions are not the only dimensions of John 20:22 and Acts 2. The narratives also identify recipients and witnesses in different settings. This section asks who is explicitly present, who is addressed, and how far the promise is said to extend. It does not assume that the difference in the groups proves either one gift or multiple gifts.
+
+### 29.1 John 20:19–24 — a specific gathering, with Thomas absent
+
+John says that Jesus came to where the disciples were assembled on the first day of the week. Jesus shows them His hands and side, sends them, breathes upon them, and commands, “Receive ye the Holy Ghost” (vv. 19–22).
+
+Verse 24 supplies an important qualification: Thomas, one of the twelve, “was not with them when Jesus came.” The breathing and command therefore occur in the presence of a gathered disciple group that did not include Thomas at that moment. John does not give a complete roll-call of everyone present in verses 19–23, so the group must not be reduced without evidence to a precisely enumerated list.
+
+Eight days later, Thomas is present when Jesus appears again (vv. 26–29). John does not narrate a second breathing action or repeat the command of verse 22 at that later appearance.
+
+**What is explicit:** Thomas was absent from the first gathering and present at the later one. Jesus addressed the gathered disciples in the plural in the first scene.
+
+**What is not explicit:** John does not say that Thomas was permanently excluded from the Spirit, that the other disciples received a lesser or greater measure, or that the later appearance repeated the same impartation. Silence about a second breathing action must not be converted into a complete doctrine of Thomas's reception.
+
+### 29.2 Luke 24:33–49 — the gathered witnesses and the promised endowment
+
+After the Emmaus disciples return to Jerusalem, they find “the eleven gathered together, and them that were with them” (Luke 24:33). Jesus appears among this gathered company, opens their understanding, identifies the scriptural necessity of His suffering and Resurrection, and commissions the proclamation of repentance and remission of sins in His name among all nations (vv. 36–48).
+
+The commission is addressed to witnesses of these things (v. 48). Jesus then commands them to remain in Jerusalem until they are endued with power from on high (v. 49).
+
+Luke's wording identifies a gathered company broader than a bare reference to the eleven alone. It does not provide a person-by-person list that can be equated exactly with John's first-day gathering. Luke also does not narrate the breathing action of John 20:22 in this scene.
+
+**Finding:** Luke explicitly joins a gathered witness-community, a commission extending to all nations, and a future endowment. It does not explicitly state whether every person in Luke's gathering was present in John's breathing scene or define the relation of the two recipient groups.
+
+### 29.3 Acts 1:12–15 — the community in the waiting period
+
+Acts identifies the eleven apostles (1:13), then records that they continued with the women, Mary the mother of Jesus, and His brethren (1:14). Acts 1:15 subsequently gives the approximate number of names gathered together as about 120.
+
+This is a significant expansion of the named community beyond the eleven. It is part of the narrative setting immediately preceding Pentecost. Nevertheless, the text does not provide an itemized list of every person present in the upper room at the precise moment of Acts 2:1–4, nor does it state an exact headcount for the Pentecostal event.
+
+### 29.4 Acts 2:1–4, 14 — “they all” and the apostolic witness
+
+Acts 2:1 says that “they were all with one accord in one place.” Verse 4 says that “they were all filled with the Holy Ghost” and began to speak with other tongues as the Spirit gave them utterance. Peter then stands with the eleven in verse 14 and addresses the assembled crowd.
+
+The narrative plainly describes a corporate event, not merely a private experience of Peter. But the precise identification of every person included in “they all” should be made from the narrative context rather than assumed from a preferred reconstruction of the room. Acts 1:15's reference to about 120 is relevant context; it is not, by itself, an explicit statement that exactly 120 people were present in Acts 2:1–4.
+
+### 29.5 Acts 2:38–39 — the promise extends beyond the immediate gathering
+
+Peter calls his hearers to repent and be baptized in the name of Jesus Christ for the remission of sins, and says they shall receive the gift of the Holy Ghost (v. 38). He then says:
+
+> “For the promise is unto you, and to your children, and to all that are afar off, even as many as the Lord our God shall call.” (Acts 2:39, KJV)
+
+The promise is not restricted in Peter's explanation to the people physically present at the Pentecostal gathering. He names the hearers, their children, those afar off, and those whom the Lord calls.
+
+**Important distinction:** Acts 2:39 establishes the stated reach of the promise. It does not, by itself, give a complete chronology for each later recipient or settle the exact relation between John 20:22 and the Pentecostal event.
+
+### 29.6 A limited Greek comparison — receive, be filled, and pour forth
+
+The wording should be compared without making the verbs interchangeable:
+
+- **John 20:22 — λάβετε (*labete*):** a second-person plural aorist imperative of λαμβάνω (*lambanō*), “receive/take.” Jesus commands the gathered disciples to receive the Holy Ghost.
+- **Acts 1:8 — λήμψεσθε (*lēmpsesthe*):** a second-person plural future form of λαμβάνω, “you will receive.” Jesus promises the disciples power when the Holy Ghost comes upon them.
+- **Acts 2:38 — λήμψεσθε (*lēmpsesthe*):** the same future form, now in Peter's promise to those who repent and are baptized.
+- **Acts 2:4 — ἐπλήσθησαν (*eplēsthēsan*):** “they were filled,” from πίμπλημι (*pimplēmi*). This describes what happened to those present in the Pentecost narrative.
+- **Acts 2:33 — ἐξέχεεν (*execeen*):** “he hath shed forth/poured out,” from ἐκχέω (*ekcheō*). Peter attributes the visible and audible outpouring to the exalted Jesus.
+
+The repeated λαμβάνω vocabulary links the command to receive in John 20:22 with the future promise to receive in Acts 1:8 and 2:38. The change from an imperative in John to a future promise in Acts is a real grammatical difference. It does not, by itself, prove either that the gift is identical in extent and function or that the events are separate gifts. “Filled” and “poured out” describe the Pentecost event in their own narrative and theological contexts; they should not be treated as automatic synonyms for every occurrence of “receive.”
+
+### 29.7 What recipient scope adds — and what it cannot decide
+
+The comparison establishes several points:
+
+1. John 20:22 addresses a gathered group of disciples; Thomas is explicitly absent from that first appearance.
+2. Luke 24 describes the eleven and others gathered, commissioned as witnesses, and told to wait for the Father's promised power.
+3. Acts 1 records a waiting community broader than the eleven alone, including women and other brethren; it also reports about 120 gathered together.
+4. Acts 2 describes a corporate filling and public witness. The exact headcount and complete identity of everyone included in “they all” are not explicitly itemized in the Pentecost account.
+5. Peter states that the promise reaches beyond those immediately present to their children, those afar off, and all whom the Lord calls.
+
+**Supported inference:** The canonical movement includes a widening horizon of witness and promise. The risen Christ's commission is not confined to the first gathered disciples; Acts records public proclamation and describes the promise as extending beyond the immediate audience.
+
+**Not established:** The difference in recipient scope does not prove that John 20:22 was merely symbolic, that Thomas received nothing, that the Pentecost group consisted of exactly 120, or that John and Acts describe either one undifferentiated event or two wholly unrelated gifts.
+
+### 29.8 Triple Constraint assessment
+
+- **Biblical compliance — PASS within stated limits:** John 20:24, Luke 24:33–49, Acts 1:12–15, Acts 2:1–4, 14, and 38–39 are read in their own sequence. The absent Thomas, the wider waiting community, and the promise's stated reach are retained without inventing a complete attendance list.
+- **Scientific coherence — PASS within scope:** the work is grammatical, textual, and historical-narrative comparison. The Greek forms are distinguished; no physical mechanism is inferred.
+- **GUA-W consistency — PASS:** the risen Christ commissions; the Spirit is received and gives utterance; the promise is attributed to the Lord; the community bears witness. The recipients do not become the source or Author of the gift.
+
+### 29.9 Effect on U-008
+
+U-008 now has three distinct analytical axes plus a recipient-scope question:
+
+- **Extent and timing:** what was received, and when?
+- **Function:** what did the gift accomplish in each narrated setting?
+- **Narrative relation:** how do John, Luke, and Acts relate without cancelling one another?
+- **Recipient scope:** who is present and addressed in each scene, and how far does the promise extend?
+
+The new recipient evidence strengthens the distinction between the first gathered disciples, the waiting community, the Pentecostal assembly, and the wider reach of the promise. It does not resolve the exact timing or nature of the John 20:22 reception.
+
+**Disposition: U-008 remains UNRESOLVED.** This pass narrows the questions and improves the recipient map; it does not manufacture a one-stage or two-stage conclusion. No new GUA-W layer, Gear, or runtime stage is proposed.
