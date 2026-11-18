@@ -1,7 +1,7 @@
 # The Biblical Examination of the Human Will
 
 **GUA-W Scripture Reference Work**  
-**Status:** ACTIVE — first entry recorded; full corpus not yet audited  
+**Status:** ACTIVE — HW-001–HW-019 recorded; retrospective cross-reference audit and entry-level synchronization completed; final quality control in progress  
 **Governing question:** Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?
 
 ## 1. Scriptural starting point and governing posture
@@ -837,7 +837,7 @@ Romans 9 does not end at verse 24. Verses 25–33 continue with Hosea, Isaiah, t
 
 **Ephesians 2:1–10**, **John 6:35–45**, and **John 3:1–8** address spiritual death, divine quickening, drawing, and new birth directly. They are relevant canonical comparisons, but Romans 9 must first be allowed to make its own argument about promise, calling, mercy, election, and hardening.
 
-### Additional contextual findings and limits (integrated from the duplicate draft)
+### Additional contextual findings and limits
 
 The following clarifications belong to this single HW-007 examination and do not constitute a second investigation.
 
@@ -1083,7 +1083,7 @@ No new GUA-W layer, Gear, or architectural component is proposed by this entry.
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## 14. Entry — HW-009: James 1:16–18 (2026-11-18)
+## 15. Entry — HW-009: James 1:16–18 (2026-11-18)
 
 ### A. Exact KJV passage
 
@@ -1212,7 +1212,7 @@ Cross-references for continued examination:
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## 14. Entry — HW-010: Philippians 2:12–13 (2026-11-18)
+## 16. Entry — HW-010: Philippians 2:12–13 (2026-11-18)
 
 ### A. Exact KJV passage
 
@@ -1349,7 +1349,7 @@ No new GUA-W layer, Gear, or architectural component is proposed by this entry.
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## 14. Entry — HW-011: 1 Corinthians 2:10–16 (2026-11-18)
+## 17. Entry — HW-011: 1 Corinthians 2:10–16 (2026-11-18)
 
 ### A. Exact KJV passage
 
@@ -1503,7 +1503,7 @@ Cross-references for continued examination:
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## 14. Entry — HW-012: Romans 8:5–11 (2026-11-18)
+## 18. Entry — HW-012: Romans 8:5–11 (2026-11-18)
 
 ### A. Exact KJV passage
 
@@ -1665,7 +1665,7 @@ Relevant established distinctions:
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## 14. Entry — HW-013: Acts 13:44–48 (2026-11-18)
+## 19. Entry — HW-013: Acts 13:44–48 (2026-11-18)
 
 ### A. Exact KJV passage
 
@@ -1787,7 +1787,7 @@ Next investigations:
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## 14. Entry — HW-014: 1 John 5:1 (2026-11-18)
+## 20. Entry — HW-014: 1 John 5:1 (2026-11-18)
 
 ### A. Exact KJV passage
 
@@ -1937,7 +1937,7 @@ Next investigation:
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## 15. Entry — HW-015: 2 Thessalonians 2:13–14 (2026-11-18)
+## 21. Entry — HW-015: 2 Thessalonians 2:13–14 (2026-11-18)
 
 ### A. Exact KJV passage
 
@@ -2091,7 +2091,7 @@ Next investigations:
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## 16. Entry — HW-016: Romans 8:28–30 (2026-11-18)
+## 22. Entry — HW-016: Romans 8:28–30 (2026-11-18)
 
 ### A. Exact KJV passage
 
@@ -2258,7 +2258,7 @@ Next investigations:
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## 17. Entry — HW-017: Ephesians 1:3–14 (2026-11-18)
+## 23. Entry — HW-017: Ephesians 1:3–14 (2026-11-18)
 
 ### A. Exact KJV passage
 
@@ -2508,7 +2508,7 @@ Next investigations:
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## 18. Entry — HW-018: 1 Peter 1:1–5 (2026-11-18)
+## 24. Entry — HW-018: 1 Peter 1:1–5 (2026-11-18)
 
 ### A. Exact KJV passage
 
@@ -2685,7 +2685,7 @@ The passage does not identify independent human will or foreseen autonomous fait
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## 19. Entry — HW-019: Titus 3:3–7 (2026-11-18)
+## 25. Entry — HW-019: Titus 3:3–7 (2026-11-18)
 
 ### A. Exact KJV passage
 
@@ -2896,7 +2896,7 @@ The passage does not identify human righteous works as the source of salvation. 
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## Repository-wide Cross-Reference Completion Audit — HW-001–HW-019 (2026-11-18)
+## 26. Repository-wide Cross-Reference Completion Audit — HW-001–HW-019 (2026-11-18)
 
 ### Purpose and audit standard
 
@@ -2945,12 +2945,13 @@ Each entry below is reviewed against its own unresolved questions, existing comp
 This repository-wide audit is the cross-reference map for HW-001–HW-019. When an entry is next substantively revised, its own “unresolved” table and final status must be synchronized with the findings above. A question that has been answered by canonical comparison must not remain labelled wholly unresolved in that entry. A question narrowed by the audit must name the remaining precise limitation. No entry may claim that a reference settles a matter unless the cited passage actually addresses it in context.
 
 
-## 14. Initial passage register — not yet adjudicated
+## 27. Completed passage register — HW-001–HW-019
 
-The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
+The following table is the completed register for the nineteen existing investigations. Each passage has one authoritative HW entry; the canonical audit supplements those entries but does not create additional investigations. The dispositions are recorded in the individual entries and the repository-wide completion audit.
 
-| ID | Passage | Initial question to test |
+| ID | Passage | Register status |
 |---|---|---|
+| HW-001 | John 1:12–13 | COMPLETED — see entry above. |
 | HW-002 | Deuteronomy 30:11–20 | COMPLETED — see entry above. |
 | HW-003 | Joshua 24:14–28 | COMPLETED — see entry above. |
 | HW-004 | Genesis 3:1–7 | COMPLETED — see entry above. |
@@ -2971,13 +2972,13 @@ The following passages are candidates for investigation because they are commonl
 | HW-019 | Titus 3:3–7 | COMPLETED — see entry above. |
 
 
-Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
+A new HW number is assigned only after checking the repository for an existing investigation of the same passage. Cross-references do not receive new HW numbers unless a genuinely distinct investigation is authorized. This register records passage identity and completion status; it is not, by itself, a doctrinal conclusion.
 
-## 15. Related register
+## 28. Related register
 
 The exact KJV English expression **“freewill”** is maintained separately in [KJV Freewill Phrase Register](KJV-FREEWILL-PHRASE-REGISTER.md). It must not be conflated with the wider biblical teaching about choosing, willing, desire, ability, or the philosophical concept of autonomous Free Will.
 
-## 16. Governing question retained
+## 29. Governing question retained
 
 **Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
 
