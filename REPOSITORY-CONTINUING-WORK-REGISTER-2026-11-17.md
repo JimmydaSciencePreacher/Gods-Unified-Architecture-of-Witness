@@ -344,3 +344,18 @@ The two statements are not contradictory and are not collapsed. John 17:4 looks 
 Added the canonical bridge from Genesis 3:15 through the Abrahamic and Davidic promises to Jesus: Genesis 12, 17, 21, 25, 28 and 49; 2 Samuel 7; prophetic witnesses in Isaiah, Jeremiah, and Micah; Matthew 1:1; Luke 1:31–33; Romans 1:3–4; and Galatians 3:8, 16. The finding is that God established and preserved a covenant people through whom the promised Messiah came and through whom blessing to the nations was announced. Israel's calling is broader than genealogy: Exodus 19:4–6, Deuteronomy 7:6–8, Romans 3:1–2, and Romans 9:4–5 record covenant vocation, election, entrusted oracles, promises, worship, and the Messiah's coming according to the flesh. Romans 11 and the remnant texts preserve the distinction between God's faithfulness and human perfection.
 
 No new GUA-W component or new three-completion scheme was created. John 17:4 is not a fourth completion; it clarifies the Father's commission and the Son's faithful work as the hour arrives. Read-back verification is required.
+
+
+## 2026-11-18 — John 6 and John 17: the Father's giving and the Son's keeping
+
+Continued the investigation from John 17:4 / John 19:30 by examining John 6:37–45, 64–65 alongside John 17:1–26. Recorded the Father's giving and drawing, the Son's commission, the coming and believing of those given, the Son's reception and keeping, eternal life, and the promised resurrection at the last day.
+
+Preserved several boundaries:
+- “Given” is not used as a shortcut to manufacture a full chronology of regeneration and faith.
+- Human coming and believing remain explicit human responses; they are not made the independent originating cause of the Father's giving or the Son's saving work.
+- John 17's referents are followed through the prayer: the immediate disciples (17:6–19), later believers through their word (17:20), and those given to the Son in the prayer's wider scope (17:24).
+- The “son of perdition” clause in John 17:12 is retained without simplifying its precise relation to the wording about those given.
+- The Old Testament covenant genealogy through which the Messiah came is distinguished from the people given to the Son for eternal life. John 8:39–47, Romans 9:6–8, and Galatians 3:7, 26–29 guard against equating natural descent alone with saving reception.
+- The Son's promise to raise those given to Him is retained; the Resurrection and final raising are not treated as unnecessary after the Cross declaration.
+
+No new numbered passage investigation, fourth completion, or GUA-W component was created. Updated the existing completion foundation, Passion/Resurrection register, and continuing-work register. Read-back verification remains required.
