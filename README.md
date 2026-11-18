@@ -122,6 +122,7 @@ A PASS is always scope-limited, not a universal endorsement. These labels descri
 - [Original Repository Inventory and Initial Triage](audits/ORIGINAL-REPOSITORY-INVENTORY.md)
 - [Evidence Audit — Quantum Foundations and Unitarity](audits/EVIDENCE-AUDIT-Quantum-Foundations-and-Unitarity.md)
 - [Evidence Audit — Double-Slit and Observer Anomaly](audits/EVIDENCE-AUDIT-Double-Slit-and-Observer-Anomaly.md)
+- [Primary-Source Verification — Double-Slit Experiment and Observer Anomaly](audits/PRIMARY-SOURCE-VERIFICATION-DOUBLE-SLIT-OBSERVER-ANOMALY-2026-11-17.md)
 - [Evidence Audit — Holography and Black-Hole Information](audits/EVIDENCE-AUDIT-Holography-and-Black-Hole-Information.md)
 - [Comparative Review — Holography and Black-Hole Information Audits](audits/COMPARATIVE-REVIEW-HOLOGRAPHY-BLACK-HOLE-INFORMATION-AUDITS.md)
 - [Primary-Source Verification — Holography and Black-Hole Information](audits/PRIMARY-SOURCE-VERIFICATION-HOLOGRAPHY-BLACK-HOLE-INFORMATION-2026-11-17.md)
