@@ -185,6 +185,9 @@ Primary reading:
 - [Earthquake and Opened Graves](scriptural-reconstruction/INVESTIGATION-III-D-EARTHQUAKE-AND-OPENED-GRAVES.md)
 
 ### Chapter 13. Resurrection, Appearances, Ascension, and the Breath of the Risen Christ
+
+**Read the completed chapter:** [Chapter 13 — Resurrection, Appearances, Ascension, and the Breath of the Risen Christ](book/13-RESURRECTION-APPEARANCES-ASCENSION-AND-BREATH-OF-THE-RISEN-CHRIST.md)
+
 Follow the empty tomb, resurrection appearances, ascension, and the separate investigation of Christ's breath.
 
 Primary reading:
