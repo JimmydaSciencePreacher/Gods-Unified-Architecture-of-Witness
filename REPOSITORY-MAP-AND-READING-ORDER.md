@@ -40,6 +40,8 @@ This map orders the written record; it does not establish a new authority hierar
 
 ## Book chapters
 
+The continuous reading path is maintained in [Book Structure and Reading Edition](BOOK-STRUCTURE-AND-READING-EDITION.md).
+
 - [Chapter 1 — One Author, One Word, One Creation](book/01-ONE-AUTHOR-ONE-WORD-ONE-CREATION.md)
 - [Chapter 2 — The Answer Before the Question](book/02-THE-ANSWER-BEFORE-THE-QUESTION.md)
 - [Chapter 3 — Theology and the Differentiated Sciences](book/03-THEOLOGY-AND-THE-DIFFERENTIATED-SCIENCES.md)
@@ -48,6 +50,15 @@ This map orders the written record; it does not establish a new authority hierar
 - [Chapter 6 — The Garden, Humanity, Purpose, and Relationship](book/06-THE-GARDEN-HUMANITY-PURPOSE-AND-RELATIONSHIP.md)
 - [Chapter 7 — Genesis 3: The Question of Authority and the Origin of Disconnected Knowledge](book/07-GENESIS-3-THE-QUESTION-OF-AUTHORITY-AND-DISCONNECTED-KNOWLEDGE.md)
 - [Chapter 8 — Genesis 4: The First Recorded Human Consequences](book/08-GENESIS-4-THE-FIRST-RECORDED-HUMAN-CONSEQUENCES.md)
+- [Chapter 9 — The Completed GUA-W Architecture](book/09-THE-COMPLETED-GUA-W-ARCHITECTURE.md)
+- [Chapter 10 — The Triple Constraint and the Discipline of Witness](book/10-THE-TRIPLE-CONSTRAINT-AND-THE-DISCIPLINE-OF-WITNESS.md)
+- [Chapter 11 — The Works and Signs of Jesus](book/11-THE-WORKS-AND-SIGNS-OF-JESUS.md)
+- [Chapter 12 — The Passion and Death of Christ](book/12-THE-PASSION-AND-DEATH-OF-CHRIST.md)
+- [Chapter 13 — Resurrection, Appearances, Ascension, and the Breath of the Risen Christ](book/13-RESURRECTION-APPEARANCES-ASCENSION-AND-BREATH-OF-THE-RISEN-CHRIST.md)
+- [Chapter 14 — The Human Will: Creaturely Capacity and Creator Authority](book/14-THE-HUMAN-WILL-CREATURELY-CAPACITY-AND-CREATOR-AUTHORITY.md)
+- [Chapter 15 — God's Purpose and the Saving Work of Christ](book/15-GODS-PURPOSE-AND-THE-SAVING-WORK-OF-CHRIST.md)
+- [Chapter 16 — Investigating the Sciences Without Forcing a Match](book/16-INVESTIGATING-THE-SCIENCES-WITHOUT-FORCING-A-MATCH.md)
+- [Chapter 17 — Scientific Evidence Audits and Open Questions](book/17-SCIENTIFIC-EVIDENCE-AUDITS-AND-OPEN-QUESTIONS.md)
 
 ## II. Scriptural foundation — Genesis and Hebrew examinations
 
