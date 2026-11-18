@@ -111,11 +111,11 @@ This register distinguishes genuinely unresolved questions from matters already 
 
 ### U-008 — The relationship between John 20:22 and the outpouring at Pentecost
 
-**Question:** What is the precise relationship between the risen Christ's breathing upon His disciples and command “Receive ye the Holy Ghost” (John 20:22), and the later outpouring in Acts 2? The inquiry must distinguish the extent/timing of reception from the function of the gift.
+**Question:** What is the precise relationship between the risen Christ's breathing upon His disciples and command “Receive ye the Holy Ghost” (John 20:22), and the later outpouring in Acts 2? The inquiry must distinguish the extent/timing of reception, the function of the gift, the relation among the narratives, and the scope/identity of the recipients in each scene.
 
 **Current status:** UNRESOLVED.
 
-**Evidence reviewed:** Genesis 2:7; Ezekiel 37:1–14; John 7:37–39; 14:16–17, 26; 15:26; 16:7–15; 19:30, 34–35; 20:19–23; Luke 24:36–49; Acts 1:3–11; 2:1–39; Romans 8:11; 1 Corinthians 15:45–49.
+**Evidence reviewed:** Genesis 2:7; Ezekiel 37:1–14; John 7:37–39; 14:16–17, 26; 15:26; 16:7–15; 19:30, 34–35; 20:19–24, 26–29; Luke 24:33–49; Acts 1:3–15; 2:1–4, 14, 32–39; Romans 8:11; 1 Corinthians 15:45–49.
 
 **Established textual observations:**
 - John 20:19–23 places Jesus' breathing and command to receive the Holy Ghost after His Resurrection, within His appearance and commission to the disciples.
@@ -131,8 +131,9 @@ This register distinguishes genuinely unresolved questions from matters already 
 1. **Extent/timing:** anticipatory sign; actual impartation; partial or temporary reception; complete gift; or a staged relation across more than one event.
 2. **Function:** life/new-creation imagery; indwelling; revelation; mission empowerment; prophetic enablement; commissioned ministry; or more than one function.
 3. **Narrative relation:** how John 7 and John 14–16, John 20:19–23, Luke 24:36–49, and Acts 1–2 fit together without one passage cancelling another.
+4. **Recipient scope:** who is present and addressed in each scene; how the first gathered disciples, the wider waiting community, the Pentecostal assembly, and the promise's stated reach relate. John 20:24 explicitly says Thomas was absent from the first appearance; Luke 24:33 describes the eleven and others gathered; Acts 1:12–15 records the apostles, women, brethren, and about 120 gathered; Acts 2:39 extends the promise to the hearers, their children, those afar off, and those whom the Lord calls. The exact identity and headcount of everyone included in Acts 2:1–4 are not itemized.
 
-**Reason:** Scholarly interpretation is not a simple two-position dispute between “symbolic” and “actual.” Adrian P. Rosen's 2025 survey identifies a wider range of proposals and questions but does not advocate one final interpretation. The lexical allusion, the imperative “receive,” the Spirit's function, and the relation to the commission each require separate assessment.
+**Reason:** Scholarly interpretation is not a simple two-position dispute between “symbolic” and “actual.” Adrian P. Rosen's 2025 survey identifies a wider range of proposals and questions but does not advocate one final interpretation. The lexical allusion, the imperative “receive,” the Spirit's function, the relation to the commission, and the scope of the recipient groups each require separate assessment. A comparison of John 20:22's plural imperative λάβετε with the future plural λήμψεσθε in Acts 1:8 and 2:38 is relevant but does not by itself prove either identity or distinction of the gifts.
 
 **Guardrail:** Do not erase or reduce John 20:22 to protect a preferred account of Pentecost; do not erase or collapse Acts 1–2 into John 20:22. Do not treat a scholarly proposal as an explicit biblical statement. Do not infer doctrine solely from the presence or absence of the Greek article. Do not invent a physical mechanism or declare the events identical in every respect without textual warrant.
 
@@ -141,6 +142,14 @@ This register distinguishes genuinely unresolved questions from matters already 
 **Scholarly source:** Adrian P. Rosen, “Interpretive Questions Related to the Gift of the Spirit in John 20:22,” *Journal of the Evangelical Theological Society* 68, no. 2 (2025): 285–97. The article is used as a map of scholarly questions and proposals, not as an authority that settles the biblical interpretation.
 
 **Revision history:** Expanded 2026-11-17 after the scholarly interpretive audit and comparison of Luke 24 / Acts 1 in Investigation III.2. The question remains open pending further canonical, historical, and textual-critical examination.
+
+
+
+**Recipient-scope evidence added (2026-11-18):** John 20:24 identifies Thomas as absent from the first-day gathering in which Jesus breathes upon the disciples and commands them to receive the Holy Ghost; Thomas is present at the later appearance in John 20:26–29, where no second breathing action is narrated. Luke 24:33 describes the eleven and others gathered before the risen Jesus' commission and promise to wait for power. Acts 1:12–15 names the eleven, the women, Mary, Jesus' brethren, and about 120 gathered together. Acts 2:1–4 describes a corporate event, but does not itemize the exact identity or headcount of all included in “they all.” Peter stands with the eleven to address the crowd (2:14), and his statement in 2:38–39 extends the promise to the hearers, their children, those afar off, and those whom the Lord calls.
+
+A limited Greek comparison also distinguishes John 20:22's plural imperative λάβετε (*labete*) from Acts 1:8 and 2:38's future plural λήμψεσθε (*lēmpsesthe*), while Acts 2:4 uses “were filled” and 2:33 “poured out.” These forms and contexts should not be collapsed into technical synonyms; neither do they alone establish separate gifts.
+
+**Effect:** Recipient scope is now a fourth question alongside extent/timing, function, and narrative relation. It strengthens the record of a widening community and promise but does not settle whether John 20:22 is an actual impartation, an anticipatory sign, or a distinct aspect of the larger work. U-008 remains UNRESOLVED.
 
 ## 12. Evidence update — Genesis 4:6–7 (2026-11-16)
 
