@@ -592,3 +592,16 @@ Related record: [Genesis 4:13–16 — Text-First Reconstruction](scriptural-rec
 
 **Related investigation:** [The Biblical Examination of the Human Will — HW-017, Ephesians 1:3–14](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
 
+
+
+## Governing correction — return to the Beginning before retaining an unresolved label (2026-11-18)
+
+**The Answer precedes the question. The question exists within Creation to lead the Witness to the Answer already given by the Author.** Therefore, an item appearing in this register is not evidence that its answer is absent, nor an instruction to begin by searching outward for a new answer.
+
+Before any question is retained as unresolved, AI must return first to the foundational record in **Genesis 1–2, with particular attention to Genesis 2:1–5**. The beginning is the controlling starting point for examining what was already established in the completed Creation and its originating order. The question is derivative; it does not become an authority over, or a replacement for, the Beginning.
+
+For the present Human Will investigation, the specific scriptural starting point is **Genesis 3**, read on the foundation of Genesis 1–2. Genesis 3 is already represented by `scriptural-reconstruction/GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md`. Its existing findings must be examined and integrated before proposing another investigation. Do not create a duplicate entry or assume that a new passage is needed merely because a question was previously labeled open.
+
+**Required order:** (1) return to Genesis 1–2, especially 2:1–5, for the originating foundation; (2) examine the relevant beginning-account passage—in the human-will question, Genesis 3; (3) identify what that text actually establishes; (4) use later canonical passages as witnesses that illuminate, confirm, qualify, or complete the finding; (5) only then state the precise remainder, if any, that the canonical record does not settle.
+
+An unresolved label is a provisional description of the current written investigation, not a declaration that the Answer is missing from Scripture. Reclassify or remove stale labels when the existing beginning-account and canonical evidence answers the question. Do not manufacture an answer, chronology, or mechanism beyond what the text establishes.
