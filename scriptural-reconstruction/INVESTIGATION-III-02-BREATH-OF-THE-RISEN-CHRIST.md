@@ -793,3 +793,198 @@ The consulted commentaries strengthen several points while also identifying limi
 
 **Refined disposition:** The explicit narrative distinctions remain. The interpretation of John 1:33's Spirit-baptizing action, John 3:5's water, and John 3:34's syntax requires continued examination. These qualifications do not erase the Gospel's clear identification of Jesus as the one associated with the Spirit's baptism, nor the necessity of birth from the Spirit.
 
+## 23. Ezekiel 36:25–27 and 37:1–14 — cleansing, renewed heart, breath, and life
+
+The Johannine Spirit investigation now reaches two closely related prophetic passages. Ezekiel 36:25–27 promises cleansing, a new heart, a new spirit, and God's own Spirit within the people. Ezekiel 37:1–14 presents a vision in which dry bones are assembled, receive flesh, and then live when breath/Spirit enters them. The vision is explicitly interpreted as the restoration of the house of Israel from its death-like condition in exile.
+
+These passages must be read in their own historical and literary setting before they are compared with Genesis 2:7 and John 3 and 20.
+
+### 23.1 Ezekiel 36:16–38 — the setting is Israel's defilement, exile, and restoration
+
+The promise in verses 25–27 is not an isolated formula about an individual's private spiritual experience. Ezekiel 36:16–21 describes Israel's defilement of the land through bloodshed and idolatry, followed by dispersion among the nations. The LORD says that He acts for His holy name, which Israel had profaned among the nations (vv. 22–23).
+
+The restoration promise then includes:
+- gathering Israel from the nations and bringing them into their own land (v. 24);
+- cleansing them from uncleanness and idols (v. 25);
+- giving a new heart and putting a new spirit within them (v. 26);
+- putting God's Spirit within them and causing them to walk in His statutes (v. 27);
+- restoring covenant belonging and life in the land (v. 28);
+- multiplying provision and fruitfulness (vv. 29–30);
+- remembrance, shame, and recognition of the LORD's action (vv. 31–32);
+- rebuilding and cultivation of the desolate land (vv. 33–36).
+
+The stated divine motive is crucial: “not for your sakes do I this” (v. 32), but for the LORD's holy name (vv. 22, 32). The promise originates in God's purpose and action, not in Israel's self-repair.
+
+**Explicit:** this is a corporate restoration oracle addressed to Israel, grounded in the LORD's holy name and involving cleansing, inward renewal, restored obedience, land, and covenant relationship.
+
+**Strongly supported:** the promised inward renewal is inseparable from the LORD's larger restoration of His people. It is not merely a private feeling or an abstract spiritual experience.
+
+**Not established:** that every detail in the oracle should be transferred without qualification to an individual believer or to a single later event. Later canonical use must be examined rather than assumed.
+
+### 23.2 Ezekiel 36:25 — clean water and cleansing
+
+The LORD promises to sprinkle clean water upon the people so that they will be clean, specifically cleansing them from filthiness and idols.
+
+The image recalls purification language elsewhere in Scripture (compare Numbers 19:17–19; Psalm 51:7; Zechariah 13:1). Ezekiel's immediate wording explains the purpose: cleansing from defilement. The water is not presented as an autonomous force or as an action Israel performs upon itself. The LORD is the subject: “I will sprinkle”; “I will cleanse.”
+
+This is a significant control for John 3:5. Jesus' phrase “born of water and of the Spirit” can reasonably be read against Ezekiel's promised cleansing and Spirit-renewal. The allusion is strong, especially because Nicodemus is addressed as a teacher of Israel (John 3:10). But John does not explicitly quote Ezekiel 36 in John 3:5, so the connection should be recorded as a strong canonical interpretation, not as a verbatim citation.
+
+### 23.3 Ezekiel 36:26–27 — new heart, new spirit, and “my Spirit”
+
+The text distinguishes closely related expressions:
+- “a new heart”;
+- “a new spirit”;
+- “my spirit.”
+
+The LORD promises to remove the heart of stone and give a heart of flesh. He will put a new spirit within the people, and He will put His Spirit within them, causing them to walk in His statutes.
+
+The relation between “a new spirit” in verse 26 and “my spirit” in verse 27 has been discussed by scholars. Some interpretations distinguish the renewed human disposition from God's own Spirit; others stress their close relation or analogical correspondence. The wording of verse 27, “my spirit,” must not be casually reduced to a human faculty. At the same time, the precise theological account of the relation between the two expressions should not be asserted beyond what the passage establishes.
+
+The practical result is explicit: the LORD's action produces a changed walk in obedience (v. 27). The promise is not simply an inward sensation. It has a stated outcome in the people's life.
+
+**Textual distinction:** “new spirit” and “my Spirit” occur in adjacent but distinguishable clauses. Their relationship is important; their expressions should not be silently collapsed.
+
+### 23.4 Ezekiel 37:1–10 — the bones are assembled, but there is no breath in them
+
+The hand of the LORD brings Ezekiel out in the Spirit and sets him down in a valley full of bones (37:1). The bones are very many and very dry (v. 2). God asks whether they can live; Ezekiel answers, “O Lord GOD, thou knowest” (v. 3).
+
+The LORD commands Ezekiel to prophesy to the bones. The word announces that God will cause breath to enter them and that they will live (vv. 4–6).
+
+Ezekiel prophesies as commanded. There is a noise and shaking; the bones come together, sinews and flesh appear, and skin covers them (vv. 7–8). Yet the text makes a decisive observation:
+
+> “but there was no breath in them.” (Ezekiel 37:8, KJV)
+
+The visible assembly is not yet living. The text does not permit the observer to equate the appearance of a complete bodily structure with the presence of life.
+
+Then the LORD commands Ezekiel to prophesy to the breath:
+
+> “Come from the four winds, O breath, and breathe upon these slain, that they may live.” (v. 9)
+
+Ezekiel prophesies as commanded. Breath enters them; they live and stand upon their feet, an exceeding great army (v. 10).
+
+This is a remarkable textual sequence:
+1. Bones are present.
+2. Bones are assembled.
+3. Sinews, flesh, and skin appear.
+4. No breath is yet in them.
+5. The commanded prophetic word is spoken to the breath.
+6. Breath enters.
+7. They live and stand.
+
+The text itself distinguishes bodily assembly from the entry of breath and the resulting life. It does not say that the assembled bones generated their own breath.
+
+### 23.5 Ezekiel 37:11–14 — the LORD interprets His own vision
+
+The interpretation is not left to speculation. The LORD says:
+
+> “Son of man, these bones are the whole house of Israel...” (v. 11)
+
+The people say their bones are dried, their hope is lost, and they are cut off. The LORD promises to open their graves, bring them into the land of Israel, put His Spirit within them, and cause them to live (vv. 12–14).
+
+This divine interpretation governs the vision. The primary referent is the restoration of Israel from its death-like exile and hopelessness. It is not permissible to detach the bones from the stated interpretation and claim that Ezekiel is directly describing an unrelated event.
+
+At the same time, the language of opening graves, life from death, and the gift of God's Spirit gives the passage a wider canonical significance. Later Scripture may draw upon this pattern, but each use must be established from its own text.
+
+### 23.6 The Hebrew word רוּחַ (*rûaḥ*) — breath, wind, and spirit
+
+One feature of Ezekiel 37 is especially important. The Hebrew noun רוּחַ (*rûaḥ*) can mean wind, breath, or spirit, with the context determining the sense. In Ezekiel 37:9–14 the word moves through a deliberate range of associations:
+- the breath that enters the slain;
+- the winds from which the breath is summoned;
+- the Spirit of the LORD promised within the people.
+
+English translations sometimes choose “breath,” “wind,” or “spirit” at different points. This helps readability, but can obscure the Hebrew wordplay and conceptual continuity.
+
+The repeated word does not mean that every occurrence has precisely the same referent. In verse 9, the four winds are addressed; in verse 14, the LORD promises “my spirit” within the people. The passage relates these meanings without making their contextual distinctions disappear.
+
+The point is not that Hebrew has one word for three unrelated things. Nor is it that every use of *rûaḥ* must mean the Holy Spirit. The point is that Ezekiel's prophetic vision intentionally joins wind, breath, life, and God's Spirit in one literary movement.
+
+### 23.7 The connection to Genesis 2:7 — a deliberate creation echo
+
+Genesis 2:7 records that the LORD God formed man of the dust of the ground and breathed into his nostrils the breath of life; man became a living soul.
+
+Ezekiel 37:9 uses the verb נָפַח (*nāphaḥ*, to breathe/blow), the same Hebrew verb used in Genesis 2:7. Both passages describe a divine life-giving action involving breath. Ezekiel's vision also depicts a formed bodily structure that remains lifeless until breath enters.
+
+This creates a strong literary and theological connection:
+- Genesis 2:7: the LORD forms the man from the dust and breathes the breath of life; the man becomes a living being.
+- Ezekiel 37: bones are assembled and covered with flesh, but there is no breath; breath enters at God's command, and the slain live.
+
+The difference must also be preserved. Genesis 2:7 describes the creation of the first man. Ezekiel 37 explicitly interprets the vision as the restoration of the whole house of Israel. Ezekiel employs creation language to portray national restoration as a new-life act of God. The parallel is not identity of historical event; it is a deliberate reuse of creation imagery to declare God's power to bring life where death and hopelessness prevail.
+
+### 23.8 The connection to John 3:5–8 — cleansing and Spirit-renewal
+
+John 3:5 speaks of birth of water and Spirit. Ezekiel 36:25–27 places cleansing water, a new heart, a new spirit, and God's Spirit within the people in one restoration promise.
+
+This is a strong background for Jesus' words. John 3:10 sharpens the point: Jesus expects Nicodemus, a teacher of Israel, to understand the matters being discussed. Ezekiel's promise belongs to Israel's prophetic Scriptures and is therefore a relevant text for the conversation.
+
+John 3:8's wind/Spirit wordplay also resonates with the range of *rûaḥ* in Ezekiel 37. The Greek πνεῦμα (*pneuma*) likewise can mean spirit, wind, or breath depending on context. This does not prove that John 3:8 directly quotes Ezekiel 37, but it makes the canonical comparison meaningful.
+
+**Finding:** Ezekiel 36 is a strong candidate for the cleansing-and-renewal background of John 3:5. Ezekiel 37 provides a related creation-and-life background for the Gospel's Spirit language. Direct literary dependence in every detail is not established by vocabulary alone.
+
+### 23.9 The connection to John 20:19–23 — the risen Jesus breathes
+
+John 20:22 records:
+
+> “And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:” (KJV)
+
+The Greek verb translated “breathed” is ἐμφυσάω (*emphysaō*). The Septuagint uses this same Greek verb in Genesis 2:7 for God's breathing into the man, and in Ezekiel 37:9 for the breath entering the slain. This is a particularly strong lexical connection, not merely a general resemblance between two passages about air or life.
+
+John's use of this uncommon verb makes Genesis 2:7 and Ezekiel 37:9 highly relevant intertexts for John 20:22. The risen Jesus breathes upon the disciples and commands them to receive the Holy Ghost. The scene can therefore be read within the scriptural pattern of divine life-giving breath and restoration.
+
+A crucial distinction remains: in Genesis, the LORD God breathes into the first man; in Ezekiel, the prophet is commanded to prophesy to the breath, and the breath enters the slain; in John, Jesus Himself breathes upon the disciples and commands reception of the Holy Ghost. The narrative actions are related by language and theme, but the actors, recipients, and immediate contexts differ.
+
+The lexical connection strongly supports a new-creation resonance in John 20:22. It does not, by itself, settle whether John 20:22 is the complete fulfillment of every promise concerning the Spirit or how it relates temporally to Pentecost.
+
+### 23.10 A further connection — Ezekiel 37 and the restoration of one people
+
+Ezekiel 37 does not end with the dry bones. Verses 15–28 describe the joining of the two sticks, the reunification of Israel and Judah, one king, covenant peace, and God's sanctuary among His people.
+
+This continuation matters. The breath-and-life vision belongs to a larger restoration movement:
+- life from the death-like condition of exile (vv. 1–14);
+- reunification of the divided people (vv. 15–23);
+- one shepherd and king (v. 24);
+- covenant of peace and lasting sanctuary (vv. 25–28).
+
+John's Gospel contains its own language of gathering into one: Jesus will gather the scattered children of God into one (John 11:51–52), and He speaks of one flock and one shepherd (John 10:16). The thematic correspondence with Ezekiel 37:15–28 is notable. It should be investigated as a possible additional Ezekiel connection, while avoiding a claim that every detail is a direct quotation.
+
+This means the dry-bones vision cannot be treated as an isolated breath illustration. Its setting includes the restoration and unity of God's people under His appointed shepherd.
+
+### 23.11 What the combined sequence establishes — and what it does not
+
+**Explicit in the texts:**
+- Genesis 2:7: God forms man and breathes the breath of life; man becomes a living soul.
+- Ezekiel 36:25–27: God promises cleansing, a new heart, a new spirit, and His Spirit within Israel, producing obedience.
+- Ezekiel 37:1–14: the bones are assembled but remain breathless until breath enters; God interprets the vision as the restoration of the whole house of Israel.
+- John 3:5–8: birth of water and Spirit is necessary; the Spirit's action is not controlled by the human observer.
+- John 20:22: the risen Jesus breathes upon the disciples and commands them to receive the Holy Ghost.
+
+**Strongly supported connections:**
+- Ezekiel 36:25–27 is a major canonical background for John 3:5.
+- Ezekiel 37:9 intentionally echoes Genesis 2:7 through the shared Hebrew verb for breathing.
+- John 20:22 evokes Genesis 2:7 and Ezekiel 37:9 through the shared Greek verb ἐμφυσάω in the Septuagint.
+- John 20:22 carries a strong new-creation/life-giving resonance.
+- Ezekiel 36 and 37 belong together: the promise of God's Spirit within the people is dramatized in the vision of the breath entering the slain.
+
+**Not established yet:**
+- That Ezekiel 37 is exclusively a prediction of Pentecost.
+- That John 20:22 and Acts 2 describe an identical event.
+- That John 20:22 must be only symbolic because of its new-creation imagery.
+- That every use of Hebrew *rûaḥ* or Greek *pneuma* has the same referent.
+- That Ezekiel's corporate restoration oracle can be reduced to an individual conversion formula.
+- That the lexical echo alone proves every detail of John's intended theology.
+
+### 23.12 Triple Constraint assessment
+
+- **Biblical compliance — PASS within scope:** Ezekiel 36–37 is first read in its own setting of Israel's defilement, exile, restoration, and covenant hope. The divine interpretation of the bones is retained. Genesis 2:7 and John 20:22 are compared through the shared breath language without making the events identical.
+- **Scientific coherence — PASS within scope:** this is literary, lexical, and canonical analysis. The vision is not misrepresented as a biological experiment or a physical mechanism. No scientific claim about the material transfer of a measurable substance is inferred from the prophetic imagery.
+- **GUA-W consistency — PASS:** the LORD is the originating actor; the word is spoken under His command; the breath/Spirit gives life; the restored people live and are placed in the land. The bones do not assemble or animate themselves, and the prophet does not claim authorship of the life-giving act.
+
+**Disposition:** Ezekiel 36–37 provides a substantial prophetic bridge between Genesis 2:7 and the Johannine passages. The strongest connection is the shared breath verb linking Genesis 2:7, Ezekiel 37:9, and John 20:22 in the Septuagint/Greek New Testament. Ezekiel 36 also provides a strong background for John 3:5. The new-creation reading of John 20:22 is strongly supported, but its precise relation to Pentecost remains unresolved. U-008 remains UNRESOLVED. No new GUA-W Gear is promoted by this pass.
+
+### 23.13 Scholarly sources consulted
+
+- Collin Cornell, “Commentary on Ezekiel 37:1–14,” *Working Preacher*, March 22, 2026. Explains the contextual relation between Ezekiel 36's heart-and-Spirit promise and Ezekiel 37's breath/Spirit vision, and the creation pattern in Genesis 2:7. https://www.workingpreacher.org/commentaries/revised-common-lectionary/fifth-sunday-in-lent/commentary-on-ezekiel-371-14-13
+- Donna Petter, *The Gospel Coalition Bible Commentary: Ezekiel*, section on Ezekiel 37:1–28. Discusses the dry bones as the death-like condition of exile and the promise of restored life with the LORD in the land. https://www.thegospelcoalition.org/commentary/ezekiel/
+- Verena Schafroth, “Spirit References in Ezekiel 36 and 37,” *Journal of the European Theological Association*. Discusses the debated relation between the new spirit and God's Spirit, the breath imagery, and the Genesis 2:7 echo. https://www.academia.edu/13494949/Spirit_references_in_Ezekiel_36_and_37
+- “Vine, Shepherd and Bones: The Use of Ezekiel in the Gospel of John,” in *After Ezekiel: Essays on the Reception of a Difficult Prophet* (2010). Examines the relation between Ezekiel 36–37 and John 3, 5, 10–11, and 20, including the shared Greek verb ἐμφυσάω in Genesis 2:7, Ezekiel 37:9, and John 20:22. https://www.academia.edu/32968512/_Vine_Shepherd_and_Bones_The_Use_of_Ezekiel_in_the_Gospel_of_John_in_P_Joyce_and_A_Mein_eds_After_Ezekiel_Essays_on_the_Reception_of_a_Difficult_Prophet_LHBOTS_London_T_and_Clark_2010_
+- “The Meaning of ‘Born of Water and the Spirit’ in John 3:5,” discussion of Ezekiel 36:25–27 as a key informing text for John 3:5. https://dbts.edu/wp-content/uploads/2025/10/The-Meaning-of-Born-of-Water-and-the-Spirit-in-John-3-5-McCabe.pdf
+
