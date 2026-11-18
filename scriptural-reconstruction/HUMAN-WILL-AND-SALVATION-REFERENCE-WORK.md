@@ -2258,11 +2258,175 @@ Retain these guardrails:
 - retain the translation range of ἐκληρώθημεν in verse 11.
 
 Next investigations:
-1. HW-018 remains unassigned. Select a distinct passage not already examined; do not duplicate HW-006 (John 6) or HW-007 (Romans 9).
-2. Compare Romans 10:13–17 and 2 Corinthians 1:21–22 as cross-references within the relevant existing entries, not as duplicate full investigations.
-3. Keep U-006 (definition and components of human will) open. Ephesians 1 identifies believing as a real response but does not by itself exhaustively define its origin or every aspect of human willing.
+1. HW-018 — 1 Peter 1:1–5: COMPLETED — see entry above. This passage is now investigated once; future findings belong in this entry.
+2. Retain Romans 10:13–17 and 2 Corinthians 1:21–22 as cross-references within relevant existing entries, not as duplicate full investigations.
+3. Keep U-006 (definition and components of human will) open; the completed entries do not yet exhaustively define every aspect of human willing. Ephesians 1 identifies believing as a real response but does not by itself exhaustively define its origin or every aspect of human willing.
 
 ---
+
+
+## 18. Entry — HW-018: 1 Peter 1:1–5 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **1 Peter 1:1–5**
+>
+> 1 Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,
+>
+> 2 Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied.
+>
+> 3 Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,
+>
+> 4 To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,
+>
+> 5 Who are kept by the power of God through faith unto salvation ready to be revealed in the last time.
+
+### B. Immediate context — 1 Peter 1:1–12
+
+The passage opens a letter to believers living as scattered sojourners in several regions of Asia Minor. Peter's greeting identifies them in relation to election, the Father's foreknowledge, the Spirit's sanctifying work, obedience, and the blood of Jesus Christ (vv. 1–2).
+
+Verses 3–5 move from the greeting to praise of God. Peter attributes the new birth to God's abundant mercy, identifies the resurrection of Jesus Christ as the ground or means through which the living hope is given, describes the inheritance, and says that the recipients are guarded by God's power through faith.
+
+Verses 6–9 continue by acknowledging present grief through manifold temptations and describing the testing and preciousness of faith, which has an appointed end in praise, honour, and glory at the appearing of Jesus Christ. Peter speaks of love for Christ, believing in Him though not now seen, and receiving the end of faith, the salvation of souls.
+
+Verses 10–12 describe the prophets' inquiry into the salvation and grace now announced in the Gospel, and the Holy Ghost's role in the testimony concerning Christ. The assigned unit is verses 1–5; verses 6–12 supply immediate context, not a second investigation.
+
+### C. Greek and grammatical findings
+
+**Verse 1 — the recipients**
+
+- **ἐκλεκτοῖς (*eklektois*)**, “elect”: dative plural adjective, agreeing with the recipients addressed. Peter identifies them as chosen/elect.
+- **παρεπιδήμοις (*parepidēmois*)**, “strangers” or “sojourners”: dative plural, also describing the recipients. The KJV's “strangers scattered” conveys their status as dispersed sojourners; the expression should not be made to imply that every recipient was ethnically Jewish. The letter's identity language has both geographical and theological dimensions.
+
+**Verse 2 — the description of election**
+
+- **κατὰ πρόγνωσιν θεοῦ πατρός (*kata prognōsin Theou Patros*)**, “according to the foreknowledge of God the Father”: κατά with the accusative πρόγνωσιν expresses accordance with or according to foreknowledge. The genitive “of God the Father” identifies whose foreknowledge is in view. The clause does not grammatically say “according to the faith God foresaw,” nor does it name a human act as the ground of election.
+- **ἐν ἁγιασμῷ πνεύματος (*en hagiasmō pneumatos*)**, rendered “through sanctification of the Spirit”: ἐν with the dative can express sphere or means. Peter places the election of these believers in relation to the Spirit's sanctifying work. The genitive πνεύματος identifies the Spirit in relation to sanctification; the precise nuance should not be forced beyond the construction.
+- **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ (*eis hypakoēn kai rhantismon haimatos Iēsou Christou*)**, “unto obedience and sprinkling of the blood of Jesus Christ”: εἰς marks the intended end, goal, or result. The two coordinated nouns are obedience and sprinkling. The phrase connects the elect recipients with obedience and the covenant/sacrificial imagery of Christ's blood. It does not identify autonomous human will as the source of election.
+- The verse names the Father, the Spirit, and Jesus Christ in distinct relations to election, sanctification, obedience, and the blood. These relations should be preserved rather than collapsed into one undifferentiated action.
+
+**Verse 3 — new birth and living hope**
+
+- **εὐλογητός (*eulogētos*)**, “Blessed”: opens the doxology, directing praise to the God and Father of Jesus Christ.
+- **κατὰ τὸ πολὺ αὐτοῦ ἔλεος (*kata to poly autou eleos*)**, “according to his abundant mercy”: the new birth is expressly related to God's abundant mercy.
+- **ἀναγεννήσας (*anagennēsas*)**, “hath begotten us again”: aorist active participle, nominative masculine singular, from ἀναγεννάω (*anagennaō*). God is the subject; the believers are the recipients of the begetting. The active form attributes the begetting action to God. The aorist presents the action as a whole but does not, by itself, establish a detailed chronology between regeneration and the first act of faith.
+- **εἰς ἐλπίδα ζῶσαν (*eis elpida zōsan*)**, “unto a lively [living] hope”: the new birth is directed toward living hope.
+- **δι᾽ ἀναστάσεως Ἰησοῦ Χριστοῦ ἐκ νεκρῶν (*di’ anastaseōs Iēsou Christou ek nekrōn*)**, “by the resurrection of Jesus Christ from the dead”: διά with the genitive presents Christ's resurrection as the means or ground through which this living hope is given. The hope is not presented as a product of independent human self-origination.
+
+**Verse 4 — the inheritance**
+
+- **κληρονομίαν (*klēronomian*)**, “inheritance”: the promised inheritance is described by three negatives: incorruptible, undefiled, and unfading.
+- **τετηρημένην (*tetērēmenēn*)**, “reserved”: perfect passive participle, feminine accusative singular, agreeing with “inheritance.” The perfect passive describes the inheritance as having been kept/reserved and remaining so. The clause does not name the agent in this participle, though the surrounding praise and divine action place the promise within God's provision.
+- **ἐν οὐρανοῖς εἰς ὑμᾶς (*en ouranois eis hymas*)**, “in heaven for you”: identifies its location and intended recipients.
+
+**Verse 5 — divine keeping through faith**
+
+- **τοὺς ἐν δυνάμει θεοῦ φρουρουμένους (*tous en dynamei Theou phrouroumenous*)**, “who are kept by the power of God”: φρουρουμένους is a present passive participle, accusative masculine plural, describing the believers. The passive form presents them as those being guarded; “the power of God” identifies the divine power in which this guarding occurs.
+- **διὰ πίστεως (*dia pisteōs*)**, “through faith”: διά with the genitive expresses means or mediation. Faith is not erased; it is explicitly included in the account of God's keeping. The text does not, in this phrase, identify faith as the independent originating cause of God's election, mercy, new birth, or power.
+- **εἰς σωτηρίαν (*eis sōtērian*)**, “unto salvation”: marks the goal toward which the divine keeping through faith is directed.
+- **ἀποκαλυφθῆναι (*apokalyphthēnai*)**, “to be revealed”: aorist passive infinitive, describing salvation as ready to be revealed in the last time. Peter's horizon includes a future unveiling; the passage does not reduce salvation to a merely present human decision.
+
+The grammatical pattern is therefore significant: God is praised as the one whose abundant mercy begets believers again; the inheritance is kept; and the believers are described as being guarded in God's power through faith. Human faith is a real and necessary term in the sentence, but Peter does not identify it as the independent source of the saving action.
+
+### D. The central interpretive question — “according to the foreknowledge of God the Father”
+
+The expression **“according to the foreknowledge of God the Father”** must be read as written. It identifies God's foreknowledge as the reference according to which the recipients are elect. It does not explicitly state that God elected them because He foresaw an independently originating act of faith.
+
+Three readings or emphases must be distinguished:
+
+1. **Prior knowledge / prescience:** God knew beforehand. This is within the ordinary semantic range of foreknowledge. Some interpreters understand the foreknowledge in relation to God's prior knowledge of the persons and their future faith. The latter specification—“their future faith”—is an interpretive proposal, not an expressed object in this clause.
+2. **Personal or relational foreknowledge:** God's prior knowledge of the people is understood relationally, not as bare awareness of future facts. This reading draws on broader biblical uses of knowing, but the noun πρόγνωσις does not, by itself, settle every element of a doctrine of forelove.
+3. **Foreordination / prior purpose:** Some interpret foreknowledge in a stronger purposive sense, especially when reading this verse alongside other passages concerning God's prior purpose. That conclusion must be argued from the broader context and canonical usage; it should not be smuggled into the lexical definition without demonstration.
+
+The text explicitly identifies God the Father as the one whose foreknowledge is in view and relates election to the Spirit's sanctification and the obedience and blood of Jesus Christ. It does not spell out the complete ground, mechanism, or chronology of election and faith. Those questions remain for comparison with other passages, not for an unsupported conclusion from one noun.
+
+### E. The order of divine action and human response
+
+The passage contains both divine initiative and genuine human response. Neither side may be removed.
+
+**Divine action explicitly stated:**
+- The recipients are elect according to the foreknowledge of God the Father (vv. 1–2).
+- Their election is related to the sanctification of the Spirit (v. 2).
+- God, according to abundant mercy, has begotten them again (v. 3).
+- Their inheritance is described as reserved (v. 4).
+- They are being guarded by God's power (v. 5).
+
+**Human response or participation explicitly stated:**
+- Election is unto obedience (v. 2).
+- God's people are guarded through faith (v. 5).
+- The immediate continuation identifies their believing in Christ and loving Him, though they do not now see Him (vv. 8–9).
+
+The presence of faith does not make faith the originating source of the mercy and new birth Peter attributes to God. Conversely, God's initiative does not turn faith and obedience into unreal or irrelevant terms. Peter's construction holds them in relation: divine power guards believers through faith, and election is unto obedience.
+
+The passage does not specify the complete temporal order between the Spirit's sanctification, new birth, and the first act of faith. The aorist participle “hath begotten us again” does not alone provide a measurable interval or a complete doctrine of conversion. The present passive participle “being kept” describes ongoing guarding; it does not by itself settle every question about perseverance or apostasy.
+
+### F. Inheritance, assurance, and the future horizon
+
+Peter's sequence moves from God's abundant mercy and new birth to living hope, inheritance, divine keeping, and future salvation. The resurrection of Jesus Christ is central to the living hope (v. 3). The inheritance is incorruptible, undefiled, and unfading (v. 4). God's power guards the believers through faith toward salvation to be revealed in the last time (v. 5).
+
+This is not a claim that believers never experience suffering. Verses 6–7 immediately acknowledge grief and the testing of faith. Nor does the future horizon mean that salvation is absent in the present: Peter describes believers as already begotten again and presently guarded, while awaiting the revelation of salvation's fullness.
+
+The passage's assurance rests on God's mercy, Christ's resurrection, the promised inheritance, and God's power. It does not rest on a claim that human beings independently preserve or originate the saving order.
+
+### G. Canonical comparisons — comparison only, not duplicate investigations
+
+- **Romans 8:28–30 (HW-016):** Both passages attribute decisive saving actions and purpose to God. Romans 8 names foreknowledge, predestination, calling, justification, and glorification; 1 Peter 1:2 names election according to the Father's foreknowledge. Neither passage explicitly says that election is grounded in a self-originated human faith.
+- **Ephesians 1:3–14 (HW-017):** Both passages place election in relation to God's purpose and include human response. Ephesians explicitly records hearing and believing before the sealing described in verse 13; 1 Peter explicitly places obedience and faith within the saving account. These passages complement one another without making faith the originating cause of God's purpose.
+- **2 Thessalonians 2:13–14 (HW-015):** Paul joins God's choice unto salvation with sanctification of the Spirit and belief of the truth, and then identifies the Gospel as the means of calling. This is a close comparison to 1 Peter 1:2, but it remains the already-completed HW-015 entry.
+- **Romans 10:13–17:** Paul's account of calling upon the Lord, believing, hearing, and preaching supplies a related account of human response and Gospel proclamation. It should be cross-referenced where relevant, not opened as a duplicate investigation of Romans 9–11.
+- **2 Timothy 1:9:** Retain as a future comparison concerning God's saving and calling according to His own purpose and grace. Do not assign a new investigation number until the repository has been checked for any existing treatment of the exact passage.
+
+These are canonical cross-references only. They do not create additional HW investigations or alter the passage boundaries of HW-015, HW-016, or HW-017.
+
+### H. What the passage establishes — and what it does not
+
+| Question | Finding | Textual basis / limit |
+|---|---|---|
+| Are the recipients identified as elect? | EXPLICITLY ESTABLISHED | 1 Peter 1:1–2. |
+| Is election related to the Father's foreknowledge? | EXPLICITLY ESTABLISHED | “According to the foreknowledge of God the Father” (v. 2). |
+| Does verse 2 say that God elected them because He foresaw their faith? | NOT EXPLICITLY STATED | Faith is not named as the object or ground of foreknowledge in this clause. |
+| Is the Spirit's sanctifying work included? | EXPLICITLY ESTABLISHED | “Through sanctification of the Spirit” (v. 2). |
+| Is obedience included in the purpose or end of election? | EXPLICITLY ESTABLISHED | “Unto obedience” (v. 2). |
+| Is Christ's blood included? | EXPLICITLY ESTABLISHED | “Sprinkling of the blood of Jesus Christ” (v. 2). |
+| Who is identified as begetting believers again? | EXPLICITLY ESTABLISHED | God, according to abundant mercy (v. 3). |
+| Is the resurrection of Jesus Christ central to living hope? | EXPLICITLY ESTABLISHED | “By the resurrection of Jesus Christ from the dead” (v. 3). |
+| Is the inheritance secure and future-oriented? | EXPLICITLY ESTABLISHED | It is described as reserved in heaven (v. 4). |
+| Who guards the believers? | EXPLICITLY ESTABLISHED | They are guarded by God's power (v. 5). |
+| Is faith included in that guarding? | EXPLICITLY ESTABLISHED | They are guarded “through faith” (v. 5). |
+| Does the passage identify faith as the independent originating cause of election or new birth? | NOT ESTABLISHED | The passage attributes election to relation with the Father's foreknowledge and new birth to God's abundant mercy. |
+| Does the passage erase human faith or obedience? | EXPLICITLY DENIED | Obedience (v. 2) and faith (v. 5) are expressly included. |
+| Does the passage settle the complete chronology of regeneration and faith? | UNRESOLVED | The grammatical forms do not provide a complete temporal mechanism. |
+| Does the passage exhaustively define foreknowledge? | UNRESOLVED | The noun and genitive construction do not settle all theological interpretations. |
+| Does the passage teach that believers experience no suffering? | EXPLICITLY DENIED BY CONTEXT | Verses 6–7 acknowledge grief and the testing of faith. |
+
+### I. GUA-W recognition and Triple Constraint disposition
+
+The passage preserves a clear distinction between originating divine action and derivative human response:
+
+- The Father is identified in relation to foreknowledge.
+- The Spirit is identified in relation to sanctification.
+- Jesus Christ is identified in relation to His blood and resurrection.
+- God, according to abundant mercy, begets believers again.
+- God's power guards the believers through faith.
+- Obedience and faith remain real elements of the described saving life.
+
+This is consistent with the governing distinction **Author / Source ≠ witness or response**. It is a textual recognition within the existing GUA-W vocabulary, not a proposal for a new layer, operator, Gear, or architectural amendment.
+
+**Biblical compliance — PASS, within scope.** The reading preserves election, the Father's foreknowledge, the Spirit's sanctification, Christ's blood and resurrection, God's begetting action, human obedience and faith, and the future revelation of salvation. It does not make faith the stated ground of election, and it does not erase faith from the passage.
+
+**Scientific coherence — PASS, within scope.** The grammatical observations distinguish active and passive forms, prepositional relations, participial aspect, and interpretive limits. No empirical scientific claim is derived from the theological text, and no analogy is presented as scientific proof.
+
+**GUA-W consistency — PASS, within scope.** God is the source of mercy, new birth, and preserving power; Christ's blood and resurrection are central; the Spirit's sanctifying work is named; faith and obedience are real responses within the saving order. No architectural change is proposed.
+
+### J. Entry finding and limits
+
+**Finding:** 1 Peter 1:1–5 presents believers as elect according to the foreknowledge of God the Father, in relation to the sanctification of the Spirit and unto obedience and the sprinkling of Jesus Christ's blood. Peter then praises God for begetting believers again according to abundant mercy, unto living hope through the resurrection of Jesus Christ. Their inheritance is reserved, and they are guarded by God's power through faith toward the salvation to be revealed in the last time.
+
+The passage does not identify independent human will or foreseen autonomous faith as the originating cause of election or new birth. It does explicitly include faith and obedience. It therefore must not be used either to make human faith the source of God's mercy or to erase the human believing and obedience that Peter names.
+
+**Status:** PASS for election being related to the Father's foreknowledge; PASS for the Spirit's sanctifying work and Christ's blood; PASS for God's active begetting according to abundant mercy; PASS for Christ's resurrection as the basis of living hope; PASS for God's power guarding believers through faith; UNRESOLVED for the complete semantic scope of foreknowledge and the precise chronology of sanctification, new birth, and first faith; NOT ESTABLISHED for the claim that God elected on the basis of foreseen autonomous faith.
+
+**No GUA-W architectural change is proposed.** HW-018 is one investigation of 1 Peter 1:1–5. Future discoveries concerning these same verses must be added to this entry, not opened as another investigation.
 
 
 ## 14. Initial passage register — not yet adjudicated
@@ -2287,6 +2451,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-015 | 2 Thessalonians 2:13–14 | COMPLETED — see entry above. |
 | HW-016 | Romans 8:28–30 | COMPLETED — see entry above. |
 | HW-017 | Ephesians 1:3–14 | COMPLETED — see entry above. |
+| HW-018 | 1 Peter 1:1–5 | COMPLETED — see entry above. |
 
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
