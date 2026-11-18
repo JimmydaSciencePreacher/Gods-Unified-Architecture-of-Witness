@@ -75,7 +75,13 @@ The central study is written through Pass III. Continuing work:
 
 ### Priority 3 — Investigation III.2: Breath of the Risen Christ
 
-Continue the unresolved relationship between John 20:22 and Acts 2. Examine the full Johannine and Lukan/Acts sequences and scholarly positions. Do not collapse Resurrection, glorification, Ascension, Spirit reception, and Pentecost into one event without textual warrant.
+The text-first canonical study and an initial scholarly interpretive audit are now recorded. Continue by testing the major models against the full Johannine sequence (John 7; 14–16; 19–20), Luke 24, Acts 1–2, and the relevant Old Testament breath/Spirit promises.
+
+Keep two questions separate:
+1. **Extent and timing:** anticipatory sign, actual impartation, partial/temporary reception, complete gift, or a staged relation across events.
+2. **Function:** life/new-creation, indwelling, revelation, mission empowerment, prophetic enablement, commissioned ministry, or more than one function.
+
+Rosen (2025) provides a map of interpretive questions and proposals, not a final verdict. Test each proposal from the primary texts and relevant historical evidence. Do not collapse Resurrection, glorification, Ascension, Spirit reception, and Pentecost into one event without textual warrant. Maintain U-008 as UNRESOLVED until the evidence supports a narrower conclusion.
 
 ### Priority 4 — Close open subquestions in III.A–III.G
 
