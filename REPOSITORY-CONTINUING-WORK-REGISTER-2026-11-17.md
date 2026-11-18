@@ -448,3 +448,9 @@ The numbered priorities above preserve the historical audit's work plan. They mu
 
 
 **Latest canonical extension (2026-11-18):** HW-006 now includes a focused examination of John 10:22–30 alongside John 6:37–45, 63–65 and John 17:6, 9–12, 20, 24. The text explicitly identifies the Father as giver of the sheep, Jesus as the one who knows them and gives eternal life, and the sheep as those who hear and follow. The double assurance of the Son's and Father's hands is retained. John 10:26's causal “because” is not inverted; John 17:12's son of perdition clause is preserved. The combined witness supports the Father's originating initiative rather than autonomous human arrival while retaining real human hearing, following, coming, and believing. Exact timing of the giving and the relation of Judas' apostolic selection to saving-sheep language remain bounded. This extends HW-006 and does not create HW-021 or a new GUA-W component.
+
+
+
+
+**2026-11-18 — HW-016 canonical integration completed:** Romans 8:28–30 has been connected within the existing HW-016 entry to Genesis 2:1–5, John 6:37–65, John 10:22–30, John 17:5–24, Ephesians 1:3–14, 1 Peter 1:1–5 and 18–21, 2 Timothy 1:8–10, Titus 1:1–3, Romans 10:13–17, Acts 2:32–42, and Revelation 13:8; 17:8. The synthesis distinguishes the beginning-account foundation, explicit prior-purpose statements, the Father's giving and the Son's keeping, and historical proclamation/response. It records what the combined canon answers while preserving bounded questions about the exact nuance of foreknowledge, precise giving/inscription timing, and complete individual chronology. HW-016 is extended, not duplicated. U-006 remains at its corrected status **NARROWED — FOUNDATIONAL ANSWER ESTABLISHED IN GENESIS 2–3**; the semantic boundary around Romans 8 foreknowledge is not grounds to reopen that separate foundational question. No GUA-W layer, Gear, or runtime stage was added.
+
