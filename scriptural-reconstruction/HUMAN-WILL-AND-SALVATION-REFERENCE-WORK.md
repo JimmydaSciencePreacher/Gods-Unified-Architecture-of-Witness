@@ -1322,6 +1322,155 @@ Cross-references for continued examination:
 
 ---
 
+## 14. Entry — HW-012: Romans 8:5–11 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **Romans 8:5–11**
+>
+> 5 For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.
+>
+> 6 For to be carnally minded is death; but to be spiritually minded is life and peace.
+>
+> 7 Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.
+>
+> 8 So then they that are in the flesh cannot please God.
+>
+> 9 But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.
+>
+> 10 And if Christ be in you, the body is dead because of sin; but the Spirit is life because of righteousness.
+>
+> 11 But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.
+
+The passage belongs to Paul's larger argument beginning in Romans 5 and developed through Romans 8. Its immediate background includes Romans 7:14–25, where Paul describes the conflict involving sin, the law, and the person who delights in God's law inwardly yet encounters the power of sin. Romans 8:1–4 announces no condemnation for those in Christ Jesus and describes God's action through His Son and the Spirit, where the law was weak through the flesh. Verses 12–17 then draw out the believers' obligation not to live after the flesh and describe life by the Spirit, adoption, and the Spirit's witness.
+
+### B. Argument commonly made
+
+Romans 8:7–8 is used to establish that the mind set on the flesh is hostile to God, does not submit to God's law, and cannot do so; those who are in the flesh cannot please God. The language is explicit about inability. The text does not describe a merely neutral person who needs only additional information or a stronger independent decision.
+
+The subject and scope must be kept precise. Verse 7 speaks of the φρόνημα (*phronēma*) of the flesh — the mindset or orientation belonging to the flesh. Verse 8 speaks of those who are “in the flesh.” Paul does not say that the physical body as created by God is intrinsically evil, nor that an unregenerate person is incapable of every ordinary decision, civic good, intellectual task, or outwardly beneficial action. The inability in view concerns submission to God's law and pleasing God in the spiritual condition Paul describes.
+
+Verses 9–11 contrast this condition with those in whom the Spirit of God dwells. Their identity is described by the Spirit's indwelling, their relation to Christ, and God's promise to give life to their mortal bodies. The passage therefore places the decisive distinction not in autonomous human self-reformation but in whether a person is in the flesh or in the Spirit, with the Spirit of God dwelling in him.
+
+This passage does not, by itself, give an exhaustive account of every faculty of human willing or a complete chronology of regeneration, faith, and indwelling. It does expressly deny that the fleshly mindset can submit to God's law by its own capacity.
+
+### C. Immediate context and argument
+
+**Romans 7:14–25 — sin and the divided experience.** Paul describes the law as spiritual and the person as carnal, sold under sin. He describes doing what he hates and failing to do the good he would. He delights in the law of God after the inward man, yet sees another law in his members bringing him into captivity to the law of sin. The identity and scope of the “I” in this section have been debated; interpretations include Paul's experience under the law, a representative person, or a description with autobiographical dimensions. Romans 8 must be read as Paul's answer to the conflict and deliverance problem, not as an isolated statement about human psychology.
+
+**Romans 8:1–4 — God's action in Christ.** There is no condemnation to those in Christ Jesus. The law of the Spirit of life in Christ Jesus has made believers free from the law of sin and death. What the law could not do because it was weak through the flesh, God did by sending His own Son. The righteous requirement of the law is fulfilled in those who walk not after the flesh but after the Spirit. The initiative in the decisive rescue is attributed to God.
+
+**Romans 8:5 — two orientations.** Those who are according to the flesh mind the things of the flesh; those according to the Spirit mind the things of the Spirit. Paul describes contrasting orientations and their characteristic concerns. “Mind” is not merely momentary thought; it concerns the governing outlook or set of the person.
+
+**Romans 8:6 — the outcomes.** The mindset of the flesh is death; the mindset of the Spirit is life and peace. The contrast is not simply between two equally acceptable lifestyle preferences. Paul places the orientations in relation to death and life, and the peace associated with God.
+
+**Romans 8:7 — hostility and inability.** The mindset of the flesh is enmity against God. Paul explains: it is not subject to God's law, “neither indeed can be.” The inability is explicit and concerns submission to God's law. The text does not portray this mindset as spiritually neutral or as capable of overcoming its hostility through an unaided act of autonomous will.
+
+**Romans 8:8 — inability to please God.** “They that are in the flesh cannot please God.” Paul moves from the mindset in verse 7 to the people characterized as being in the flesh. The statement is broad and categorical concerning their spiritual condition and pleasing God. It must not be weakened into mere difficulty, but neither should it be inflated into a claim that such persons cannot perform any outwardly useful or socially good act.
+
+**Romans 8:9 — the defining contrast.** Paul tells the Roman believers that they are not in the flesh but in the Spirit, if the Spirit of God dwells in them. Anyone who does not have the Spirit of Christ does not belong to Him. The contrast is not presented as a self-generated upgrade of the fleshly mindset; the Spirit's indwelling marks belonging to Christ. “Spirit of God” and “Spirit of Christ” are both used in this one verse and must be retained in the reading.
+
+**Romans 8:10 — body and Spirit.** If Christ is in the believer, the body is dead because of sin, but the Spirit is life because of righteousness. “Spirit” may be understood with reference to the Holy Spirit, or with an emphasis on the believer's spirit made alive by the Spirit; interpreters discuss the precise nuance. Verse 11's reference to the Spirit dwelling in believers and giving life to mortal bodies is an important control. The verse does not teach that the physical body is inherently evil or that bodily existence is discarded.
+
+**Romans 8:11 — resurrection life.** The Spirit of the One who raised Jesus from the dead dwells in believers. The same God who raised Christ will give life to their mortal bodies through His indwelling Spirit. The future bodily dimension matters: salvation is not merely a change in mental attitude or an escape from material existence. God's Spirit is the agent associated with resurrection life.
+
+**Romans 8:12–17 — obligation and adoption.** Paul concludes that believers are debtors, not to the flesh, to live after it. If they live after the flesh they shall die; if through the Spirit they mortify the deeds of the body, they shall live. Those led by the Spirit are sons of God; they have received the Spirit of adoption and cry, “Abba, Father.” The Spirit bears witness with their spirit. The Spirit's work does not cancel real action: believers are called to put to death the deeds of the body, but the means is “through the Spirit.”
+
+### D. Original-language findings
+
+- **κατὰ σάρκα (*kata sarka*)**, “after the flesh” (v. 5): κατά (*kata*) with the accusative expresses according to, in accordance with, or in the sphere of. σάρξ (*sarx*) means flesh. In Romans 8 it commonly refers to fallen human existence and orientation apart from the Spirit, not simply to physical tissue or the body as God's creation. Context determines the precise force.
+- **φρονοῦσιν (*phronousin*)**, “do mind” (v. 5): present active indicative, third person plural, from φρονέω (*phroneō*), “think, set one's mind on, be minded toward.” The present form describes characteristic orientation. The contrast concerns the governing concerns of those characterized by flesh or Spirit.
+- **τὸ φρόνημα (*to phronēma*)**, “to be carnally minded / the carnal mind” (vv. 6–7): a substantivized noun referring to mindset, outlook, or orientation. In verse 7, “the φρόνημα of the flesh” is the subject of the statement that it is enmity against God and is not subject to His law. It is not a technical synonym for every operation of the human brain or every faculty of the will.
+- **θάνατος (*thanatos*)**, “death” (v. 6): death. In the contrast with “life and peace,” it has the force of the death-bound condition and outcome associated with the fleshly mindset. The wider argument includes both present spiritual condition and final destiny; the verse should not be restricted to physical death alone.
+- **ζωὴ καὶ εἰρήνη (*zōē kai eirēnē*)**, “life and peace” (v. 6): life and peace are associated with the mindset of the Spirit. The terms are theological and relational in context, not merely biological vitality or temporary emotional calm.
+- **ἔχθρα εἰς θεόν (*echthra eis theon*)**, “enmity against God” (v. 7): ἔχθρα (*echthra*) denotes hostility or enmity. The fleshly mindset is not neutral toward God; Paul explicitly characterizes it as hostile.
+- **οὐχ ὑποτάσσεται (*ouch hypotassetai*)**, “it is not subject” (v. 7): present middle/passive-form indicative, third person singular, from ὑποτάσσω (*hypotassō*), “subject, subordinate, submit.” The fleshly mindset does not submit to God's law. The present form describes its characteristic relation; the grammar does not itself identify every possible cause or chronology of that condition.
+- **οὐδὲ γὰρ δύναται (*oude gar dynatai*)**, “neither indeed can be” (v. 7): δύναται (*dynatai*) is present middle/deponent indicative, third person singular, from δύναμαι (*dynamai*), “be able, have power, be capable.” This is an explicit statement of inability. The subject remains the mindset of the flesh; the stated inability is to submit to God's law. It cannot be reduced to mere reluctance, but its object must not be expanded beyond Paul's words.
+- **οἱ ἐν σαρκὶ ὄντες (*hoi en sarki ontes*)**, “they that are in the flesh” (v. 8): a substantival participial expression, “those being in the flesh.” Paul speaks of people characterized by this sphere or condition, not simply of people possessing physical bodies.
+- **οὐ δύνανται (*ou dynantai*)**, “cannot” (v. 8): present middle/deponent indicative, third person plural, from δύναμαι. The people in the flesh are unable to please God. The statement concerns pleasing God in the theological context, not every form of outward human usefulness or social conduct.
+- **ἀρέσαι (*aresai*)**, “to please” (v. 8): aorist active infinitive from ἀρέσκω (*areskō*), “please, be pleasing to.” The inability is directed to pleasing God. The aorist infinitive does not by itself specify a one-time event; it presents the action as a whole.
+- **ἐν πνεύματι (*en pneumati*)**, “in the Spirit” (v. 9): ἐν with the dative, contrasted with “in the flesh.” In this context the reference is to the sphere/condition marked by the indwelling Holy Spirit. Paul immediately identifies the Spirit of God dwelling in believers and then the Spirit of Christ.
+- **οἰκεῖ (*oikei*)**, “dwell” (v. 9): present active indicative, third person singular, from οἰκέω (*oikeō*), “dwell, reside.” The Spirit's indwelling is the stated condition in Paul's contrast. The present form depicts the Spirit as dwelling in believers; it does not by itself settle every question about the timing of indwelling relative to faith.
+- **εἴ τις πνεῦμα Χριστοῦ οὐκ ἔχει (*ei tis pneuma Christou ouk echei*)**, “if any man have not the Spirit of Christ” (v. 9): Paul states that the person who does not have the Spirit of Christ does not belong to Christ. “Spirit of God” and “Spirit of Christ” are placed in parallel in the verse. The text's identification is important and should not be fragmented into competing spirits.
+- **νεκρόν (*nekron*)**, “dead” (v. 10): the body is described as dead because of sin. This points to mortality and the body subject to death; it does not teach that embodiment itself is evil.
+- **πνεῦμα ζωὴ (*pneuma zōē*)**, “the Spirit is life” (v. 10): the syntax permits discussion of whether πνεῦμα refers directly to the Holy Spirit or to the believer's spirit in the life given by the Holy Spirit. Verse 11's explicit indwelling Spirit and the argument as a whole must govern interpretation. Do not overstate a disputed nuance.
+- **ζῳοποιήσει (*zōopoiēsei*)**, “shall also quicken” (v. 11): future active indicative, third person singular, from ζῳοποιέω (*zōopoieō*), “make alive, give life.” God will give life to believers' mortal bodies. The future form points to the promised life-giving action; the verse connects it to the resurrection of Jesus and the Spirit's indwelling.
+- **διὰ τοῦ ἐνοικοῦντος αὐτοῦ πνεύματος (*dia tou enoikountos autou pneumatos*)**, “by his Spirit that dwelleth in you” (v. 11): διά with the genitive indicates means or agency; ἐνοικοῦντος is a present active participle from ἐνοικέω, “dwell in.” The Spirit's indwelling is connected with God's future life-giving of mortal bodies.
+
+### E. Canonical comparisons and counter-texts
+
+**Romans 7:14–25.** The immediate preceding account of sin's power and the conflict with the law is essential context. The precise identity and rhetorical function of the “I” in that passage remain debated; HW-012 should not settle that debate by assumption.
+
+**Romans 8:1–4.** God does what the law could not do because it was weak through the flesh. This is the immediate explanation for the deliverance and new condition described in chapter 8. God's action in sending His Son and condemning sin in the flesh must remain central.
+
+**Romans 8:12–17.** Believers are commanded to mortify the deeds of the body through the Spirit. This preserves real human action while identifying the Spirit as the means. It is an internal control against treating divine indwelling as passivity.
+
+**John 6:44, 63–65.** Jesus says no man can come unless the Father draw him, and that the Spirit quickens. These are direct comparisons for inability and divine action. Their precise relation to Romans 8 should be assessed without merging distinct contexts.
+
+**1 Corinthians 2:10–16.** The natural man does not receive the things of the Spirit and cannot know them because they are spiritually discerned. Romans 8 adds the language of hostility to God, inability to submit to His law, and inability to please Him.
+
+**Ephesians 2:1–10.** Those dead in trespasses and sins are made alive by God. This is a relevant parallel for divine quickening and the transition from death to life, while preserving the distinct imagery and argument of Ephesians.
+
+**Galatians 5:16–25.** Paul contrasts the works of the flesh and fruit of the Spirit and calls believers to walk in the Spirit. This further preserves both the conflict and the believer's commanded conduct.
+
+**Philippians 2:12–13.** God works in believers both to will and to do, while they are commanded to work out their salvation. This concerns the Spirit-enabled life of believers and should not be used to bypass the specific inability Paul assigns to the fleshly mindset in Romans 8.
+
+### F. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| Flesh and Spirit represent contrasting orientations/conditions | EXPLICITLY ESTABLISHED | Verses 5–9 contrast those after/in the flesh with those after/in the Spirit. |
+| The fleshly mindset is hostile to God | EXPLICITLY ESTABLISHED | Verse 7 calls it enmity against God. |
+| The fleshly mindset does not submit to God's law | EXPLICITLY ESTABLISHED | Verse 7. |
+| The fleshly mindset cannot submit to God's law | EXPLICITLY ESTABLISHED | “Neither indeed can be” (v. 7). |
+| Those in the flesh cannot please God | EXPLICITLY ESTABLISHED | Verse 8. |
+| The inability concerns every ordinary human choice or action | NOT ESTABLISHED | Paul's stated objects are submission to God's law and pleasing God. |
+| Physical embodiment is itself evil | NOT ESTABLISHED | “Flesh” in this argument is not simply the physical body; verses 10–11 affirm God's life-giving purpose for mortal bodies. |
+| The Spirit's indwelling marks the believer's relation to Christ | EXPLICITLY ESTABLISHED | Verses 9–11. |
+| Believers have no responsibility to act | CONTRADICTED BY CONTEXT | Verses 12–13 command mortification of the deeds of the body through the Spirit. |
+| The Spirit gives life to mortal bodies | EXPLICITLY ESTABLISHED | Verse 11 connects God's resurrection power with the indwelling Spirit. |
+| The passage provides a complete chronology of regeneration, faith, and indwelling | NOT SETTLED | The text establishes the contrast and indwelling condition but does not lay out every temporal step. |
+| The passage exhaustively defines all faculties of human will | NOT ESTABLISHED | It addresses the fleshly mindset, submission, pleasing God, and Spirit-indwelt life. |
+
+### G. Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** The reading preserves the explicit inability of the fleshly mindset to submit to God's law and of those in the flesh to please God. It also preserves the Spirit's indwelling, the believer's responsibility to mortify sinful deeds through the Spirit, and the future quickening of mortal bodies.
+- **Scientific coherence — PASS, within scope.** The Greek subjects and objects of the inability statements are identified precisely. The theological use of “flesh” is not confused with physical tissue, and no neurological or empirical claims are inferred from Paul's language. The grammatical forms are not used to invent a complete chronology.
+- **GUA-W consistency — PASS, within scope.** The text attributes the decisive transition and life-giving work to God through Christ and the indwelling Spirit. Human action remains real but is not assigned independent originating authority over spiritual life. No GUA-W architectural modification is proposed.
+
+### H. Entry finding and limits
+
+Romans 8:5–11 explicitly describes the mindset of the flesh as hostile to God, not subject to His law, and unable to submit to it. Paul further states that those who are in the flesh cannot please God. This is not merely a statement that such people lack sufficient information or need to make a stronger unaided decision. The inability is stated directly.
+
+The scope must remain exact. Verse 7's subject is the mindset of the flesh; verse 8 speaks of those who are in the flesh. The passage does not say that a person outside Christ cannot perform any ordinary action or outwardly beneficial deed. Nor does it condemn the physical body as God's creation. Verses 10–11 look toward the giving of life to mortal bodies through the Spirit who dwells in believers.
+
+The contrast in verses 9–11 is marked by the Spirit of God dwelling in the believer and the person's belonging to Christ. Verses 12–13 then preserve the believer's real obligation and action, carried out through the Spirit. The text does not provide an exhaustive account of the human will or a complete chronology of regeneration, faith, and indwelling.
+
+**Finding:** The fleshly mindset is explicitly hostile to God, does not submit to God's law, and cannot do so. Those in the flesh cannot please God. The believer's contrasting condition is marked by the indwelling Spirit of God/Christ, and the Spirit is associated with life and the future quickening of mortal bodies. The passage does not establish universal incapacity for ordinary human activity, nor does it define every faculty of the will.
+
+**Status:** PASS for the stated inability of the fleshly mindset to submit to God's law; PASS for the stated inability of those in the flesh to please God; PASS for the Spirit's indwelling and life-giving work; FAIL for reducing the inability to mere lack of information or reluctance; FAIL for treating the physical body as inherently evil or denying all ordinary human agency; UNRESOLVED for the complete chronology of regeneration, faith, and indwelling, and for an exhaustive definition of human will.
+
+### I. Related GUA-W recognition and cross-references
+
+This passage witnesses a distinction between the fleshly condition and the Spirit-indwelt condition. The fleshly mindset is hostile and unable to submit to God's law; the Spirit dwells in those who belong to Christ and is associated with life. The believer's action is real, but Romans 8:13 specifies that sinful deeds are put to death “through the Spirit.” This is a textual recognition, not a proposal to create or modify GUA-W architecture.
+
+Relevant established distinctions:
+- fleshly mindset versus Spirit-directed mindset;
+- hostility versus submission;
+- inability versus Spirit-enabled life;
+- God's indwelling operation versus the believer's real obedience;
+- mortal body versus the Spirit's promise of resurrection life.
+
+### J. Research queue
+
+1. HW-013 — Acts 13:44–48: examine belief, divine appointment, and the response to the word in Luke's narrative.
+2. HW-014 — 1 John 5:1: examine the grammatical and contextual relation between believing and having been born of God.
+3. Retain John 6:44, 63–65 as a priority comparison for inability, drawing, quickening, and what is given.
+4. Retain Romans 7:14–25 for a separate contextual and interpretive examination of Paul's “I,” sin, law, and inability.
+5. Keep U-006 (definition and components of human will) open. Romans 8 establishes a specific inability of the fleshly mindset but does not exhaustively define every aspect of human willing.
+
+---
+
 ## 14. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
@@ -1338,7 +1487,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-009 | James 1:16–18 | COMPLETED — see entry above. |
 | HW-010 | Philippians 2:12–13 | COMPLETED — see entry above. |
 | HW-011 | 1 Corinthians 2:10–16 | COMPLETED — see entry above. |
-| HW-012 | Romans 8:5–11 | What is the relation between flesh, Spirit, inability, indwelling, and life? |
+| HW-012 | Romans 8:5–11 | COMPLETED — see entry above. |
 | HW-013 | Acts 13:44–48 | How does Luke narrate belief, appointment, and the response to the word? |
 | HW-014 | 1 John 5:1 | What is the grammatical and contextual relation between believing and having been born of God? |
 
