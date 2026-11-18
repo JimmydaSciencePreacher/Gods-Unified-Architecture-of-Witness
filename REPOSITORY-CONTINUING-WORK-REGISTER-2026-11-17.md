@@ -203,3 +203,9 @@ Continue by independently verifying the KJV phrase occurrences and then investig
 
 **Next passage:** HW-011, 1 Corinthians 2:10–16, examining the natural man, the things of the Spirit, spiritual discernment, and the mind of Christ. Hebrews 13:20–21 and 1 Corinthians 15:10 remain priority comparisons for divine operation and human doing.
 
+
+
+**Eleventh entry recorded — HW-011, 1 Corinthians 2:10–16 (2026-11-18).** Paul identifies God as the revealer and the Spirit as the one who knows and teaches the things of God. The natural man does not receive the things of the Spirit, regards them as foolishness, and cannot know them because they are spiritually discerned. The scope is specifically spiritual reception and discernment, not every kind of human knowledge or ordinary choice. The context in 1 Corinthians 3:1–4 also shows that believers may be carnal and immature; “spiritual” does not mean sinlessly mature. No complete chronology of regeneration and faith is inferred, and no GUA-W architectural change is proposed.
+
+**Next passage:** HW-012, Romans 8:5–11, examining the mind of the flesh, inability, the Spirit's indwelling, and life.
+
