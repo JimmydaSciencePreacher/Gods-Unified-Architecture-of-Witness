@@ -98,7 +98,7 @@ The Spirit is then described as shed on us abundantly through Jesus Christ our S
 
 The source is God's mercy, not works of righteousness performed by the recipients. Regeneration and renewal of the Holy Ghost are expressly named. The passage joins salvation, the Spirit's renewal, justification by grace, inheritance, and the continuing call to good works.
 
-Titus 3:3–7 does not, by itself, provide a complete chronological sequence of regeneration, faith, and justification. Romans 10, Ephesians 1, John 3 and 6, and the other relevant passages contribute additional relations. The combined testimony must be considered, but no technical timeline should be manufactured where the texts do not provide one.
+Titus 3:3–7 does not, by itself, provide a complete chronological sequence of regeneration, faith, and justification. That is a limit of this passage considered alone, not a declaration that the wider canon has no further evidence. The reference work's cross-reference audit brings Romans 10, Ephesians 1, John 1, 3 and 6, Acts 13 and 16, Philippians 1:29, 2 Thessalonians 2:13–14, James 1:18, 1 Peter 1:3, 23, and 1 John 5:1 into the combined examination. Together these passages establish God's initiating and life-giving work, the Father's drawing and granting, the Spirit's sanctifying work, the Word and Gospel as means of proclamation, and the real human acts of hearing, attending, repenting, coming, and believing. They narrow the question substantially. They do not supply one exhaustive technical timetable specifying every moment and causal relation between regeneration and the first act of faith.
 
 ### James 1:16–18 and 1 Peter 1:3, 23
 
