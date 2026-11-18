@@ -456,3 +456,120 @@ These are scholarly proposals, not facts established merely by their existence. 
 ### Scholarly source added
 
 - Adrian P. Rosen, “Interpretive Questions Related to the Gift of the Spirit in John 20:22,” *Journal of the Evangelical Theological Society* 68, no. 2 (2025): 285–97. https://etsjets.org/wp-content/uploads/JETS_68.2_285_Rosen.pdf. The article surveys the interpretive questions and range of scholarly proposals; it expressly does not defend one final interpretation.
+
+## 20. Luke 24 and Acts 1 — the promised endowment remains future after the Resurrection
+
+Luke supplies a second account of the period between the Resurrection and Pentecost. It prevents the investigation from treating John 20:22 as though it were the only record of Jesus' instruction concerning the Spirit after His Resurrection.
+
+### 20.1 Luke 24:36–49 — the risen Lord opens understanding, commissions, and promises
+
+Luke records the risen Jesus appearing among the disciples. He offers peace, shows His hands and feet, invites them to handle Him, and eats before them (Luke 24:36–43). He then opens their understanding so they may understand the Scriptures (v. 45), declares the necessity of the Messiah's suffering and Resurrection, and commissions the proclamation of repentance and remission of sins in His name among all nations (vv. 46–48).
+
+The passage concludes:
+
+> “And, behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.” (Luke 24:49, KJV)
+
+This is explicit future-oriented language. The disciples are to remain in Jerusalem until they are clothed/endued with power from on high. Luke does not say in this verse that the disciples have already received this promised endowment.
+
+**What Luke establishes:** the risen Jesus promises a coming endowment of power, commands the disciples to wait for it, and connects it to their commissioned proclamation.
+
+**What Luke 24:49 does not explicitly state:** that no work or reception of the Holy Ghost could have occurred before this coming endowment. That negative proposition is not in the verse.
+
+### 20.2 Acts 1:1–8 — Luke restates and clarifies the waiting period
+
+Acts opens by referring to the former treatise and to what Jesus began both to do and teach. It then records that Jesus showed Himself alive after His Passion by many infallible proofs, appearing over forty days and speaking of the kingdom of God (Acts 1:1–3).
+
+Jesus commands the disciples not to depart from Jerusalem, but to wait for the promise of the Father. He distinguishes John's water baptism from their coming baptism with the Holy Ghost (vv. 4–5). The disciples ask about the restoration of the kingdom to Israel; Jesus redirects them from knowledge of times and seasons reserved to the Father's authority to the promised reception of power:
+
+> “But ye shall receive power, after that the Holy Ghost is come upon you: and ye shall be witnesses unto me...” (Acts 1:8, KJV)
+
+The stated purpose is witness extending from Jerusalem to Judaea, Samaria, and the uttermost part of the earth.
+
+Acts 1 therefore confirms that, after the Resurrection and during the forty-day period, the promised baptism/coming of the Holy Ghost and the associated power for witness are still awaited. This is not a minor detail. It must be given full weight alongside John 20:22.
+
+### 20.3 Acts 2:1–4, 32–33 — the event and Peter's interpretation
+
+At Pentecost the disciples are together. A sound from heaven as of a rushing mighty wind fills the house; cloven tongues like as of fire appear; they are filled with the Holy Ghost and speak with other tongues as the Spirit gives utterance (Acts 2:1–4).
+
+Peter's explanation is essential. He proclaims Jesus' Resurrection, declares that Jesus has been exalted by the right hand of God, and says:
+
+> “Therefore being by the right hand of God exalted, and having received of the Father the promise of the Holy Ghost, he hath shed forth this, which ye now see and hear.” (Acts 2:33, KJV)
+
+The passage identifies the exalted Jesus as the one who pours forth what the gathered witnesses see and hear. Pentecost is not presented as an autonomous human achievement or as the disciples generating spiritual power. It is the action of the exalted Christ in relation to the Father's promise.
+
+### 20.4 The chronology that must be preserved
+
+The Lukan account gives this sequence:
+
+1. Jesus rises and appears to His disciples.
+2. He opens their understanding of the Scriptures and commissions the proclamation (Luke 24:36–48).
+3. He promises the Father's endowment and commands them to wait in Jerusalem (Luke 24:49).
+4. Acts records appearances over forty days and further instruction concerning the kingdom (Acts 1:1–3).
+5. Jesus commands them to wait for the Father's promise and promises power when the Holy Ghost comes upon them (Acts 1:4–8).
+6. Jesus ascends (Acts 1:9–11).
+7. At Pentecost the disciples are filled with the Holy Ghost and speak as the Spirit gives utterance (Acts 2:1–4).
+8. Peter identifies the outpouring as the exalted Jesus' shedding forth of the Father's promise (Acts 2:32–33).
+
+John 20:19–23, meanwhile, places the breathing and command to receive the Holy Ghost on the Resurrection day. The Lukan sequence does not mention this breathing scene. The difference in what each Gospel records must not be turned automatically into a contradiction; neither may the omission be used to make the accounts say the same thing in identical terms.
+
+### 20.5 What this does to the competing interpretations
+
+**Model A — John 20:22 is entirely anticipatory, with the promised reception occurring only at Pentecost.**
+
+This model can account for Luke 24:49 and Acts 1:4–8, which place the promised endowment in the future. Its burden is to explain why John narrates Jesus breathing upon the disciples and commanding them, in the imperative, to receive the Holy Ghost. It must account for the force of John's action and words without reducing them to an empty gesture.
+
+**Model B — John 20:22 is an actual reception, while Pentecost is a distinct endowment or empowerment for public witness.**
+
+This model can preserve the direct wording of John 20:22 and the future-oriented promise in Luke 24:49 and Acts 1:4–8 by distinguishing the gift/reception in John from the promised power for witness in Luke–Acts. Its burden is to establish from the texts that these are distinguishable functions or stages, rather than simply assuming that distinction to solve the chronology.
+
+**Model C — John 20:22 is an actual but limited or preparatory reception, with Pentecost bringing a fuller or distinct manifestation.**
+
+This model attempts to account for both events as related stages. Its burden is to identify textual evidence for “limited,” “partial,” or “fuller.” Neither John 20:22 nor Acts 2 uses those exact comparative terms to define the relation between the two events. Such language must therefore remain an interpretive hypothesis unless further evidence establishes it.
+
+**Model D — one continuous divine purpose is expressed through distinct events and functions.**
+
+This proposal may allow the Resurrection-day scene, the waiting period, the Ascension, and Pentecost to be related without making them identical. But “one purpose” cannot serve as a substitute for explaining what each passage says happened, when it happened, and what function is expressly attributed to it. The proposal is a framework for testing, not yet a conclusion.
+
+### 20.6 A critical distinction: reception, endowment, and witness
+
+The texts use different expressions in different contexts:
+
+- John 20:22: Jesus breathes upon the disciples and commands, “Receive ye the Holy Ghost.”
+- Luke 24:49: Jesus promises that He will send the Father's promise upon them and commands them to wait until they are endued with power from on high.
+- Acts 1:5: Jesus promises their baptism with the Holy Ghost.
+- Acts 1:8: Jesus promises power when the Holy Ghost comes upon them, for the purpose of witness.
+- Acts 2:4: they are filled with the Holy Ghost and speak as the Spirit gives utterance.
+- Acts 2:33: Peter attributes the outpouring to the exalted Jesus, who has received the Father's promise.
+
+These expressions are related, but the text does not authorize treating every verb as a technical synonym with an identical temporal and functional meaning. Nor does vocabulary variation alone prove separate gifts. Context, narrative sequence, and the speakers' explanations must govern.
+
+### 20.7 Interim finding
+
+**Explicitly established:**
+- John records a Resurrection-day breathing and command to receive the Holy Ghost.
+- Luke records a future promise of endowment with power, with a command to wait.
+- Acts records that the promised coming and power occur after the Ascension, at Pentecost.
+- Peter identifies the exalted Jesus as the one who pours forth the Father's promise.
+- The Lukan account expressly connects the coming power with witness to Jesus.
+
+**Strongly supported:**
+- John 20:22 and Pentecost must not be collapsed into one undifferentiated event.
+- Luke–Acts gives a distinct future-oriented promise that remains outstanding during the post-Resurrection waiting period.
+- The risen and exalted Christ is the active giver; the disciples are recipients and witnesses.
+
+**Not established yet:**
+- That John 20:22 is only symbolic.
+- That John 20:22 is a complete and final fulfillment of every promise concerning the Spirit.
+- That the disciples received only a partial measure in John 20.
+- That Luke 24:49 explicitly denies any earlier reception of the Spirit.
+- That the difference between John's and Luke's accounts is a contradiction.
+- That the precise relation is exhausted by the labels “indwelling” and “empowerment.”
+
+### 20.8 Triple Constraint assessment
+
+- **Biblical compliance — PASS:** the distinct statements and sequences in John, Luke, and Acts are preserved. No passage is suppressed to force harmonization.
+- **Scientific coherence — PASS within scope:** this is a canonical and historical-textual comparison. No unsupported physical or biological mechanism is proposed.
+- **GUA-W consistency — PASS:** the Father promises; the risen and exalted Christ sends and pours forth; the Holy Ghost gives power and utterance; the disciples receive and witness. The derivative witnesses do not become the Source.
+
+**Disposition:** U-008 remains UNRESOLVED, but the Lukan evidence places a strong constraint on every proposed reading. Any adequate account must explain both the direct Resurrection-day command in John 20:22 and the still-future endowment promised in Luke 24:49 and Acts 1:4–8. The distinction between an earlier reception and a later promised endowment is a serious candidate for investigation, but its exact terms and theological meaning must be demonstrated rather than assumed.
+
