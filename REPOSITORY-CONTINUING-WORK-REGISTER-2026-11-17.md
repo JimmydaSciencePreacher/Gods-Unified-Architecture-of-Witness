@@ -209,3 +209,9 @@ Continue by independently verifying the KJV phrase occurrences and then investig
 
 **Next passage:** HW-012, Romans 8:5–11, examining the mind of the flesh, inability, the Spirit's indwelling, and life.
 
+
+
+**Twelfth entry recorded — HW-012, Romans 8:5–11 (2026-11-18).** Paul explicitly says that the mindset of the flesh is enmity against God, is not subject to God's law, and cannot be subject to it; those who are in the flesh cannot please God. The stated inability concerns submission to God's law and pleasing God, not every ordinary human choice or outwardly useful act. “Flesh” is not reduced to the physical body: verses 10–11 speak of God's life-giving purpose for mortal bodies through the indwelling Spirit. Verses 9–13 contrast the fleshly condition with the Spirit-indwelt believer and preserve real action, with sinful deeds mortified through the Spirit. No complete chronology of regeneration, faith, and indwelling is inferred; no GUA-W architectural change is proposed.
+
+**Next passage:** HW-013, Acts 13:44–48, examining belief, divine appointment, and the response to the word in Luke's narrative.
+
