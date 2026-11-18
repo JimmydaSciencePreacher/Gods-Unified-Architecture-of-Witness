@@ -453,7 +453,98 @@ The Hebrew supports the narrative sequence of perception, evaluation/desire, tak
 
 **Status:** PASS for the narrated sequence of temptation, desire, choice, and transgression; PARTIAL for the precise relationship between deception, desire, and volition; NOT ESTABLISHED for a comprehensive philosophical doctrine of autonomous Free Will; NOT THE SUBJECT for the origin of regeneration or salvation.
 
-## 11. Initial passage register — not yet adjudicated
+## 11. Entry — HW-005: John 3:1–8
+
+### A. Exact KJV passage
+
+> **John 3:1–8**
+>
+> 1 There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
+>
+> 2 The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.
+>
+> 3 Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God.
+>
+> 4 Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born?
+>
+> 5 Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
+>
+> 6 That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.
+>
+> 7 Marvel not that I said unto thee, Ye must be born again.
+>
+> 8 The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.
+
+### B. Argument commonly made
+
+This passage is commonly cited to establish that the new birth is necessary for seeing and entering God's kingdom. It is also used in arguments about Free Will in two opposing ways.
+
+One argument says that a person must choose to be born again, and that the command or invitation to believe presupposes an independent ability to originate the new birth. Another points to Jesus' repeated passive birth language and His comparison with the wind to argue that the birth is not self-produced and that the Spirit acts sovereignly.
+
+The second argument has substantial textual support concerning the source and agency of the birth. But we must not claim more than the passage says: John 3:1–8 does not here give a complete account of every relation between regeneration, faith, repentance, and the full order of salvation. Nor does the wind analogy mean that a human being has no response or responsibility; those questions require the wider discourse and other passages.
+
+### C. Immediate biblical context
+
+Nicodemus is a Pharisee, a ruler of the Jews, and a teacher in Israel (vv. 1, 10). He comes to Jesus at night and acknowledges that Jesus is a teacher come from God, citing the signs Jesus performs (v. 2). Jesus does not begin by discussing Nicodemus's decision-making capacity. He declares the necessity of birth from above: without it, a person cannot see the kingdom of God (v. 3).
+
+The Greek word translated “again” in verse 3, ἄνωθεν (*anōthen*), can mean “again” or “from above.” Nicodemus understands Jesus in the sense of a second physical birth and asks how an old man could enter his mother's womb again (v. 4). Jesus answers by distinguishing birth from flesh and birth from Spirit (vv. 5–6), and repeats the necessity: “Ye must be born again” (v. 7).
+
+Verse 8 uses the wind as an analogy. The wind's movement is perceptible by its sound, but its origin and destination are not under the hearer's control or fully observable. Jesus then says, “so is every one that is born of the Spirit.” The analogy emphasizes the Spirit's mysterious and uncommanded operation, while the final clause explicitly identifies the person under discussion as one born of the Spirit.
+
+The discourse continues beyond verse 8. In verses 9–10 Jesus challenges Nicodemus, the teacher of Israel, for not understanding these things. Verses 11–15 move to testimony concerning heavenly things and the Son of man; verses 16–21 speak of God's love, the giving of the Son, belief, judgment, and the response to light. Those later verses matter to the relationship between new birth and faith and must not be silently imported as though they were all contained in verses 1–8.
+
+### D. Counter-texts and contextual qualifications
+
+**Ezekiel 36:24–28** is a major Old Testament background for Jesus' words to a teacher of Israel. God promises to gather His people, sprinkle clean water upon them, cleanse them from uncleanness and idols, give them a new heart and a new spirit, remove the stony heart, give a heart of flesh, and put His Spirit within them, causing them to walk in His statutes. The repeated subject of the promised actions is the LORD. This makes covenant cleansing and Spirit-given renewal a strong contextual lens for “water and Spirit” in John 3:5–6. It is a supported intertextual connection, not a license to claim that every interpretive question about “water” is uncontested.
+
+Interpretations of “water and the Spirit” in John 3:5 include (a) the one cleansing-and-renewing work promised in Ezekiel 36, (b) water baptism together with the Spirit, and (c) other proposals such as physical birth followed by spiritual birth. The immediate discourse and Old Testament background must adjudicate these options. The text explicitly joins “water and Spirit”; it does not explicitly say “physical birth and then spiritual birth.” The Ezekiel connection is especially relevant because Jesus asks how Nicodemus, “a master of Israel,” does not know these things (v. 10). The precise relation of water to the Spirit should nevertheless remain identified as an interpretive question rather than presented as a settled lexical fact.
+
+**John 1:12–13** is an important comparison within the same Gospel. Receiving and believing are named, but the birth is said not to be of the will of the flesh or the will of man, but of God. John 3 adds Jesus' direct teaching that birth is “of the Spirit.” The two passages converge on divine source without making the act of believing disappear.
+
+**John 3:14–21** must be read as the continuation of this very conversation. It explicitly speaks of believing in the lifted-up Son and of the condemnation/light contrast. It is relevant to faith's relation to life, but it does not reverse Jesus' statement that birth from above is necessary. A complete causal sequence should not be inferred from one clause while ignoring the discourse as a whole.
+
+**John 6:63–65**, **James 1:18**, and **1 Peter 1:3, 23** are further passages for later full entries because they speak of the Spirit's life-giving work or God's begetting. They are not substitutes for the present context.
+
+### E. Original Greek findings
+
+- **ἄνωθεν (*anōthen*)**, “again” (v. 3; repeated in v. 7): the adverb can mean “from above” as well as “again/anew.” Nicodemus hears the idea of a second birth in verse 4, while Jesus' later language “born of the Spirit” gives the birth its heavenly/divine source. The double sense is important in John's discourse; the translation “again” should not make the “from above” dimension disappear.
+- **γεννηθῇ (*gennēthē*)**, “be born” (vv. 3, 5): aorist passive subjunctive, third-person singular, from γεννάω (*gennaō*). In the construction “unless one be born,” the person is grammatically the recipient of the birth, not the expressed agent who gives birth to himself. The passive form supports the distinction between receiving birth and originating it.
+- **οὐ δύναται (*ou dynatai*)**, “cannot” (vv. 3, 5): the negated verb δύναμαι (*dynamai*) expresses inability/capacity. Jesus says that without this birth a person is not able to see or enter the kingdom. The inability is directly tied to the absence of the birth; the text does not present new birth as an optional enhancement.
+- **ἐξ ὕδατος καὶ πνεύματος (*ex hydatos kai pneumatos*)**, “of water and of the Spirit” (v. 5): the preposition ἐκ (*ek*) expresses source/origin. The phrase joins water and Spirit in the one birth statement. The precise referent of “water” remains a contextual interpretive question; Ezekiel 36:25–27 is a significant background.
+- **τὸ γεγεννημένον (*to gegennēmenon*)**, “that which is born” (v. 6): perfect passive participle, neuter nominative singular, from γεννάω. The perfect form presents the one born as standing in the resulting state of that birth. The parallel clauses distinguish what is born of flesh from what is born of Spirit.
+- **ἐκ τῆς σαρκὸς (*ek tēs sarkos*) / ἐκ τοῦ πνεύματος (*ek tou pneumatos*)**, “of the flesh” / “of the Spirit” (v. 6): the repeated source construction sets two distinct origins and corresponding kinds of birth in contrast. Flesh produces flesh; the Spirit produces what is spirit.
+- **δεῖ (*dei*)**, “must” (v. 7): an impersonal verb expressing necessity. Jesus says, “Ye must be born again.” The necessity is not phrased as a self-appointed human project; it is the requirement Jesus declares.
+- **πνεῦμα (*pneuma*)** and **πνεῖ (*pnei*)** (v. 8): πνεῦμα can mean “wind” or “spirit,” and πνεῖ is the verb “blows.” The verse exploits the relation between the terms. KJV renders the first occurrence “wind” and the final occurrence “Spirit.” This is a genuine wordplay/ambiguity in the Greek, not a reason to flatten the verse into only one English sense.
+- **θέλει (*thelei*)**, “listeth” (v. 8): present active indicative, third-person singular, from θέλω (*thelō*), “will/wish.” In the wind image, it describes where the wind blows as it wills. The verse does not say that the person being born chooses the Spirit's origin or directs the Spirit's movement.
+- **γεγεννημένος (*gegennēmenos*)**, “that is born” (v. 8): perfect middle/passive participle, nominative masculine singular, from γεννάω. In context it is passive in sense: the person is one who has been born of the Spirit.
+
+The Greek grammar supports the distinction between the Spirit as source/agent of birth and the human as its recipient. It does not, by itself, settle every later theological dispute about the order of regeneration and faith. The argument here rests on Jesus' explicit source language, passive birth constructions, and stated necessity—not on a claim that one grammatical form independently answers every question.
+
+### F. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| Necessity of new birth | ESTABLISHED | Without birth from above, a person cannot see or enter God's kingdom (vv. 3, 5). |
+| Source of spiritual birth | EXPLICITLY THE SPIRIT | Jesus contrasts flesh-birth with birth “of the Spirit” (v. 6), and says the person is born of the Spirit (v. 8). |
+| Human self-origination of the new birth | NOT SUPPORTED; PASSIVE BIRTH LANGUAGE POINTS OTHERWISE | The person is described as being born; the Spirit is identified as source. |
+| Human choice/response | NOT THE FOCUS OF vv. 1–8 | Nicodemus comes and speaks, but Jesus' teaching in these verses concerns the necessity and source of birth. |
+| Human responsibility | NOT EXHAUSTIVELY TREATED IN vv. 1–8 | The wider discourse addresses belief, light, and judgment (vv. 16–21). |
+| Human ability apart from new birth | EXPLICITLY LIMITED | Without birth from above, one cannot see or enter the kingdom (vv. 3, 5). |
+| Divine initiative | ESTABLISHED | Birth is of the Spirit; the wind analogy emphasizes the Spirit's operation beyond human control (vv. 6, 8). |
+| Faith's relation to regeneration | NOT FULLY SETTLED BY vv. 1–8 ALONE | Faith appears in the continuation (vv. 14–21); the full relation requires examining the complete discourse and other texts. |
+| Salvation as a whole | NOT EXHAUSTIVELY DEFINED | The passage establishes the necessity and divine source of birth, not every aspect of the order and application of salvation. |
+
+### G. GUA-W Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** Jesus' words establish the necessity of new birth, the contrast between flesh and Spirit, and birth from the Spirit. The entry preserves Nicodemus's response, the wind/Spirit wordplay, and the unresolved interpretive question surrounding “water.”
+- **Scientific coherence — PASS, within scope.** The Greek morphology and syntax are identified with limits. The entry does not treat a passive verb as a complete systematic theology, and it distinguishes lexical ambiguity from contextual interpretation.
+- **GUA-W consistency — PASS, within scope.** The Spirit is identified as the source of spiritual birth. The human is the one who must be born, not the originating author of that birth. This preserves God as Original Cause while leaving the relation of faith and regeneration for further textual investigation.
+
+**Entry finding:** Jesus declares that a person must be born from above to see and enter the kingdom of God. He distinguishes flesh-born from Spirit-born life, identifies the Spirit as the source of the latter, and describes the person as one who is born—not as the one who originates his own birth. The wind analogy underscores the Spirit's operation, which cannot be directed or mastered by the human observer. John 3:1–8 therefore does not support the claim that independent human will originates spiritual birth. It establishes the necessity and divine source of the new birth. The relation of this birth to believing is further addressed in John 3:14–21 and must be examined without imposing a chronology not established by these eight verses alone.
+
+**Status:** PASS for the necessity and Spirit-source of new birth; PARTIAL for the exact interpretation of “water and Spirit” and the relation of faith to regeneration; FAIL for using John 3:1–8 to claim that independent human will originates spiritual birth.
+
+## 12. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
 
@@ -462,7 +553,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-002 | Deuteronomy 30:11–20 | COMPLETED — see entry above. |
 | HW-003 | Joshua 24:14–28 | COMPLETED — see entry above. |
 | HW-004 | Genesis 3:1–7 | COMPLETED — see entry above. |
-| HW-005 | John 3:1–8 | What does the birth “of the Spirit” establish about source, necessity, and human capacity? |
+| HW-005 | John 3:1–8 | COMPLETED — see entry above. |
 | HW-006 | John 6:35–45, 63–65 | How do coming, believing, the Father's giving/drawing, and the Spirit's quickening relate? |
 | HW-007 | Romans 9:6–24 | What does “not of him that willeth, nor of him that runneth” mean in Paul's argument and context? |
 | HW-008 | Ephesians 2:1–10 | What is the relation between being dead in sins, God's quickening, grace, faith, and works? |
@@ -475,11 +566,11 @@ The following passages are candidates for investigation because they are commonl
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
-## 12. Related register
+## 13. Related register
 
 The exact KJV English expression **“freewill”** is maintained separately in [KJV Freewill Phrase Register](KJV-FREEWILL-PHRASE-REGISTER.md). It must not be conflated with the wider biblical teaching about choosing, willing, desire, ability, or the philosophical concept of autonomous Free Will.
 
-## 13. Governing question retained
+## 14. Governing question retained
 
 **Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
 
