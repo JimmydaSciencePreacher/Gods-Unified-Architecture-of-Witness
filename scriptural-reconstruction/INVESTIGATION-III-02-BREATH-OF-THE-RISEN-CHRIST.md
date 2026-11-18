@@ -669,4 +669,111 @@ This supports a connected divine purpose across Cross, Resurrection, return to t
 - Thomas L. Brodie, *The Gospel According to John: A Literary and Theological Commentary* (Oxford University Press, 1997), chapter “The Glorification of Jesus,” pp. 541–596. Treats death and Resurrection as a unified glorification process, with the Cross inaugurating that movement.
 - NET Bible, note on John 7:39. Explains the supplied “given” and the Greek wording “the Spirit was not yet,” guarding against the mistaken claim that the Spirit did not previously exist. https://classic.net.bible.org/verse.php?book=Joh&chapter=7&tab=commentaries&theme=false&verse=39
 
+## 22. John 1:32–34; 3:5–8; 3:34 — the Spirit descends, gives birth, and is given without measure
+
+The Johannine sequence must now be examined from its beginning. John does not introduce the Spirit for the first time in John 20. The Gospel first presents the Spirit descending and remaining upon Jesus, then records Jesus' teaching about birth from the Spirit, and identifies Jesus as the one who baptizes with the Holy Ghost. These passages establish essential controls for interpreting the Resurrection-day command.
+
+### 22.1 John 1:32–34 — the Spirit descends and remains upon Jesus
+
+John the Baptist testifies that he saw the Spirit descend from heaven like a dove and remain upon Jesus. The testimony is repeated in the divine sign given to John: the one upon whom the Spirit descends and remains is the one who baptizes with the Holy Ghost.
+
+The Greek verb μένω (*menō*, remain/abide) is important throughout the Fourth Gospel. Here the text does not merely report a momentary descent; it expressly says the Spirit remained upon Jesus. The Baptist's testimony identifies Jesus and His distinctive mission.
+
+The narrative does not describe Jesus as receiving the Spirit because He previously lacked the Spirit, nor does it explain the descent as the Spirit's first existence or activity. The passage gives a sign identifying Jesus as the Spirit-baptizer. Interpretations of the event as messianic anointing or inauguration of public ministry are well represented in scholarship, but those theological descriptions should be kept distinct from the explicit wording of the testimony.
+
+**Explicit:** the Spirit descends, remains upon Jesus, and identifies Him as the one who baptizes with the Holy Ghost.
+
+**Supported inference:** the abiding Spirit marks Jesus' distinctive identity and mission as the Spirit-baptizer.
+
+**Not established by this passage alone:** a complete account of the Spirit's eternal relation to the Son; the exact mechanics of the Spirit's descent; or the precise timing and nature of every later reception by believers.
+
+### 22.2 John 3:5–8 — birth from above by water and Spirit
+
+Jesus tells Nicodemus that a man must be born of water and of the Spirit to enter the kingdom of God (John 3:5). He contrasts flesh born of flesh with spirit born of Spirit (v. 6), commands Nicodemus not to marvel, and uses the wind to illustrate the Spirit's sovereign, perceptible yet unmastered action (vv. 7–8).
+
+The immediate context begins with the necessity of being born ἄνωθεν (*anōthen*), a word capable of meaning “again” or “from above” (vv. 3–4). Jesus' answer in verses 5–8 explains the birth necessary to see and enter God's kingdom. The origin and agency are from above; the human recipient does not generate this birth.
+
+The phrase “water and Spirit” has been interpreted in several ways: as a unified image of cleansing and renewal, with Ezekiel 36:25–27 as an important background; as a reference involving baptism; or through other proposed readings. The allusion to Ezekiel's promise of clean water, a new heart, and God's Spirit is a strong canonical candidate, but the exact force of “water” in John 3:5 remains debated. Do not declare the question settled by importing a later sacramental or denominational system.
+
+John 3:8 adds a decisive limit on human control: the wind/Spirit blows where it wills; its sound is heard, but its origin and destination are not mastered by the observer. Jesus does not present the Spirit as an instrument controlled by the recipient. The illustration concerns the Spirit's freedom and the observable reality of His work.
+
+**Explicit:** entrance into the kingdom requires birth of water and Spirit; flesh produces flesh; Spirit produces spirit; the Spirit's action is not controlled or comprehensively mapped by the human observer.
+
+**Strongly supported:** the new birth is God's work from above, not a humanly manufactured state. Ezekiel 36:25–27 provides a substantial Scriptural parallel for cleansing and Spirit-renewal.
+
+**Unresolved:** the precise relation of water to Spirit in John 3:5; the extent to which baptism is directly in view; and how the new birth relates temporally and functionally to John 20:22 and Acts 2.
+
+### 22.3 John 3:34 — God gives the Spirit without measure
+
+John 3:34 says that the one God has sent speaks the words of God, “for God giveth not the Spirit by measure unto him” (KJV). This verse is important in the sequence because it places the Spirit's giving in relation to the one sent by God.
+
+A grammatical caution is necessary. The Greek clause's subject and the implied recipient have been discussed by interpreters; translations differ in how they express the final phrase. The KJV makes God the giver and the sent one the recipient. Other translations and commentators have discussed whether the statement is more general or whether the Spirit is given without measure by God to the Son. The verse must be interpreted in its immediate context (John 3:31–36), where the one from above speaks God's words and the Father has given all things into His hand.
+
+The text strongly supports the unique fullness of the Spirit's relation to the one sent from above, but avoid making a detailed doctrine rest on an English rendering without examining the Greek syntax and textual context.
+
+### 22.4 John 1 and John 3 together — the Giver and the new birth
+
+The two passages must not be collapsed:
+
+- John 1:32–34 identifies Jesus as the one upon whom the Spirit remains and as the one who baptizes with the Holy Ghost.
+- John 3:5–8 describes the necessity and divine agency of birth from the Spirit for entrance into God's kingdom.
+- John 3:34 relates the Spirit's giving to the one sent by God, with a grammatical question that requires care.
+
+A distinction is visible between the one identified as the Spirit-baptizer and the people who must be born of the Spirit. Jesus' identity and mission are not interchangeable with the recipient's new birth. The recipient does not become the source of the Spirit by receiving the Spirit.
+
+This is a distinction of roles in the text, not yet a complete technical taxonomy of Spirit operations.
+
+### 22.5 The sequence through John 7 and John 20
+
+The Gospel's sequence now reads:
+
+1. **John 1:32–34:** the Spirit descends and remains upon Jesus; Jesus is identified as the one who baptizes with the Holy Ghost.
+2. **John 3:5–8:** birth from above by water and Spirit is necessary for entrance into God's kingdom; the Spirit acts freely.
+3. **John 3:34:** the Spirit's giving is related to the one sent by God; the exact grammatical force must be respected.
+4. **John 7:37–39:** Jesus promises living water, and the narrator identifies it with the Spirit believers were to receive in relation to Jesus' glorification.
+5. **John 14–16:** Jesus promises the Comforter and connects His coming with Jesus' departure.
+6. **John 19:30:** Jesus truly dies; any additional Spirit-gift resonance remains debated.
+7. **John 20:22:** the risen Jesus breathes upon the disciples and commands them to receive the Holy Ghost.
+8. **Luke 24:49; Acts 1:4–8; 2:1–4, 32–33:** the promised endowment, power, and Pentecostal outpouring are narrated after the Resurrection and Ascension.
+
+This is a real literary and theological progression. It does not mean that every passage describes the same event or the same function.
+
+### 22.6 Three distinctions that must be preserved
+
+**A. The Spirit remaining upon Jesus**
+
+This is the Baptist's testimony identifying Jesus and His mission. Jesus is the one who baptizes with the Holy Ghost.
+
+**B. Birth from the Spirit**
+
+This is Jesus' teaching about the divine origin and necessity of new birth. The human recipient cannot manufacture it or control the Spirit.
+
+**C. The risen Christ's command to receive the Holy Ghost**
+
+This is a specific action and command in the Resurrection narrative, within the commission of John 20:19–23. Its exact relation to new birth, the promised Spirit of John 7, and Pentecost remains under examination.
+
+These distinctions are textually warranted as distinct narrative statements. Whether they represent distinct operations, related aspects of one gift, or successive stages cannot yet be settled from these passages alone.
+
+### 22.7 A candidate relationship — Jesus as the Spirit-baptizer
+
+John 1:33 is especially important because it does not merely say that Jesus receives or bears the Spirit. It identifies Him as the one who baptizes with the Holy Ghost. John 20:22 later records Jesus Himself acting toward the disciples and commanding reception.
+
+This creates a strong canonical connection: the one identified at the beginning of the Gospel as the Spirit-baptizer is the risen one who, at the end of the Gospel, breathes upon His disciples and commands them to receive the Holy Ghost.
+
+**This connection is explicit at the level of the two passages' stated roles and actions.** It is not yet proof that John 20:22 exhausts the promised Spirit baptism, nor that Pentecost is merely a repetition of the same act. Acts 1–2 must retain its distinct chronology and description.
+
+### 22.8 Triple Constraint assessment
+
+- **Biblical compliance — PASS within scope:** John 1, 3, 7, and 20 are read as distinct contexts. Jesus' identity as Spirit-baptizer is not confused with the believer's new birth or the disciples' reception. Disputed readings of John 3:5 and 3:34 remain identified as disputed.
+- **Scientific coherence — PASS within scope:** this is textual and theological analysis. The wind analogy in John 3:8 is not misrepresented as a physical theory of the Holy Spirit, and no material mechanism is invented.
+- **GUA-W consistency — PASS:** God is the Source; Jesus is identified as the one sent and the Spirit-baptizer; the Spirit acts and gives life; human beings receive and witness. No recipient is made the originating cause.
+
+**Disposition:** John 1:32–34, 3:5–8, and 3:34 establish necessary distinctions for the investigation. Jesus is identified as the one upon whom the Spirit remains and the one who baptizes with the Holy Ghost; new birth is from the Spirit and not generated by the recipient; the risen Jesus later commands reception. The relation among these statements, John 7:39, and Pentecost remains UNRESOLVED. No new GUA-W Gear is promoted by this pass.
+
+### 22.9 Scholarly sources consulted
+
+- John Christopher Thomas, “The Spirit in the Gospel according to John, 1John, and 2John: ‘Rivers of Living Water,’” *Pneuma* 43 (2021): 442–469. The article discusses the Spirit's descent and remaining in John 1:32–33, the new birth passage in John 3, and the wider Johannine pneumatological sequence. https://brill.com/view/journals/pneu/43/3-4/article-p442_14.pdf
+- Andreas J. Köstenberger, *John*, Baker Exegetical Commentary on the New Testament (Grand Rapids: Baker Academic, 2004), commentary on John 1:32–34. Discusses the Spirit's descent and remaining, Jesus' messianic identification, and His role as Spirit-baptizer. https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/JohnBaker-Exegetical-Commentary-by-Andreas-Kostenberger-z-lib.org_.pdf
+- “The Christocentric and Christotelic Nature of Johannine Pneumatology,” *Themelios*. Surveys the Spirit's work in believers, including John 3:3–8, and its relation to the wider Christology of the Gospel. https://www.thegospelcoalition.org/themelios/article/the-christocentric-and-christotelic-nature-of-johannine-pneumatology/
+- Tricia Gates Brown, *Spirit in the Writings of John: Johannine Pneumatology in Social-Scientific Perspective*, JSNTSup 253 (London: T&T Clark International, 2003). Provides a sustained study of the Spirit in John's Gospel, including the distinctive emphasis on the Spirit remaining upon Jesus. https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/22923/TriciaBrownPhDThesis2000_original_C.pdf?isAllowed=y&sequence=1
 
