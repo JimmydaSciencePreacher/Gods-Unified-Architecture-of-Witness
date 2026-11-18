@@ -74,3 +74,34 @@ The canonical witnesses clarify the larger promise:
 **Finding:** The whole New Testament gives a Christ-centered account of God's victory over Satan through the Son's coming, death, and resurrection. Christian canonical theology therefore rightly reads Genesis 3:15 as the first announcement of the conflict culminating in Christ's victory. The precise scope of *zeraʿ* in Genesis 3:15 and the symbolism of Revelation 12's woman remain interpretive matters; they do not erase the explicit canonical identification of the dragon as Satan or the explicit New Testament testimony concerning Christ's victory.
 
 This section is a canonical cross-reference to the existing Genesis 3 investigation. It does not create another numbered Human Will passage entry or alter the distinction between GUA-W and Jesus Christ.
+
+
+## 35. The will, the Father's prior purpose, and the Book of Life — Genesis 2:1–5 in canonical context
+
+The foundational answer to the will must begin before the human question: Genesis 2:1–5 declares God's completed work and the created order preceding man's formation in the narrative. The Creator's work, not the creature's will, is the starting point.
+
+The wider canon explicitly places God's saving purpose before the foundation of the world:
+- **Ephesians 1:4–5:** God chose us in Christ before the foundation of the world and speaks of predestination according to His will.
+- **1 Peter 1:19–20:** Christ the Lamb was foreordained before the foundation of the world and manifested in the last times.
+- **2 Timothy 1:9:** grace was given in Christ Jesus before the world began.
+- **Titus 1:2:** the promise of eternal life is placed before the world began.
+- **John 17:5, 24:** the Son speaks of His glory with the Father and the Father's love before the world was/foundation of the world.
+- **John 17:6, 9, 24; John 6:37–40:** Jesus speaks of those who were the Father's and were given to Him; the Father gives, the Son receives, keeps, gives life, and raises.
+
+### The Book of Life — what can be stated
+
+Revelation 17:8 speaks of those whose names “were not written in the book of life from the foundation of the world.” Revelation 21:27 identifies those entering the holy city as those written in the Lamb's book of life. Luke 10:20, Philippians 4:3, and Hebrews 12:23 also refer to names written in heaven/the book of life.
+
+Revelation 13:8 has a grammatical attachment ambiguity: “from the foundation of the world” may modify the Lamb's being slain or the names not written. It must not be treated as unambiguous proof of either reading. Revelation 17:8 is the clearer text relating the status of names not written to the foundation of the world. The combined canon places election and Christ's foreordination before the foundation, but does not narrate a separate timestamp for the inscription of every individual name. Do not invent one.
+
+### The answer to “Free Will”
+
+Define the phrase:
+- If “free will” means genuine human perception, desire, choice, action, response, and accountability, Genesis 2–3 plainly records these.
+- If “free will” means independent, self-originating sovereignty—the authority to author one's own life, establish good and evil as one's own standard, or originate God's saving purpose—Scripture does not support that meaning.
+
+Genesis 3 records real human willing: hearing, perceiving, evaluating, desiring, taking, eating, hiding, and answering. Yet these acts do not transfer authorship from God to the creature. The New Testament places God's choice in Christ, Christ's foreordination, and grace before the foundation/world began, and presents the Father as giving people to the Son. Human willing is therefore real, derivative, bounded, and accountable—not the independent originating cause of salvation or the sovereign author of reality.
+
+**Boundaries:** Genesis 2:1–5 does not itself mention the Book of Life or the act of writing names. Revelation 13:8's attachment remains grammatically disputed. The exact moment/mechanics of inscription are not narrated. The conclusion about the will is a canonical synthesis, not a claim that one verse supplies a philosophical definition.
+
+This section extends U-006's existing Genesis-first synthesis; it does not create a new numbered passage investigation or GUA-W component.
