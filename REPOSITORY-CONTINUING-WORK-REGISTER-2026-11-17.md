@@ -245,3 +245,8 @@ Continue by independently verifying the KJV phrase occurrences and then investig
 
 **Next passage:** HW-018, Romans 9:6–24, examining mercy, hardening, election, and the potter/clay argument in context.
 
+
+
+**Eighteenth entry recorded — HW-018, Romans 9:6–24 (2026-11-18; supplementary canonical audit).** Repository inspection found that Romans 9:6–24 had already been examined in HW-007. HW-007 was preserved unchanged; HW-018 was recorded as a distinct supplementary audit rather than duplicating the original as new work. The supplementary entry reads Romans 9 in the continuing argument of Romans 9–11. It reaffirms that mercy is not sourced in the one who wills or runs, preserves God's stated mercy and hardening, and keeps the passive “fitted” of Romans 9:22 distinct from God's active “afore prepared” in verse 23. It further records Romans 10's real human responses—hearing, believing, confessing, calling, and preaching—and Romans 11's remnant, partial hardening, Gentile inclusion, warning against boasting, and mercy. It does not infer universal final salvation from Romans 11:32. The corporate/historical and individual dimensions of election remain carefully distinguished; the agent in 9:22 and the complete chronology/mechanics of salvation remain unresolved. No GUA-W architectural change is proposed.
+
+**Next investigation:** HW-019 — John 6:35–65, as a supplementary canonical cross-check. The earlier HW-006 entry remains intact.
