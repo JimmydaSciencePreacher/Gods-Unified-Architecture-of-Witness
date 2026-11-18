@@ -8,7 +8,7 @@ This repository does not replace or silently modify the original GUA-W repositor
 
 ## Read GUA-W as a book
 
-The continuous narrative is being written as individual chapters in the [`book/`](book/) directory. Begin with [Chapter 1 — One Author, One Word, One Creation](book/01-ONE-AUTHOR-ONE-WORD-ONE-CREATION.md), then read [Chapter 2 — The Answer Before the Question](book/02-THE-ANSWER-BEFORE-THE-QUESTION.md). The [Book Structure and Reading Edition](BOOK-STRUCTURE-AND-READING-EDITION.md) remains the master contents and research-linked reading plan.
+The continuous narrative is being written as individual chapters in the [`book/`](book/) directory. Begin with [Chapter 1 — One Author, One Word, One Creation](book/01-ONE-AUTHOR-ONE-WORD-ONE-CREATION.md), then read [Chapter 2 — The Answer Before the Question](book/02-THE-ANSWER-BEFORE-THE-QUESTION.md), followed by [Chapter 3 — Theology and the Differentiated Sciences](book/03-THEOLOGY-AND-THE-DIFFERENTIATED-SCIENCES.md). The [Book Structure and Reading Edition](BOOK-STRUCTURE-AND-READING-EDITION.md) remains the master contents and research-linked reading plan.
 
 Start with the [Book Structure and Reading Edition](BOOK-STRUCTURE-AND-READING-EDITION.md). It presents the repository as a continuous journey through the Author, the Creation foundation, the completed architecture, the Scriptural witness of Christ, salvation, and the sciences. Each chapter links to the detailed source investigations. The research library remains intact as the evidence base; the book is the guided reading path, not a replacement for it.
 
