@@ -257,3 +257,14 @@ The primary study now examines 2 Samuel 7, Psalm 89 and 110, the Davidic prophet
 
 **Disposition:** Davidic identity and Resurrection/exaltation connection recorded. Acts 2 clarifies the source and authority of the Pentecostal outpouring but does not settle the precise relationship to John 20:22. U-008 remains UNRESOLVED; no new GUA-W Gear established.
 
+
+
+### Investigation III.2 — Integrated chronology of John 20, Luke 24, and Acts 1–2
+
+The primary study now places the Resurrection-day appearances, John 20:22, Luke's commission and promise in Luke 24:49, the forty-day period and Ascension in Acts 1:1–11, and the Pentecostal outpouring in Acts 2 into one comparative chronology. It distinguishes the chronology question from the function question: whether John 20:22 is actual reception, anticipatory sign, partial/staged impartation, or a distinct Johannine presentation remains unresolved; the functions explicitly emphasized in the passages are also not interchangeable by assumption.
+
+The review records the scholarly diversity identified by Adrian P. Rosen (2025), including proposals that distinguish life-giving reception from empowerment for mission, partial from fuller reception, and Johannine theological presentation from Lukan chronology. These are options to test, not conclusions adopted wholesale.
+
+**Updated study:** [Investigation III.2 — The Breath of the Risen Christ](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
+
+**Disposition:** The canonical sequence and the explicit purpose of Acts 1:8 / Acts 2 are clarified. Acts 2 attributes the outpouring to the exalted Jesus acting in relation to the Father's promise. John 20:22 remains an explicit breathing/reception command in its sending context. Their precise relationship remains UNRESOLVED; U-008 remains open. No new GUA-W layer or Gear is established.
