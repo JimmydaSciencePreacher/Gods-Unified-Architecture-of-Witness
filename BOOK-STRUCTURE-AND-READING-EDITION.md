@@ -211,6 +211,9 @@ Primary reading:
 - [KJV Freewill Phrase Register](scriptural-reconstruction/KJV-FREEWILL-PHRASE-REGISTER.md)
 
 ### Chapter 15. God's Purpose and the Saving Work of Christ
+
+**Read the completed chapter:** [Chapter 15 — God's Purpose and the Saving Work of Christ](book/15-GODS-PURPOSE-AND-THE-SAVING-WORK-OF-CHRIST.md)
+
 Read the integrated Human Will and Salvation reference work as a connected canonical investigation, not as a sequence of isolated proof texts. Its internal passage register and section headings provide the detailed navigation.
 
 Primary reading:
