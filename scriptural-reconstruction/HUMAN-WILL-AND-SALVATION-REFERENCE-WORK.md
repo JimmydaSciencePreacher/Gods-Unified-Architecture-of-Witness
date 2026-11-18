@@ -787,6 +787,160 @@ The Greek strongly supports Paul's explicit contrast: the purpose according to e
 
 **Status:** PASS for the denial that human willing or striving is the source of God's mercy; PASS for God's purpose according to election and His authority to show mercy and harden; PARTIAL for the full relation of individual and corporate election and the complete order of salvation, requiring Romans 10–11 and wider canonical comparison; UNRESOLVED as to the unexpressed agent in the “fitted” clause of verse 22; FAIL for claiming Romans 9 teaches that autonomous human will originates divine mercy.
 
+## 14. Entry — HW-008: Ephesians 2:1–10 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **Ephesians 2:1–10**
+>
+> 1 And you hath he quickened, who were dead in trespasses and sins;
+>
+> 2 Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:
+>
+> 3 Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
+>
+> 4 But God, who is rich in mercy, for his great love wherewith he loved us,
+>
+> 5 Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)
+>
+> 6 And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:
+>
+> 7 That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.
+>
+> 8 For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
+>
+> 9 Not of works, lest any man should boast.
+>
+> 10 For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
+
+### B. Argument commonly made
+
+This passage is used in more than one direction in arguments about the human will.
+
+One argument emphasizes that people are “dead in trespasses and sins” (vv. 1, 5). It reasons that spiritual death entails inability to originate spiritual life, and that God's quickening must therefore precede any saving response. The passage certainly places the former condition and God's life-giving action in direct contrast; the further question of the precise relation and chronology of faith and quickening must still be examined from Paul's wording and the wider canon.
+
+A second argument emphasizes “through faith” (v. 8) and says that faith is a human response; it then concludes that the individual independently originates the decisive act by which salvation occurs. The first observation is true: Paul names faith as the means through which salvation is received. The second conclusion does not follow automatically. The verse immediately says that salvation is “not of yourselves” and is “the gift of God,” while verse 9 excludes works as its source and grounds for boasting.
+
+A third argument says that the words “and that not of yourselves: it is the gift of God” prove specifically that faith itself is the gift, while another says that the gift refers only to salvation and excludes faith. The Greek demonstrative and its antecedent must be examined before either conclusion is asserted.
+
+This entry must preserve all the elements Paul actually states: the dead condition, real human conduct and desire, God's intervention, grace, faith, the exclusion of works, and the creation of a people in Christ for good works.
+
+### C. Immediate biblical context
+
+**Ephesians 1:15–23** supplies the preceding argument. Paul prays that believers may know the hope of God's calling, the riches of His inheritance, and the exceeding greatness of His power toward those who believe. He describes that power in relation to God's raising Christ from the dead, seating Him at His right hand, and placing all things under His feet. Ephesians 2 continues this resurrection and power language by describing the believers' being made alive, raised, and seated together with Christ. The connection is important: the life-giving action in chapter 2 belongs to the power and work of God already described in chapter 1.
+
+**Ephesians 2:1–3** describes the former condition. The KJV's “hath he quickened” in verse 1 is supplied in italics; the Greek text begins “And you, being dead...” and does not express the finite verb “made alive” until verse 5. The object “you” is held in suspense through the description of the former condition, and the sentence reaches its main action in “God ... hath quickened us together with Christ” (v. 5). The KJV supply makes the connection understandable, but the original construction should not be overlooked.
+
+Paul describes the former life as a walk according to the age/course of this world and according to the ruler of the authority of the air (v. 2). He then includes “we all” in the former conduct of lusts and desires (v. 3). The movement from “you” to “we all” prevents the writer and his wider audience from treating the former condition as a problem belonging only to some other group. The later context in verses 11–22 identifies the “you” in relation to Gentiles and describes Christ's reconciliation of both groups into one new humanity. The exact rhetorical scope of “we all” should be read in that Jew/Gentile context rather than used to erase the passage's movement between “you” and “we.”
+
+**Ephesians 2:4–7** gives the decisive contrast: “But God.” God is rich in mercy; His great love is the stated ground of His action. Even while those addressed were dead in sins, God made them alive together with Christ, raised them together, and seated them together in heavenly places in Christ. The repeated “together with” language locates the believers' life and exalted status in union with Christ. The purpose stated in verse 7 is the display of the exceeding riches of God's grace in coming ages.
+
+**Ephesians 2:8–10** explains salvation by grace through faith, excludes boasting and works as its source, and then identifies believers as God's workmanship, created in Christ Jesus for good works which God prepared beforehand. Works are not the originating ground of salvation; they are the stated purpose and walk of those created in Christ.
+
+**Ephesians 2:11–22** continues the chapter by describing Gentiles formerly alienated from the commonwealth of Israel and strangers from the covenants of promise, brought near by the blood of Christ. Christ makes peace, reconciles both unto God in one body by the cross, and builds them together as a habitation of God through the Spirit. The salvation described in verses 1–10 is therefore not an isolated private transaction detached from Paul's wider account of reconciliation and the one people created in Christ.
+
+### D. Counter-texts and contextual qualifications
+
+**Ephesians 1:19–23** is the closest preceding context. The power toward believers is compared with the divine power exercised in raising Christ and seating Him above all principality and power. Chapter 2's made-alive, raised, and seated language continues that Christ-centered account. The text does not present spiritual life as an achievement independent of God's power.
+
+**Ephesians 2:11–22** qualifies any reading that reduces the passage to a purely individual account. Paul describes the reconciliation of Jew and Gentile, the removal of enmity, and the creation of one new man in Christ. The individual believer's salvation belongs within this corporate reconciliation.
+
+**Colossians 2:12–13** is a close Pauline comparison. Paul speaks of being buried with Christ in baptism, raised with Him through faith in the operation of God, and being quickened together with Him, having forgiven trespasses. This supports the connection between divine operation, union with Christ, faith, and life. It does not by itself settle every chronological question about regeneration and faith.
+
+**Romans 6:1–11** describes believers as united with Christ in His death and resurrection and as walking in newness of life. It confirms that the new life is grounded in Christ's death and Resurrection and has consequences for conduct. It should not be used to erase Paul's own wording in Ephesians.
+
+**Titus 3:3–7** describes the former condition as foolishness, disobedience, deception, and serving diverse lusts; then says that salvation is not by works of righteousness which we have done, but according to God's mercy, by the washing of regeneration and renewing of the Holy Ghost, whom God shed abundantly through Jesus Christ. This is a significant parallel for divine mercy and life-giving renewal. It requires its own full entry before its details are treated as settled.
+
+**John 6:35–45, 63–65** remains relevant because Jesus speaks of the Father's giving, drawing, and teaching, the Spirit's quickening, and the inability of anyone to come unless it is given by the Father. HW-006 has already recorded those statements while leaving the complete order of regeneration and faith open.
+
+**Philippians 1:29** says that unto believers it is given on behalf of Christ not only to believe on Him but also to suffer for His sake. This is relevant to whether faith may be spoken of elsewhere as granted by God. It should be examined in its own context and not used to make Ephesians 2:8 say more than its syntax establishes.
+
+**Romans 10:9–17** explicitly speaks of believing, confessing, hearing, and preaching. These human responses remain real in Paul's account. Their presence does not, by itself, identify autonomous human will as their originating cause.
+
+### E. Original Greek findings
+
+- **ὄντας (*ontas*)**, “being” (v. 1): present active participle, accusative masculine plural, from εἰμί (*eimi*), “be.” It describes the state of those addressed. The finite verb “made alive” is not present in verse 1's Greek clause; the KJV supplies “hath he quickened” from the main verb in verse 5. The participial construction continues through the description of the former condition.
+- **νεκρούς (*nekrous*)**, “dead” (vv. 1, 5): accusative masculine plural adjective, “dead.” The context identifies the sphere or condition as trespasses and sins. The word is used of spiritual death here, not physical cessation of bodily life. It must not be made to mean that the people described had no desires, actions, choices, or conduct: Paul expressly describes their walking, living, and fulfilling desires in verses 2–3.
+- **παραπτώμασιν (*paraptōmasin*)**, “trespasses” (vv. 1, 5): dative plural of παράπτωμα (*paraptōma*), a false step, trespass, or transgression. **ἁμαρτίαις (*hamartiais*)**, “sins” (v. 1): dative plural of ἁμαρτία (*hamartia*), sin. The paired terms describe the moral/spiritual condition; no rigid distinction between two separate classes of sin should be imposed solely from the two nouns.
+- **περιεπατήσατε (*periepatēsate*)**, “ye walked” (v. 2): aorist active indicative, second person plural, from περιπατέω (*peripateō*). In this context “walk” describes the former course or manner of life, not literal physical locomotion. The people are described as active participants in a pattern of conduct.
+- **αἰῶνα (*aiōna*)**, “course” (v. 2): accusative singular of αἰών (*aiōn*), commonly “age.” The phrase describes the age/order of this world. The translation “course” communicates the prevailing order or pattern, but the underlying word should not be confused with κόσμος (*kosmos*), “world.”
+- **ἄρχοντα (*archonta*)** and **ἐξουσίας (*exousias*)** (v. 2): “prince/ruler” and “authority/power.” Paul describes a hostile spiritual ruler and the sphere of authority associated with the air. The identity and scope of this ruler belong to the wider biblical teaching about Satan; the phrase must not be expanded into an independent power equal to God.
+- **ἐνεργοῦντος (*energountos*)**, “worketh” (v. 2): present active participle, genitive masculine singular, from ἐνεργέω (*energeō*), “work/operate.” Paul describes an active operation in the children of disobedience. The phrase does not erase the human conduct also described in the passage.
+- **ἀνεστράφημεν (*anestraphēmen*)**, “we had our conversation” (v. 3): aorist passive-form verb used intransitively, first person plural, from ἀναστρέφω (*anastrephō*), describing conduct or manner of life. **ἐπιθυμίαις (*epithymiais*)**, “lusts/desires,” identifies desires in which that former life was lived. **ποιοῦντες (*poiountes*)**, “fulfilling,” is a present active participle, nominative masculine plural, from ποιέω (*poieō*). The text expressly attributes active doing to the people described.
+- **θελήματα (*thelēmata*)**, “desires” (v. 3): accusative plural of θέλημα (*thelēma*), will, desire, or what is willed. It is qualified by “of the flesh and of the mind.” This is not a technical definition of the whole human will, nor does the noun by itself establish autonomous authority or originating power. It does show that the former conduct involved the enactment of desires.
+- **ἤμεθα (*ēmetha*)**, “we were” (v. 3): imperfect form of εἰμί, first person plural. **τέκνα φύσει ὀργῆς (*tekna physei orgēs*)**, “children of wrath by nature,” describes the former standing/condition. φύσει (*physei*) means “by nature” or “by disposition/constitution” according to context. The phrase is weighty, but this verse alone does not provide a complete philosophical account of inherited sin or every aspect of human nature.
+- **ὁ δὲ θεός (*ho de theos*)**, “But God” (v. 4): the explicit subject of the contrast and the following saving actions. The contrast is not between human self-repair and divine assistance; it is between the former condition and God's mercy and love.
+- **συνεζωοποίησεν (*synezōopoiēsen*)**, “hath quickened ... together with” (v. 5): aorist active indicative, third person singular, from συνζωοποιέω (*syzōopoieō*), “make alive together with.” God is the grammatical subject; the people are the recipients of the action. The σύν (*syn*) element joins the life-giving action to Christ. The aorist presents the action as a whole; it does not, by itself, supply a complete chronology of every element of salvation.
+- **χάριτί (*chariti*)**, “by grace” (vv. 5, 8): dative singular of χάρις (*charis*), grace or favor. The phrase identifies grace as the basis or means in Paul's description of salvation, not a reward earned by the recipients.
+- **ἐστε σεσῳσμένοι (*este sesōsmenoi*)**, “are ye saved / you have been saved” (vv. 5, 8): present indicative of εἰμί with a perfect passive participle of σῴζω (*sōzō*), “save/rescue/deliver.” The construction presents a completed saving action with a continuing resulting state. The passive form describes the recipients as those who have been saved; it does not name them as the originating savior.
+- **συνήγειρεν (*synēgeiren*)** and **συνεκάθισεν (*synekathisen*)**, “raised us up together” and “made us sit together” (v. 6): aorist active indicative verbs with σύν (*syn*), “with/together.” God remains the subject. The believers' raised and seated status is “in Christ Jesus”; it is not an independent human achievement.
+- **διὰ πίστεως (*dia pisteōs*)**, “through faith” (v. 8): διά (*dia*) with the genitive marks means or mediation; πίστις (*pistis*) means faith, trust, or believing. Faith is expressly named as the means through which salvation is received. The phrase must not be deleted or made unreal. Its presence does not, by itself, identify autonomous human will as the originating source of faith.
+- **τοῦτο (*touto*)**, “that/this” (v. 8): nominative neuter singular demonstrative pronoun. χάρις (“grace”) and πίστις (“faith”) are feminine nouns. The neuter demonstrative is commonly understood as pointing to the preceding thought or event as a whole—salvation by grace through faith—rather than simply agreeing with the feminine noun “faith.” Grammatical gender is an important caution against the simplistic claim that the pronoun must refer exclusively to faith. It is not, by itself, sufficient to settle every theological question about whether faith is also given by God; that question requires the wider canonical evidence. The clause clearly denies that salvation is “of yourselves” and identifies it as God's gift.
+- **οὐκ ἐξ ὑμῶν (*ouk ex hymōn*)**, “not of yourselves” (v. 8): the preposition ἐκ (*ek*) marks source or origin. Paul denies that the saving reality under discussion originates from the recipients themselves.
+- **ἔργων (*ergōn*)**, “works” (v. 9): genitive plural of ἔργον (*ergon*), work or deed. The phrase “not of works” excludes works as the source or ground of salvation and excludes boasting. It does not say that good works have no place in the believer's life; verse 10 immediately states their place.
+- **ποίημα (*poiēma*)**, “workmanship” (v. 10): nominative neuter singular of ποιέω (*poieō*), something made or created, workmanship. Paul identifies believers as God's handiwork.
+- **κτισθέντες (*ktisthentes*)**, “created” (v. 10): aorist passive participle, nominative masculine plural, from κτίζω (*ktizō*), “create.” The passive form identifies believers as those created in Christ Jesus; God is the implied creator in the context.
+- **προητοίμασεν (*proētoimasen*)**, “hath before ordained/prepared” (v. 10): aorist active indicative, third person singular, from προετοιμάζω (*proetoimazō*), “prepare beforehand.” God is the expressed subject who prepared the good works beforehand. The purpose is that believers should walk in them. This is not a statement that good works earn the creation in Christ; it places them as the intended walk of those created in Him.
+
+### F. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| Former spiritual condition | EXPLICITLY ESTABLISHED | The people are described as dead in trespasses and sins (vv. 1, 5). |
+| Human agency and conduct | EXPLICITLY PRESENT | They walked according to the world, lived in desires, and fulfilled the desires of flesh and mind (vv. 2–3). |
+| Human choice | PRESENT IN THE DESCRIPTION OF CONDUCT; NOT A COMPLETE THEORY OF CHOICE | Paul describes active conduct and the fulfillment of desires but does not set out a philosophical definition of choice. |
+| Human responsibility | PRESENT; NOT EXHAUSTIVELY ANALYSED | Trespasses, sins, disobedience, and conduct are attributed to the people; the passage does not provide a complete account of accountability. |
+| Human ability | SPIRITUAL LIFE-GIVING NEED IS ESTABLISHED; TOTAL INABILITY CLAIMS REQUIRE CARE | The dead condition and God's quickening establish the need for divine life. The metaphor does not mean that people had no activity or capacity for ordinary decisions; verses 2–3 expressly describe activity. |
+| Willingness/desire | EXPLICITLY PRESENT IN THE FORMER CONDUCT | The people fulfill desires of flesh and mind (v. 3). The passage does not define all dimensions of the will or identify desire as the source of spiritual life. |
+| Divine initiative | EXPLICITLY ESTABLISHED | God, rich in mercy and love, makes alive, raises, and seats believers with Christ (vv. 4–6). |
+| Spiritual life/regeneration | LIFE-GIVING ACTION EXPLICITLY ESTABLISHED | God makes those dead in sins alive together with Christ (v. 5). The passage does not use the noun “regeneration” here, but the life-giving action is explicit. |
+| Faith | EXPLICITLY NAMED AS THE MEANS | Salvation is through faith (v. 8). The verse does not by itself settle the complete causal order of faith and quickening. |
+| Salvation's source | EXPLICITLY NOT FROM THE RECIPIENTS; GOD'S GIFT | “Not of yourselves” and “the gift of God” (v. 8). |
+| Works as the source/ground of salvation | EXPLICITLY EXCLUDED | “Not of works, lest any man should boast” (v. 9). |
+| Good works as the intended walk | EXPLICITLY ESTABLISHED | Believers are created in Christ unto good works prepared beforehand by God (v. 10). |
+| Complete chronology of regeneration and faith | NOT EXHAUSTIVELY SETTLED | The passage joins divine quickening, grace, and faith but does not state a complete temporal sequence in technical terms. |
+| Autonomous human will as the originating cause of spiritual life or salvation | NOT ESTABLISHED; CONTRADICTED AS THE SOURCE OF SALVATION | The text identifies God as the one who makes alive and says salvation is not from the recipients but God's gift. |
+
+### G. GUA-W Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** The entry preserves both the former human conduct and God's life-giving action. It does not erase faith, desire, works, or responsibility; it also does not make them the source of salvation. It reads verses 1–10 within Ephesians 1 and 2:11–22.
+- **Scientific coherence — PASS, within scope.** The Greek syntax is used carefully. The KJV's supplied words in verse 1 are identified; the main verb appears in verse 5. The perfect passive construction in verses 5 and 8, the demonstrative in verse 8, and the passive creation language in verse 10 are not made to prove more than their grammar warrants. Competing readings concerning the precise antecedent of “this” are acknowledged.
+- **GUA-W consistency — PASS, within scope.** God is the subject of the decisive life-giving and creating actions. The recipients are described as dead, then made alive with Christ; they are God's workmanship. Their faith and good works are real, but the passage does not assign Original Cause to a derivative human response.
+
+### H. Entry finding and limits
+
+Ephesians 2:1–10 presents a former human condition of spiritual death in trespasses and sins, accompanied by real human conduct, disobedience, desire, and action. Paul does not portray the people as inactive objects; he describes what they walked in and what they did. Yet their activity is not identified as the source of spiritual life.
+
+The decisive contrast is “But God.” While they were dead in sins, God made them alive together with Christ, raised them, and seated them with Him. Paul identifies salvation as by grace through faith, not from the recipients themselves and not from works, so that no one may boast. He then identifies believers as God's workmanship, created in Christ Jesus for good works which God prepared beforehand.
+
+**The passage establishes God's initiative and the divine source of salvation. It preserves faith as the means through which salvation is received. It does not, by itself, provide a complete technical chronology of regeneration and faith, nor does the neuter demonstrative “this” alone settle every question about whether faith is separately described as God's gift.**
+
+The passage does not support the proposition that autonomous human will originates spiritual life or salvation. It also does not support the opposite overstatement that fallen people have no will, desire, action, or responsibility. The former condition includes active conduct; the new life is God's work in Christ.
+
+**Status:** PASS for God's life-giving initiative and salvation as God's gracious gift rather than the product of human works; PASS for the stated place of faith as the means of salvation; PARTIAL for the precise scope of “this” and the complete causal/chronological relation between faith and quickening; UNRESOLVED for a full definition of the human will; FAIL for using Ephesians 2:1–10 to claim that autonomous human will is the originating cause of spiritual life or salvation.
+
+### I. Related GUA-W recognition and cross-references
+
+The passage witnesses the distinction between Original Cause and derivative response. God acts in mercy and love; those made alive are joined to Christ, and their subsequent walk is directed toward good works prepared beforehand. The text's sequence is a Scriptural observation, not a proposal to create or modify GUA-W architecture.
+
+Relevant established distinctions include:
+- Author/source versus recipient;
+- divine life-giving action versus human conduct;
+- salvation's source versus its means of reception;
+- works as a result/purpose versus works as an originating ground;
+- completed divine action and the continuing state described by the perfect passive construction.
+
+No new GUA-W layer, Gear, or architectural component is proposed by this entry.
+
+### J. Research queue
+
+1. HW-009 — James 1:16–18: examine “of his own will begat he us,” the word of truth, and the source of new birth.
+2. Compare Philippians 1:29 in its own context for the statement that believing is granted.
+3. Continue the canonical relation among Ephesians 2:1–10, John 6:35–65, Romans 9–10, Titus 3:3–7, and Colossians 2:12–13 without collapsing their distinct arguments.
+4. Keep U-006 (definition and components of human will) open. Ephesians 2 adds evidence concerning desire, conduct, and divine quickening but does not provide an exhaustive definition.
+
+---
+
 ## 14. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
@@ -799,7 +953,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-005 | John 3:1–8 | COMPLETED — see entry above. |
 | HW-006 | John 6:35–45, 63–65 | COMPLETED — see entry above. |
 | HW-007 | Romans 9:6–24 | COMPLETED — see entry above. |
-| HW-008 | Ephesians 2:1–10 | What is the relation between being dead in sins, God's quickening, grace, faith, and works? |
+| HW-008 | Ephesians 2:1–10 | COMPLETED — see entry above. |
 | HW-009 | James 1:16–18 | Who is identified as the source of the new birth, and what is the force of “of his own will”? |
 | HW-010 | Philippians 2:12–13 | How do human working and God's working “in you” relate? |
 | HW-011 | 1 Corinthians 2:10–16 | What does the natural man's inability to receive the things of the Spirit establish? |
