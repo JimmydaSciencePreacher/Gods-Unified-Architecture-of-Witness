@@ -6,6 +6,10 @@ The purpose of this repository is to **present the completed GUA-W and make visi
 
 This repository does not replace or silently modify the original GUA-W repository. The original remains the historical source record. This repository presents the completed architecture first, alongside Scriptural foundations, textual investigations, evidence audits, and explanations that distinguish established architecture from the evolving clarity of its written presentation.
 
+## Read GUA-W as a book
+
+Start with the [Book Structure and Reading Edition](BOOK-STRUCTURE-AND-READING-EDITION.md). It presents the repository as a continuous journey through the Author, the Creation foundation, the completed architecture, the Scriptural witness of Christ, salvation, and the sciences. Each chapter links to the detailed source investigations. The research library remains intact as the evidence base; the book is the guided reading path, not a replacement for it.
+
 ## The completed architecture
 
 - [God's Unified Architecture of Witness — Completed Form](GUA-W-COMPLETED-ARCHITECTURE.md)
