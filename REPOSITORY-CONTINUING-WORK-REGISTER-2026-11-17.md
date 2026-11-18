@@ -239,3 +239,9 @@ Continue by independently verifying the KJV phrase occurrences and then investig
 
 **Next passage:** HW-017, Ephesians 1:3–14, examining election, adoption, redemption, hearing the Word of truth, believing, and sealing with the Spirit.
 
+
+
+**Seventeenth entry recorded — HW-017, Ephesians 1:3–14 (2026-11-18).** The passage attributes choosing, predestinating, purposing, revealing, and working to God; the choosing is in Christ and before the foundation of the world. Predestination is unto adoption; redemption is through Christ's blood. Verses 13–14 include hearing the Gospel, believing, being sealed, and the Spirit as the earnest/guarantee of the inheritance. The KJV's first “trusted” in verse 13 is supplied in English; the Greek construction has participles “having heard” and “having believed” with “you were sealed” as the finite passive verb. The aorist participles do not by themselves establish a long interval between faith and sealing. No GUA-W architectural change is proposed.
+
+**Next passage:** HW-018, Romans 9:6–24, examining mercy, hardening, election, and the potter/clay argument in context.
+
