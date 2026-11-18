@@ -131,14 +131,18 @@ Preserve genuine lexical and grammatical uncertainty. Recognize supported relati
 
 A preliminary chat outline titled “The Word Given, Received, Challenged, and Witnessed” exists. It is **not yet a dedicated repository investigation**. Before opening it as a formal study, examine the full textual sequence and relevant countertexts, distinguish explicit text from inference, and identify the supported relationship to the completed architecture. Do not treat the chat outline as a completed result.
 
-## 6. Terminology and editorial notes
+## 6. New governing method — cross-disciplinary investigation
+
+A new governing methodological principle has been recorded in [Cross-Disciplinary Investigation Principle](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md). It clarifies that the sciences are not asked to adopt GUA-W before their evidence can be investigated. Each discipline's findings are examined in their own methods and scope; GUA-W is the governing map for recognizing supported relationships, common order, and mistaken interpretations. The principle explicitly guards against confirmation bias, forced correspondences, and claims of scientific confirmation beyond the evidence. It is a method for inquiry, not a new architectural component. Future cross-disciplinary audits should follow it and cite their sources, alternatives, counterevidence, Triple Constraint disposition, and unresolved questions.
+
+## 7. Terminology and editorial notes
 
 - Current root documents explicitly define the name as **God's Unified Architecture of Witness**, and explicitly say the word is “God's,” not “Grand.” This is internally consistent across the current README, Governing Principles, and completed-architecture presentation. It is recorded here as the repository's current governing terminology; do not silently change it.
 - The filename `GUA-W-CANDIDATE-GEARS-FROM-GENESIS-2-3.md` retains the historical word “CANDIDATE,” but its current document title and body say it is a recognition record, not a construction queue. The body governs its current purpose; a filename cleanup is optional editorial work, not an architecture change.
 - Two holography/black-hole-information audits remain in the tree. Their relationship requires comparison before deciding whether one should be retired, merged, or retained for a distinct scope.
 - The original repository inventory is explicitly preliminary. It must not be described as a complete scientific or claim-level audit of the original repository.
 
-## 7. Overall disposition
+## 8. Overall disposition
 
 **Repository status: ACTIVE; documentation and investigations remain in progress. GUA-W status: COMPLETE.**
 
