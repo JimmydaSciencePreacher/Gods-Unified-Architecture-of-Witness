@@ -6,17 +6,15 @@
 
 ## 1. Scriptural starting point and governing posture
 
-**This study begins at Genesis 22:18–19 (KJV).** It does not begin with a theological system's definition of Free Will, nor with a preacher's preferred conclusion. It begins with the passage God has given and follows the text through its context and the wider testimony of Scripture.
+**This study begins at Revelation 22:18 (KJV).** The starting text is the warning against adding to the words of the prophecy of this book. This governs how the investigation handles Scripture: we must not add meanings, premises, or conclusions that the text does not give.
 
-> **Genesis 22:18–19**
+> **Revelation 22:18**
 >
-> 18 And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
->
-> 19 So Abraham returned unto his young men, and they rose up and went together to Beer-sheba; and Abraham dwelt at Beer-sheba.
+> 18 For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, God shall add unto him the plagues that are written in this book:
 
-These verses are not to be detached from Genesis 22:1–19. The account includes God's command and testing of Abraham, Abraham's obedience, the provision of the ram, the reaffirmation of the oath and promise, and Abraham's return. Verse 18 explicitly connects the promised blessing of all nations in Abraham's seed with Abraham's obedience to God's voice. Verse 19 records the return from the event. The study must examine what this wording establishes—and what it does not establish—before drawing conclusions about will, choice, obedience, promise, seed, or salvation.
+The immediate context must be preserved. Revelation 22:18–19 gives the paired warning concerning adding to and taking away from the words of the book of this prophecy. The scope of “this book” must be handled carefully in its literary setting; the verse must not be casually expanded into a claim that it directly settles every interpretive dispute or every question about the canon. Its force here is methodological: the study must neither add to Scripture nor take from it.
 
-The starting point is therefore not permission to read a complete doctrine into two verses. It is the appointed textual point of departure. The investigation must trace the promise and its fulfilment through Scripture, preserving the distinction between God's originating word and the human obedience that the passage actually records.
+This warning governs every entry that follows. We will not insert “Free Will,” autonomous spiritual ability, or any other theological premise into a passage unless the passage and its context establish it. Nor will we remove the words that challenge a preferred doctrine. Claims must be tested by the whole relevant testimony of Scripture, with distinctions kept clear and conclusions limited to what the evidence warrants.
 
 **Governing posture:** This is a direct, unsparing examination of claims made in the name of Scripture. No doctrine receives protection because it is popular, traditional, comforting, or preached with confidence. Equally, no passage may be exaggerated to make a stronger claim than its words and context support. The force of the conclusion must come from the Word itself.
 
