@@ -3,7 +3,7 @@
 
 **Purpose:** Present the existing GUA-W record as a coherent book-length reading journey while preserving the complete research library as its evidence base.
 
-**Editorial status:** Reading architecture established; continuous chapter prose remains an editorial work in progress.
+**Editorial status:** All 18 planned chapters have been drafted. Full-book editorial review, cross-chapter consistency checks, and source-link verification are in progress.
 
 **Governing order:** Author → Word → Creation → Witness.
 
@@ -49,11 +49,6 @@ Examine inquiry, discovery, evidence, measurement, interpretation, and witness. 
 Primary reading:
 - [The Answer Before the Question](THE-ANSWER-BEFORE-THE-QUESTION.md)
 - [Investigation Protocol](INVESTIGATION-PROTOCOL.md)
-
-Examine inquiry, discovery, evidence, and witness. A question may be new to the investigator; the reality being investigated is not thereby new.
-
-Primary reading:
-- [The Answer Before the Question](THE-ANSWER-BEFORE-THE-QUESTION.md)
 
 ### Chapter 3. Theology and the Differentiated Sciences
 
