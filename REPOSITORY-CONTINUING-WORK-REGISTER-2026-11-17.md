@@ -221,3 +221,9 @@ Continue by independently verifying the KJV phrase occurrences and then investig
 
 **Next passage:** HW-014, 1 John 5:1, examining the relation between believing that Jesus is the Christ and having been born of God.
 
+
+
+**Fourteenth entry recorded — HW-014, 1 John 5:1 (2026-11-18).** John identifies the one believing that Jesus is the Christ as one who has been born of God. The birth verb γεγέννηται is perfect passive, and ἐκ τοῦ θεοῦ identifies God as the source. The perfect presents an accomplished birth with a resulting state; it does not by itself specify a measurable chronology between regeneration and the first act of faith. The passage rejects self-generated spiritual birth while affirming real believing, love, obedience, and overcoming. No GUA-W architectural change is proposed.
+
+**Next passage:** HW-015, 2 Thessalonians 2:13–14, examining divine choice, sanctification of the Spirit, belief of the truth, and calling through the gospel.
+
