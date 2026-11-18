@@ -133,3 +133,9 @@ A PASS is always scope-limited, not a universal endorsement. These labels descri
 - [Evidence Audit — Genesis 2, Daniel 12:4, and Twelve-Step Restore](audits/EVIDENCE-AUDIT-Genesis-2-Daniel-12-and-Twelve-Step-Restore.md)
 
 A file's presence here does not, by itself, make its contents canonical.
+
+
+## Human Will and Salvation Reference Work
+
+- [The Biblical Examination of the Human Will](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md)
+- [KJV “Freewill” Phrase Register](scriptural-reconstruction/KJV-FREEWILL-PHRASE-REGISTER.md)
