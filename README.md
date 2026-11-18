@@ -123,6 +123,7 @@ A PASS is always scope-limited, not a universal endorsement. These labels descri
 - [Evidence Audit — Quantum Foundations and Unitarity](audits/EVIDENCE-AUDIT-Quantum-Foundations-and-Unitarity.md)
 - [Evidence Audit — Double-Slit and Observer Anomaly](audits/EVIDENCE-AUDIT-Double-Slit-and-Observer-Anomaly.md)
 - [Evidence Audit — Holography and Black-Hole Information](audits/EVIDENCE-AUDIT-Holography-and-Black-Hole-Information.md)
+- [Comparative Review — Holography and Black-Hole Information Audits](audits/COMPARATIVE-REVIEW-HOLOGRAPHY-BLACK-HOLE-INFORMATION-AUDITS.md)
 - [Evidence Audit — ER=EPR and Quantum Entanglement](audits/EVIDENCE-AUDIT-ER-EPR-and-Quantum-Entanglement.md)
 - [Evidence Audit — Genesis 2, Daniel 12:4, and Twelve-Step Restore](audits/EVIDENCE-AUDIT-Genesis-2-Daniel-12-and-Twelve-Step-Restore.md)
 
