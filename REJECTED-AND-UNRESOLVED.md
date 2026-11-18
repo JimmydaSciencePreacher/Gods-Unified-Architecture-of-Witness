@@ -483,3 +483,28 @@ Related record: [Genesis 4:13–16 — Text-First Reconstruction](scriptural-rec
 
 **Related investigation:** [The Biblical Examination of the Human Will — HW-013, Acts 13:44–48](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
 
+
+
+## 23. Evidence update — 1 John 5:1 (2026-11-18)
+
+### U-006 supplement — Divine birth and believing
+
+**New evidence reviewed:** 1 John 5:1–5, with 1 John 2:29; 3:9; 4:7; John 1:12–13; John 3:3–8; James 1:18; and 1 Peter 1:23 as comparisons.
+
+**Textual observations:**
+- John identifies everyone believing that Jesus is the Christ as one who has been born of God (1 John 5:1).
+- γεγέννηται is a perfect passive indicative of γεννάω; ἐκ τοῦ θεοῦ identifies God as the source.
+- The perfect presents the birth as accomplished with a resulting state, but does not alone establish a measurable interval between new birth and the first act of faith.
+- John connects birth from God with righteousness, love, and overcoming (1 John 2:29; 3:9; 4:7; 5:4).
+- Believing remains explicit and real in the passage (5:1, 4–5); it must not be erased.
+
+**Effect on question:** The verse does not teach that a person begets himself by believing. It names God as the source of birth and identifies the believer as one who has been born of God. The wider Johannine witness supports divine initiative and describes faith, love, obedience, and overcoming as marks of this life.
+
+**Limits:** The perfect tense alone does not settle the exact chronology or causal mechanics between regeneration and the first act of faith. This verse is not a complete order-of-salvation formula.
+
+**Status remains:** UNRESOLVED for the full chronology and causal mechanics; PASS for God's being the source of birth and against self-generated spiritual birth.
+
+**Guardrail:** Do not claim that the perfect tense by itself proves a precise temporal interval. Do not make faith unnecessary. Do not turn the believer into the author of his own birth. Do not infer the entire doctrine of regeneration from this single sentence.
+
+**Related investigation:** [The Biblical Examination of the Human Will — HW-014, 1 John 5:1](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
+
