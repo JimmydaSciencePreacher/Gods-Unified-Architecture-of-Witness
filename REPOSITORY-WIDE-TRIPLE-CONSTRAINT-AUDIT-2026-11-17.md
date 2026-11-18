@@ -214,7 +214,7 @@ The repository must not imply that GUA-W is incomplete because the written inves
 
 This section supplements the 2026-11-17 audit; it does not rewrite its historical findings or imply that the original claim-level work is complete.
 
-A fresh recursive tree inspection on 2026-11-18 found 101 entries: 98 files and 3 directories. A complete [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) was added, and the README now links to it. The map indexes all tracked files and provides a reader's route through the governing documents, completed architecture, Scriptural foundation, canonical investigations, and evidence audits. It is a navigation record, not a certification of every claim.
+A fresh recursive tree inspection on 2026-11-18 found 102 entries: 99 files and 3 directories. A complete [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) was added, and the README now links to it. The map indexes all tracked files and provides a reader's route through the governing documents, completed architecture, Scriptural foundation, canonical investigations, and evidence audits. It is a navigation record, not a certification of every claim.
 
 The continuing-work register now contains a dated rebaseline that supersedes the original 2026-11-17 priority queue as a statement of current order. In particular:
 - U-006 is narrowed with its beginning-account answer recorded; U-007 is resolved. These are not to be carried forward as wholly unresolved questions.
