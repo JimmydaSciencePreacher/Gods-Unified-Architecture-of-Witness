@@ -291,7 +291,7 @@ The text explicitly gives:
 - Broad permission concerning the trees.
 - A specific prohibition and stated consequence.
 
-This supplies a textual basis for investigating how purpose and boundaries relate to the arrangement in which the man is placed and the work he is given.
+This supplies the Scriptural basis for recognizing, within the completed GUA-W, the relationship among purpose, appointed place and boundaries, and the work the man is given.
 
 But precision is essential:
 
