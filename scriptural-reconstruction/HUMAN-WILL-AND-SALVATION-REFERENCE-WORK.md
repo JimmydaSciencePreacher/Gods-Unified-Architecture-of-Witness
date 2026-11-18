@@ -3464,3 +3464,116 @@ This is a summary of the relationships expressly narrated across the cited passa
 **Finding:** The Father's purpose precedes the historical witness; the Son's keeping and sending are explicit in John 17; the Spirit's outpouring by the exalted Jesus is explicit in Acts 2:33; the promise's reach to those the Lord calls is explicit in Acts 2:39; and the apostles' word is the stated means through which later believers come to Christ in John 17:20. These passages illuminate one another without erasing their distinct audiences, contexts, or terms.
 
 This section extends the integrated canonical synthesis. It does not create a new HW number, a new Resurrection event, a new GUA-W component, or a complete chronological doctrine beyond what the texts state.
+
+
+## 39. The Book of Life and the time of the Father's purpose — Revelation 17:8, Revelation 13:8, John 17:6, 24, and Genesis 2:1–5 (2026-11-18)
+
+This section extends section 35. It does not replace its conclusion or create a new passage-level HW number. The question is narrower: what does Scripture actually say about the temporal relation of the Book of Life, the Father's giving of people to the Son, and the purpose established before the world?
+
+### A. Revelation 17:8 — the clearest temporal statement concerning the book
+
+The KJV describes the earth-dwellers “whose names were not written in the book of life from the foundation of the world.” The Greek clause includes:
+
+- **οὐ γέγραπται (*ou gegraptai*)** — “has not been written / is not written”; γέγραπται is perfect passive indicative, third-person singular, from γράφω.
+- **τὸ ὄνομα (*to onoma*)** — “the name” in the critical Greek text represented here. The relative pronoun introducing the group is plural (“whose”); later textual forms also have a plural “names.”
+- **ἐπὶ τὸ βιβλίον τῆς ζωῆς (*epi to biblion tēs zōēs*)** — “in/on the book of life.”
+- **ἀπὸ καταβολῆς κόσμου (*apo katabolēs kosmou*)** — “from/since the foundation of the world.”
+
+In Revelation 17:8 the temporal phrase follows the book-and-writing clause and is most naturally read with the status of being written. The NET textual note treats this attachment as unambiguous here and uses it as the internal comparison for Revelation 13:8.
+
+**What is explicit:** John identifies a class of earth-dwellers whose names have not been written in the Book of Life from the foundation of the world. The clause places their non-inscription in relation to the foundation of the world.
+
+**What is not explicit:** The verse does not narrate the positive act, date, or mechanics by which the names of the redeemed were inscribed. It does not state, in a separate affirmative clause, “the names of the redeemed were written at [a specified moment].” A negative statement about those not written must not be converted into an unqualified account of the positive inscription event.
+
+**Careful inference:** The verse presents the Book of Life distinction as belonging to God's world-spanning purpose, not as a record first improvised in response to the beast's appearance. It strongly supports a pre-historical horizon for the distinction between those written and those not written. It does not disclose the exact act or moment of inscription.
+
+### B. Revelation 13:8 — the attachment question and the internal control
+
+The Greek wording places ἀπὸ καταβολῆς κόσμου after the genitive phrase τοῦ ἀρνίου τοῦ ἐσφαγμένου (“of the Lamb who was slain”). Two readings have therefore been discussed:
+
+1. The phrase modifies **γέγραπται** — the name has not been written in the Book of Life from the foundation of the world.
+2. The phrase modifies **τοῦ ἐσφαγμένου** — the Lamb was slain from the foundation of the world.
+
+The proximity of the phrase to “the Lamb who was slain” makes the second reading grammatically discussable. The parallel wording in Revelation 17:8, however, supplies an important internal control: there the same temporal phrase occurs with the Book of Life writing clause and is naturally attached to the writing/status. The NET note therefore judges it more likely that Revelation 13:8 also attaches the phrase to “written,” while acknowledging the traditional alternative. Vincent Skemp's published study likewise treats the syntax of Revelation 13:8 as a genuine grammatical problem requiring explanation, rather than pretending that word order alone removes the question.
+
+**Finding:** Revelation 17:8 is the clearer temporal witness for the Book of Life clause. Revelation 13:8 can reinforce that reading when read in the light of its internal parallel, but the attachment issue must remain disclosed. Do not make the Lamb's being slain from the foundation the only possible reading of Revelation 13:8; do not claim that the verse is syntactically undisputed.
+
+### C. John 17:6 and 17:24 — the Father gives people to the Son
+
+John 17 supplies explicit language of the Father's giving:
+
+- **John 17:6:** Jesus says the Father gave Him men out of the world; they were the Father's and were given to the Son. The main critical Greek text uses ἔδωκάς (*edōkas*), an aorist active indicative, second-person singular, in the clause “you gave [them] to me.” Some later Greek textual forms read a perfect form. Neither tense, by itself, identifies a pre-creation date.
+- **John 17:24:** Jesus addresses the Father concerning those whom the Father has given Him: “I will that they also, whom thou hast given me, be with me where I am.” The Greek δέδωκάς (*dedōkas*) is perfect active indicative, second-person singular. The temporal phrase πρὸ καταβολῆς κόσμου (*pro katabolēs kosmou*, “before the foundation of the world”) occurs in the following clause and most directly qualifies the Father's love for the Son: “for thou lovedst me before the foundation of the world.”
+- **John 17:5:** likewise speaks of the glory Jesus had with the Father before the world was.
+
+The context unquestionably places the Son's relationship with the Father, the Father's love, and the Father's giving of people to the Son within the divine purpose. But the explicit temporal phrase in John 17:24 dates the Father's love for the Son; it is not grammatically attached to the giving of the people. John 17:6 and 17:24 establish the giving, but do not independently state the date at which that giving occurred.
+
+### D. John 6:37–40 — giving, coming, keeping, and raising
+
+John 6 adds a connected sequence of statements:
+
+- The Father gives to the Son; all that the Father gives will come to the Son (v. 37).
+- The one who comes will not be cast out (v. 37).
+- Jesus came to do the Father's will (vv. 38–39).
+- The Father's will is that the Son lose nothing of all that He has given Him, but raise it up at the last day (v. 39).
+- The one who sees the Son and believes on Him has everlasting life, and the Son will raise him at the last day (v. 40).
+
+In verse 37, δίδωσίν (*didōsin*) is present active indicative, third-person singular: “the Father gives.” The verse states the Father's giving and the sure coming of those given. It does not assign the giving to a calendar date before Genesis 1 or to Genesis 2:1–5. The surrounding passage establishes the Father's initiative, the Son's reception and keeping, and the promised resurrection; it does not supply a complete timestamp for the giving.
+
+### E. The prior-purpose passages — what they date, and what they do not date
+
+The following passages explicitly place aspects of God's saving purpose before the world's foundation or before the ages:
+
+- **Ephesians 1:4–5:** God's choosing in Christ before the foundation of the world and predestination according to His will.
+- **1 Peter 1:19–20:** Christ, the Lamb, foreordained before the foundation of the world and manifested in the last times.
+- **2 Timothy 1:9:** God's purpose and grace given in Christ Jesus before the world began.
+- **Titus 1:2:** the promise of eternal life, which God, who cannot lie, promised before the world began.
+- **John 17:5, 24:** the Son's glory with the Father and the Father's love for the Son before the world/foundation of the world.
+
+These texts establish that God's purpose, grace, promise, and Christ's foreordination are not reactions improvised after human history begins. Ephesians 1:4 is explicit about choosing before the foundation. First Peter 1:20 is explicit about Christ's foreordination. Second Timothy 1:9 and Titus 1:2 are explicit about grace and promise before the ages. These are strong canonical witnesses to prior divine purpose.
+
+**Necessary distinction:** A text that dates election, foreordination, grace, or promise before the foundation does not thereby provide the exact date or mechanics of the inscription of names in the Book of Life. Nor does it automatically date every aspect of the Father's giving in John 6 and John 17 by the same grammatical construction. The canonical connection is real; the wording of each text must remain distinct.
+
+### F. Genesis 2:1–5 — completed Creation and the boundary of the claim
+
+Genesis 2:1–5 records the finishing of the heavens and the earth and all their host, God's cessation from His work on the seventh day, and the state of the earth before the described planting/rain/man-tilling conditions. It is foundational to the GUA-W reading of completed Creation and the order preceding man's formation in the narrative.
+
+However, Genesis 2:1–5 does not mention:
+- the Book of Life;
+- names being written or omitted from a book;
+- a specific act of the Father giving people to the Son;
+- a timestamp for the inscription of names.
+
+Therefore Genesis 2:1–5 may serve as the Creation-completion foundation from which the later canonical account is read. It cannot be cited as an explicit statement that names were written in the Book of Life at that point. Also, “before the foundation of the world” and the seventh-day completion scene are not interchangeable temporal expressions: the former refers to what precedes the world's foundation; Genesis 2:1–5 narrates the completed created order within the Creation account.
+
+This boundary does not deny the user's proposed architectural relationship. It distinguishes an architectural placement or inference from what the cited Genesis verses expressly say. Under the Triple Constraint, the inference must remain identified as an inference unless another Scriptural witness establishes it.
+
+### G. The Book of Life across Revelation — purpose, judgment, and final admission
+
+The wider Revelation passages clarify the function of the book without supplying a separate inscription date:
+
+- **Revelation 3:5:** Christ promises the overcomer that He will not blot the person's name out of the Book of Life and will confess that name before the Father and His angels.
+- **Revelation 20:12–15:** the books are opened; the dead are judged according to their works; the Book of Life is also opened; the one not found written in it is cast into the lake of fire.
+- **Revelation 21:27:** only those written in the Lamb's Book of Life enter the holy city.
+
+These passages present the Book of Life as a divine register associated with belonging, judgment, and final admission. Revelation 3:5 uses the image of not blotting out; Revelation 20:15 speaks of not being found written; Revelation 21:27 identifies those written in the Lamb's book as those admitted. These statements must be held together. The imagery must not be flattened into a human administrative process or used to invent details about when or how God writes.
+
+### H. Integrated finding — answer to “When?”
+
+The evidence supports the following distinctions:
+
+1. **Before the foundation:** Scripture explicitly places God's choosing in Christ, Christ's foreordination, grace, promise, the Son's glory, and the Father's love for the Son before the foundation/world began.
+2. **The Father's giving:** John 6 and John 17 explicitly say the Father gives people to the Son; these passages do not themselves state the precise date of that giving.
+3. **The Book of Life:** Revelation 17:8 most clearly relates the non-inscription of certain names to the foundation of the world. Revelation 13:8 likely supports the same attachment when read with Revelation 17:8, while retaining its known syntactical ambiguity.
+4. **The positive inscription event:** Scripture does not narrate a separate scene or give a precise timestamp/mechanism for the writing of each redeemed person's name.
+5. **Genesis 2:1–5:** establishes completed Creation in the Genesis account, but does not explicitly record the Book of Life or the act of giving people to the Son.
+
+**The strongest supported answer:** God's saving purpose is explicitly prior to the foundation of the world; the Father gives people to the Son; and Revelation places the Book of Life distinction in a foundation-of-the-world horizon. But the exact moment and mechanics of the inscription of each name—and the exact temporal point of the giving described in John 6 and John 17—are not separately narrated. We must not manufacture a timestamp.
+
+### I. Triple Constraint assessment
+
+- **Biblical compliance — PASS within stated limits:** the passages are distinguished according to what they actually date. Revelation 17:8 is treated as the clearest temporal statement about the Book of Life; Revelation 13:8's attachment issue is disclosed; John 17's “before the foundation” phrase is not moved from the Father's love to the giving of the disciples; Genesis 2:1–5 is not made to say what it does not say.
+- **Scientific coherence — PASS within scope:** this is a textual, grammatical, and canonical investigation. The Greek forms are not made to carry a chronology they do not encode.
+- **GUA-W consistency — PASS:** God remains the originating Author and source of purpose; the Father gives; the Son receives, keeps, and raises; the Book of Life belongs to the Lamb; and witnesses report what Scripture reveals without adding an undocumented mechanism.
+
+**Disposition:** Section 35 is strengthened, not overturned. No new GUA-W layer, Gear, runtime stage, or HW passage number is created. The exact inscription timestamp remains unspecified by the passages examined.
