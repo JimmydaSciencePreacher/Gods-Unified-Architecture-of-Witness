@@ -1057,6 +1057,130 @@ Cross-references for continued examination:
 
 ---
 
+## 14. Entry — HW-010: Philippians 2:12–13 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **Philippians 2:12–13**
+>
+> 12 Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.
+>
+> 13 For it is God which worketh in you both to will and to do of his good pleasure.
+
+The immediate literary context begins earlier. Philippians 2:1–4 addresses unity, humility, and regard for others. Verses 5–11 present Christ's humility, obedience unto death, and exaltation by God. “Wherefore” in verse 12 connects the believers' commanded conduct with that preceding Christological presentation. Verses 14–18 describe the conduct and witness expected of the community.
+
+### B. Argument commonly made
+
+Philippians 2:12 is sometimes presented as proof that salvation is ultimately a human work: believers are commanded to “work out” their salvation. This reading overlooks verse 13, which gives the reason for the command and identifies God as working in believers both to will and to do. Paul is not commanding believers to purchase salvation or originate it independently.
+
+The opposite error is to use verse 13 to deny real human willing, obedience, or action. Verse 12 expressly addresses the believers as responsible agents and commands them to work out their salvation. The following verses command concrete conduct. Paul does not erase human activity when he identifies God's operation.
+
+The passage holds both statements together: believers are commanded to work out their salvation, and God works in them both to will and to do. The text does not present these statements as competitors. Nor does it provide a technical account of every causal or chronological relation between divine operation and human willing.
+
+### C. Immediate context and argument
+
+**Philippians 2:1–4 — unity and humility.** Paul appeals to shared encouragement in Christ, comfort of love, fellowship of the Spirit, and compassion. He commands the church to be likeminded, to avoid strife and vainglory, and in humility to esteem others. Each is to look not only on his own things but also on the things of others. The plural address and community-focused commands frame the passage.
+
+**Philippians 2:5–11 — Christ's example and exaltation.** Paul directs the believers to the mind that was also in Christ Jesus. Christ, being in the form of God, took the form of a servant, humbled Himself, and became obedient unto death, even the death of the cross. God highly exalted Him. The “Wherefore” of verse 12 must be read in relation to this account of Christ's humility, obedience, and exaltation. The text is not an isolated philosophical treatise on free will.
+
+**Philippians 2:12 — the believers' commanded working.** Paul acknowledges their obedience, both in his presence and more abundantly in his absence, and commands them to “work out” their own salvation with fear and trembling. The imperative is plural, addressed to the community. “Work out” must not be changed into “work for” as though Paul were describing the purchase or earning of salvation. The command concerns the lived expression and outworking of salvation in the believers' conduct. Its precise relation to the whole scope of salvation, including its final consummation, should be read in the wider letter.
+
+**Philippians 2:13 — God's operation.** “For” gives the reason or ground for the preceding command. God is the stated subject of “worketh.” His operation is “in you” and is expressly related to both willing and doing. The phrase “of his good pleasure” locates the purpose or good pleasure with God. The verse does not say merely that God assists the execution of an independently originated human intention; willing itself is included in what God works in believers.
+
+**Philippians 2:14–18 — visible conduct.** Paul commands them to do all things without murmurings and disputings, to be blameless and harmless, to shine as lights in the world, and to hold forth the word of life. Their conduct is visible and consequential. Paul speaks of his labor, service, rejoicing, and their rejoicing with him. God's operation in verse 13 does not cancel the commands and actions in this following context.
+
+**Philippians 1:27–30 — conduct worthy of the gospel.** The preceding chapter has already called the church to stand fast in one spirit, with one mind striving together for the faith of the gospel. This further confirms the corporate and practical setting of the command in 2:12.
+
+### D. Original-language findings
+
+- **ὥστε (*hōste*)**, “wherefore/so then” (v. 12): a connective that draws an inference or consequence from the preceding argument. The KJV's “Wherefore” correctly signals that verse 12 is not detached from the Christological material in verses 5–11.
+- **ὑπηκούσατε (*hypēkousate*)**, “ye have obeyed” (v. 12): aorist active indicative, second person plural, from ὑπακούω (*hypakouō*), “obey, heed.” Paul recognizes actual obedience by the Philippians. This is not a hypothetical or merely apparent response.
+- **κατεργάζεσθε (*katergazesthe*)**, “work out” (v. 12): present middle imperative, second person plural, from κατεργάζομαι (*katergazomai*), “work out, bring about, accomplish, carry through.” It is a command directed to the believers as a group. The middle form should not be made to mean that they are the independent originating cause of salvation. “Work out” is not equivalent to “earn” or “purchase.”
+- **τὴν ἑαυτῶν σωτηρίαν (*tēn heautōn sōtērian*)**, “your own salvation” (v. 12): σωτηρία (*sōtēria*) means salvation, deliverance, or rescue; ἑαυτῶν is a plural reflexive genitive, “of yourselves/your own.” The plural wording and surrounding church instructions support a corporate dimension, without excluding the participation of each believer. The verse does not by itself settle every aspect of the temporal scope of salvation.
+- **μετὰ φόβου καὶ τρόμου (*meta phobou kai tromou*)**, “with fear and trembling” (v. 12): a phrase expressing seriousness, reverence, and sober concern in the presence of God. It should not be flattened into mere panic, nor should it be made to mean that believers must earn acceptance through anxiety.
+- **θεὸς γάρ (*theos gar*)**, “for it is God” (v. 13): γάρ (*gar*) supplies the reason or explanation for the preceding command. θεός (*theos*) is the subject of the following participial construction. The explanatory connection is essential: the command to work out is grounded in God's operation.
+- **ὁ ἐνεργῶν (*ho energōn*)**, “which worketh” (v. 13): present active participle, nominative masculine singular, from ἐνεργέω (*energeō*), “work, be active, operate.” It identifies God as the one actively operating. The present form portrays the operation as in progress or characteristic; tense alone does not supply a complete chronology.
+- **ἐν ὑμῖν (*en hymin*)**, “in you” (v. 13): ἐν (*en*) with the dative plural pronoun. It can be rendered “in you” and, in this plural church context, may carry a corporate dimension (“among you”) as well. The context includes both the believers' shared life and the operation within them; neither dimension should be dogmatically excluded without further argument.
+- **τὸ θέλειν (*to thelein*)**, “to will” (v. 13): an articular present active infinitive from θέλω (*thelō*), “will, wish, desire.” It is a substantival infinitive, naming willing as an activity or capacity involved in God's operation. The wording expressly includes willing; it does not merely describe divine assistance with the outward execution of a prior independent intention.
+- **καὶ τὸ ἐνεργεῖν (*kai to energein*)**, “and to do” (v. 13): an articular present active infinitive from ἐνεργέω (*energeō*), “work, operate, accomplish.” It is coordinated with “to will.” Both willing and doing are included in what God works in believers. The shared lexical family between God's “working” (ὁ ἐνεργῶν) and the believers' “doing/working” (τὸ ἐνεργεῖν) should be noticed without confusing their grammatical roles.
+- **ὑπὲρ τῆς εὐδοκίας (*hyper tēs eudokias*)**, “of his good pleasure” (v. 13): εὐδοκία (*eudokia*) denotes good pleasure, purpose, or favorable intention. The phrase locates the good pleasure with God in the context. The precise force of ὑπέρ (*hyper*) should be handled by the translation and context; the main point is that the willing and doing are related to God's good pleasure, not an independent human purpose.
+- **Tense and sequence limitation:** The present forms in verse 13 portray God's operation and the willing/doing as ongoing or characteristic. They do not, by themselves, establish a measurable temporal sequence in which one event must precede the other. The aorist in “ye have obeyed” likewise does not provide a full chronology of salvation.
+
+### E. Canonical comparisons and counter-texts
+
+**Philippians 1:6.** Paul is confident that He who began a good work in the believers will perform it until the day of Jesus Christ. This provides a close letter-context comparison for divine initiation and continuation. It should be read with the letter's calls to faithful conduct, not as a denial of them.
+
+**Philippians 1:27–30.** The church is commanded to stand fast and strive together for the faith of the gospel. Their conduct and perseverance are real, while suffering and believing are discussed in relation to what is granted to them. Verse 29 deserves a separate grammatical and contextual examination before drawing a complete conclusion about faith as a gift.
+
+**Philippians 2:5–11.** Christ's humility and obedience provide the immediate foundation for the exhortation. The believers are called to a corresponding mind and conduct; Christ's unique identity and saving work must not be reduced to a mere moral example.
+
+**Ephesians 2:8–10.** Salvation is by grace through faith, not from the recipients or from works; believers are God's workmanship, created in Christ for good works prepared beforehand. This parallels the distinction between salvation's source and the believer's resulting walk. Ephesians and Philippians should retain their own wording.
+
+**James 1:18.** God begets believers of His own will with/in connection with the Word of Truth. This supports the recognition of God's initiative in new birth. Philippians 2:13 goes further in expressly naming God's operation in both willing and doing, but it addresses the lived obedience of believers rather than supplying a complete account of regeneration.
+
+**Hebrews 13:20–21.** The prayer asks God to make believers perfect in every good work to do His will, “working in you that which is wellpleasing in his sight, through Jesus Christ.” This is a strong comparison for divine operation and human conduct directed toward God's will. It requires a separate full entry before being treated as independently adjudicated.
+
+**1 Corinthians 15:10.** Paul says, “by the grace of God I am what I am,” and that God's grace was not bestowed in vain; he labored, yet “not I, but the grace of God which was with me.” This preserves both real labor and divine grace as the explanation of Paul's labor. It is a useful parallel but must be read in its own apostolic context.
+
+**Galatians 2:20.** Paul describes his life as crucified with Christ and yet living, with Christ living in him; the life he now lives in the flesh is by faith of the Son of God. This further illustrates Paul's ability to speak of genuine human life and action while locating its governing source in Christ. It does not erase the human subject.
+
+### F. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| Human obedience | EXPLICITLY ACKNOWLEDGED | Paul says the Philippians have obeyed (v. 12). |
+| Human action | EXPLICITLY COMMANDED | They are commanded to work out their salvation (v. 12) and to act without murmurings (v. 14). |
+| Human willing | EXPLICITLY INCLUDED | “To will” is named in verse 13. |
+| God's operation | EXPLICITLY ESTABLISHED | God is the subject of “worketh in you” (v. 13). |
+| God's operation in willing | EXPLICITLY ESTABLISHED | God's working includes “to will” (v. 13). |
+| God's operation in doing | EXPLICITLY ESTABLISHED | God's working includes “to do” (v. 13). |
+| Salvation earned by human works | NOT ESTABLISHED | “Work out” is an imperative concerning lived salvation; it does not say “earn” or “purchase.” |
+| Human responsibility | EXPLICITLY PRESENT | The commands and acknowledged obedience are real. |
+| Corporate dimension | STRONGLY SUPPORTED BY CONTEXT | Plural pronouns and imperatives, unity, mutual regard, and communal witness frame the passage. |
+| Individual participation | NOT EXCLUDED | Each member participates in the community's obedience and conduct. |
+| Autonomous human will as the originating source of willing | NOT ESTABLISHED | God is expressly said to work in believers both to will and to do. |
+| Complete chronology of divine operation and human willing | NOT SETTLED | The verb forms do not provide a complete temporal sequence. |
+| Exhaustive definition of human will | NOT PROVIDED | The passage identifies willing as an activity in which God works, but does not define every faculty or aspect of the will. |
+
+### G. Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** The reading preserves the imperative to work out salvation, the believers' acknowledged obedience, and God's operation in both willing and doing. It reads the passage in the context of Christ's humility and exaltation and the church's unity and conduct.
+- **Scientific coherence — PASS, within scope.** The Greek forms and syntactic relations are distinguished without treating tense or voice as a shortcut to a complete metaphysical chronology. The present participle and articular infinitives are identified; grammatical subject and commanded agents are not conflated.
+- **GUA-W consistency — PASS, within scope.** The text identifies God as the one operating in believers, including in willing and doing. Human obedience remains a real derivative activity; it is not assigned the role of Original Cause. No architectural modification is proposed.
+
+### H. Entry finding and limits
+
+Philippians 2:12–13 does not permit either of two reductions. Verse 12 cannot be isolated to claim that believers originate or earn their salvation by independent human effort. Verse 13 cannot be used to deny that believers genuinely obey, will, act, and are commanded to conduct themselves faithfully.
+
+Paul's argument holds the two together. The believers are commanded to work out their salvation with fear and trembling. The reason is that God works in them both to will and to do according to His good pleasure. God's operation is not restricted to outward assistance after an independently originated human decision; the text expressly includes willing. Yet the human command and activity remain real.
+
+**Finding:** The passage explicitly identifies God as operating in believers in relation to both willing and doing. It does not identify autonomous human will as the originating source of the believer's willing. It also does not erase human willing, obedience, or responsibility. The passage does not provide a complete chronology of the relation between God's operation and each human act, nor an exhaustive philosophical definition of the will.
+
+**Status:** PASS for God's operation in both willing and doing; PASS for genuine human obedience and action; FAIL for claiming that verse 12 teaches salvation is earned by human effort; FAIL for claiming that verse 13 makes human willing and action unreal; UNRESOLVED for a complete chronology and exhaustive definition of the human will.
+
+### I. Related GUA-W recognition and cross-references
+
+The passage witnesses the distinction between divine operation and human activity without separating them into rival causes. God works in believers; believers are commanded to work out their salvation. The text specifically includes willing and doing within God's operation. This is a textual recognition, not a proposal to create or modify GUA-W architecture.
+
+Relevant established distinctions:
+- God's operation versus human response;
+- source versus commanded participation;
+- willing versus doing;
+- individual action within a corporate body;
+- salvation as God's work versus good conduct as its lived expression.
+
+No new GUA-W layer, Gear, or architectural component is proposed by this entry.
+
+### J. Research queue
+
+1. HW-011 — 1 Corinthians 2:10–16: examine the natural man, the things of the Spirit, spiritual discernment, and the mind of Christ.
+2. HW-012 — Romans 8:5–11: examine flesh, Spirit, inability, indwelling, and life.
+3. Retain Hebrews 13:20–21 and 1 Corinthians 15:10 as priority comparisons for divine operation and human doing.
+4. Retain 1 John 5:1 as a priority passage for the grammatical and contextual relation between believing and having been born of God.
+5. Keep U-006 (definition and components of human will) open. Philippians 2 establishes God's operation in willing and doing but does not provide an exhaustive definition of human will.
+
+---
+
 ## 14. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
@@ -1071,7 +1195,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-007 | Romans 9:6–24 | COMPLETED — see entry above. |
 | HW-008 | Ephesians 2:1–10 | COMPLETED — see entry above. |
 | HW-009 | James 1:16–18 | COMPLETED — see entry above. |
-| HW-010 | Philippians 2:12–13 | How do human working and God's working “in you” relate? |
+| HW-010 | Philippians 2:12–13 | COMPLETED — see entry above. |
 | HW-011 | 1 Corinthians 2:10–16 | What does the natural man's inability to receive the things of the Spirit establish? |
 | HW-012 | Romans 8:5–11 | What is the relation between flesh, Spirit, inability, indwelling, and life? |
 | HW-013 | Acts 13:44–48 | How does Luke narrate belief, appointment, and the response to the word? |
