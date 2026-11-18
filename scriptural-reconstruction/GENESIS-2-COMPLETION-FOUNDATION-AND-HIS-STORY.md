@@ -285,3 +285,109 @@ Do not:
 - claim that the Cross eliminates the distinct future consummation announced in Revelation 21.
 
 The investigation follows the order supplied by Scripture: beginning, transgression and promise, Christ's completed redemptive work, and final consummation.
+
+
+## 10. The covenant people and preservation of the promised line
+
+### 10.1 The question
+
+Why did God call and maintain a people as His own in the Old Testament? One major answer, central to the canonical movement from Genesis 3:15 to the coming of Christ, is that God established and preserved the covenant line through which the promised Messiah would come.
+
+This is not a claim that Israel's calling had only a genealogical purpose. Scripture gives Israel a wider covenant vocation, and that vocation must remain visible alongside the promised line.
+
+### 10.2 The line as Scripture traces it
+
+- **Genesis 3:15:** God declares enmity between the serpent and the woman and between their respective seed/offspring. The promise begins with God's declaration.
+- **Genesis 12:1–3:** God calls Abram and promises that in him all families of the earth will be blessed.
+- **Genesis 17:7, 19–21:** God establishes His covenant with Abraham and identifies Isaac, rather than Ishmael, as the son through whom the covenant is established.
+- **Genesis 21:12; 25:23; 28:13–15:** the covenant promise is carried through Isaac and Jacob according to God's stated purpose.
+- **Genesis 49:8–10:** Judah receives the royal/scepter promise in Jacob's blessing.
+- **2 Samuel 7:12–16:** God makes the covenant promise concerning David's house, kingdom, and throne.
+- **Isaiah 11:1–10; Jeremiah 23:5–6; Micah 5:2:** the prophets speak of the coming righteous ruler from David's line and the ruler from Bethlehem.
+- **Matthew 1:1:** the Gospel opens by identifying Jesus Christ as “the son of David, the son of Abraham.”
+- **Luke 1:31–33:** the angel announces that Jesus will receive the throne of David His father and reign over the house of Jacob.
+- **Romans 1:3–4:** Paul describes God's Son as made of the seed of David according to the flesh and declared Son of God with power by the resurrection.
+- **Galatians 3:8, 16:** Paul connects the blessing of the nations promised to Abraham with the Gospel and identifies the promised Seed in that Abrahamic promise as Christ.
+
+### 10.3 Why Israel is more than a preserved genealogy
+
+God's election of Israel includes covenant relationship and vocation:
+- **Exodus 19:4–6:** Israel is called to be a peculiar treasure, a kingdom of priests, and a holy nation.
+- **Deuteronomy 7:6–8:** Israel is chosen as a special people, with the text grounding the choice in God's love and oath, not Israel's numerical greatness or merit.
+- **Romans 3:1–2:** Paul identifies an advantage of the Jew, especially that the oracles of God were committed to them.
+- **Romans 9:4–5:** Paul names Israel's adoption, glory, covenants, giving of the law, service of God, promises, fathers, and the Messiah's coming according to the flesh.
+- **Romans 11:1–2, 25–29:** Paul rejects the idea that God has cast away His people and speaks of God's continuing purpose and irrevocable gifts and calling.
+
+Therefore the preserved line is central, but it is not the whole explanation of Israel's calling. Israel is the covenant people to whom God entrusted promises, revelation, worship, and the historical setting through which the Messiah came; through Abraham's Seed the blessing reaches the nations.
+
+### 10.4 What “God protected His plan inside that seed line” can responsibly mean
+
+As a concise theological summary, this is a sound way to describe God's providential preservation of His covenant promise and the historical line leading to Christ. The wording “protected His perfect Plan inside that Seed Line” is a summary, not a direct quotation from one verse. It should be supported by the specific covenant texts above rather than treated as a separate biblical formula.
+
+The line was not preserved because its human members were sinless or independently secured God's purpose. The Old Testament itself records failures, judgment, exile, and the need for a remnant. The continuity rests on God's promise and faithfulness, not human perfection. See Isaiah 10:20–22; 11:1–10; Romans 9:6–13; 11:1–6.
+
+### 10.5 Canonical finding
+
+God's people Israel served within His covenant purpose; through the Abrahamic and Davidic promises the Messiah came according to the flesh. The purpose was never merely to preserve a family tree for its own sake: the promised Seed is connected to the blessing of all nations. The New Testament identifies Jesus as the promised Christ and locates Him within this history.
+
+This is the historical and covenant bridge between Genesis 3:15 and the second completion in Christ. It does not make Israel the Author of the promise, nor does it make the genealogy the source of the Messiah's mission. God calls, promises, preserves, and fulfills.
+
+
+
+## 11. John 17:4 and John 19:28–30 — the work given and the work declared finished
+
+### 11.1 John 17:1–5 — the work given by the Father
+
+John 17 begins with Jesus lifting His eyes to heaven and saying, “Father, the hour is come; glorify thy Son, that thy Son also may glorify thee” (17:1). He speaks of the authority given Him over all flesh and of giving eternal life to those given Him by the Father (17:2–3). He then says:
+
+> I have glorified thee on the earth: I have finished the work which thou gavest me to do. (John 17:4, KJV)
+
+Verse 5 immediately speaks of the glory He had with the Father before the world was.
+
+**What the text states:** Jesus attributes the work to the Father as the One who gave it; Jesus says He has glorified the Father on earth and finished that given work. The prayer occurs before the arrest and crucifixion. The “hour” has arrived, and the prayer moves directly into Jesus' impending Passion.
+
+**What the surrounding prayer shows:** John 17:6–8 speaks of manifesting the Father's name, giving the Father's words, and the disciples receiving and knowing the source of Jesus' mission. Verses 9–19 address those given to Him, their keeping, protection, sanctification, and sending. Verses 20–26 extend the prayer to those who will believe through the disciples' word and speak of unity, glory, love, and the revelation of the Father's name.
+
+**Boundary:** John 17:4 does not provide an exhaustive itemized list of every act included in “the work.” Nor does the verse say that the crucifixion, death, Resurrection, and return to the Father have already occurred at the moment Jesus prays. It is not sound to use the past-tense “I have finished” to erase the Passion that immediately follows.
+
+### 11.2 John 19:28–30 — the completion at the Cross
+
+John 19:28 says Jesus, “knowing that all things were now accomplished, that the scripture might be fulfilled,” says, “I thirst.” After receiving the vinegar, Jesus says, “It is finished,” bows His head, and gives up the ghost (19:29–30).
+
+The Greek form τετέλεσται (*tetelestai*) is the perfect form of τελέω (*teleō*), “to finish/complete.” The grammatical form is compatible with a completed action whose result stands; it must not be made to carry an entire doctrine by itself. The immediate narrative context is decisive: Jesus has fulfilled what is being brought to completion in His Passion and then actually dies.
+
+**What the text states:** the completion declaration is spoken at the Cross, immediately before Jesus' death. John frames it with the statement that Jesus knows all things are now accomplished and that Scripture is fulfilled.
+
+**Boundary:** John 19:30 does not mean that the Resurrection, Ascension, continuing intercession, or future consummation are unnecessary or have already occurred. The New Testament explicitly makes the Resurrection essential to the Gospel (1 Corinthians 15:3–4, 12–19; Romans 4:25). The Cross is not the final consummation of Revelation 21.
+
+### 11.3 How the two declarations relate without contradiction
+
+John 17:4 and John 19:30 are not competing claims and should not be flattened into one undifferentiated moment.
+
+- **John 17:4:** Jesus speaks to the Father, before the Passion, of having glorified Him on earth and having finished the work given Him. The mission entrusted by the Father has been faithfully carried out in Jesus' earthly ministry and has reached the appointed “hour.”
+- **John 19:28–30:** within the Passion itself, Jesus declares “It is finished” as the Scripture-fulfilling work reaches its completion at the Cross, and He gives up His life.
+
+The first statement looks back over the work manifested in His earthly ministry and speaks from the threshold of the hour. The second is uttered at the climactic event of His death. John 17 does not say the Cross has already happened; John 19 does not cancel the ministry and revelation that preceded it.
+
+### 11.4 The work is the Father's; the Son accomplishes it
+
+John's Gospel repeatedly presents Jesus as sent by the Father and doing the Father's will: John 4:34; 5:19–23, 30, 36; 6:38–40; 8:28–29; 10:17–18; 12:49–50. These passages must be read in their contexts, but together they establish the pattern of commission, obedience, and accomplishment. Jesus does not present Himself as an independent rival source of the mission.
+
+John 17:4 explicitly says the Father gave the work and Jesus glorified the Father by completing it. John 19:30 records the climactic completion at the Cross. The Resurrection then vindicates and manifests the victory and is indispensable to the apostolic Gospel witness.
+
+### 11.5 Relationship to the three completions
+
+This comparison sharpens, rather than replaces, the established three-completion pattern:
+
+1. **Genesis 2:1–3 — Creation:** God finishes the created work.
+2. **John 19:28–30 — Redemption:** the Son declares the redemptive work finished at the Cross.
+3. **Revelation 21:1–6 — Consummation:** God declares “It is done” in the new-Creation vision.
+
+John 17:4 is not a fourth completion. It is an essential interpretive witness to the work the Father gave the Son and to the Son's faithful accomplishment of that mission as He enters the hour. It helps us understand the second completion without replacing John 19:30 as the Cross declaration in the threefold comparison.
+
+### 11.6 Integrated finding
+
+The Father gives the work; the Son is sent and accomplishes it; the earthly ministry manifests the Father and His words; the Passion brings the Scripture-fulfilling work to its climactic completion at the Cross; the Son dies; God raises Him; and the final consummation remains ahead in Revelation.
+
+This preserves the distinct statements and events. “Finished” is not a claim that every later event has already occurred; it is a declaration of the completion of the work in its stated context. The Resurrection is not an optional appendix to the Cross, and the final new Creation is not collapsed into either John 17 or John 19.
+
