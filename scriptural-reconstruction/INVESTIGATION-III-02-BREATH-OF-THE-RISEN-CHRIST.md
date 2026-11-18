@@ -1094,3 +1094,194 @@ This strengthens the reading of John 20 within the larger new-creation and gathe
 - The primary interpretive control for Ezekiel 37:15–28 is the LORD's own explanation in the passage: the sticks signify the divided houses; the LORD gathers them, makes them one nation, appoints one Davidic shepherd, establishes covenant peace, and sets His sanctuary among them.
 - For the Johannine gathering language, the narrator's explanation in John 11:51–52 is primary evidence: Jesus' death is for the nation and for gathering the scattered children of God into one.
 
+## 25. Ezekiel 34 and the promised Shepherd — the LORD seeks, gathers, heals, and appoints David
+
+Ezekiel 34 expands the shepherd theme that appeared at the end of Ezekiel 37. The chapter begins with judgment against Israel's shepherds, declares that the LORD Himself will seek and care for His flock, and then promises one shepherd, identified as “my servant David.” The chapter therefore contains both divine shepherding and the appointment of a Davidic shepherd. These statements must be held together rather than made to compete.
+
+### 25.1 The failed shepherds — authority becomes self-serving
+
+Ezekiel 34:1–10 condemns the shepherds of Israel because they feed themselves rather than the flock. They consume the provision, clothe themselves, and fail to strengthen the diseased, heal the sick, bind up the broken, bring back the driven away, or seek the lost (vv. 2–4). They rule with force and cruelty. The sheep are scattered because there is no faithful shepherding (vv. 5–6).
+
+The LORD declares that He is against these shepherds, will require His flock at their hand, and will cause them to cease feeding the flock (vv. 7–10).
+
+**Explicit:** the shepherds are judged for using their entrusted position for themselves and neglecting the flock.
+
+**GUA-W-relevant observation, not a new Gear:** delegated responsibility does not confer authorship or ownership of those entrusted to one's care. The shepherd's authority is accountable to the One who owns the flock. This is an application of the text's stated judgment, not a claim that Ezekiel is describing a modern system architecture.
+
+### 25.2 The LORD Himself becomes the acting Shepherd — Ezekiel 34:11–16
+
+The LORD says:
+
+> “Behold, I, even I, will both search my sheep, and seek them out.” (Ezekiel 34:11, KJV)
+
+He promises to deliver them from the places where they have been scattered, gather them from the countries, bring them into their own land, feed them upon the mountains and beside rivers, and give them a place to lie down (vv. 12–14).
+
+He then declares:
+
+> “I will feed my flock, and I will cause them to lie down, saith the Lord GOD.” (v. 15)
+
+The LORD promises to seek the lost, bring back the driven away, bind up the broken, strengthen the sick, and judge the fat and strong (v. 16).
+
+The repetition of “I will” is central. The restoration is initiated and performed by the LORD. The sheep are the recipients of His seeking, gathering, feeding, healing, and protection.
+
+The text also includes judgment within shepherding. The LORD does not merely comfort the vulnerable; He judges between the fat cattle and the lean, and between sheep and sheep (vv. 17–22). His shepherding is therefore both restorative and judicial.
+
+### 25.3 One shepherd — “my servant David” (Ezekiel 34:23–24)
+
+After declaring that He will judge between the sheep and save His flock from oppressive shepherds, the LORD promises:
+
+> “And I will set up one shepherd over them, and he shall feed them, even my servant David; he shall feed them, and he shall be their shepherd.” (Ezekiel 34:23, KJV)
+
+The next verse says that the LORD will be their God and His servant David a prince among them.
+
+The chapter thus distinguishes the LORD as the ultimate Shepherd and David as the appointed shepherd under Him. The promised Davidic ruler does not replace the LORD's ownership or originating action. He is appointed by the LORD to shepherd the LORD's flock.
+
+Ezekiel 37:24–25 repeats the one-shepherd / Davidic-ruler promise. Reading the two chapters together confirms that the Davidic shepherd promise belongs to the larger restoration of Israel.
+
+**Explicit:** the LORD Himself seeks and restores His flock, and He appoints one shepherd, “my servant David,” over them.
+
+**Canonical inference:** the Davidic shepherd expectation is messianic in the wider biblical trajectory. Ezekiel's wording alone does not name Jesus of Nazareth; the New Testament witness must be brought forward to identify the promised shepherd with Christ.
+
+### 25.4 Covenant of peace and blessing — Ezekiel 34:25–31
+
+The shepherd promise is followed by a covenant of peace. The LORD promises safety, showers of blessing, fruitful trees, secure dwelling, freedom from oppressive powers, and recognition that He is the LORD who broke the people's bonds (vv. 25–29). The chapter concludes with covenant belonging:
+
+> “Thus shall they know that I the LORD their God am with them, and that they, even the house of Israel, are my people, saith the Lord GOD.” (v. 30)
+
+And:
+
+> “And ye my flock, the flock of my pasture, are men, and I am your God, saith the Lord GOD.” (v. 31)
+
+The shepherding promise is not isolated from covenant presence, peace, provision, and the LORD's identity. The sheep belong to Him.
+
+### 25.5 Psalm 23 — the LORD as Shepherd
+
+Psalm 23 begins, “The LORD is my shepherd; I shall not want.” The psalm describes provision, rest, guidance in paths of righteousness, presence through the valley of the shadow of death, protection, and a prepared table.
+
+The correspondence with Ezekiel 34 is strong at the level of shepherding actions: feeding, leading, giving rest, protecting, and remaining present with the sheep. Psalm 23 is a personal confession of trust; Ezekiel 34 is a corporate restoration oracle that also condemns failed leaders. Their settings differ, but both place the LORD as the true Shepherd.
+
+The psalm does not itself identify the Davidic shepherd of Ezekiel 34 with a future Messiah. That identification arises from the wider canonical witness.
+
+### 25.6 Isaiah 40:9–11 — the LORD comes as Shepherd
+
+Isaiah 40 announces the coming of the Lord GOD with might and His arm ruling for Him (vv. 9–10). The next verse declares:
+
+> “He shall feed his flock like a shepherd: he shall gather the lambs with his arm, and carry them in his bosom, and shall gently lead those that are with young.” (Isaiah 40:11, KJV)
+
+The passage joins divine coming, rule, reward, and tender shepherding. It is a further Old Testament witness that the LORD Himself is the Shepherd who gathers and cares for His flock.
+
+The combination of strength and gentleness is textual: the mighty arm rules, yet the same Shepherd gathers lambs and gently leads. Do not reduce divine shepherding to either force or sentiment; the passage includes both sovereign rule and attentive care.
+
+### 25.7 Jeremiah 23:1–6 — judgment on false shepherds and the righteous Branch
+
+Jeremiah 23 begins with woe against shepherds who destroy and scatter the sheep. The LORD declares that He will gather the remnant, bring them back to their folds, and set shepherds over them who will feed them (vv. 1–4).
+
+The prophecy then announces days when the LORD will raise unto David a righteous Branch, a King who will reign and prosper, execute judgment and justice, and be called “THE LORD OUR RIGHTEOUSNESS” (vv. 5–6).
+
+This passage strengthens the Davidic and royal dimension of the shepherd promise. It also preserves the distinction between the LORD who gathers and raises the Branch and the appointed Davidic King who reigns in righteousness.
+
+The title in Jeremiah 23:6 is part of the prophetic text and must be treated carefully in any Christological argument. Its precise relation to the name or identity of the Davidic king has generated scholarly discussion. The New Testament's identification of Jesus as Davidic Messiah is broader than this one title and should not rest on an oversimplified grammatical claim.
+
+### 25.8 Second Samuel 7:12–16 — the Davidic covenant foundation
+
+The LORD promises David that He will raise up his seed after him, establish his kingdom, and establish the throne of his kingdom for ever (2 Samuel 7:12–16). The promised son will build a house for the LORD's name, and the LORD will establish his throne.
+
+This covenant supplies foundational context for the later prophetic expectation of a Davidic ruler. Ezekiel's “my servant David” and Jeremiah's righteous Branch are read against this established promise of a lasting Davidic house and throne.
+
+The immediate historical horizon of 2 Samuel 7 includes David's successor and the royal house. The promise's enduring language becomes part of the canonical expectation that later prophets develop. It should not be flattened into a claim that every detail was exhausted by the first successor.
+
+### 25.9 John 10:1–18 — Jesus identifies Himself as the Good Shepherd
+
+John 10 brings together several themes already present in Ezekiel 34:
+- false shepherds and thieves who exploit or destroy (John 10:1, 8, 10);
+- the shepherd who knows the sheep and calls them (vv. 3–4, 14);
+- the shepherd who gives life and abundant life (v. 10);
+- the good shepherd who lays down His life for the sheep (vv. 11, 15);
+- other sheep whom He must bring, resulting in one flock and one shepherd (v. 16).
+
+Jesus says:
+
+> “I am the good shepherd: the good shepherd giveth his life for the sheep.” (John 10:11, KJV)
+
+The correspondence with Ezekiel 34 is substantial. Ezekiel condemns shepherds who feed themselves and fail to protect the flock; John presents Jesus as the Shepherd who gives Himself for the sheep. Ezekiel declares that the LORD will seek and gather His flock and appoint one shepherd; John presents Jesus as the Good Shepherd who brings the other sheep and makes one flock.
+
+John 10:17–18 explicitly places Jesus' laying down and taking up His life under the command received from the Father. This preserves the Father-Son relation in the passage: Jesus' mission is not an independent rival action but is carried out in obedience to the Father's command.
+
+John 10 does not quote Ezekiel 34 by a formal citation formula. Nevertheless, the shared shepherd, false-shepherd, gathering, and one-flock themes make Ezekiel 34 a strong canonical background.
+
+### 25.10 Hebrews 13:20 — the great Shepherd brought again from the dead
+
+Hebrews 13:20 calls Jesus “that great shepherd of the sheep” and places this title in the context of the God of peace bringing Him again from the dead through the blood of the everlasting covenant.
+
+This passage is particularly relevant to Investigation III.2 because it explicitly joins:
+- Jesus as the great Shepherd;
+- His resurrection from the dead;
+- the God of peace;
+- the blood of the everlasting covenant.
+
+The shepherd identity is not separated from the Resurrection. The risen Christ is named as the great Shepherd. This resonates with Ezekiel's covenant-of-peace and Davidic-shepherd promises, while Hebrews interprets Jesus' resurrection and covenant work through its own argument.
+
+### 25.11 First Peter 2:24–25 and 5:4 — return to the Shepherd; the chief Shepherd appears
+
+First Peter 2:24–25 says that Christ bore our sins in His own body on the tree, that the people might live unto righteousness; by His stripes they are healed. Peter then says the readers were as sheep going astray but are now returned unto the Shepherd and Bishop of their souls.
+
+The shepherd image is directly connected to Christ's suffering and the people's return. The language of healing and returning also resonates with Ezekiel 34:16, where the LORD seeks, brings back, binds up, and strengthens the flock. The contexts are not identical, but the canonical pattern is meaningful.
+
+First Peter 5:1–4 instructs elders to shepherd the flock of God willingly and without seeking personal gain or exercising domineering authority. They are accountable to the “chief Shepherd,” who will appear and give the crown of glory. This is a striking contrast with Ezekiel 34's condemned shepherds: those entrusted with care must not exploit the flock, because it remains God's flock and they answer to the Chief Shepherd.
+
+The connection is an application grounded in explicit language, not an assertion that Peter directly quotes Ezekiel 34.
+
+### 25.12 Revelation 7:9–17 — the Lamb shepherds
+
+Revelation 7 presents a great multitude before the throne and the Lamb. The passage says:
+
+> “For the Lamb which is in the midst of the throne shall feed them, and shall lead them unto living fountains of waters...” (Revelation 7:17, KJV)
+
+The Lamb is also the Shepherd. He feeds and leads the redeemed, and God wipes away all tears from their eyes. The image is striking because the one described as the Lamb is also the one who shepherds.
+
+This is a canonical culmination of the shepherd theme: the Shepherd's care reaches its eschatological horizon in the presence of God, with hunger, thirst, scorching heat, and tears ended. The text does not erase the distinction between the Lamb and God upon the throne; it presents the Lamb in the midst of the throne and assigns Him the shepherding action.
+
+Revelation 7:17 also echoes Isaiah 49:10's promise that the redeemed will not hunger or thirst and that the One who has mercy on them will lead them to springs of water. The Lamb's shepherding thus participates in the wider prophetic restoration imagery.
+
+### 25.13 The canonical movement — from the LORD's flock to the risen and reigning Shepherd
+
+The passages together establish a coherent progression, with each text retaining its own setting:
+
+1. **Psalm 23:** the LORD is the Shepherd who provides, guides, protects, and remains present.
+2. **2 Samuel 7:** the LORD establishes the enduring Davidic house and throne.
+3. **Isaiah 40:** the LORD comes in might and shepherds His flock tenderly.
+4. **Jeremiah 23:** the LORD judges false shepherds, gathers the flock, and raises a righteous Davidic Branch.
+5. **Ezekiel 34:** the LORD Himself seeks, gathers, feeds, heals, and protects His flock, then appoints “my servant David” as one shepherd.
+6. **Ezekiel 37:** the LORD reunites His people under one Davidic shepherd-king and establishes covenant peace and His dwelling among them.
+7. **John 10–11:** Jesus identifies Himself as the Good Shepherd, lays down His life, takes it again, and gathers the scattered children of God into one.
+8. **Hebrews 13 and 1 Peter 2, 5:** the risen Christ is the great Shepherd; His suffering brings the wandering sheep back, and those who shepherd God's flock remain accountable to Him.
+9. **Revelation 7:** the Lamb shepherds the redeemed to living fountains of waters.
+
+**Canonical conclusion:** the New Testament presents Jesus as the Good Shepherd and risen great Shepherd in a way that strongly fulfills the prophetic Davidic shepherd expectation. This conclusion rests on the cumulative witness, not on treating one Old Testament phrase as if it explicitly named Jesus.
+
+### 25.14 Relevance to the Resurrection and Spirit investigation
+
+This shepherd study does not directly settle U-008. It clarifies the identity and mission of the risen Christ whose breath and command are under investigation.
+
+John 20:19–23 follows the Gospel's presentation of Jesus as the Good Shepherd who lays down His life and takes it again. Hebrews 13:20 explicitly calls the resurrected Jesus the great Shepherd of the sheep. Ezekiel 34–37 supplies prophetic patterns of the LORD's gathering, healing, restoring, and dwelling with His flock.
+
+The sequence therefore gives the Resurrection-day breathing scene a wider covenant and shepherding context: the risen Jesus is not merely performing an isolated sign; He is the Shepherd whose death and resurrection belong to the gathering and life of His people. The precise relation of the Spirit reception in John 20:22 to Pentecost remains a separate question and must be tested from John 20, Luke 24, Acts 1–2, and their relevant contexts.
+
+### 25.15 Triple Constraint assessment
+
+- **Biblical compliance — PASS within scope:** the original settings of Psalm 23, the Davidic covenant, the prophetic oracles to Israel, John's Good Shepherd discourse, the apostolic shepherd language, and Revelation's throne vision are distinguished. The LORD's ownership of the flock and His appointment of the Davidic shepherd are both retained.
+- **Scientific coherence — PASS within scope:** this is textual, historical, and canonical analysis. No empirical or biological claim is inferred from shepherd imagery.
+- **GUA-W consistency — PASS:** the originating action belongs to the LORD. The flock is His; the shepherd is appointed and accountable; the Son's mission is related to the Father's command; the risen Shepherd gathers and cares for those who belong to Him. No derivative shepherd is treated as the Author or owner of the flock.
+
+**Disposition:** Ezekiel 34 and the wider shepherd canon strongly support the New Testament's presentation of Jesus as the Good Shepherd and risen great Shepherd. The clearest Resurrection connection is Hebrews 13:20, which explicitly joins the great Shepherd with being brought again from the dead. This pass clarifies the identity and mission context of John 20:22 but does not resolve U-008. No new GUA-W Gear is promoted.
+
+### 25.16 Primary-text control list
+
+- Psalm 23; 2 Samuel 7:8–17; Isaiah 40:9–11; Jeremiah 23:1–6.
+- Ezekiel 34:1–31; 37:15–28.
+- John 10:1–18; 11:45–53; 20:19–23.
+- Hebrews 13:20–21.
+- 1 Peter 2:21–25; 5:1–4.
+- Revelation 7:9–17.
+- Isaiah 49:8–13.
+
