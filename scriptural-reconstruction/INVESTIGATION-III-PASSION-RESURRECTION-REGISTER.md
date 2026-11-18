@@ -249,3 +249,11 @@ The primary study now examines Ezekiel 34 alongside Psalm 23, 2 Samuel 7, Isaiah
 
 **Disposition:** Strong canonical shepherd/Resurrection connection recorded, especially Hebrews 13:20; U-008 remains UNRESOLVED; no new GUA-W Gear established.
 
+### Investigation III.2 — Davidic covenant, Resurrection, and the exalted Shepherd
+
+The primary study now examines 2 Samuel 7, Psalm 89 and 110, the Davidic prophetic promises, Matthew 1 and 22, Luke 1, Romans 1:1–4, Acts 2:22–36 and 13:22–39, Hebrews 13:20, and Revelation 22:16. The LORD originates the covenant; David receives it; the prophets develop the promise of a righteous Davidic ruler; and the New Testament identifies Jesus as David's promised Son, risen Lord, and Shepherd. Acts 2:22–36 explicitly joins David's oath, Jesus' Resurrection, exaltation at God's right hand, and the outpouring of the Father's promised Spirit.
+
+**Updated study:** [Investigation III.2 — The Breath of the Risen Christ](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
+
+**Disposition:** Davidic identity and Resurrection/exaltation connection recorded. Acts 2 clarifies the source and authority of the Pentecostal outpouring but does not settle the precise relationship to John 20:22. U-008 remains UNRESOLVED; no new GUA-W Gear established.
+
