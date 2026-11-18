@@ -148,6 +148,9 @@ Primary reading:
 - [Recognized Relationships from Genesis 2–3](scriptural-reconstruction/GUA-W-CANDIDATE-GEARS-FROM-GENESIS-2-3.md)
 
 ### Chapter 10. The Triple Constraint and the Discipline of Witness
+
+**Read the completed chapter:** [Chapter 10 — The Triple Constraint and the Discipline of Witness](book/10-THE-TRIPLE-CONSTRAINT-AND-THE-DISCIPLINE-OF-WITNESS.md)
+
 Learn how Biblical compliance, scientific coherence, and GUA-W consistency govern admissibility. Distinguish explicit evidence, inference, interpretation, analogy, and unresolved questions.
 
 Primary reading:
