@@ -379,3 +379,28 @@ Related record: [Genesis 4:13–16 — Text-First Reconstruction](scriptural-rec
 
 **Related investigation:** [The Biblical Examination of the Human Will — HW-009, James 1:16–18](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
 
+
+
+## 19. Evidence update — Philippians 2:12–13 (2026-11-18)
+
+### U-006 supplement — God's operation in willing and doing
+
+**New evidence reviewed:** Philippians 2:12–13, read with 2:1–11 and 2:14–18.
+
+**Textual observations:**
+- Paul acknowledges the Philippians' obedience and commands them, in the plural, to work out their salvation with fear and trembling (v. 12).
+- “Wherefore” connects this command with the preceding presentation of Christ's humility, obedience, and exaltation (vv. 5–11).
+- “For” in verse 13 supplies the reason for the command: God is the one working in believers.
+- The object of God's operation expressly includes both “to will” and “to do” (v. 13).
+- The following verses command visible human conduct: doing all things without murmurings and disputings, shining as lights, and holding forth the word of life (vv. 14–16).
+
+**Effect on question:** This passage expressly places willing itself within God's operation; it does not restrict divine assistance to the execution of a human intention independently originated. At the same time, Paul's imperative, acknowledgment of obedience, and following commands preserve real human activity and responsibility. The corporate setting is important because the pronouns and imperatives are plural and the surrounding argument concerns unity and shared conduct.
+
+**Limits:** The present forms in verse 13 do not by themselves establish a complete chronological sequence between God's operation and each human act. The passage does not provide an exhaustive definition of human will or settle every aspect of salvation's temporal scope.
+
+**Status remains:** UNRESOLVED.
+
+**Guardrail:** Do not isolate verse 12 to claim salvation is earned by human effort. Do not isolate verse 13 to deny human willing, obedience, or action. Preserve Paul's explanatory connection between them. Do not infer a complete chronology from tense alone.
+
+**Related investigation:** [The Biblical Examination of the Human Will — HW-010, Philippians 2:12–13](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
+
