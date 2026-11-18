@@ -115,3 +115,105 @@ The whole chapter shows more than a single “choice.” It records a sequence o
 The Genesis 3 narrative supplies a substantial beginning-account answer to the question of human willing. It distinguishes capacities and operations, demonstrates accountability, and establishes the Creator/creature boundary. The remaining limitation is not that Genesis 3 says nothing about the will; it is that the narrative does not present a formal exhaustive taxonomy of every human faculty or answer every later doctrinal question about the source and operation of saving faith.
 
 The latter questions must be taken back to the Beginning first and then compared with the relevant canonical witnesses. They must not be smuggled into Genesis 3 or treated as though its narrative account were silent.
+
+
+## 16. Genesis 3:15 — the divinely declared conflict and the canonical witness to victory
+
+### A. Begin with what Genesis 3:15 actually says
+
+KJV: “And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.”
+
+The verse is spoken by God to the serpent within the judgments of Genesis 3:14–19. Its explicit features are:
+
+1. **Divine initiative:** “I will put.” The enmity is established by God's declaration; it is not first authored by the woman, mankind, or the serpent.
+2. **Two parties:** the serpent and the woman.
+3. **Two seeds/offspring:** the serpent's seed and the woman's seed. The Hebrew noun *zeraʿ* can refer to seed or offspring and can function collectively; the verse's wording must not be forced into an exclusively individual or exclusively collective sense before the wider context is examined.
+4. **Conflict and injury:** the verse describes the serpent's head being bruised and the woman's seed's heel being bruised. The wording establishes conflict and injury, with an evident asymmetry in the body parts named. The verse itself does not narrate the later event, name Jesus, specify a chronology, or explain the mechanics of the victory.
+
+The KJV's “it” in “it shall bruise thy head” should be retained when quoting the KJV. It is not sound to make the English pronoun alone settle every question about the identity and number of the seed. The noun “seed” and the verse's poetic parallelism must be read with the canonical witnesses.
+
+### B. The immediate finding
+
+Genesis 3:15 is not a human proposal or a recovery plan authored by Adam and Eve. God declares what He Himself will put in place: enmity between the serpent and the woman, and between their respective offspring. The conflict and its outcome are announced by the Author after the transgression. The humans do not originate this declaration, and the serpent does not control its terms.
+
+The verse is commonly called the *protoevangelium* (“first Gospel”) in Christian interpretation. That label is a theological description of the verse's canonical significance, not a word appearing in the KJV text. The label must not replace examination of the actual wording.
+
+### C. Canonical witnesses — what later Scripture clarifies
+
+**1. Revelation 12:1–17 — the dragon is identified as the old serpent**
+
+- Revelation 12:9 explicitly identifies the great dragon as “that old serpent, called the Devil, and Satan, which deceiveth the whole world.”
+- Revelation 12:1–5 describes a woman, a male child destined to rule the nations with a rod of iron, and the child's being caught up to God and His throne.
+- Revelation 12:17 describes the dragon's war against the woman's remaining seed/offspring, identified there by their keeping the commandments of God and having the testimony of Jesus Christ.
+
+**Contribution:** Revelation explicitly identifies the serpent/dragon with Satan and presents a woman, her child, and her remaining offspring in a conflict with him. This is a strong canonical echo of the woman/serpent/seed conflict in Genesis 3:15. The imagery is apocalyptic; the exact identity and scope of the woman and the precise relation of each group in Revelation 12 must be handled in that book's context rather than flattened into a one-to-one identification without argument.
+
+**2. Romans 16:20 — God crushes Satan**
+
+KJV: “And the God of peace shall bruise Satan under your feet shortly.”
+
+**Contribution:** This is the clearest later verbal and thematic correspondence to Genesis 3:15: Satan is named, and the language of bruising is applied to his defeat. The subject is “the God of peace”; the victory is God's action, while “under your feet” includes the addressed believers in the statement. This does not make believers independent authors of Satan's defeat.
+
+**3. Hebrews 2:14–15 — Christ's death defeats the devil's power**
+
+The passage says that the children are partakers of flesh and blood, and that Christ likewise took part of the same, that through death He might destroy the one having the power of death, that is, the devil, and deliver those held in bondage through fear of death.
+
+**Contribution:** Hebrews identifies the incarnation and death of Christ as central to the defeat of the devil's power and the deliverance of those in bondage. It supplies explicit Christological content to the canonical account of victory over the devil. It does not quote Genesis 3:15 directly.
+
+**4. 1 John 3:8 — the Son of God manifested to destroy the works of the devil**
+
+The verse expressly says that the Son of God was manifested for this purpose: that He might destroy the works of the devil.
+
+**Contribution:** The Son's manifestation is directly associated with undoing the devil's works. This supports the canonical reading of Christ's mission in relation to the serpent's opposition, without pretending that 1 John is a direct quotation of Genesis 3:15.
+
+**5. Colossians 2:14–15 — triumph through the Cross**
+
+Paul describes the cancellation of the handwriting of ordinances against us and Christ's disarming of principalities and powers, making a public spectacle of them and triumphing over them in the Cross.
+
+**Contribution:** This locates Christ's triumph over hostile powers in His Cross. It is a relevant canonical witness to victory over evil powers, though Genesis 3:15 is not directly quoted.
+
+**6. Romans 5:12–21 and 1 Corinthians 15:21–22, 45–49 — Adam and Christ**
+
+Romans 5 contrasts the entrance and reign of sin and death through one man with the grace and life that reign through Jesus Christ. First Corinthians 15 contrasts Adam, through whom death came, with Christ, the last Adam, and the resurrection life belonging to Him.
+
+**Contribution:** These passages establish the Adam/Christ relationship and the movement from death in Adam to life in Christ. They illuminate why the Genesis 3 account matters to the Gospel. They do not, by themselves, identify the “seed” in Genesis 3:15; that would conflate Paul's explicit treatment of Adam/Christ with the distinct wording of the serpent/seed promise.
+
+**7. Galatians 3:16 — the seed of Abraham**
+
+Paul explicitly identifies the promised “seed” in the Abrahamic promise as Christ.
+
+**Contribution and boundary:** This is an explicit identification of Christ as the Seed in the Abrahamic promise. It is important canonical evidence for the promised Seed theme, but its immediate subject is the promise to Abraham, not a direct grammatical exposition of Genesis 3:15. The two passages may be considered within the wider canonical story, but they must not be treated as if Paul explicitly said Galatians 3:16 was a quotation or direct explanation of Genesis 3:15.
+
+### D. Canonical synthesis — what can be stated, and with what degree of certainty
+
+The following claims are supported:
+
+- Genesis 3:15 explicitly announces a conflict established by God's initiative between the serpent and the woman and between their respective offspring.
+- Revelation 12 explicitly identifies the old serpent as the Devil and Satan and portrays the dragon in conflict with the woman, her child, and her remaining offspring.
+- Romans 16:20 explicitly speaks of God bruising Satan, using language that strongly echoes Genesis 3:15.
+- Hebrews 2:14–15 and 1 John 3:8 explicitly connect Christ's coming and work with defeating the devil and destroying his works.
+- Colossians 2:14–15 locates Christ's triumph over hostile powers in the Cross.
+- Romans 5 and 1 Corinthians 15 identify Christ as the last Adam and contrast death in Adam with life in Christ.
+- Galatians 3:16 explicitly identifies Christ as the Seed in the Abrahamic promise, but does not directly settle the grammar of Genesis 3:15.
+
+**Canonical conclusion:** The New Testament gives a clear Christ-centered account of God's victory over Satan through the Son's coming, death, and resurrection, and it explicitly promises God's crushing of Satan. Read within this canonical witness, Genesis 3:15 is rightly understood in Christian theology as the first announcement of the conflict that culminates in Christ's victory. However, Genesis 3:15 itself does not name Jesus or supply the full later revelation. The precise relationship between the woman's “seed” in Genesis 3:15 and the individual Messiah is a canonical-theological conclusion drawn from the whole witness, not a claim that the verse alone spells out every detail.
+
+### E. GUA-W boundary and placement
+
+This finding does not add Jesus Christ as a component of GUA-W, nor does it make GUA-W the Author or the Gospel. It records a canonical relationship within the Scriptural witness:
+
+- **Author:** God declares the enmity and the promised outcome.
+- **Word/Son:** the New Testament identifies the Son's coming and work in the defeat of the devil.
+- **Creation/history:** the conflict unfolds within the created and historical order.
+- **Witness:** Scripture records the promise and its later revelation; believers bear testimony but do not originate the victory.
+
+The map remains distinct from the Author and from Christ. The investigation recognizes the relationship Scripture itself reveals; it does not construct or revise the completed GUA-W.
+
+### F. Questions that remain properly bounded
+
+1. The exact scope of “thy seed” and “her seed” in the immediate Genesis 3:15 context requires care; *zeraʿ* can be collective, and the verse's parallelism does not by itself settle every detail.
+2. The precise identity and symbolism of the woman in Revelation 12 remain matters of interpretation; Revelation's explicit identification of the dragon as Satan is not uncertain.
+3. The timing and stages of the victory are developed across the New Testament; Genesis 3:15 itself does not provide a detailed chronology.
+4. The Abrahamic seed in Galatians 3:16 must not be conflated with a direct grammatical explanation of Genesis 3:15.
+
+These are bounded interpretive questions, not evidence that the Answer is missing. The correct method remains: begin with the declaration in Genesis, then follow the canonical witnesses in their own contexts.
