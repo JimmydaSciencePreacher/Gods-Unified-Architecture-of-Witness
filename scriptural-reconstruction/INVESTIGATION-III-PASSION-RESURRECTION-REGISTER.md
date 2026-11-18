@@ -196,3 +196,16 @@ Key findings recorded:
 
 **Disposition:** Further canonical and textual refinement recorded; U-008 remains UNRESOLVED; no new GUA-W layer or Gear established.
 
+### Investigation III.2 — John 1 and John 3 Spirit sequence added
+
+The primary study now examines John 1:32–34, 3:5–8, and 3:34. It distinguishes:
+- the Spirit descending and remaining upon Jesus, who is identified as the one baptizing with the Holy Ghost;
+- birth from above/by the Spirit, which the recipient does not generate or control;
+- the risen Christ's specific breathing and command to receive the Holy Ghost in John 20:22.
+
+John 3:5's water/Spirit phrase and the syntax of John 3:34 remain interpretive questions. The passages establish distinct narrative statements, but do not yet settle whether they are distinct operations, related aspects of one gift, or stages in a larger sequence.
+
+**Updated study:** [Investigation III.2 — The Breath of the Risen Christ](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
+
+**Disposition:** Canonical sequence extended; U-008 remains UNRESOLVED; no new GUA-W Gear established.
+
