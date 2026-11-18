@@ -93,6 +93,8 @@ Rosen (2025) provides a map of interpretive questions and proposals, not a final
 
 **Latest recorded pass (2026-11-17):** Ezekiel 37:15–28 has been examined with John 10:14–18 and 11:51–52. The two sticks signify the divided houses of Israel; the LORD promises one people under one Davidic shepherd-king and His sanctuary among them. John's good-shepherd and gathering language strongly corresponds to this restoration pattern. Continue with the Old Testament shepherd promises (Ezekiel 34; Jeremiah 23; 2 Samuel 7) and the New Testament's explicit identification of Jesus as the Davidic shepherd-king. Keep the original Israel setting and later canonical application distinct. U-008 remains open.
 
+**Latest recorded pass (2026-11-17):** Ezekiel 34 and the wider Shepherd canon (Psalm 23; 2 Samuel 7; Isaiah 40; Jeremiah 23; John 10–11; Hebrews 13:20; 1 Peter 2 and 5; Revelation 7) have been examined. The LORD's own shepherding and His appointment of “my servant David” are held together. The New Testament identifies Jesus as the Good Shepherd and the risen great Shepherd; Hebrews 13:20 gives an explicit Resurrection connection. Continue by auditing the Davidic identity and the relation of divine Shepherd / appointed Shepherd through the primary texts. Then return to U-008's separate timing/function questions; do not let the shepherd study substitute for evidence about John 20:22 and Acts 2.
+
 
 ### Priority 4 — Close open subquestions in III.A–III.G
 
