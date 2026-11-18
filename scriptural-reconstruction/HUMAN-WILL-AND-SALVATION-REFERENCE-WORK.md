@@ -3353,3 +3353,28 @@ The canonical investigation [Human Will, Creaturely Capacity, and the Creator's 
 
 **Boundary:** This finding does not condemn all philosophy, science, or disciplined inquiry; does not attribute idolatrous motives to every researcher or scientific conclusion; and does not settle the complete causal/chronological relation of regeneration and faith. The nineteen passage-level HW investigations remain authoritative for their own texts. No new HW number is assigned because this is a cross-canonical synthesis of the authority distinction, not a duplicate passage entry.
 
+## 37. Integrated canonical connection — creaturely willing, divine operation, and the Creator's authority (2026-11-18)
+
+This section does not open another passage investigation. It traces how the Creator-authority finding in section 36 illuminates the already completed HW-001–HW-020 investigations, with Philippians 2:12–13 as the immediate point of contact.
+
+### A. Philippians 2:12–13 in its own context
+
+Paul commands the Philippian believers to work out their salvation with fear and trembling (2:12), **for** God works in them both to will and to do of His good pleasure (2:13). The command and the divine operation are not presented as rivals. The believers truly obey, will, act, and bear responsibility; God is explicitly identified as the One operating in them, including at the level of willing itself. The passage does not describe human willing as an independent originating authority, nor does it erase the believers' real activity.
+
+The immediate context must remain in view: Christ's humility and obedience (2:5–11) ground the “wherefore” of verse 12; the church's conduct, unity, and witness continue in verses 14–18. The passage is not an abstract definition of every faculty of the will, nor does its present-tense grammar establish a complete chronological sequence for regeneration and faith.
+
+### B. How the connected investigations illuminate one another
+
+- **Genesis 2–3 / U-006:** human willing is narrated through reception, perception, evaluation, desire, heeding, action, and response. These are real creaturely operations within an order and command that the creature did not originate.
+- **Job 40:8 and Isaiah 45:9:** creaturely capacity does not authorize the creature to overturn the Creator's judgment or assume the potter's authority. These texts clarify the boundary; they do not deny creaturely thought or action.
+- **Romans 1:18–25:** the problem is not that humans possess no knowledge or capacity, but that truth is suppressed and the Creator is exchanged for the creature. This is a disorder of response and allegiance, not proof that every human investigation is false.
+- **John 6:37–45, 63–65 and John 17:** the Father gives and draws; the Son receives, keeps, gives life, and raises. Human coming and believing remain in the text. These passages identify divine initiative and the Son's saving work without authorizing an invented timetable for every internal event.
+- **Ephesians 2:1–10:** God makes alive with Christ; salvation is by grace through faith, not from the recipients or works; those created in Christ are appointed to walk in good works. The source and purpose of salvation are distinguished from its lived expression.
+- **Titus 3:3–8 and James 1:16–18:** the former human condition includes active desire and conduct; salvation is attributed to God's mercy, regeneration, and the Spirit's renewal; God begets by His own will through the Word of Truth. Neither passage should be made to provide an unstated complete chronology of regeneration and faith.
+- **Philippians 1:29 and 2:12–13:** believing and suffering for Christ are described as graciously granted (1:29); believers are commanded to work out their salvation while God works in them both to will and to do (2:12–13). The grant and divine operation do not make believing or obedience unreal; the human acts do not become their own ultimate source.
+
+### C. Integrated finding
+
+Across these distinct contexts, Scripture preserves two truths without collapsing them: **the creature truly wills and acts; the Creator remains the originating source and governing authority.** The new creature-authority investigation sharpens the interpretation of the existing Human Will work: a real human act is not thereby an act of independent authorship, and a divine operation does not make the human response fictitious.
+
+This connection reinforces the existing section 31 synthesis. It does not add a new HW number, reopen the completed twenty-passage phase, create a new GUA-W component, or settle the remaining chronology and lexical questions. It is an integrated cross-reference among already examined witnesses.
