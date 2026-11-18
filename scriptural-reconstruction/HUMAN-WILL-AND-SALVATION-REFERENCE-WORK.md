@@ -1858,6 +1858,161 @@ Next investigations:
 
 ---
 
+## 16. Entry — HW-016: Romans 8:28–30 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **Romans 8:28–30**
+>
+> 28 And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
+>
+> 29 For whom he did foreknow, he also did predestinate to be conformed to the image of his Son, that he might be the firstborn among many brethren.
+>
+> 30 Moreover whom he did predestinate, them he also called: and whom he called, them he also justified: and whom he justified, them he also glorified.
+
+The immediate context is Romans 8:18–39, especially creation's groaning (vv. 19–22), believers' waiting for adoption and redemption of the body (v. 23), the Spirit's help and intercession in human infirmity (vv. 26–27), God's purpose (v. 28), conformity to the Son (v. 29), and the assurance of God's love in Christ (vv. 31–39). The passage addresses suffering, weakness, hope, and God's saving purpose; it is not an isolated philosophical definition of free will.
+
+### B. Immediate context — Romans 8:18–39
+
+- Verses 18–25 contrast present suffering with future glory and describe creation and believers groaning while awaiting the promised completion.
+- Verses 26–27 describe the Spirit helping believers in their infirmities and interceding according to God's will.
+- Verse 28 speaks of God's purpose and the good of those who love Him, identified as the called according to His purpose.
+- Verses 29–30 describe God's foreknowing, predestining, calling, justifying, and glorifying.
+- Verses 31–39 draw assurance from God's action in giving His Son, justifying, and preserving those who are in Christ against every accusation or separation.
+
+The sequence belongs to Paul's argument about God's purpose and the believer's assurance amid suffering. The final glorification is still awaited in the surrounding context (8:23), even though verse 30 speaks of it with the aorist form.
+
+### C. Greek and grammatical findings
+
+**Verse 28**
+- **οἴδαμεν (*oidamen*)**, “we know”: perfect-form verb with present sense, first person plural. Paul speaks of a settled knowledge.
+- **τοῖς ἀγαπῶσιν τὸν θεόν (*tois agapōsin ton Theon*)**, “to them that love God”: articular present active participle, dative plural. It describes the people in view as those loving God.
+- **τοῖς κατὰ πρόθεσιν κλητοῖς οὖσιν (*tois kata prothesin klētois ousin*)**, “to them who are the called according to his purpose”: identifies the same people as called according to God's purpose. **πρόθεσις (*prothesis*)** means purpose, plan, or intention.
+- A textual variant exists in the opening clause: the KJV's “all things work together” reflects the reading πάντα συνεργεῖ, while some witnesses and translations include “God” as the subject (“God works all things together”). The broader context clearly attributes the saving purpose and actions to God; the textual variation should nevertheless be acknowledged when discussing the precise subject of the opening clause.
+
+**Verse 29**
+- **οὓς (*hous*)**, “whom”: accusative masculine plural relative pronoun, referring to people.
+- **προέγνω (*proegnō*)**, “he foreknew”: aorist active indicative, third person singular, from προγινώσκω (*proginōskō*). God is the subject; the people are the direct object.
+- **καὶ προώρισεν (*kai proōrisen*)**, “he also predestinated”: aorist active indicative, third person singular, from προορίζω (*proorizō*), determine or appoint beforehand.
+- **συμμόρφους (*symmorphous*)**, “conformed”: accusative plural adjective, describing the intended likeness or conformity.
+- **τῆς εἰκόνος τοῦ υἱοῦ αὐτοῦ (*tēs eikonos tou huiou autou*)**, “to the image of his Son”: specifies the pattern of conformity.
+- **εἰς τὸ εἶναι αὐτὸν πρωτότοκον (*eis to einai auton prōtotokon*)**, “that he might be the firstborn”: expresses the purpose in relation to the Son's primacy among many brethren.
+
+The object of “foreknew” is personal (“whom”). The verb itself means know beforehand; whether its force here is bare prescience, relational/covenantal knowledge, or foreloving is debated. The word alone does not settle that debate. It is improper to silently replace the personal object “whom” with “what they would decide,” although interpreters may argue from wider context about the content or ground of foreknowledge.
+
+**Verse 30**
+- **οὓς δὲ προώρισεν (*hous de proōrisen*)**, “moreover whom he did predestinate”: repeats the people as object and God as subject.
+- **τούτους καὶ ἐκάλεσεν (*toutous kai ekalesen*)**, “them he also called”: aorist active indicative of καλέω (*kaleō*), call.
+- **καὶ οὓς ἐκάλεσεν, τούτους καὶ ἐδικαίωσεν (*kai hous ekalesen, toutous kai edikaiōsen*)**, “and whom he called, them he also justified”: ἐδικαίωσεν is aorist active indicative of δικαιόω (*dikaioō*), justify.
+- **οὓς δὲ ἐδικαίωσεν, τούτους καὶ ἐδόξασεν (*hous de edikaiōsen, toutous kai edoxasen*)**, “and whom he justified, them he also glorified”: ἐδόξασεν is aorist active indicative of δοξάζω (*doxazō*), glorify.
+
+In each principal verb in verses 29–30, God remains the grammatical subject and the people remain the objects. The repeated “whom … them” construction links the groups: the people predestined are the people called; those called are the people justified; those justified are the people glorified. Paul does not insert an independently stated human-originating cause between these clauses.
+
+The aorist forms present the actions as wholes; they do not, by tense alone, provide a detailed chronological schedule or the precise interval between each action. The aorist “glorified” is particularly notable because the wider context still describes believers as awaiting the redemption of the body (8:23). It is naturally read as confident presentation of the assured purpose/result, not as a claim that all bodily glorification has already been experienced.
+
+### D. The central interpretive question — “whom he did foreknow”
+
+Three principal readings must be distinguished:
+
+1. **Prescience / prior knowledge:** God knew beforehand the people in view, with some interpreters understanding this in relation to their future faith or response. The verb can denote knowing beforehand, but Romans 8:29 does not explicitly say “whose future faith he foresaw.” That additional description is an interpretation, not a word in the clause.
+2. **Relational or covenantal knowledge:** God previously knew these people in a personal, relational sense. This reading appeals to biblical uses of “know” that convey more than awareness of facts. It is a possible contextual-theological reading, but the verb alone does not prove every detail of a foreloving doctrine.
+3. **Forelove / prior regard:** God set His love upon these people beforehand. This captures a theological interpretation of relational foreknowledge, but should not be presented as the dictionary meaning of προγινώσκω in every occurrence.
+
+What is explicit is that the object is people, God is the subject, and foreknowledge is linked to predestination to conformity to the Son. The exact semantic nuance and the relation of foreknowledge to faith require broader canonical investigation.
+
+### E. Predestination's stated purpose
+
+Paul does not leave the purpose undefined. It is **to be conformed to the image of God's Son**.
+
+The passage identifies Christ as the pattern and the firstborn among many brethren. Predestination here is therefore not to be reduced to a bare destination without its stated purpose. It concerns God's purpose for a people who will share the Son's likeness and participate in the family over which Christ has firstborn primacy.
+
+This connects with Romans 8:18–23: the promised glory and redemption are future realities for which believers presently wait. It also connects with Romans 8:29–30's assurance that God's purpose reaches its intended end.
+
+### F. The calling, justification, and glorification sequence
+
+The repeated construction in verse 30 is decisive for the scope of Paul's claim:
+- All those predestined in this sequence are called.
+- All those called in this sequence are justified.
+- All those justified in this sequence are glorified.
+
+The passage presents the groups as coextensive within this chain. It does not say that some of the predestined in this described sequence fail to be called, or that some called in this sequence fail to be justified. This should not be confused with every broader use of “calling” in Scripture, since the word can be used in different contexts.
+
+Paul's use of “glorified” does not mean the believers' bodily redemption is already visibly complete. Romans 8:23 expressly places that redemption in the future. The aorist expresses the certainty and unity of God's purpose in Paul's argument.
+
+### G. Interpretive alternatives and controls
+
+1. **Foreknowledge means God foresaw autonomous faith and chose on that basis.** This is a theological interpretation some defend, but the phrase does not explicitly say “foresaw their faith.” The personal object is “whom.” The argument must be made from broader context, not inserted into the Greek clause as though it were written there.
+2. **Foreknowledge necessarily means forelove.** Relational knowledge is a serious biblical possibility, but the verb alone does not settle the full theological definition. Examine parallel uses and context before treating this as a lexical certainty.
+3. **Predestination means only a general destination, not conformity to Christ.** This ignores the explicit infinitival purpose and stated object in verse 29. Paul's stated destination is conformity to the Son.
+4. **The human response is absent from Romans 8.** This is false. Verse 28 describes those loving God; the wider chapter speaks of walking according to the Spirit, putting to death the deeds of the body, suffering with Christ, waiting, and hope. Human response and responsibility remain present, though they are not identified as the originating cause of God's actions in verses 29–30.
+5. **Human response is the originating cause of the entire sequence.** The grammatical construction does not state this. God is the active subject of foreknowing, predestining, calling, justifying, and glorifying. The precise relation of foreknowledge to faith remains a canonical question.
+6. **The calling in verse 30 is identical to every general invitation or outward summons.** The immediate sequence associates this calling with justification and glorification. It should not be flattened into every use of “call” elsewhere.
+7. **The aorist “glorified” proves believers are already bodily glorified.** This conflicts with Romans 8:23. The aorist presents the action as a whole in Paul's assurance argument; it does not erase the future expectation of bodily redemption.
+8. **Romans 8:29–30 alone settles the full scope of election, reprobation, or every question of human will.** It does not. The passage makes strong statements about God's purpose for the people in view, but it does not answer every related question.
+
+### H. Canonical comparisons retained for further examination
+
+- **Romans 9:6–24:** examine election, mercy, hardening, the potter and clay, and Paul's actual argument. Do not import its conclusions before reading the whole section.
+- **Ephesians 1:3–14:** examine election, predestination, adoption, redemption, hearing the Word of truth, believing, and sealing with the Spirit.
+- **John 6:37–65:** examine the Father's giving and drawing, the Son's reception of those who come, and the granting of coming to Christ.
+- **1 Peter 1:1–5:** examine election according to foreknowledge, sanctification of the Spirit, obedience, new birth, and the inheritance reserved by God's power.
+- **2 Timothy 1:9:** examine salvation and calling according to God's purpose and grace, given in Christ before the world began.
+- **Romans 8:23, 26–27:** retain as immediate controls on the future completion of glorification and the Spirit's help in infirmity.
+- **Romans 8:31–39:** retain as Paul's conclusion concerning God's giving of His Son, justification, intercession, and the impossibility of separation from God's love in Christ.
+
+### I. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| God's purpose governs the calling described | EXPLICIT | Romans 8:28 |
+| God is subject of “foreknew” and “predestinated” | EXPLICIT | Romans 8:29 |
+| The object of foreknowledge is people (“whom”) | EXPLICIT | οὓς |
+| The precise nuance of foreknowledge (prescience, relational knowledge, forelove) is settled by this verb alone | NOT ESTABLISHED | Semantic and contextual debate |
+| Predestination's stated purpose is conformity to the Son | EXPLICIT | Romans 8:29 |
+| God is subject of calling, justification, and glorification | EXPLICIT | Romans 8:30 |
+| The same people are linked through the sequence | EXPLICIT | Repeated “whom … them” construction |
+| The chain inserts a human-originating cause between its actions | NOT STATED | No such clause appears |
+| The aorist forms alone give a complete chronological schedule | NOT ESTABLISHED | Tense/aspect does not encode every interval |
+| Glorification is already bodily complete for believers | CONTRADICTED BY CONTEXT | Romans 8:23 still anticipates bodily redemption |
+| Human response and responsibility are absent from the chapter | CONTRADICTED BY CONTEXT | Romans 8:13, 17, 23, 25, 28 |
+| The passage settles every question about election and human will | NOT ESTABLISHED | Scope of this argument is limited |
+
+### J. Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** Preserves the immediate context of suffering and hope, the explicit divine subject in verses 29–30, the stated purpose of conformity to Christ, the repeated chain, and the future bodily redemption still awaited in verse 23.
+- **Scientific coherence — PASS, within scope.** Distinguishes grammatical subject and object, voice, tense/aspect, semantic possibilities, and contextual controls. No empirical claim is derived from the theological text.
+- **GUA-W consistency — PASS, within scope.** The text distinguishes God's purpose and actions from the people upon whom those actions are performed, while retaining the real human responses described in the chapter. This is a textual observation only; no architectural change or new Gear is proposed.
+
+### K. Entry finding and limits
+
+Romans 8:28–30 places God's purpose at the centre of Paul's assurance. In verses 29–30 God is the grammatical subject of foreknowing, predestining, calling, justifying, and glorifying. The people are the objects of these actions, and the repeated “whom … them” construction links the same people through the sequence. Predestination has an expressly stated purpose: conformity to the image of God's Son.
+
+The passage does not say that an independently originating human decision causes God to foreknow or predestine. Nor does it erase human response: the chapter speaks of loving God, walking according to the Spirit, putting to death the deeds of the body, suffering with Christ, waiting, and hope. The precise meaning of foreknowledge and its relation to faith must be examined through wider canonical evidence. The aorist “glorified” presents the assured purpose as a whole, while verse 23 confirms that bodily redemption remains awaited.
+
+**Finding:** Paul's construction explicitly presents God as the acting subject throughout Romans 8:29–30 and the people as the objects of His actions. Predestination is directed toward conformity to Christ. The sequence does not state that human faith originates God's purpose, but this passage alone does not settle every question about the semantic content of foreknowledge or the complete mechanics and scope of election.
+
+**Status:** PASS for God's agency and the stated purpose of conformity to Christ; PASS for the linked sequence of predestination, calling, justification, and glorification; PASS for retaining human response in the wider context; UNRESOLVED for the precise nuance of foreknowledge, its relation to faith, and the full scope and mechanics of election.
+
+### L. GUA-W recognition and research queue
+
+The passage witnesses a distinction between God's purpose and action, the people who are its objects, and the conformity to Christ toward which the purpose is directed. Human response remains present in the surrounding chapter, but it is not inserted as the originating cause of the actions listed in verses 29–30. This is a textual recognition, not a new GUA-W architectural rule.
+
+Retain these guardrails:
+- do not replace the personal object “whom” with “what they would decide” as though the text said that;
+- do not claim the verb προγινώσκω alone proves every detail of a forelove doctrine;
+- do not detach predestination from its stated purpose, conformity to Christ;
+- do not erase human response from Romans 8;
+- do not claim the aorist “glorified” means bodily glorification is already experienced;
+- do not infer the complete scope of election from this passage alone.
+
+Next investigations:
+1. HW-017 — Ephesians 1:3–14: examine election, adoption, redemption, hearing the Word of truth, believing, and sealing with the Spirit.
+2. HW-018 — Romans 9:6–24: examine mercy, hardening, election, and the potter/clay argument in context.
+3. Retain 1 Peter 1:1–5 and 2 Timothy 1:9 as comparisons for foreknowledge, election, calling, and purpose.
+4. Keep U-006 (definition and components of human will) open. Romans 8:28–30 establishes a strong account of God's purpose and action for the people in view, but does not exhaustively define every aspect of human willing or the complete scope and mechanics of election.
+
+---
+
 ## 14. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
@@ -1878,6 +2033,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-013 | Acts 13:44–48 | COMPLETED — see entry above. |
 | HW-014 | 1 John 5:1 | COMPLETED — see entry above. |
 | HW-015 | 2 Thessalonians 2:13–14 | COMPLETED — see entry above. |
+| HW-016 | Romans 8:28–30 | COMPLETED — see entry above. |
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
