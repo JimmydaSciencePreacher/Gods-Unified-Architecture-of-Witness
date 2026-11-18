@@ -222,3 +222,40 @@ The register distinguishes **WRITTEN** case studies from events merely **REGISTE
 - [Case Study II.33 — The Blind and Mute Man Delivered](INVESTIGATION-II-33-BLIND-MUTE-DELIVERED.md)
 - [Case Study II.34 — Jesus Heals Malchus' Ear](INVESTIGATION-II-34-MALCHUS-EAR.md)
 - [Case Study II.35 — The Transfiguration](INVESTIGATION-II-35-TRANSFIGURATION.md)
+
+## 12. Integrated canonical relationship — the Word acts; witnesses register (2026-11-18)
+
+This investigation belongs within the one GUA-W architecture. Its miracle accounts are not disconnected displays and are not mechanisms to be invented. They are Gospel witnesses to the identity and authority of Jesus Christ, the Word made flesh. The distinction established in the Creator-authority and Human Will investigations applies here without making the passages say more than they do: creaturely participation and witness are real, but neither becomes the originating cause or authority of the work of Christ.
+
+### A. Three case studies that show the relationship
+
+- **Cana — John 2:1–11 (Case Study II.1):** Jesus gives the commands and the sign is attributed to Him. The servants fill, draw, and carry; the governor tastes and evaluates; the disciples witness; John interprets the sign as manifestation of Jesus' glory, and records their belief. Human participation is real and differentiated, but the sign's source is not assigned to the servants or the governor.
+- **The centurion's servant — Matthew 8:5–13; Luke 7:1–10 (Case Study II.10):** the centurion recognizes authority and asks Jesus to speak the word only. The accounts preserve the role of messengers and the difference in narrative presentation. Jesus' word is central; the servant is found healed. The messenger chain conveys the request and verifies the result; it does not originate the healing.
+- **Lazarus — John 11:1–57 (Case Study II.16):** Jesus declares, “I am the resurrection, and the life,” prays to the Father in the hearing of those present, and calls Lazarus from the tomb. People remove the stone and later unbind Lazarus, but those commanded human actions are not the source of life. The sign is expressly connected with God's glory and belief that the Father sent Jesus.
+
+These accounts show distinct settings and actions. They are not to be flattened into one technical mechanism or treated as repetitions of an identical narrative sequence.
+
+### B. The canonical identity and authority context
+
+John 1:1–3, 14 identifies the Word as the One through whom all things were made and who was made flesh. Hebrews 1:1–3 identifies the Son as the agent through whom God made the worlds and the One upholding all things by the word of His power. John 5:19–30 and 10:17–18 further develop the Son's relation to the Father, life, judgment, and His own life. These passages supply the identity context for the works; individual miracle narratives must still be read in their own immediate contexts.
+
+### C. The Resurrection is not merely another miracle entry
+
+The raising of Lazarus is a sign that points to Jesus' identity and approaches the Passion. The Resurrection of Jesus is categorically distinct: the Gospel and apostolic proclamation testify that Jesus Himself died, was buried, and was raised. It is not to be collapsed into the raising of Lazarus or other people. Investigation III.1 examines the central Resurrection claim; III.2 examines the risen Christ's breathing, the Spirit, commission, and witness. The Father, the Son, and the Spirit must retain the distinct actions attributed to them in those texts.
+
+### D. Integrated finding
+
+Across the miracle accounts, the text identifies Jesus as the acting authority; people may ask, obey, carry, remove, observe, report, believe, or reject. These are genuine creaturely responses, but they do not make the witnesses the Author of the sign. The same distinction governs the Resurrection records: the apostles and other witnesses proclaim what they testify God has done; their testimony does not originate the event.
+
+**The Word acts. The witnesses receive and register. Their testimony points beyond themselves to the One whose work they report.**
+
+### E. Limits and Triple Constraint
+
+- Do not infer a universal physical law or repeatable mechanism from a unique Gospel sign.
+- Do not assign a medical, chemical, or biological mechanism where the text supplies none.
+- Do not collapse Jesus' works into the works later performed by apostles in His name; agency and attribution differ.
+- Do not collapse the raising of others into Christ's own Resurrection.
+- Do not infer that every witness understands the full significance of what is seen; Cana itself distinguishes what different participants know.
+
+**Biblical compliance:** PASS for the limited canonical relationships stated above. **Scientific coherence:** PASS for restraint; event mechanisms remain unspecified where the text does not provide them. **GUA-W consistency:** PASS at the governing level; no new layer, Gear, or technical mechanism is proposed. This is an integration of existing witnesses, not a new architecture component.
+
