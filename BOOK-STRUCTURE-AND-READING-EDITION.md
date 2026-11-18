@@ -122,7 +122,10 @@ Primary reading:
 - [The Biblical Examination of the Human Will](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md)
 
 ### Chapter 8. Genesis 4 — The First Recorded Human Consequences
-Read the account of Cain and Abel and the ensuing consequences in textual sequence.
+
+**Read the completed chapter:** [Chapter 8 — Genesis 4: The First Recorded Human Consequences](book/08-GENESIS-4-THE-FIRST-RECORDED-HUMAN-CONSEQUENCES.md)
+
+Follow Cain and Abel from birth and occupation through offering, divine warning, murder, confrontation, judgment, protection, and departure. Preserve the textual and Hebrew uncertainties in Genesis 4:7, the variant reading in 4:8, and the limits of what the sign in 4:15 reveals. The chapter connects Genesis 2–4 without inventing a definition of human will or a new architectural component.
 
 Primary reading:
 - [Genesis 4:6–7](scriptural-reconstruction/GENESIS-4-6-7-TEXT-FIRST-RECONSTRUCTION.md)
