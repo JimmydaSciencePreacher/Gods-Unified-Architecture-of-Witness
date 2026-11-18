@@ -544,7 +544,120 @@ The Greek grammar supports the distinction between the Spirit as source/agent of
 
 **Status:** PASS for the necessity and Spirit-source of new birth; PARTIAL for the exact interpretation of “water and Spirit” and the relation of faith to regeneration; FAIL for using John 3:1–8 to claim that independent human will originates spiritual birth.
 
-## 12. Initial passage register — not yet adjudicated
+## 12. Entry — HW-006: John 6:35–45, 63–65
+
+### A. Exact KJV passage
+
+> **John 6:35–45**
+>
+> 35 And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst.
+>
+> 36 But I said unto you, That ye also have seen me, and believe not.
+>
+> 37 All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out.
+>
+> 38 For I came down from heaven, not to do mine own will, but the will of him that sent me.
+>
+> 39 And this is the Father's will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day.
+>
+> 40 And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.
+>
+> 41 The Jews then murmured at him, because he said, I am the bread which came down from heaven.
+>
+> 42 And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?
+>
+> 43 Jesus therefore answered and said unto them, Murmur not among yourselves.
+>
+> 44 No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day.
+>
+> 45 It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me.
+>
+> **John 6:63–65**
+>
+> 63 It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.
+>
+> 64 But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him.
+>
+> 65 And he said, Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father.
+
+### B. Argument commonly made
+
+This passage is central to the question of whether fallen man's independent will originates his coming to Christ, faith, or salvation.
+
+One argument emphasizes verse 40: “every one which seeth the Son, and believeth on him” has everlasting life. It concludes that believing is the decisive human condition and that the individual must therefore possess an independent ability to initiate faith. Another emphasizes verses 37 and 44–45, arguing that those who come are given by the Father, that no one can come unless drawn by the Father, and that the one who has heard and learned from the Father comes. Verses 63 and 65 add the Spirit's quickening and the Father's giving.
+
+The text must not be reduced to either slogan. Jesus explicitly speaks of coming and believing, and He explicitly speaks of the Father's giving, drawing, teaching, and granting. The question is how Jesus relates these realities in the same discourse.
+
+### C. Immediate biblical context
+
+John 6 begins with the feeding of the five thousand (vv. 1–14), followed by Jesus' walking on the sea (vv. 16–21). The crowd seeks Jesus after the sign, and Jesus challenges them because they sought Him for bread rather than because they understood the sign (vv. 22–27). He directs them to the food that endureth unto everlasting life and identifies Himself as the bread of life (vv. 27–35).
+
+In verses 35–40 Jesus joins coming and believing to everlasting life, while identifying the Father's giving and will as decisive in the Son's mission. Verse 36 is an immediate warning against assuming that seeing Jesus or witnessing signs automatically produces faith: Jesus says some have seen Him and yet do not believe. Verse 37 states that all the Father gives to the Son shall come to Him, and the Son promises not to cast out the one who comes. Verses 38–40 ground this in the Son's obedience to the Father's will and the preservation and resurrection of those given to Him.
+
+In verses 41–42 the hearers murmur at Jesus' claim to have come down from heaven. Jesus answers that no one can come unless the Father draws him (v. 44), and then cites the prophets: “they shall be all taught of God.” He explains, “Every man therefore that hath heard, and hath learned of the Father, cometh unto me” (v. 45). The “therefore” connects the Father's drawing with hearing and learning from the Father and coming to Christ. The text does not portray drawing as a human self-originated act.
+
+The omitted verses 46–62 are part of the same discourse and must remain in view. Jesus speaks of seeing the Father, eating the living bread, His flesh given for the life of the world, and the necessity of eating His flesh and drinking His blood. His hearers dispute and many find the saying hard (vv. 52, 60–61). This discourse continues the conflict over Jesus' identity and the reception of His words; verses 63–65 cannot be detached from it.
+
+In verses 63–65 Jesus says the Spirit quickens, the flesh profits nothing, and His words are spirit and life. He acknowledges that some hearers do not believe (v. 64), and then repeats that no one can come unless it has been given to him by the Father (v. 65). Verse 64 prevents us from treating outward proximity, hearing, or seeing as equivalent to believing. Verse 65 restates the inability of verse 44 and identifies the Father's grant as necessary.
+
+### D. Counter-texts and contextual qualifications
+
+**John 6:40** must be retained in full. Jesus says that everyone who sees the Son and believes on Him may have everlasting life. Believing is not erased or made unreal by the Father's giving and drawing. The question is not whether faith occurs, but whether the passage identifies autonomous human will as faith's originating cause.
+
+**John 6:36 and 64** show that some see Jesus and hear His words but do not believe. The discourse therefore distinguishes exposure to Jesus' signs and teaching from believing response. It does not permit the inference that mere human observation automatically produces faith.
+
+**John 12:32** uses the same Greek verb for “draw” when Jesus says that, if lifted up from the earth, He will draw all men unto Him. This must be considered when assessing the meaning and scope of “draw” in John 6:44. It warns against asserting that the verb by itself always means an irresistible action applied only to a restricted group. John 12:32 has its own context, including the Greeks who seek Jesus (12:20–33), and the scope of “all” has been interpreted in more than one way. The lexical overlap does not by itself settle the relation between the two passages.
+
+**John 6:45** is Jesus' own explanatory continuation of verse 44. The Father draws; the one who has heard and learned from the Father comes to Christ. This makes the Father's teaching relevant to the drawing. We must not detach verse 44 from the explanation immediately supplied in verse 45.
+
+**John 6:63** says, “It is the spirit that quickeneth; the flesh profiteth nothing.” The statement establishes the Spirit's life-giving role and the insufficiency of “the flesh” in the discourse. The precise scope of “flesh” should be read in context: Jesus contrasts flesh with Spirit and identifies His words as spirit and life. The verse should not be converted into the claim that human bodily existence or every ordinary human action has no value whatsoever.
+
+**John 6:65** repeats the inability statement and says coming must be given by the Father. The Greek perfect passive form translated “it were given” presents the grant as something given, not self-originated by the person coming. The verse does not by itself define every stage or chronology of salvation.
+
+**Ephesians 2:1–10**, **Romans 8:5–11**, and **1 Corinthians 2:10–16** are relevant later entries because they address spiritual death, the Spirit, and the natural person's relation to the things of God. They should be examined separately rather than imported as substitutes for John's own argument.
+
+### E. Original Greek findings
+
+- **ὁ ἐρχόμενος (*ho erchomenos*)**, “he that cometh” (v. 35): present middle/deponent participle, nominative masculine singular, from ἔρχομαι (*erchomai*), “come.” Jesus genuinely describes the person as coming to Him. The participle identifies the person who comes; it does not identify that person as the originating cause of the Father's giving or drawing.
+- **ὁ πιστεύων (*ho pisteuōn*)**, “he that believeth” (v. 35); **πιστεύων (*pisteuōn*)** (v. 40): present active participle from πιστεύω (*pisteuō*), “believe.” Faith is explicitly named as the human response associated with everlasting life. The active voice identifies the believer as the one believing, but grammatical voice alone does not settle the ultimate source or enabling cause of faith.
+- **πᾶν ὃ δίδωσίν μοι ὁ πατήρ (*pan ho didōsin moi ho patēr*)**, “All that the Father giveth me” (v. 37): the neuter singular expression refers collectively to all that the Father gives to the Son. **δίδωσιν (*didōsin*)** is present active indicative, third-person singular, from δίδωμι (*didōmi*), “give.” The Father is the grammatical subject and the Son the recipient.
+- **ἥξει (*hēxei*)**, “shall come” (v. 37): future active indicative, third-person singular, from ἥκω (*hēkō*), “come/arrive.” Jesus states the coming of those given by the Father as a certainty in this declaration. The assurance is part of the sentence's force; it must not be weakened into a mere possibility.
+- **οὐδεὶς δύναται ἐλθεῖν (*oudeis dynatai elthein*)**, “No man can come” (v. 44): οὐδείς means “no one”; δύναται is present middle/deponent indicative, third-person singular, from δύναμαι (*dynamai*), “be able”; ἐλθεῖν is an aorist active infinitive from ἔρχομαι. Jesus states inability, not merely that coming is difficult or uncommon.
+- **ἐὰν μὴ ὁ πατὴρ ... ἑλκύσῃ αὐτόν (*ean mē ho patēr ... helkysē auton*)**, “except the Father ... draw him” (v. 44): ἑλκύσῃ is aorist active subjunctive, third-person singular, from ἑλκύω (*helkyō*), “draw/drag.” The Father is the subject and the person is the object. The verb's lexical range does not by itself prove that every use means irresistible force; John 12:32 is a necessary comparison. In John 6:44, however, the sentence explicitly makes the Father's drawing necessary for a person's coming.
+- **διδακτοὶ θεοῦ (*didaktoi theou*)**, “taught of God” (v. 45): διδακτοί is a nominative plural adjective/participle meaning “taught,” with θεοῦ (“of God”) identifying the source or agent of the teaching. Jesus cites prophetic promise and applies it to hearing and learning from the Father.
+- **ἀκούσας (*akousas*)**, “hath heard,” and **μαθὼν (*mathōn*)**, “hath learned” (v. 45): aorist active participles from ἀκούω (*akouō*), “hear,” and μανθάνω (*manthanō*), “learn.” Jesus connects hearing and learning from the Father with coming to Him. These are not detached human achievements in the sentence; they occur within the Father's promised teaching.
+- **ζῳοποιεῖ (*zōopoiei*)**, “quickeneth” (v. 63): present active indicative, third-person singular, from ζωοποιέω (*zōopoieō*), “make alive/give life.” “The Spirit” is the grammatical subject. The text directly attributes life-giving to the Spirit.
+- **ἡ σὰρξ οὐκ ὠφελεῖ οὐδέν (*hē sarx ouk ōphelei ouden*)**, “the flesh profiteth nothing” (v. 63): the flesh is the subject of the negated statement; the wording is emphatic. Its scope is governed by the immediate contrast with the Spirit who gives life and by Jesus' words, which are spirit and life.
+- **οὐδεὶς δύναται ἐλθεῖν ... ἐὰν μὴ ᾖ δεδομένον αὐτῷ ἐκ τοῦ πατρός μου (*oudeis dynatai elthein ... ean mē ē dedomenon autō ek tou patros mou*)**, “no man can come ... except it were given unto him of my Father” (v. 65): the inability construction repeats. **δεδομένον (*dedomenon*)** is a perfect passive participle, neuter singular, from δίδωμι, used impersonally with ᾖ (“may be/is”) in the condition. The passive form presents the necessary grant as given to the person, with the Father named as its source.
+
+The Greek therefore establishes the Father as giver and drawer, the Spirit as life-giver, and the human as the one who comes and believes. It does not permit us to erase the human response; neither does it permit us to make the human will the source of the Father's gift or the Spirit's quickening.
+
+### F. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| Coming to Christ | ESTABLISHED | Jesus repeatedly speaks of the one who comes (vv. 35, 37, 44–45). |
+| Believing | ESTABLISHED | Seeing the Son and believing are explicitly connected with everlasting life (v. 40); unbelief is also explicitly identified (vv. 36, 64). |
+| Father's giving | EXPLICITLY ESTABLISHED | The Father gives people to the Son (vv. 37, 39). |
+| Father's drawing | EXPLICITLY NECESSARY FOR COMING | No one can come unless the Father draws him (v. 44). The scope and manner of drawing must be read with v. 45 and John 12:32. |
+| Father's teaching | ESTABLISHED | The one who has heard and learned from the Father comes to Christ (v. 45). |
+| Human ability apart from divine action | EXPLICITLY DENIED WITH RESPECT TO COMING | “No man can come” unless the Father draws him (v. 44); v. 65 repeats the necessity of the Father's grant. |
+| Spirit's quickening | EXPLICITLY ESTABLISHED | The Spirit gives life; the flesh profits nothing (v. 63). |
+| Human responsibility/response | PRESENT, NOT ERASED | Jesus identifies belief and unbelief and speaks of coming to Him (vv. 35–36, 40, 64). |
+| Human will as originating cause of faith or salvation | NOT ESTABLISHED | The discourse attributes giving, drawing, teaching, and quickening to the Father and Spirit; it never identifies autonomous human will as their source. |
+| Complete chronology of regeneration and faith | NOT FULLY SETTLED BY THIS PASSAGE ALONE | The text joins divine initiative and human coming/believing, but does not provide a technical chronological sequence for every aspect of salvation. |
+
+### G. GUA-W Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** The entry preserves coming, believing, unbelief, the Father's giving and drawing, the Father's teaching, and the Spirit's quickening. It does not isolate verse 40 from verses 37 and 44–45, nor use verse 44 to erase the explicit call to believe.
+- **Scientific coherence — PASS, within scope.** Greek syntax and morphology are used to identify grammatical subjects, objects, voice, and verbal forms. The lexical meaning of ἑλκύω is not exaggerated into a universal doctrine of irresistible force; John 12:32 is retained as a canonical control.
+- **GUA-W consistency — PASS, within scope.** The Father gives and draws; the Spirit quickens; the person comes and believes. The human response is real but derivative within the passage's stated order of agency. Nothing here identifies the human will as Original Cause of spiritual life.
+
+**Entry finding:** John 6:35–45, 63–65 explicitly presents coming and believing as real responses, while identifying the Father as the giver and drawer and the Spirit as the one who quickens. Jesus states that no one can come unless the Father draws him, explains the drawing in relation to hearing and learning from the Father, and repeats that coming must be given by the Father. The passage therefore directly contradicts the claim that a person's independent ability is the originating source of coming to Christ. At the same time, the lexical range of “draw,” the comparison with John 12:32, and the precise chronology of regeneration and faith require careful treatment. The text establishes divine necessity and initiative; it does not invite us to invent an order beyond what it states.
+
+**Status:** PASS for the necessity of the Father's drawing/grant and the Spirit's life-giving work; PASS for the reality of coming and believing; PARTIAL for the precise scope/manner of drawing and the complete chronology of regeneration and faith; FAIL for using this passage to establish autonomous human will as the originating cause of coming, faith, or salvation.
+
+## 13. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
 
@@ -554,7 +667,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-003 | Joshua 24:14–28 | COMPLETED — see entry above. |
 | HW-004 | Genesis 3:1–7 | COMPLETED — see entry above. |
 | HW-005 | John 3:1–8 | COMPLETED — see entry above. |
-| HW-006 | John 6:35–45, 63–65 | How do coming, believing, the Father's giving/drawing, and the Spirit's quickening relate? |
+| HW-006 | John 6:35–45, 63–65 | COMPLETED — see entry above. |
 | HW-007 | Romans 9:6–24 | What does “not of him that willeth, nor of him that runneth” mean in Paul's argument and context? |
 | HW-008 | Ephesians 2:1–10 | What is the relation between being dead in sins, God's quickening, grace, faith, and works? |
 | HW-009 | James 1:16–18 | Who is identified as the source of the new birth, and what is the force of “of his own will”? |
@@ -566,11 +679,11 @@ The following passages are candidates for investigation because they are commonl
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
-## 13. Related register
+## 14. Related register
 
 The exact KJV English expression **“freewill”** is maintained separately in [KJV Freewill Phrase Register](KJV-FREEWILL-PHRASE-REGISTER.md). It must not be conflated with the wider biblical teaching about choosing, willing, desire, ability, or the philosophical concept of autonomous Free Will.
 
-## 14. Governing question retained
+## 15. Governing question retained
 
 **Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
 
