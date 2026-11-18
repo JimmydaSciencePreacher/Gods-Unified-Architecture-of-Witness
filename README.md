@@ -93,7 +93,7 @@ A PASS is always scope-limited, not a universal endorsement. These labels descri
 
 - [Governing Principles](GOVERNING-PRINCIPLES.md)
 - [Repository-Wide Triple Constraint Audit — 2026-11-17](REPOSITORY-WIDE-TRIPLE-CONSTRAINT-AUDIT-2026-11-17.md)
-- [Repository Audit and Continuing-Work Register — 2026-11-17](REPOSITORY-CONTINUING-WORK-REGISTER-2026-11-17.md)
+- [Repository Audit and Continuing-Work Register — 2026-11-17 (updated 2026-11-18)](REPOSITORY-CONTINUING-WORK-REGISTER-2026-11-17.md)
 - [Genesis 1:1–5 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-1-5-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 1:6–13 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-6-13-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 1:14–25 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-14-25-TEXT-FIRST-RECONSTRUCTION.md)
@@ -137,5 +137,5 @@ A file's presence here does not, by itself, make its contents canonical.
 
 ## Human Will and Salvation Reference Work
 
-- [The Biblical Examination of the Human Will](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md)
+- [The Biblical Examination of the Human Will](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md) — includes HW-001 through HW-008; next HW-009: James 1:16–18.
 - [KJV “Freewill” Phrase Register](scriptural-reconstruction/KJV-FREEWILL-PHRASE-REGISTER.md)
