@@ -780,6 +780,94 @@ The Greek therefore establishes the Father as giver and drawer, the Spirit as li
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
+
+
+### Further canonical examination — John 10:22–30 and the sheep given to the Son (2026-11-18)
+
+This supplement extends HW-006; it does not create a new numbered investigation. John 10:27–30 is examined alongside John 6:35–45, 63–65 and John 17:6, 9–12, 20, 24. The immediate context in John 10:22–26 is retained because Jesus' statement about the sheep follows His answer to the question whether He is the Christ.
+
+#### 1. Exact KJV text — John 10:26–30
+
+> 26 But ye believe not, because ye are not of my sheep, as I said unto you.
+>
+> 27 My sheep hear my voice, and I know them, and they follow me:
+>
+> 28 And I give unto them eternal life; and they shall never perish, neither shall any man pluck them out of my hand.
+>
+> 29 My Father, which gave them me, is greater than all; and no man is able to pluck them out of my Father's hand.
+>
+> 30 I and my Father are one.
+
+#### 2. Immediate context — the sheep and the unbelieving hearers
+
+In John 10:22–25, the Jews ask Jesus to tell them plainly whether He is the Christ. Jesus points to the works done in His Father's name. In verse 26 He says they do not believe because they are not of His sheep. He then describes His sheep in verses 27–29: they hear His voice, He knows them, they follow Him, He gives them eternal life, they will never perish, and no one can snatch them from His hand or the Father's hand.
+
+The explanatory “because” in verse 26 must not be reversed. Jesus does not say that they are not His sheep because they failed to believe; He says they do not believe because they are not His sheep. This is a strong statement about the relation between sheep-identity and believing in this discourse. It does not, by itself, provide a complete chronology of the eternal purpose, the historical calling, regeneration, and the first moment of faith.
+
+#### 3. Original-language observations
+
+- **οὐ πιστεύετε (*ou pisteuete*)**, “ye believe not” (v. 26): present active indicative, second-person plural, from πιστεύω (*pisteuō*).
+- **ὅτι (*hoti*)**, “because” (v. 26): introduces the stated reason for their unbelief. The causal relation in Jesus' sentence should not be inverted.
+- **τὰ πρόβατα τὰ ἐμά (*ta probata ta ema*)**, “my sheep” (v. 27): the sheep are identified as belonging to Jesus.
+- **ἀκούουσιν (*akouousin*)**, “hear” (v. 27): present active indicative, third-person plural, from ἀκούω (*akouō*).
+- **γινώσκω (*ginōskō*)**, “I know” (v. 27): present active indicative, first-person singular. Jesus identifies His own knowledge of the sheep.
+- **ἀκολουθοῦσίν (*akolouthousin*)**, “they follow” (v. 27): present active indicative, third-person plural, from ἀκολουθέω (*akoloutheō*). The sheep's following is real and active; it is not erased by the preceding identification as His sheep.
+- **δίδωμι (*didōmi*)**, “I give” (v. 28): present active indicative, first-person singular. Jesus is the grammatical subject who gives eternal life to His sheep.
+- **οὐ μὴ ἀπόλωνται (*ou mē apolōntai*)**, “they shall never perish” (v. 28): οὐ μή with the aorist middle subjunctive is a strong negation. The assurance is emphatic; it must not be weakened into a mere possibility.
+- **ἁρπάσει (*harpasei*)**, “pluck/snatch” (v. 28): future active indicative, third-person singular, from ἁρπάζω (*harpazō*). Jesus denies that anyone will snatch His sheep from His hand.
+- **ὁ πατήρ μου ὃς δέδωκέν μοι (*ho patēr mou hos dedōken moi*)**, “My Father, which gave them me” (v. 29): δέδωκεν (*dedōken*) is perfect active indicative, third-person singular, from δίδωμι. The Father is explicitly identified as the giver, and the Son as recipient. The perfect form presents the giving as an accomplished act with continuing relevance; it does not, by tense alone, specify the date of that giving.
+- **οὐδεὶς δύναται ἁρπάζειν (*oudeis dynatai harpazein*)**, “no man is able to pluck” (v. 29): the sentence explicitly denies anyone's ability to snatch the sheep from the Father's hand.
+- **ἕν ἐσμεν (*hen esmen*)**, “we are one” (v. 30): ἕν is neuter singular, “one”; ἐσμεν is first-person plural, “we are.” The statement identifies unity between the Father and the Son. It must not be used to collapse the Father and Son into one person; the sentence itself retains the plural “we.”
+
+The Greek confirms the passage's stated relations: the Father gives the sheep to the Son; the Son knows them and gives them life; they hear and follow; and the Father and Son are one in the assurance that no one can snatch them from divine keeping.
+
+#### 4. Comparison with John 6:37–45, 63–65
+
+| John 6 | John 10 | Shared witness |
+|---|---|---|
+| The Father gives people to the Son (6:37, 39). | The Father gave the sheep to the Son (10:29). | The Father is the giver; the Son is the recipient. |
+| All that the Father gives shall come to the Son (6:37). | The sheep hear Jesus' voice and follow Him (10:27). | Those belonging to the Son are described in relation to coming/hearing/following. |
+| The Son will not cast out the one who comes (6:37). | The Son gives eternal life and they shall never perish (10:28). | The Son's reception and saving commitment are explicit. |
+| The Son will lose nothing of all the Father gave Him and will raise it at the last day (6:39–40). | No one will snatch the sheep from the Son's or Father's hand (10:28–29). | The Son's keeping and final security are emphasized in both discourses. |
+| No one can come unless the Father draws; coming is given by the Father (6:44–45, 65). | Jesus says the unbelieving hearers are not His sheep (10:26); His sheep hear and follow (10:27). | Both passages deny that the saving relation originates in an autonomous human initiative. They do so through distinct statements and must not be collapsed into one formula. |
+
+John 6 explicitly identifies the Father's giving, drawing, and teaching, and the Spirit's quickening (6:63). John 10 adds the direct description of the sheep's belonging, Jesus' knowledge, their hearing and following, His gift of eternal life, and the double assurance of His and the Father's hands. The passages reinforce one another without making “draw,” “hear,” “learn,” “come,” “follow,” and “believe” interchangeable words.
+
+#### 5. Comparison with John 17 — giving, keeping, and the exception named in the text
+
+John 17 adds the prayer context:
+
+- **John 17:6:** Jesus says He manifested the Father's name to the men given Him out of the world; they were the Father's and were given to the Son.
+- **John 17:9–11:** Jesus prays for those given Him and asks the Holy Father to keep them through His name.
+- **John 17:12:** Jesus says that while He was with them He kept those given Him, and “none of them is lost, but the son of perdition; that the scripture might be fulfilled.”
+- **John 17:20:** Jesus extends His prayer to those who will believe through the disciples' word.
+- **John 17:24:** Jesus speaks of those whom the Father has given Him and desires that they be with Him and behold His glory.
+
+The “son of perdition” clause in John 17:12 must remain visible. John 6:70–71 identifies Judas among the Twelve and describes Jesus' foreknowledge of the betrayer; John 13:18 also refers to the one who would betray Him in relation to Scripture's fulfillment. These texts prevent a simplistic reading that treats every use of “chosen,” “given,” or “disciple” as automatically describing precisely the same category and purpose.
+
+The exact relation between Judas' place among the Twelve, the language of being given in John 17:12, and the saving sheep of John 10 should not be solved by deleting the exception or by assuming that every category is identical. John 17:12 itself states the exception and its relation to Scripture's fulfillment. The present comparison records this as a necessary interpretive boundary, not as a reason to weaken Jesus' explicit assurance in John 10:28–29.
+
+#### 6. What the combined passages establish
+
+1. The Father gives people to the Son (John 6:37, 39; 10:29; 17:6, 9, 24).
+2. Those given come to the Son (John 6:37); Jesus' sheep hear His voice and follow Him (John 10:27).
+3. Jesus knows His sheep and gives them eternal life (John 10:27–28).
+4. Jesus will not cast out the one who comes (John 6:37); His sheep shall never perish, and no one can snatch them from His or the Father's hand (John 10:28–29).
+5. The Son's will and mission include losing nothing of what the Father gave Him and raising it at the last day (John 6:39–40).
+6. Jesus asks the Father to keep those given Him (John 17:9–12), while John 17:12 expressly retains the son of perdition exception in the context of Scripture's fulfillment.
+7. Hearing, following, coming, and believing are genuine human responses. The passages do not identify those responses as the originating cause of the Father's giving or the Son's life-giving work.
+8. The Father's giving and the Son's keeping are explicit; the precise temporal date of the giving is not stated by John 10:29's perfect tense or by John 6's present-tense wording.
+
+#### 7. Triple Constraint disposition
+
+- **Biblical compliance — PASS within stated limits:** John 10:22–30 is read in its immediate context; the causal “because” in verse 26 is preserved; hearing and following are retained as real responses; John 17:12's son of perdition clause is not omitted.
+- **Scientific coherence — PASS within scope:** grammatical observations identify the expressed subjects, objects, verbal forms, and negations without treating tense or aspect as a complete chronology.
+- **GUA-W consistency — PASS:** the Father gives; the Son receives, knows, keeps, gives life, and raises; the sheep hear and follow; the Father and Son are one. The sheep's response is real but does not become the originating cause of the gift or the Author of life.
+
+**Integrated finding:** John 6, John 10, and John 17 present a coherent and mutually reinforcing account of the Father's giving and the Son's saving work. The Father's giving is not described as a passive response to independently arriving people: John 6:37 says those given shall come; John 6:44 says no one can come unless drawn; John 10:26 gives the stated reason for the hearers' unbelief as their not being Jesus' sheep; and John 10:29 identifies the Father as the one who gave the sheep to the Son. At the same time, the sheep truly hear and follow, and believers truly come and believe. The Son's keeping and gift of eternal life are emphatic. The exact chronology of the Father's giving, and the detailed relation of Judas' apostolic selection to the saving-sheep language, are not settled by these verses alone.
+
+**Disposition:** This is a canonical extension of HW-006 and sections 35 and 38–39, not HW-021. It answers the question of whether John presents the Father's giving as originating initiative rather than a response to autonomous human arrival: **yes, that is the direction of the explicit statements.** It does not supply a precise pre-creation timestamp for the giving or a complete chronology of each person's coming to faith.
+
 ## 13. Entry — HW-007: Romans 9:6–24
 
 ### A. Exact KJV passage
