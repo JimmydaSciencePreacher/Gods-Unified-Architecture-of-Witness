@@ -218,3 +218,70 @@ This document makes substantive theological claims about Creation's original con
 - [Genesis 3:1–24 — Text-First Reconstruction](GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md)
 
 **Primary text base:** King James Version, Genesis 2:1–17; Genesis 3:1–24; John 19:30; Revelation 16:17; Revelation 21:1–6; 1 Peter 1:19–20; Ephesians 1:4; Revelation 13:8; Revelation 17:8.
+
+
+## 9. The three completions in relation to the first Adam, the promised Seed, and the last Adam
+
+The three-completion comparison is not three isolated statements. Read in the order of Scripture, it is a connected witness across Creation, the Fall, redemption in Christ, and the consummation.
+
+### 9.1 First completion — Creation and the first Adam
+
+Genesis 2:1–3 declares the heavens, earth, and all their host finished; God ends His work, rests, blesses, and sanctifies the seventh day. Genesis 2:7 records the LORD God forming Adam from the dust and breathing into him the breath of life. Genesis 2:15–17 records man's placement, appointed work, permission, command, and boundary.
+
+The first Adam is a creature within the completed Creation. He is not its author. His life is received; his place and work are given; the command is spoken by God. Genesis 3 then records the transgression and its consequences.
+
+**Boundary:** The first completion is the completion of the created work described in Genesis 2:1–3. It must not be confused with the later completion of redemption or the final consummation. Nor should Genesis 2:1–5 be made to say that Adam was already formed in the order of verses 1–5; man's formation is narrated in 2:7.
+
+### 9.2 The promise within the Fall narrative — Genesis 3:15
+
+After the transgression, God declares, “I will put enmity” between the serpent and the woman and between their respective seed/offspring. The promise is God's declaration, not a humanly authored recovery plan.
+
+Genesis 3:15 itself does not name Jesus or give the full chronology of the victory. The New Testament supplies the further witness: Revelation 12:9 identifies the dragon as the old serpent, the Devil, and Satan; Romans 16:20 speaks of God bruising Satan; Hebrews 2:14–15 and 1 John 3:8 connect Christ's coming and work with defeating the devil and destroying his works.
+
+This is the promised conflict and victory carried forward within the history that follows the Fall. It is not a fourth completion in the three-completion pattern.
+
+### 9.3 Second completion — Redemption accomplished by Christ
+
+John 19:28–30 must be read as a unit. Jesus knows that all things are now accomplished, fulfills the Scripture concerning the vinegar, receives it, and declares, “It is finished” before giving up the ghost. John 17:4 also records Jesus speaking to the Father of having glorified Him on earth and finished the work given Him to do.
+
+The New Testament identifies Christ as the last Adam (1 Corinthians 15:45) and contrasts the first man Adam with Christ, the second man (15:47). Romans 5:12–21 develops the parallel and contrast between the one man's disobedience and the obedience of Jesus Christ, and between condemnation and the gift of grace/righteousness.
+
+**Finding:** The Cross is not a second creation event and does not mean the first Creation was unfinished. It is the distinct redemptive completion accomplished by Christ. The first Adam's disobedience and the last Adam's obedience belong to the canonical explanation of why this redemption is necessary and what Christ accomplishes.
+
+**Boundary:** “It is finished” in John 19:30 is Jesus' declaration in the immediate context of His death. The scope of the finished work should be interpreted from John's Gospel and the wider New Testament, not reduced to a slogan or used to erase the resurrection, ascension, present intercession, or future consummation that Scripture also teaches.
+
+### 9.4 Third completion — Consummation in the new Creation
+
+Revelation 21:1–6 presents the new heaven and new earth, the holy city, God dwelling with His people, the end of death, sorrow, crying, and pain, and the declaration: “It is done. I am Alpha and Omega, the beginning and the end” (21:6).
+
+Revelation 22:1–5 continues with the river of the water of life, the tree of life, the removal of the curse, and the servants of God seeing His face and reigning. These details deliberately bring the reader back to themes from Genesis: the tree of life, the curse, God's presence, and human life under God's order.
+
+**Finding:** Revelation's consummation is not merely a return to the earlier Garden scene. It is the new-Creation conclusion revealed in the vision: the curse is no more, God's people see His face, and the tree of life appears in the city. The third completion is the consummation of the divine purpose, not a correction authored by the creature.
+
+### 9.5 Integrated sequence
+
+**Creation completed → Fall and promised Seed → Redemption accomplished in Christ, the last Adam → Consummation declared.**
+
+The three completion declarations remain:
+1. **Genesis 2:1–5 — Creation:** “were finished” / God “ended” His work.
+2. **John 19:30 — Redemption:** “It is finished.”
+3. **Revelation 21:6 — Consummation:** “It is done.”
+
+The wording is not identical, and the events are not interchangeable. The unity is in the canonical testimony to the Author's purpose across the beginning, the redemptive work of Christ, and the new Creation.
+
+**Central distinction:** The first Adam does not author Creation; the serpent does not author the promise; the last Adam does not act as an independent rival author; and the creature does not author the consummation. God remains the originating Author throughout.
+
+### 9.6 GUA-W placement and methodological guardrails
+
+This is recognition of a Scriptural relationship within the completed architecture, not an amendment or extension of GUA-W. The map witnesses to the Author's one Creation and His purpose; it is not God, not Christ, and not the source of the events it maps.
+
+Do not:
+- call the three passages three identical quotations;
+- call Revelation 21:6 the only occurrence of “It is done” in Revelation (compare 16:17);
+- claim Genesis 3:15 itself names Jesus or gives the complete chronology;
+- conflate the first completion of Creation with the second completion of redemption;
+- treat the new Creation as merely a rewind to Eden;
+- make the first Adam and last Adam interchangeable;
+- claim that the Cross eliminates the distinct future consummation announced in Revelation 21.
+
+The investigation follows the order supplied by Scripture: beginning, transgression and promise, Christ's completed redemptive work, and final consummation.
