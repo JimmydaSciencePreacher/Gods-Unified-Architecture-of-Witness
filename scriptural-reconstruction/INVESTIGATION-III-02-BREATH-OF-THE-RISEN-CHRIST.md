@@ -777,3 +777,19 @@ This creates a strong canonical connection: the one identified at the beginning 
 - “The Christocentric and Christotelic Nature of Johannine Pneumatology,” *Themelios*. Surveys the Spirit's work in believers, including John 3:3–8, and its relation to the wider Christology of the Gospel. https://www.thegospelcoalition.org/themelios/article/the-christocentric-and-christotelic-nature-of-johannine-pneumatology/
 - Tricia Gates Brown, *Spirit in the Writings of John: Johannine Pneumatology in Social-Scientific Perspective*, JSNTSup 253 (London: T&T Clark International, 2003). Provides a sustained study of the Spirit in John's Gospel, including the distinctive emphasis on the Spirit remaining upon Jesus. https://research-repository.st-andrews.ac.uk/bitstream/handle/10023/22923/TriciaBrownPhDThesis2000_original_C.pdf?isAllowed=y&sequence=1
 
+### 22.10 Scholarly refinement — the sign, the Spirit-baptizer, and the disputed water
+
+The consulted commentaries strengthen several points while also identifying limits that must remain visible.
+
+1. **The sign in John 1 is primarily revelatory.** Köstenberger notes that the Fourth Gospel does not narrate Jesus' baptism itself; it presents the Baptist's testimony about the Spirit's descent and remaining as the divine sign identifying Jesus to the Baptist. This means the narrative emphasis is not a technical account of the mechanics of Jesus' baptism, but the identification and mission of Jesus. <https://www.thetbs.org/study-materials/wp-content/uploads/2023/03/JohnBaker-Exegetical-Commentary-by-Andreas-Kostenberger-z-lib.org_.pdf>
+
+2. **The Spirit-baptizer reading has a scholarly counter-position.** John 1:33 naturally identifies Jesus as the one who baptizes with the Holy Spirit. However, Cornelis Bennema has argued that the text may point to the effects of Jesus' Spirit-endowed ministry rather than a direct act of bestowing the Spirit. A published response disputes that reading. The verse's wording is clear; the exact account of how Jesus' Spirit-baptizing activity is realized in the Gospel's narrative remains a matter for argument. <https://www.thegospelcoalition.org/themelios/article/the-christocentric-and-christotelic-nature-of-johannine-pneumatology/>
+
+3. **John 3:5 must not be prematurely narrowed.** John Christopher Thomas's survey notes that “water and Spirit” can be read as a unified “from above” birth image, while water also has other associations in the Gospel, including baptism. Ezekiel 36 remains a strong canonical parallel, but the exact reference of “water” is not settled by simply naming one background. <https://brill.com/view/journals/pneu/43/3-4/article-p442_14.pdf>
+
+4. **John 3:34 is a grammatical caution point.** The KJV expresses the phrase as God giving the Spirit “unto him.” The verse is commonly read as describing the Spirit's unmeasured relation to the one sent by God, but the Greek clause is compact and translations differ in how they supply the implied recipient. The context (3:31–36) should govern; avoid treating the English supplied words as if each were separately explicit in the Greek.
+
+5. **The Gospel presents a coherent Spirit-witness to Jesus.** John 1:32–34, 14:26, 15:26, and 16:13 place the Spirit's work in relation to identifying, testifying to, and glorifying Jesus. This reinforces the Christ-centered direction of the narrative without collapsing the Spirit's distinct agency into a mere metaphor.
+
+**Refined disposition:** The explicit narrative distinctions remain. The interpretation of John 1:33's Spirit-baptizing action, John 3:5's water, and John 3:34's syntax requires continued examination. These qualifications do not erase the Gospel's clear identification of Jesus as the one associated with the Spirit's baptism, nor the necessity of birth from the Spirit.
+
