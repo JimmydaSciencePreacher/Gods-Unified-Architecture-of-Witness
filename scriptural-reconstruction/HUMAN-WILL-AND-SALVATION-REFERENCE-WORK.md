@@ -2243,10 +2243,135 @@ Retain these guardrails:
 - retain the translation range of ἐκληρώθημεν in verse 11.
 
 Next investigations:
-1. HW-018 — Romans 9:6–24: examine mercy, hardening, election, and the potter/clay argument in context.
-2. HW-019 — John 6:35–65: examine coming, believing, the Father's giving and drawing, and the Son's reception.
+1. HW-018 — Romans 9:6–24: SUPPLEMENTARY AUDIT RECORDED; original full entry remains HW-007.
+2. HW-019 — John 6:35–65: supplementary canonical cross-check of coming, believing, the Father's giving and drawing, the Spirit's quickening, and the Son's reception.
 3. Compare Romans 10:13–17 and 2 Corinthians 1:21–22 in a dedicated cross-reference audit of hearing, believing, and sealing.
 4. Keep U-006 (definition and components of human will) open. Ephesians 1 identifies believing as a real response but does not by itself exhaustively define its origin or every aspect of human willing.
+
+---
+
+## 18. Supplementary entry — HW-018: Romans 9:6–24 (2026-11-18)
+
+### A. Relationship to the earlier entry and exact KJV text
+
+**Repository identity note:** Romans 9:6–24 was already examined as HW-007. HW-018 is therefore not a claim that the passage is new or that HW-007 did not exist. It is a separately numbered supplementary audit prompted by the continuing-work sequence after HW-017. HW-007 remains intact as the original full entry; this entry revisits the passage's central claims, tests the earlier conclusions against Romans 9–11 as a continuous argument, and records the distinctions that must govern any later use of the text.
+
+The exact KJV passage is Romans 9:6–24, quoted in full in HW-007, section A. HW-018 examines that same wording; it does not silently revise the quotation or replace the earlier entry.
+
+### B. The question under examination
+
+Does Romans 9 teach that God's mercy and saving purpose originate in the independent will or effort of a human being? What does Paul mean by election, mercy, hardening, and the potter/clay image, and how must these claims be read alongside the human believing, confessing, calling, hearing, and preaching described in Romans 10 and the remnant, partial hardening, grafting, and mercy described in Romans 11?
+
+Two opposite reductions must be rejected:
+
+1. **Human-origin reduction:** treating human willing, exertion, descent, or works as the originating cause of God's election or mercy, despite Paul's explicit contrasts.
+2. **Human-response erasure:** treating Romans 9 as though Romans 10–11 did not exist, or as though Paul's statements about God's purpose eliminate believing, preaching, calling, accountability, or human response.
+
+### C. Romans 9:6–13 — promise, descent, and election
+
+Paul's opening question is whether God's word has failed (v. 6), arising from his grief for Israel and his catalogue of Israel's privileges in 9:1–5. His answer is no. Physical descent from Israel does not mean that every descendant belongs to the Israel defined by God's promise: Paul distinguishes the children of the flesh from the children of promise (vv. 6–9).
+
+The examples are not interchangeable abstractions. Isaac's birth is tied to the promise spoken concerning Sarah (vv. 8–9). Rebecca's twins then provide Paul's next example. Before the children were born and before they had done good or evil, the declared purpose according to election stood “not of works, but of him that calleth” (vv. 10–13). The timing clause is explicit: the declaration precedes their deeds. The stated contrast is God's calling purpose, not a foreseen achievement by either child.
+
+**Corporate and individual dimensions:** Genesis 25:23 speaks of two nations and their relation; Malachi 1:2–5 later speaks in the historical setting of Jacob/Israel and Esau/Edom. Those contexts must be retained. Paul nevertheless names Rebecca's children, describes their pre-birth condition, and makes their example serve his argument about God's purpose according to election. It is therefore inadequate either to erase the national/historical dimension or to insist that the passage concerns only impersonal national roles with no reference to the individuals Paul names. The precise relation between individual persons and the peoples represented by them is not exhaustively defined in Romans 9:6–24.
+
+### D. Romans 9:14–18 — mercy and hardening
+
+Paul anticipates the charge of unrighteousness (v. 14), answers by citing God's declaration to Moses (Exodus 33:19), and draws the conclusion in verse 16: mercy is not sourced in the one who wills or the one who runs, but in God who shows mercy.
+
+The scope of “him that willeth” must be kept with Paul's sentence and argument. Paul is denying that the human willing or striving person is the source or determining ground of God's mercy in the matter under discussion. He is not defining every use of human willing, denying that people make choices, or teaching that human responses never occur. Romans 10 itself describes willing, believing, confessing, calling, and obeying in the course of Paul's argument.
+
+Pharaoh is introduced through Exodus 9:16 (Romans 9:17). Paul states that God raised Pharaoh up for the stated purpose of displaying divine power and making God's name known. Verse 18 then expressly says that God has mercy on whom He wills and hardens whom He wills. God's action in hardening must not be deleted from the text.
+
+At the same time, the Exodus narrative must not be flattened. It records Pharaoh's own hardening and the LORD's hardening of Pharaoh at different points in the account. Romans 9:17–18 gives Paul's theological statement of God's sovereignty in the matter; Exodus supplies the fuller narrative sequence. These descriptions must be held together without inventing a complete psychological or metaphysical mechanism that neither passage sets out.
+
+### E. Romans 9:19–21 — the objection and the Creator/creature distinction
+
+Verse 19 raises the objection: if God's will cannot be resisted, why does He still find fault? The question is voiced by Paul's interlocutor; it is not a neutral premise that the reader may simply adopt as Paul's own complete formulation.
+
+Paul's answer in verses 20–21 places the human creature before the Creator. The formed thing does not occupy the Creator's position to demand that He justify His authority as though the creature were the Author. The potter/clay image asserts God's authority over what He forms and His right to make vessels for differing uses.
+
+This answer establishes the Creator/creature distinction and divine authority. It does not provide a full philosophical account of how divine sovereignty and human accountability relate in every case. The text retains the question of fault and judgment; the answer does not erase those subjects. Nor may the reader use the image to claim that every detail of the vessels' histories or the mechanism of their formation has been disclosed.
+
+The image belongs to a wider Scriptural pattern. Jeremiah 18:1–10 uses the potter and clay in a prophetic context that explicitly includes God's announced response to a nation's turning from evil or doing evil. Isaiah 29:16 and 45:9 also use the formed thing/potter distinction to rebuke creaturely presumption. These parallels illuminate the biblical image but must not be made to cancel Paul's particular use of it in Romans 9.
+
+### F. Romans 9:22–24 — vessels, preparation, and calling
+
+The grammatical asymmetry already identified in HW-007 remains decisive and is reaffirmed:
+
+- Verse 22 describes “vessels of wrath” as “fitted to destruction” with a perfect passive participle. The clause does not expressly name the agent who fitted them.
+- Verse 23 says that God “afore prepared” the “vessels of mercy” unto glory. The verb is active and God is its expressed subject.
+- Verse 24 identifies the called as including people “not of the Jews only, but also of the Gentiles.”
+
+The two clauses must not be rewritten as though they had identical grammatical agency. The text expressly attributes the prior preparation of the vessels of mercy to God; the passive wording for the vessels of wrath does not identify its agent in that clause. This is a limit of what the sentence says, not proof of a particular alternative agent.
+
+The identity of the called from Jews and Gentiles leads directly into Paul's use of Hosea and Isaiah in Romans 9:25–29. The argument continues beyond the assigned boundary and must not be severed from it.
+
+### G. Romans 10–11 — necessary continuation, not cancellation
+
+**Romans 10** begins with Paul's expressed desire and prayer for Israel's salvation (10:1). He describes Israel's zeal, their ignorance of God's righteousness, and their failure to submit to that righteousness (10:2–3). He then speaks of Christ, righteousness, the word of faith, believing in the heart, confessing with the mouth, calling upon the Lord, and salvation (10:4–13). He asks how people can call on one in whom they have not believed, believe in one of whom they have not heard, or hear without a preacher (10:14–15). He concludes that faith comes by hearing, and hearing by the word of God (10:17).
+
+These statements are real parts of Paul's account. They do not state that independent human will is the originating cause of God's mercy or election. Neither may they be removed by quoting Romans 9:16 alone. Romans 9 addresses the source and freedom of divine mercy; Romans 10 describes the proclamation and human response through which the Gospel is heard and received, while also explaining Israel's unbelief and disobedience.
+
+**Romans 11** continues with the remnant according to the election of grace (11:1–10), the place of Israel's trespass and Gentile inclusion (11:11–24), the partial hardening of Israel until the fullness of the Gentiles comes in (11:25), and Paul's account of God's mercy in relation to disobedience (11:26–32). The warning against Gentile boasting (11:17–22) prevents the Gentile reader from treating inclusion as a ground for superiority. The chapter concludes with the depth of God's wisdom and knowledge and the doxology (11:33–36).
+
+Romans 11:32 says God has concluded all in unbelief that He might have mercy upon all. The word “all” must be read in the argument's Jew/Gentile scope and context; this sentence alone does not establish universal final salvation. The doxology in verses 33–36 returns all things to God as the source, sustainer, and end: “for of him, and through him, and to him, are all things.”
+
+Romans 9–11 therefore form one sustained argument about God's faithfulness, Israel, the promise, election, mercy, hardening, the Gospel, Gentile inclusion, and the final acknowledgment of God's wisdom. Romans 10 does not undo Romans 9; Romans 9 does not silence Romans 10; Romans 11 does not permit either Israel or Gentile believers to boast.
+
+### H. What the supplementary audit establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| God's faithfulness to His word | EXPLICITLY AFFIRMED | Paul's opening answer is that God's word has not failed (9:6). |
+| Physical descent as sufficient for promise identity | DENIED | Paul distinguishes descent from the children of promise (9:6–9). |
+| God's purpose according to election before the twins' deeds | EXPLICITLY ESTABLISHED | The purpose is stated before birth and before good or evil works (9:10–13). |
+| Human willing or striving as the originating source of God's mercy | EXPLICITLY DENIED | Mercy is “not of him that willeth, nor of him that runneth” (9:16). |
+| God as the one who shows mercy | EXPLICITLY ESTABLISHED | God is the stated subject/source of mercy (9:15–16, 18). |
+| Divine hardening | EXPLICITLY ESTABLISHED | Paul says God hardens whom He wills (9:17–18). |
+| Human choice and response | NOT ERASED; FURTHER DESCRIBED | Romans 10 records believing, confessing, calling, hearing, and obedience. |
+| Human accountability | PRESERVED IN THE ARGUMENT; FULL MECHANISM NOT EXPLAINED | Paul raises fault and judgment (9:19) and answers by the Creator/creature distinction (9:20–23). |
+| Potter's authority | EXPLICITLY ESTABLISHED | The Creator has authority over the formed thing (9:20–21). |
+| Agent of the vessels of wrath being “fitted” | NOT NAMED IN THE CLAUSE | The passive participle in 9:22 does not express an agent. |
+| God's prior preparation of vessels of mercy | EXPLICITLY ESTABLISHED | God is the subject of the active verb in 9:23. |
+| Jews and Gentiles among the called | EXPLICITLY ESTABLISHED | Paul says “not of the Jews only, but also of the Gentiles” (9:24). |
+| Complete relation of individual and corporate election | PARTIAL / UNRESOLVED | The text uses named individuals and people-groups; their complete relation is not exhaustively defined here. |
+| Complete chronology of regeneration, faith, and salvation | NOT SETTLED BY THESE CHAPTERS ALONE | Romans 9–11 establish multiple roles and relations but do not give a complete temporal mechanism. |
+| Universal final salvation | NOT ESTABLISHED | Romans 11:32 must be read in the Jew/Gentile argument and does not alone settle the final destiny of every individual. |
+
+### I. GUA-W recognition and Triple Constraint disposition
+
+The passage preserves the governing order without requiring an architectural amendment:
+
+- God is the one whose word and promise stand.
+- God's purpose according to election is not sourced in the works of the unborn twins.
+- God is the one who shows mercy and who hardens.
+- The potter is the Creator; the clay is the formed creature.
+- The Gospel is preached and heard; people believe, confess, call, and are accountable.
+- Jews and Gentiles are included in Paul's account of the called and the mercy of God.
+- The final doxology directs the reader to God as the source, means, and end of all things (11:36).
+
+**Biblical compliance — PASS, within scope.** This supplementary reading preserves Romans 9:6–24 and reads it through the continuation in Romans 9:25–11:36. It neither removes God's explicit agency nor erases human response and accountability. It does not turn Romans 11:32 into an unsupported universal-salvation conclusion.
+
+**Scientific coherence — PASS, within scope.** The grammatical distinction between the passive “fitted” in 9:22 and the active “afore prepared” in 9:23 is preserved. Historical and canonical backgrounds are identified as contexts, not used to overwrite Paul's wording. No unexpressed agent or complete causal mechanism is supplied.
+
+**GUA-W consistency — PASS, within scope.** God alone is presented as Original Cause and the Author of the promise and mercy. Human willing, striving, hearing, believing, confessing, and calling remain real derivative responses; they are not made the originating source of God's mercy. The potter/clay image preserves Creator/creature distinction.
+
+### J. Finding, limits, and relationship to HW-007
+
+**Supplementary finding:** HW-018 confirms the central finding of HW-007: Romans 9:6–24 expressly denies that God's mercy is sourced in the human being who wills or runs, and it identifies God's purpose according to election, calling, mercy, and hardening as divine actions. It also confirms that Paul does not present this as an isolated argument detached from human response. Romans 10 explicitly includes Gospel proclamation, hearing, believing, confessing, and calling; Romans 11 develops the remnant, partial hardening, Gentile inclusion, warning against boasting, and God's mercy.
+
+The supplementary audit sharpens three limits:
+
+1. “Not of him that willeth” concerns the source of mercy in Paul's immediate argument; it is not a denial that human beings will, choose, believe, or act.
+2. The potter/clay image asserts Creator authority but does not disclose every mechanism of divine action and human accountability.
+3. The grammar of Romans 9:22 does not identify the agent of the vessels of wrath being “fitted,” whereas verse 23 explicitly identifies God as the one who prepared the vessels of mercy beforehand.
+
+**Status:** PASS for the denial that human willing or striving is the originating source of God's mercy; PASS for God's purpose according to election and His stated authority to show mercy and harden; PASS for preserving the real human responses described in Romans 10; PARTIAL for the complete relation between individual and corporate election; UNRESOLVED for the unexpressed agent in Romans 9:22 and the complete mechanics/chronology of salvation; NOT ESTABLISHED for universal final salvation from Romans 11:32 alone.
+
+**Repository disposition:** HW-007 remains the original full examination. HW-018 is retained as a supplementary canonical audit and cross-check. No prior finding is silently overwritten. No new GUA-W layer, component, Gear, or governing rule is proposed.
+
+**Next investigation:** HW-019 — John 6:35–65. The earlier HW-006 entry remains intact; HW-019 will be a supplementary canonical cross-check focused on coming, believing, the Father's giving and drawing, the Spirit's quickening, and how John 6 relates to Romans 9–11 and the wider human-will investigation.
 
 ---
 
@@ -2272,6 +2397,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-015 | 2 Thessalonians 2:13–14 | COMPLETED — see entry above. |
 | HW-016 | Romans 8:28–30 | COMPLETED — see entry above. |
 | HW-017 | Ephesians 1:3–14 | COMPLETED — see entry above. |
+| HW-018 | Romans 9:6–24 | SUPPLEMENTARY AUDIT COMPLETED — see HW-018; original full entry remains HW-007. |
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
