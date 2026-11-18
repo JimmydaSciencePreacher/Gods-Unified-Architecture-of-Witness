@@ -69,7 +69,11 @@ Primary reading:
 ## Part II — The Beginning: The Creation Foundation
 
 ### Chapter 4. Genesis 1 — The Word Establishes Order
-Read the creation account in sequence, beginning with the text before introducing architectural interpretation.
+
+**Read the completed chapter:** [Chapter 4 — Genesis 1: The Word Establishes Order](book/04-GENESIS-1-THE-WORD-ESTABLISHES-ORDER.md)
+
+Return to the KJV text and follow its narrated sequence from the Creator's opening act through the sixth-day evaluation. Preserve the distinctions among divine speech, reported realization, division, naming, evaluation, appointed functions, bringing forth, multiplication, human commission, and provision. The chapter prepares the reader to examine the distinct completion statements in Genesis 2:1–3.
+
 
 Primary reading:
 - [Genesis 1:1–5 reconstruction](scriptural-reconstruction/GENESIS-1-1-5-TEXT-FIRST-RECONSTRUCTION.md)
