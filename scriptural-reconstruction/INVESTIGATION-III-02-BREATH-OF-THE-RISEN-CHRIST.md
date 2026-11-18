@@ -988,3 +988,109 @@ This means the dry-bones vision cannot be treated as an isolated breath illustra
 - “Vine, Shepherd and Bones: The Use of Ezekiel in the Gospel of John,” in *After Ezekiel: Essays on the Reception of a Difficult Prophet* (2010). Examines the relation between Ezekiel 36–37 and John 3, 5, 10–11, and 20, including the shared Greek verb ἐμφυσάω in Genesis 2:7, Ezekiel 37:9, and John 20:22. https://www.academia.edu/32968512/_Vine_Shepherd_and_Bones_The_Use_of_Ezekiel_in_the_Gospel_of_John_in_P_Joyce_and_A_Mein_eds_After_Ezekiel_Essays_on_the_Reception_of_a_Difficult_Prophet_LHBOTS_London_T_and_Clark_2010_
 - “The Meaning of ‘Born of Water and the Spirit’ in John 3:5,” discussion of Ezekiel 36:25–27 as a key informing text for John 3:5. https://dbts.edu/wp-content/uploads/2025/10/The-Meaning-of-Born-of-Water-and-the-Spirit-in-John-3-5-McCabe.pdf
 
+## 24. Ezekiel 37:15–28 — one people, one king, one shepherd, and God's dwelling
+
+The dry-bones vision (37:1–14) is followed immediately by a second enacted sign: two sticks are joined into one in Ezekiel's hand (37:15–23). The LORD then interprets the sign and expands the promise into one reunited people under one king and shepherd, living in covenant peace with God's sanctuary among them (37:24–28). This continuation prevents the breath vision from being isolated from its stated restoration horizon.
+
+### 24.1 The two sticks — the LORD interprets the sign
+
+Ezekiel is commanded to take one stick for Judah and the children of Israel associated with him, and another for Joseph/Ephraim and the house of Israel associated with him (vv. 16–17). He joins them into one stick in his hand. When the people ask what this means, the LORD supplies the interpretation (vv. 18–20).
+
+The two sticks represent the divided kingdoms and their people. The LORD promises to gather the children of Israel from the nations, bring them into their own land, and make them one nation under one king (vv. 21–22). They will no longer be divided into two kingdoms.
+
+The passage therefore moves from life-restoration imagery to national reunification. The sign is not an abstract illustration of two objects becoming one; it is explicitly interpreted as the LORD's action to reunite His scattered people.
+
+**Explicit:** two sticks signify the divided houses; the LORD will gather, reunite, and establish them as one people in the land under one king.
+
+**Not established:** that the two sticks directly represent two individuals, two churches, or two abstract systems. Such applications require independent canonical warrant.
+
+### 24.2 Cleansing and covenant belonging — Ezekiel 37:23
+
+The LORD promises to save the people from their backslidings and cleanse them. They will be His people, and He will be their God.
+
+This links the second half of Ezekiel 37 back to Ezekiel 36:25–27. Cleansing, the new heart, God's Spirit, and restored obedience in chapter 36 are not detached from the reunification and covenant life of chapter 37. The chapters together describe the LORD's comprehensive restoration of His people.
+
+### 24.3 One shepherd and one king — Ezekiel 37:24–25
+
+The LORD declares:
+
+> “And David my servant shall be king over them; and they all shall have one shepherd...” (Ezekiel 37:24, KJV)
+
+The passage identifies one ruler, described as “David my servant,” who will shepherd the reunited people. In the prophetic setting, this is a future Davidic ruler; the text does not name the historical David as returning to reign in his former lifetime. Later canonical interpretation connects the promised Davidic shepherd-king with the Messiah, but the movement from Ezekiel's oracle to Jesus must be demonstrated from the New Testament rather than assumed.
+
+The people will walk in God's judgments, observe His statutes, and dwell in the land promised to Jacob (vv. 24–25). The shepherd's rule is connected with covenant obedience and enduring habitation.
+
+### 24.4 Covenant of peace and sanctuary — Ezekiel 37:26–28
+
+The LORD promises a covenant of peace, establishes and multiplies the people, and sets His sanctuary in their midst for evermore. His tabernacle will be with them; He will be their God, and they will be His people. The nations will know that the LORD sanctifies Israel when His sanctuary is among them.
+
+The restoration goal is therefore larger than the return of breath to the slain. It includes a reunited people, a Davidic shepherd-king, covenant peace, God's continuing presence, and public recognition among the nations.
+
+This is the stated horizon of Ezekiel 37:1–28. The breath vision in verses 1–14 and the sticks/king/sanctuary vision in verses 15–28 belong to one extended restoration oracle.
+
+### 24.5 John 10:14–18 — Jesus, the good shepherd
+
+Jesus declares Himself the good shepherd who knows His sheep and lays down His life for them (John 10:14–15). He also says:
+
+> “And other sheep I have, which are not of this fold: them also I must bring, and they shall hear my voice; and there shall be one fold, and one shepherd.” (John 10:16, KJV)
+
+The verbal and thematic correspondence with Ezekiel 37:24 is substantial: one shepherd gathers a people into unity. John 10 adds the inclusion of “other sheep” who are not of the existing fold. The unity comes through the shepherd's bringing and the sheep's hearing His voice.
+
+The comparison is not merely a shared shepherd metaphor. Ezekiel's promised reunification under one shepherd and John's one flock under Jesus belong to a coherent canonical pattern. Still, John 10:16 does not quote Ezekiel 37:24 by name, and its “other sheep” should be interpreted within John's Gospel and its wider canonical setting.
+
+John 10:17–18 adds that Jesus lays down His life and takes it again, acting under the command received from the Father. The shepherd's gathering mission is thus bound to Jesus' death and resurrection in John's own account.
+
+### 24.6 John 11:45–53 — gathering the scattered children of God
+
+After the raising of Lazarus, the chief priests and Pharisees convene. Caiaphas declares that it is expedient for one man to die for the people rather than the whole nation perish (John 11:49–50). The narrator then explains that Caiaphas spoke prophetically, not of himself: Jesus would die for the nation, and not for that nation only, but also to gather together in one the children of God that were scattered abroad (vv. 51–52).
+
+The narrator's explanation is especially important. It gives Jesus' death a gathering purpose that extends beyond the immediate nation. The language of gathering scattered people resonates with Ezekiel's promises to gather Israel from the nations (Ezekiel 37:21), while the resulting unity resonates with the one people under one shepherd (37:22, 24).
+
+The correspondence is strong at the level of theme and canonical pattern. It should not be claimed that John 11:52 is a direct quotation of Ezekiel 37; the wording and context differ. John's explicit claim is that Jesus' death serves the gathering of God's scattered children into one.
+
+### 24.7 The shepherd, the gathering, and the breath vision — relation without collapse
+
+The sequence across Ezekiel and John can now be stated carefully:
+
+- **Ezekiel 37:1–14:** the LORD restores life to the death-like house of Israel; the breath enters and the people live.
+- **Ezekiel 37:15–23:** the LORD reunites the divided and scattered people as one nation.
+- **Ezekiel 37:24–28:** one Davidic shepherd-king rules; covenant peace and God's sanctuary remain among the people.
+- **John 10:14–18:** Jesus identifies Himself as the good shepherd, lays down His life, takes it again, and brings the other sheep into one flock under one shepherd.
+- **John 11:51–52:** the narrator explains that Jesus dies not only for the nation but to gather the scattered children of God into one.
+
+This produces a coherent Christological reading: Jesus' death and resurrection are connected with shepherding, gathering, and unity. Ezekiel's restoration promise supplies a substantial prophetic pattern for these Johannine themes.
+
+The distinction of contexts remains. Ezekiel speaks in the setting of Israel's exile and promised restoration, including the land and Davidic rule. John presents Jesus' mission and the gathering of God's scattered children. The New Testament's application broadens the horizon, but it does not authorize erasing Ezekiel's original referent.
+
+### 24.8 Does this settle the identity of “David my servant”?
+
+Ezekiel 37:24–25's Davidic ruler is naturally read in the wider biblical expectation of a future Davidic shepherd-king (compare 2 Samuel 7:12–16; Psalm 89:3–4, 20–29; Isaiah 9:6–7; Jeremiah 23:5–6; 30:9; 33:14–17; Ezekiel 34:23–24). John 10's presentation of Jesus as the good shepherd and John 11's account of His gathering mission support a Christian canonical identification of Jesus with this promised shepherd-king.
+
+However, Ezekiel 37 itself does not name Jesus of Nazareth. The identification is a canonical and Christological conclusion drawn by reading the prophetic promise alongside the New Testament witness. Keep the source text and later identification distinguishable.
+
+### 24.9 What this adds to the John 20:22 investigation
+
+The breath/Spirit question is now set within a larger restoration purpose. Ezekiel 37 does not end with the breath entering the slain. It proceeds to one people, one shepherd-king, covenant peace, and God's dwelling among His people.
+
+John's Gospel similarly connects:
+- Jesus' identity as shepherd (John 10);
+- His death for the nation and gathering of scattered children (John 11);
+- His death and resurrection (John 10:17–18; 19–20);
+- His breathing upon the disciples and command to receive the Holy Ghost (John 20:22).
+
+This strengthens the reading of John 20 within the larger new-creation and gathering mission of the risen Christ. It does not establish that the disciples in John 20:22 are themselves the entirety of the gathered people, nor does it settle the chronology or relation of this act to Pentecost.
+
+### 24.10 Triple Constraint assessment
+
+- **Biblical compliance — PASS within scope:** Ezekiel's own interpretation of the sticks, Davidic ruler, covenant, and sanctuary is retained. John 10 and 11 are compared by their explicit shepherd and gathering themes without claiming an unmarked direct quotation.
+- **Scientific coherence — PASS within scope:** this is canonical and literary analysis, not an empirical claim. No scientific mechanism is inferred from prophetic symbols.
+- **GUA-W consistency — PASS:** the LORD gathers, cleanses, reunites, appoints the shepherd-king, and dwells among His people. The people are recipients of the promised restoration; they do not originate it. Jesus' shepherding and gathering mission is narrated in relation to His Father's command and purpose.
+
+**Disposition:** Ezekiel 37:15–28 provides the larger restoration horizon for the breath vision: one reunited people, one Davidic shepherd-king, covenant peace, and God's sanctuary among them. John 10:14–18 and 11:51–52 strongly correspond to the one-shepherd and gathering themes. The Christian identification of Ezekiel's promised Davidic shepherd with Jesus is supported by the New Testament's presentation of Jesus, while remaining distinguishable from Ezekiel's immediate historical-prophetic wording. U-008 remains UNRESOLVED; no new GUA-W Gear is promoted.
+
+### 24.11 Scholarly and primary sources for this pass
+
+- KJV Bible: Ezekiel 34:11–31; 37:15–28; John 10:1–18; 11:45–53; 12:20–33.
+- The primary interpretive control for Ezekiel 37:15–28 is the LORD's own explanation in the passage: the sticks signify the divided houses; the LORD gathers them, makes them one nation, appoints one Davidic shepherd, establishes covenant peace, and sets His sanctuary among them.
+- For the Johannine gathering language, the narrator's explanation in John 11:51–52 is primary evidence: Jesus' death is for the nation and for gathering the scattered children of God into one.
+
