@@ -173,6 +173,9 @@ Primary reading:
 - [Individual Investigation II studies](REPOSITORY-MAP-AND-READING-ORDER.md#iv-the-works-and-signs-of-jesus--investigation-ii)
 
 ### Chapter 12. The Passion and Death of Christ
+
+**Read the completed chapter:** [Chapter 12 — The Passion and Death of Christ](book/12-THE-PASSION-AND-DEATH-OF-CHRIST.md)
+
 Examine the death and burial and the associated Gospel witnesses without collapsing distinct events into one another.
 
 Primary reading:
