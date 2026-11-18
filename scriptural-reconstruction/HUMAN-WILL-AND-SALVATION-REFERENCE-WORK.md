@@ -941,6 +941,122 @@ No new GUA-W layer, Gear, or architectural component is proposed by this entry.
 
 ---
 
+## 14. Entry — HW-009: James 1:16–18 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **James 1:16–18**
+>
+> 16 Do not err, my beloved brethren.
+>
+> 17 Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.
+>
+> 18 Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures.
+
+The immediate context must include James 1:13–15, where James denies that God tempts anyone with evil and describes the progression from a person's own lust, through enticement and conception, to sin and death. Verses 16–18 then direct the reader away from error and identify every good and perfect gift as coming from the Father of lights. Verse 18 names God's own will in the begetting of those addressed.
+
+### B. Argument commonly made
+
+James 1:18 is cited to establish that new birth originates in God's will rather than in an independent human decision. The wording directly supports God's will as the stated source or ground of the begetting: “Of his own will begat he us.” God is the grammatical subject of the active verb; “us” are those brought forth.
+
+The verse also names “the word of truth” in connection with the begetting. Interpretations differ on whether ἐν (*en*) here is best rendered instrumentally (“by/through the word”), or describes the sphere or means in which the begetting occurs. The KJV's “with” should be preserved while the grammatical range is noted. The verse does not present God's will and the Word of Truth as competing explanations.
+
+Some readings extend the verse to assert a complete chronology of regeneration before faith. This verse does not mention faith or state a detailed sequence between believing and begetting. It establishes God's own will as the source of the begetting and identifies the Word of Truth in connection with it. Further chronology must be tested against other passages rather than inserted into this clause.
+
+Other readings treat the human reception or response to the Word as the originating cause of new birth. James 1:18 does not say that. It identifies God as the one who begat “us” and God's will as the stated ground. The verse does not, however, provide an exhaustive account of every human response involved in hearing or receiving the Word.
+
+### C. Immediate context and argument
+
+**James 1:13–15 — temptation and the origin of sin.** James expressly denies that God is the source of evil temptation. He describes each person as tempted when drawn away and enticed by “his own lust.” Lust conceives and brings forth sin; completed sin brings forth death. This is a moral progression in which human desire and conduct are expressly involved. It must not be converted into a claim that God authors sin.
+
+**James 1:16 — warning against error.** “Do not err” links the warning to the preceding explanation and introduces the positive account of God's character and gifts. The reader must not attribute to God what James has just denied of Him.
+
+**James 1:17 — the Father of lights.** Every good gift and every perfect gift comes from above, from the Father of lights. Unlike created lights that vary or cast changing shadows, God has no variableness or shadow of turning. The description grounds the contrast in God's consistent goodness. The verse does not describe God as the source of temptation; it identifies Him as the source of good and perfect gifts.
+
+**James 1:18 — God's will and the Word of Truth.** “Of his own will” precedes and qualifies “begat he us.” God is the acting subject. The verb is active; those addressed are the recipients of the begetting. “With the word of truth” identifies the Word in connection with this act. The stated purpose or result is that the believers should be “a kind of firstfruits of his creatures.”
+
+**James 1:19–27 — the response that follows.** The following context commands hearing, speaking, anger, receiving with meekness the engrafted word, and being doers of the word rather than hearers only. James therefore does not erase human response or obedience. He distinguishes the divine begetting in verse 18 from the conduct required of those who hear the Word in the following verses. The command to receive the Word in meekness (v. 21) should be read in its own place; it does not change the grammatical subject of “begat he us” in verse 18.
+
+### D. Canonical comparisons and counter-texts
+
+**John 1:12–13.** Those who receive Christ and believe on His name are given the right to become the sons of God (v. 12); verse 13 describes their birth as not of blood, the will of the flesh, or the will of man, but of God. This is a close comparison because both passages identify God as the source of birth. John 1 also expressly mentions believing, whereas James 1:18 does not. Their distinct statements must be preserved.
+
+**Ephesians 2:1–10.** Paul describes those dead in trespasses as made alive together with Christ by God, saved by grace through faith, not from themselves or works, and created in Christ for good works prepared beforehand. This complements James's attribution of begetting to God's own will. Ephesians explicitly names faith; James 1:18 names the Word of Truth. Neither passage should be made to say the other's exact wording.
+
+**1 Peter 1:3, 23–25.** Peter blesses God for having begotten believers again according to His abundant mercy through the resurrection of Jesus Christ (v. 3), and later says they are born again not of corruptible seed but incorruptible, by the Word of God which lives and abides forever (vv. 23–25). This is a strong comparison for divine mercy, new birth, and the enduring Word. The exact relation between the Word and the divine act should be examined in Peter's own construction.
+
+**1 John 5:1.** “Whosoever believeth that Jesus is the Christ is born of God.” The perfect-form birth language and present believing require careful examination. This text is directly relevant to the relation between believing and having been born of God. It is retained for its own dedicated entry; it must not be settled by importing a chronology into James 1:18.
+
+**Philippians 1:29.** Paul says that it is given to believers on behalf of Christ not only to believe on Him but also to suffer for His sake. This is relevant to the divine granting of believing, but the verse's context and the scope of “it is given” require separate examination. It does not add the word “faith” to James 1:18.
+
+**John 3:1–8.** Jesus teaches that birth of the Spirit is necessary to see and enter the kingdom and that what is born of the Spirit is spirit. This provides a distinct teaching about the Spirit as the source of spiritual birth. James 1:18 identifies God's will and the Word of Truth; the passages may illuminate one another without being collapsed.
+
+### E. Original-language findings
+
+- **βουληθεὶς (*boulētheis*)**, “of his own will” (v. 18): aorist passive-form participle, nominative masculine singular, from βούλομαι (*boulomai*), “will, intend, wish, purpose.” The verb is deponent in this usage; the participle has active meaning, “having willed” or “because/when He willed,” according to how the participial relation is expressed in translation. It agrees with the implied subject, God. The phrase identifies God's willing; it does not name a human will as the source of the begetting.
+- **ἀπεκύησεν (*apekyēsen*)**, “begat” (v. 18): aorist active indicative, third person singular, from ἀποκυέω (*apokyeō*), “bring forth” or “give birth.” God is the grammatical subject. The verb is used in James 1:15 of lust bringing forth sin and in 1:18 of God bringing forth “us.” The shared birth imagery creates a literary contrast between the progression from lust to sin/death and God's begetting of believers. It does not make the two sources morally or causally equivalent.
+- **ἡμᾶς (*hēmas*)**, “us” (v. 18): accusative first-person plural pronoun, the object of the active verb. Those addressed are recipients of God's begetting.
+- **ἐν λόγῳ ἀληθείας (*en logō alētheias*)**, “with the word of truth” (v. 18): ἐν (*en*) with the dative may express sphere, means, or instrument, depending on context. λόγῳ (*logō*) is dative singular of λόγος (*logos*), “word/message”; ἀληθείας (*alētheias*) is genitive singular of ἀλήθεια (*alētheia*), “truth.” The Word of Truth is expressly connected with the begetting. The precise nuance of ἐν should not be overstated; “with” is the KJV rendering, while “by/through” is a possible instrumental interpretation.
+- **εἰς τὸ εἶναι (*eis to einai*)**, “that we should be” (v. 18): εἰς with the articular infinitive expresses purpose or intended result. The phrase introduces the stated end of the begetting.
+- **ἀπαρχήν (*aparchēn*)**, “firstfruits” (v. 18): accusative singular of ἀπαρχή (*aparchē*), first portion or firstfruits, often carrying the idea of an initial portion set apart and representative of a larger whole. “A kind of” reflects the wording of the KJV and should not be dropped when discussing the phrase.
+- **κτισμάτων (*ktismatōn*)**, “creatures” (v. 18): genitive plural of κτίσμα (*ktisma*), that which is created. The phrase places the recipients in relation to God's created order. The exact scope of “his creatures” and the force of “firstfruits” should be read in the wider argument rather than assigned an unsupported timetable.
+- **πατρὸς τῶν φώτων (*patros tōn phōtōn*)**, “Father of lights” (v. 17): the genitive plural “of lights” is associated with the Father. The image is commonly understood in relation to the heavenly lights, but the central point in this context is God's unchanging goodness in contrast with variation and shadow. Do not make the metaphor carry claims that James does not state.
+- **παραλλαγή (*parallagē*)** and **τροπῆς ἀποσκίασμα (*tropēs aposkiasma*)** (v. 17): terms for variation/change and a shadow associated with turning or shifting. James contrasts the changing appearance of lights with God's constancy. The verse is a character statement about God, not a technical account of astronomy.
+
+### F. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| God as source of good gifts | EXPLICITLY ESTABLISHED | Every good and perfect gift comes from above, from the Father (v. 17). |
+| God's unchanging character | EXPLICITLY ESTABLISHED | No variableness or shadow of turning (v. 17). |
+| God's will in new birth | EXPLICITLY ESTABLISHED | “Of his own will begat he us” (v. 18). |
+| God as acting subject of begetting | EXPLICITLY ESTABLISHED | God is the implied subject of the active verb ἀπεκύησεν. |
+| Human beings as recipients of the begetting | EXPLICITLY ESTABLISHED | “Us” is the object of the verb (v. 18). |
+| Word of Truth connected with begetting | EXPLICITLY ESTABLISHED | The phrase ἐν λόγῳ ἀληθείας occurs in verse 18. |
+| Exact instrumental/sphere nuance of ἐν | GRAMMATICAL QUESTION | The KJV says “with”; an instrumental rendering is possible, but the precise nuance should remain qualified. |
+| Purpose/result of the begetting | EXPLICITLY STATED | The believers are to be a kind of firstfruits of God's creatures (v. 18). |
+| Human response and obedience | EXPLICIT IN THE FOLLOWING CONTEXT | James commands receiving the Word and being doers (vv. 19–27). |
+| Faith as the instrument in this particular verse | NOT STATED | James 1:18 does not use the word πίστις (faith). |
+| Complete chronology of regeneration and faith | NOT SETTLED | The verse identifies divine will and begetting but does not describe a full sequence involving faith. |
+| Autonomous human will as the source of new birth | NOT ESTABLISHED; CONTRARY TO THE STATED SOURCE | The verse identifies God's own will as the ground of the begetting. |
+
+### G. Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** The reading preserves James 1:13–18 as a connected argument: God is not the source of evil temptation; human lust is involved in the progression to sin; good gifts come from the Father; and God begets believers of His own will through/in connection with the Word of Truth. The commands and human response in verses 19–27 remain real.
+- **Scientific coherence — PASS, within scope.** The grammatical observations distinguish the participle βουληθείς from the active finite verb ἀπεκύησεν, identify the grammatical subject and object, and preserve the range of ἐν. No chronology is inferred from tense alone.
+- **GUA-W consistency — PASS, within scope.** God is identified as the source and acting subject of the begetting. The Word of Truth is connected with His action. The recipients do not author their own birth. No new architecture is proposed.
+
+### H. Entry finding and limits
+
+James 1:13–18 presents a clear contrast. The progression toward sin and death is associated with a person's own lust and the actions that follow. God, by contrast, is the unchanging Father of lights and the source of every good and perfect gift. James then states that God, “of his own will,” begat believers with the Word of Truth, with the intended result that they should be a kind of firstfruits of His creatures.
+
+The text explicitly identifies God's will as the ground of the begetting and God as its acting subject. It connects the Word of Truth with that begetting. It does not mention faith in verse 18, define every aspect of human willing, or give a complete chronological account of regeneration and faith. The commands to hear, receive, and do the Word in the following verses demonstrate that divine begetting does not erase human response and obedience.
+
+**Finding:** James 1:18 does not identify autonomous human will as the originating cause of new birth. It identifies God's own will as the stated source of the begetting and the Word of Truth as connected with that act. The precise instrumental nuance of ἐν and the full canonical chronology of faith and regeneration remain open.
+
+**Status:** PASS for God's own will as the stated ground of begetting; PASS for God's agency and the connection with the Word of Truth; PARTIAL for the exact nuance of “with/by” and the scope of “firstfruits”; UNRESOLVED for the full chronology of new birth and faith and for an exhaustive definition of the human will.
+
+### I. Related GUA-W recognition and cross-references
+
+This passage witnesses a distinction between the source of an act and the means or word associated with it. God's own will is named; God performs the begetting; the Word of Truth is connected with the act; the recipients are brought forth and designated as firstfruits. This is a textual recognition only, not a proposal to create or modify GUA-W architecture.
+
+Cross-references for continued examination:
+- John 1:12–13 — receiving/believing and birth of God;
+- John 3:1–8 — birth of the Spirit;
+- Ephesians 2:1–10 — quickening, grace, faith, and workmanship;
+- 1 Peter 1:3, 23–25 — begetting again and the living Word;
+- 1 John 5:1 — believing and having been born of God;
+- Philippians 1:29 — believing granted.
+
+### J. Research queue
+
+1. HW-010 — Philippians 2:12–13: examine human working, God's working in believers, and the relationship between willing and doing.
+2. Retain 1 John 5:1 as a priority passage for the grammatical and contextual relation between believing and having been born of God.
+3. Examine 1 Peter 1:3, 23–25 for the relationship between God's mercy, resurrection, new birth, and the Word.
+4. Keep U-006 (definition and components of human will) open. James 1 distinguishes human lust in temptation from God's will in begetting, but it does not provide an exhaustive definition of the human will.
+
+---
+
 ## 14. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
@@ -954,7 +1070,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-006 | John 6:35–45, 63–65 | COMPLETED — see entry above. |
 | HW-007 | Romans 9:6–24 | COMPLETED — see entry above. |
 | HW-008 | Ephesians 2:1–10 | COMPLETED — see entry above. |
-| HW-009 | James 1:16–18 | Who is identified as the source of the new birth, and what is the force of “of his own will”? |
+| HW-009 | James 1:16–18 | COMPLETED — see entry above. |
 | HW-010 | Philippians 2:12–13 | How do human working and God's working “in you” relate? |
 | HW-011 | 1 Corinthians 2:10–16 | What does the natural man's inability to receive the things of the Spirit establish? |
 | HW-012 | Romans 8:5–11 | What is the relation between flesh, Spirit, inability, indwelling, and life? |
