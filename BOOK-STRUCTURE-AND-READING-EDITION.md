@@ -232,6 +232,9 @@ The cross-reference route is a reading aid, not a claim that all terms or events
 ## Part VII — The Sciences as Differentiated Witnesses
 
 ### Chapter 16. Investigating the Sciences Without Forcing a Match
+
+**Read the completed chapter:** [Chapter 16 — Investigating the Sciences Without Forcing a Match](book/16-INVESTIGATING-THE-SCIENCES-WITHOUT-FORCING-A-MATCH.md)
+
 Explain how the disciplines can be investigated as witnesses to one Creation while preserving their own methods, evidence, and boundaries.
 
 Primary reading:
