@@ -287,3 +287,12 @@ The work-control method is corrected: **the Answer precedes the question; the qu
 For every unresolved item, begin with **Genesis 1–2, especially Genesis 2:1–5**, then examine the relevant event or subject in the beginning account. For the Human Will question (U-006), this means Genesis 3, using the existing `GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md` as the starting record. Only after that foundation is examined should later canonical passages be brought in as witnesses that illuminate, confirm, qualify, or complete the finding.
 
 **Corrected next action:** Do not start a new abstract survey to define the human will. Reconcile the existing Genesis 3 findings with the Genesis 1–2 foundation, then integrate the relevant canonical witnesses into U-006 and the Human Will reference work. Reclassify stale unresolved labels where the combined evidence answers them. Preserve genuine textual limits without manufacturing an answer, sequence, or mechanism. No duplicate Genesis 3 investigation is authorized.
+
+
+## 2026-11-18 — U-006 beginning-first examination completed to foundational scope
+
+Returned to the existing Genesis 1–2 records, especially Genesis 2:1–7, Genesis 2:8–17, and the consolidated Genesis 1–2 findings, then examined the existing Genesis 3:1–24 reconstruction and HW-004 (Genesis 3:1–7). No new passage investigation was created.
+
+The resulting U-006 synthesis distinguishes the completed created order and Creator's prior work (Genesis 2:1–5), man's formation and received life (2:7), appointed work (2:15), permission and prohibition (2:16–17), and the narrated operations of human willing in Genesis 3: reception/heeding, perception, evaluation, desire, choice/action, and response. It also distinguishes creaturely capacity from authorship and authority. Genesis 3:22 records changed knowledge but does not state a transfer of the Author's authority. U-007's existing resolution remains consistent with this finding.
+
+**Register action:** U-006 has been reclassified from wholly UNRESOLVED to NARROWED — FOUNDATIONAL ANSWER ESTABLISHED IN GENESIS 2–3; NO EXHAUSTIVE ABSTRACT DEFINITION CLAIMED. The Genesis 3 reconstruction and the Human Will reference work now carry the integrated finding. Any later canonical comparison must begin from this foundation and serve as witness/clarification, not replace the Beginning. All four updated files require read-back verification.
