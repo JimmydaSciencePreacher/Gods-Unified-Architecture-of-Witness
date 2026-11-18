@@ -176,7 +176,9 @@ The reference work requires every entry to preserve the exact KJV passage, the a
 
 **Fourth entry recorded:** HW-004, Genesis 3:1–7. The entry traces the serpent's challenge to God's command, the woman's report of the prohibition, the serpent's direct contradiction, the woman's perception/desire/taking/eating, and the man's eating. It records the difference between Genesis 2:16–17 and the woman's wording in Genesis 3:3 (including “neither shall ye touch it”) without inventing an explanation for that difference. The study distinguishes choosing an act from claiming authority to redefine God's word, but does not assert that the latter is explicitly formulated in these seven verses. It also records that the passage addresses the Fall, not the origin of regeneration or salvation.
 
-**Next passage:** HW-005, John 3:1–8, examining the new birth, the Spirit's agency, and what Jesus says about the necessity and source of birth from above.
+**Fifth entry recorded:** HW-005, John 3:1–8. The entry records Jesus' declaration that birth from above is necessary to see and enter the kingdom, the contrast between flesh-born and Spirit-born life, and the Spirit as the source of spiritual birth. The passive birth language and the wind/Spirit wordplay are examined without making grammar alone settle every question about the order of regeneration and faith. “Water and Spirit” is treated with its significant Ezekiel 36 background while preserving the interpretive question about “water.” The entry concludes that these verses do not support independent human will as the originating cause of spiritual birth.
+
+**Next passage:** HW-006, John 6:35–45, 63–65, examining coming, believing, the Father's giving and drawing, and the Spirit's quickening in Jesus' own argument.
 
 The KJV phrase register currently records 17 exact joined-form occurrences of “freewill”; its occurrence-level text and morphology audit remains PARTIAL. Do not conflate freewill offerings or Ezra 7:13's voluntary return with a complete philosophical doctrine of autonomous Free Will. Do not add other English forms such as “freely,” “willingly,” or “voluntary” to the exact-phrase count.
 
