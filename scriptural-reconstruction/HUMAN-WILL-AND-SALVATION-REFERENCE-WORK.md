@@ -2013,6 +2013,243 @@ Next investigations:
 
 ---
 
+## 17. Entry — HW-017: Ephesians 1:3–14 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **Ephesians 1:3–14**
+>
+> 3 Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:
+>
+> 4 According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:
+>
+> 5 Having predestinated us unto the adoption of children by Jesus Christ to himself, according to the good pleasure of his will,
+>
+> 6 To the praise of the glory of his grace, wherein he hath made us accepted in the beloved.
+>
+> 7 In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace;
+>
+> 8 Wherein he hath abounded toward us in all wisdom and prudence;
+>
+> 9 Having made known unto us the mystery of his will, according to his good pleasure which he hath purposed in himself:
+>
+> 10 That in the dispensation of the fulness of times he might gather together in one all things in Christ, both which are in heaven, and which are on earth; even in him:
+>
+> 11 In whom also we have obtained an inheritance, being predestinated according to the purpose of him who worketh all things after the counsel of his own will:
+>
+> 12 That we should be to the praise of his glory, who first trusted in Christ.
+>
+> 13 In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
+>
+> 14 Which is the earnest of our inheritance until the redemption of the purchased possession, unto the praise of his glory.
+
+The passage is one extended blessing/praise section. Its repeated references to God, Christ, grace, will, purpose, inheritance, and glory must be read together. The KJV wording in verse 13 includes “trusted” in its English rendering; the Greek construction should be examined directly before treating that supplied English verb as a separate repeated Greek finite verb.
+
+### B. Structural observations
+
+The passage develops a connected account:
+- Verses 3–6: God blesses, chooses in Christ, predestinates to adoption, and acts according to the good pleasure of His will, to the praise of grace.
+- Verses 7–10: redemption through Christ's blood, forgiveness, grace, revelation of the mystery of God's will, and the purpose of gathering all things in Christ.
+- Verses 11–12: inheritance/heritage language, predestination according to God's purpose and the counsel of His will, and the praise of His glory.
+- Verses 13–14: the addressed hearers hear the word of truth (the Gospel of salvation), believe, are sealed with the promised Holy Spirit, and have the Spirit as the earnest/guarantee of the inheritance until redemption.
+
+This is not a set of unrelated blessings. God's purpose, Christ's work, the Gospel, believing, the Spirit's seal, and the inheritance are joined in one sustained account.
+
+### C. Greek and grammatical findings
+
+**Verse 3**
+- **εὐλογητός (*eulogētos*)**, “blessed”: a predicate adjective in a doxological expression; God and Father is the one praised.
+- **εὐλογήσας (*eulogēsas*)**, “who hath blessed”: aorist active participle, nominative masculine singular, describing God's action toward “us.”
+- **ἐν Χριστῷ (*en Christō*)**, “in Christ”: a recurring relational/sphere expression. It must not be treated as decorative wording.
+
+**Verse 4**
+- **ἐξελέξατο (*exelexato*)**, “he hath chosen”: aorist middle indicative, third person singular, from ἐκλέγομαι (*eklegomai*). God is the subject; “us” is the object.
+- **ἡμᾶς (*hēmas*)**, “us”: the people chosen.
+- **ἐν αὐτῷ (*en autō*)**, “in him”: the choosing is explicitly located “in Him,” referring to Christ in the context.
+- **πρὸ καταβολῆς κόσμου (*pro katabolēs kosmou*)**, “before the foundation of the world”: explicit temporal phrase.
+- **εἶναι ἡμᾶς ἁγίους (*einai hēmas hagious*)**, “that we should be holy”: expresses the intended result/purpose of the choosing, including holiness and blamelessness before God.
+
+The middle morphology of ἐξελέξατο should be reported accurately, but should not be made to carry an elaborate theological claim beyond the verb's use and syntax.
+
+**Verse 5**
+- **προορίσας (*proorisas*)**, “having predestinated”: aorist active participle, nominative masculine singular, from προορίζω (*proorizō*). It continues the description of God's action.
+- **εἰς υἱοθεσίαν (*eis huiothesian*)**, “unto adoption”: the stated destination is adoption as children/sons.
+- **διὰ Ἰησοῦ Χριστοῦ (*dia Iēsou Christou*)**, “by/through Jesus Christ”: identifies Christ as mediator/means in the adoption expression.
+- **κατὰ τὴν εὐδοκίαν τοῦ θελήματος αὐτοῦ (*kata tēn eudokian tou thelēmatos autou*)**, “according to the good pleasure of his will”: the purpose is attributed to God's will and good pleasure.
+
+**Verse 6**
+- **εἰς ἔπαινον δόξης τῆς χάριτος αὐτοῦ**, “to the praise of the glory of his grace”: the stated doxological end is praise of God's grace.
+- **ἐχαρίτωσεν (*echaritōsen*)**, “he hath made us accepted”: aorist active indicative, third person singular, from χαριτόω. The subject is God; the recipients are described as graced/favoured in the Beloved.
+
+**Verse 7**
+- **ἔχομεν (*echomen*)**, “we have”: present active indicative, first person plural.
+- **ἀπολύτρωσιν (*apolytrōsin*)**, “redemption”: the redemption is “in whom” (Christ) and “through his blood.”
+- **ἄφεσιν (*aphesin*)**, “forgiveness/remission”: identifies the result associated with redemption.
+
+The passage locates redemption in Christ and expressly names His blood. It does not attribute redemption's accomplishment to an independent human act.
+
+**Verses 8–10**
+- **ἐπερίσσευσεν (*eperisseusen*)**, “he hath abounded”: aorist active indicative, God as subject.
+- **γνωρίσας (*gnōrisas*)**, “having made known”: aorist active participle, describing God's disclosure of the mystery.
+- **τὸ μυστήριον τοῦ θελήματος αὐτοῦ (*to mystērion tou thelēmatos autou*)**, “the mystery of his will”: the mystery belongs to God's will.
+- **προέθετο (*proetheto*)**, “he hath purposed”: aorist middle indicative, third person singular, from προτίθημι. God is the subject; the purpose is located in His good pleasure.
+- **ἀνακεφαλαιώσασθαι (*anakephalaiōsasthai*)**, “to gather together in one / sum up”: aorist middle infinitive, expressing the purpose of bringing all things together in Christ at the fullness of times.
+
+The stated horizon is comprehensive: things in heaven and things on earth are gathered together in Christ. The precise theological mechanics of this cosmic gathering are not fully described in these verses.
+
+**Verse 11**
+- **ἐκληρώθημεν (*eklērōthēmen*)**, the verb behind the KJV's “we have obtained an inheritance”: aorist passive indicative, first person plural, from κληρόω. The expression can be rendered in inheritance/heritage terms, including “we were allotted” or “we were made a heritage.” The KJV rendering “obtained an inheritance” is retained as the primary English text, while the Greek form and translation range are noted.
+- **προορισθέντες (*prooristhentes*)**, “being predestinated”: aorist passive participle, nominative masculine plural. The people are described as recipients of predestination.
+- **κατὰ πρόθεσιν (*kata prothesin*)**, “according to purpose”: the action is according to God's purpose.
+- **τοῦ τὰ πάντα ἐνεργοῦντος (*tou ta panta energountos*)**, “of him who worketh all things”: God is identified as the one working all things.
+- **κατὰ τὴν βουλὴν τοῦ θελήματος αὐτοῦ (*kata tēn boulēn tou thelēmatos autou*)**, “after the counsel of his own will”: the text expressly attributes the governing counsel and will to God.
+
+The KJV translation “obtained an inheritance” should not be treated as the only possible way to convey the Greek inheritance/lot language. The verse's main point remains that the people are described in relation to God's allotment/heritage purpose and that God's purpose and will govern the action.
+
+**Verse 12**
+- **προηλπικότας (*proēlpikotas*)**, “who first trusted/hoped”: perfect active participle, accusative masculine plural, from προελπίζω. The phrase is commonly understood as “we who first hoped in Christ.” The precise identity and scope of the “we” and the relation to the “you also” in verse 13 require contextual care; do not impose an overly rigid Jew/Gentile division without examining the letter's argument.
+
+**Verse 13**
+- **ἀκούσαντες (*akousantes*)**, “having heard”: aorist active participle, nominative masculine plural, from ἀκούω.
+- **τὸν λόγον τῆς ἀληθείας (*ton logon tēs alētheias*)**, “the word of truth”: the message of truth.
+- **τὸ εὐαγγέλιον τῆς σωτηρίας ὑμῶν (*to euangelion tēs sōtērias hymōn*)**, “the gospel of your salvation”: identifies the word of truth as the Gospel of salvation.
+- **πιστεύσαντες (*pisteusantes*)**, “having believed”: aorist active participle, nominative masculine plural, from πιστεύω. The people are genuinely represented as believing.
+- **ἐσφραγίσθητε (*esphragisthēte*)**, “ye were sealed”: aorist passive indicative, second person plural, from σφραγίζω. The believers are recipients of the sealing action.
+- **τῷ πνεύματι τῆς ἐπαγγελίας τῷ ἁγίῳ (*tō pneumati tēs epangelias tō hagiō*)**, “with/by the Holy Spirit of promise”: the dative's precise force is discussed (instrument/means or identifying the Spirit as the seal). The Spirit is unmistakably the promised Spirit associated with the sealing.
+
+**Important KJV translation observation:** The KJV's “ye also trusted” at the beginning of verse 13 supplies an English verb to complete the construction. The Greek has “in whom also you, having heard … in whom also, having believed, you were sealed.” There is no separate finite Greek verb “trusted” at the exact point where the KJV first supplies it. The second “in whom” resumes the reference to Christ. The supplied English word must not be mistaken for a separate repeated Greek verb.
+
+**Verse 14**
+- **ὅς (*hos*)**, “which/who”: masculine relative pronoun in the critical reading, naturally referring to the Holy Spirit; some textual witnesses have the neuter relative pronoun, likely influenced by the neuter noun πνεῦμα. The variant is noted where relevant but does not alter the central identification of the Spirit as the guarantee.
+- **ἀρραβών (*arrabōn*)**, “earnest”: pledge, guarantee, or down payment.
+- **τῆς κληρονομίας (*tēs klēronomias*)**, “of the inheritance”: the Spirit is the pledge/guarantee of the promised inheritance.
+- **εἰς ἀπολύτρωσιν (*eis apolytrōsin*)**, “unto redemption”: points toward the redemption of the purchased possession.
+- The passage ends **εἰς ἔπαινον τῆς δόξης αὐτοῦ**, “unto the praise of his glory.”
+
+### D. The meaning and importance of “in Christ”
+
+The expression “in Christ,” together with related forms such as “in Him” and “in the Beloved,” recurs throughout the passage. It is not ornamental. The blessings are described as given in Christ; the choosing is in Him; redemption is in Him; the mystery's purpose gathers all things in Him; and the hearers are described as believing and sealed in Him.
+
+The exact force of ἐν varies with each construction and should not be forced into one mechanical definition. Nevertheless, the repeated Christ-reference is a governing feature of Paul's account. Election and predestination in this passage must not be detached from Christ and treated as an independent abstract mechanism.
+
+### E. Hearing, believing, and sealing — the central question
+
+The Greek construction in verse 13 places two aorist active participles, ἀκούσαντες (“having heard”) and πιστεύσαντες (“having believed”), with the aorist passive indicative ἐσφραγίσθητε (“you were sealed”).
+
+The grammatical distinctions are important:
+- Hearing and believing are active participles describing what the people did.
+- Sealing is a passive finite verb describing what was done to them.
+- The Gospel is expressly identified as the word of truth and the Gospel of their salvation.
+- The Spirit is expressly identified as the promised Spirit associated with the sealing.
+
+The aorist participles commonly suggest hearing and believing prior to the main verb, sealing. However, the exact temporal relationship is debated. Some interpreters understand a sequence of hearing, believing, and then sealing; others stress that the events belong together in the conversion experience and may be temporally close or coincident. The aorist form alone does not establish a long interval or a detailed chronology. The text clearly connects the events but does not explain every internal mechanism by which faith arises or specify a prolonged gap between faith and sealing.
+
+The KJV's initial “ye also trusted” is an English supplied verb; the Greek syntax itself has no separate finite verb there. This translation detail must be preserved in grammatical discussion.
+
+### F. The Spirit as seal and guarantee
+
+The passive verb “ye were sealed” presents the believers as recipients. The Holy Spirit is associated with the seal. There is a grammatical discussion whether the dative “with/by the Spirit” is instrumental or whether the Spirit is best understood as the seal itself. Both readings recognize that the Spirit is God's promised mark and pledge.
+
+Verse 14 identifies the Spirit as the **ἀρραβών (*arrabōn*)**, the earnest or guarantee of the inheritance. The Spirit is not merely an emotional impression or human declaration. Paul describes the Spirit as God's pledge concerning the inheritance until the redemption of the purchased possession.
+
+Related texts:
+- 2 Corinthians 1:21–22: God establishes, anoints, seals, and gives the earnest of the Spirit.
+- Ephesians 4:30: believers are sealed unto the day of redemption.
+- Romans 8:23: believers await the redemption of the body.
+- Acts 10:44–48 and 19:1–6: narratives relevant to the relationship among hearing, believing, baptism, and reception of the Holy Spirit. These narratives should be compared carefully rather than forced into one invariant chronology.
+
+### G. Interpretive alternatives and controls
+
+1. **Election is detached from Christ.** This contradicts the repeated “in Christ/in Him/in the Beloved” language. The passage presents the choosing and blessings in relation to Christ.
+2. **Predestination has no stated purpose.** This ignores verse 5's adoption and verse 4's holiness, as well as the wider purpose of gathering all things in Christ in verse 10.
+3. **God's will is merely a response to an independently originating human decision.** The passage repeatedly attributes choosing, predestining, purposing, revealing, and working all things to God. It does not state that human decision originates or causes God's purpose.
+4. **Human believing is absent or irrelevant.** This contradicts verse 13, which expressly includes the active participle “having believed.”
+5. **The active participle proves that faith is the independent originating cause of election.** This does not follow from grammatical voice. Active voice identifies the subject as performing the action; it does not identify that action as the originating cause of God's earlier purpose.
+6. **The passive sealing is a human act.** The passive form presents the hearers as recipients, not as the agents sealing themselves. The Spirit is explicitly named in connection with the sealing.
+7. **The grammar proves a lengthy gap between believing and sealing.** It does not. The aorist participles normally place the events before the main verb, but the events may be closely connected or coincident in conversion.
+8. **The Spirit is only a symbol of a future inheritance.** Verse 14 identifies Him as the earnest/guarantee of the inheritance. The passage gives Him a present role as God's pledge.
+9. **The KJV's supplied “trusted” is a separate Greek finite verb repeated in verse 13.** It is not. The Greek has the participles “having heard” and “having believed,” with “you were sealed” as the finite passive verb.
+10. **Verse 11's “obtained an inheritance” is the only possible rendering.** The Greek verb ἐκληρώθημεν carries allotment/heritage language and has been translated in more than one way. Preserve the KJV while noting the range.
+11. **The passage explains every detail of the mechanics of faith, sealing, or final redemption.** It does not. It identifies the events and their relation, but not every causal or chronological mechanism.
+12. **The passage's “all things” means every individual is thereby saved.** The text describes the gathering of all things in Christ; it does not in these verses explicitly state universal individual salvation. Do not make that inference without broader examination of Paul's language and context.
+
+### H. Canonical comparisons
+
+- **Romans 8:28–30 (HW-016):** God's purpose, predestination, calling, justification, and glorification.
+- **2 Thessalonians 2:13–14 (HW-015):** God's choice, sanctification of the Spirit, belief of truth, and calling through the Gospel.
+- **Romans 10:13–17:** the relationship between preaching, hearing, and believing.
+- **2 Corinthians 1:21–22:** God's establishing, anointing, sealing, and giving the Spirit as earnest.
+- **Ephesians 4:30:** the Spirit's sealing unto the day of redemption.
+- **Romans 8:23:** the future redemption of the body, relevant to the inheritance and redemption horizon.
+- **John 6:37–65:** the Father's giving and drawing, the Son's reception, and coming to Christ.
+- **Acts 10:44–48; 19:1–6:** compare actual narrative accounts of the Spirit's reception without forcing every narrative into a single chronology.
+- **1 Peter 1:3–5:** new birth, living hope, inheritance, and God's preserving power.
+- **2 Timothy 1:9:** salvation and calling according to God's purpose and grace before the world began.
+
+### I. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| God is the subject of choosing in verse 4 | EXPLICIT | ἐξελέξατο |
+| Choosing is in Christ | EXPLICIT | ἐν αὐτῷ |
+| The choosing is before the foundation of the world | EXPLICIT | πρὸ καταβολῆς κόσμου |
+| Predestination is unto adoption | EXPLICIT | Ephesians 1:5 |
+| The purpose is according to God's good pleasure and will | EXPLICIT | Ephesians 1:5, 9, 11 |
+| Redemption is in Christ through His blood | EXPLICIT | Ephesians 1:7 |
+| God makes known the mystery of His will | EXPLICIT | Ephesians 1:9 |
+| God's purpose includes gathering all things in Christ | EXPLICIT | Ephesians 1:10 |
+| God works all things according to the counsel of His will | EXPLICIT | Ephesians 1:11 |
+| The hearers heard the Gospel | EXPLICIT | ἀκούσαντες, 1:13 |
+| The hearers believed | EXPLICIT | πιστεύσαντες, 1:13 |
+| The believers were sealed | EXPLICIT | Passive ἐσφραγίσθητε |
+| The Spirit is the earnest/guarantee of the inheritance | EXPLICIT | 1:14 |
+| Active believing proves faith is the independent originating cause of election | NOT ESTABLISHED | Voice does not establish ultimate causal origin |
+| The participles prove a long temporal gap before sealing | NOT ESTABLISHED | Aspect and construction do not specify such a gap |
+| The Spirit is the agent or the seal in every technical grammatical sense | GRAMMATICAL QUESTION | Dative construction is discussed; the Spirit's association is explicit |
+| “All things in Christ” proves universal individual salvation | NOT ESTABLISHED | Scope of the phrase does not itself state that conclusion |
+| The passage explains every mechanism of faith and regeneration | NOT ESTABLISHED | It identifies the connected events, not every mechanism |
+
+### J. Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** Preserves God's choosing and purpose, the repeated Christ-reference, adoption, redemption through Christ's blood, Gospel hearing, believing, sealing, and the Spirit as guarantee. It does not erase human belief or make the passage answer questions it does not address.
+- **Scientific coherence — PASS, within scope.** Distinguishes grammatical subjects, active participles, passive finite verb, tense/aspect, and interpretive uncertainty. No empirical claim is derived from the theological text.
+- **GUA-W consistency — PASS, within scope.** The text distinguishes God's purpose, Christ's mediatorial work, Gospel proclamation, human believing, divine sealing, and promised inheritance. This is a textual recognition only; no architectural change or new Gear is proposed.
+
+### K. Entry finding and limits
+
+Ephesians 1:3–14 attributes the choosing, predestinating, purposing, revealing, and working described in the passage to God. The choosing is explicitly “in Christ” and before the foundation of the world. Predestination is directed toward adoption, and the passage's wider purpose is the gathering of all things in Christ. Redemption is through Christ's blood.
+
+Verses 13–14 expressly include the hearers' hearing of the Gospel and believing. The verb “were sealed” is passive, presenting the believers as recipients of the sealing, and the promised Holy Spirit is identified as the earnest/guarantee of their inheritance. The KJV's first “trusted” in verse 13 is supplied in English; the Greek construction contains the participles “having heard” and “having believed” with “you were sealed” as the finite verb.
+
+The active voice of believing does not establish that faith is the independent originating cause of God's choosing or purpose. Conversely, God's purpose does not make believing unreal or unnecessary in Paul's account. The precise temporal relation between believing and sealing is not fully settled by the aorist forms alone; the events may be sequential yet closely connected, or closely coincident in conversion. The passage does not explain every internal mechanism of faith, sealing, or final redemption.
+
+**Finding:** Ephesians 1:3–14 presents God's purpose and action as foundational, Christ as the sphere and mediator of the blessings, redemption through Christ's blood, the Gospel as the message heard, human believing as an explicit response, and the Holy Spirit as the promised seal and guarantee of inheritance. The text neither makes human faith the independent originating cause of God's purpose nor erases faith from the saving account. The exact temporal relation of believing and sealing, the grammatical force of the Spirit's dative, and the full mechanics of faith remain matters for careful comparison.
+
+**Status:** PASS for God's initiative and purpose; PASS for election and predestination being explicitly in Christ and directed toward adoption/holiness; PASS for the inclusion of Gospel hearing and human believing; PASS for the passive sealing and the Spirit as guarantee; UNRESOLVED for the precise temporal relation of faith and sealing, the full mechanics of faith, and the exact grammatical force of the Spirit's dative.
+
+### L. GUA-W recognition and research queue
+
+The passage witnesses distinct but connected roles: God's purpose and choosing; Christ as the one in whom the blessings and redemption are found; the Gospel as the message heard; human believing; the Spirit's sealing; and the inheritance guaranteed until redemption. These roles must not be collapsed into one another. This is a textual recognition, not a new GUA-W architectural rule.
+
+Retain these guardrails:
+- do not detach election from the repeated “in Christ” language;
+- do not erase the stated purposes of holiness and adoption;
+- do not turn active believing into proof of independent originating causality;
+- do not erase hearing and believing from the passage;
+- do not mistake the KJV's supplied “trusted” for a separate repeated Greek finite verb;
+- do not claim a long gap between believing and sealing from the aorist forms alone;
+- do not obscure the Spirit's identity as the promised seal/guarantee;
+- do not claim universal individual salvation solely from “gather together all things in Christ”;
+- retain the translation range of ἐκληρώθημεν in verse 11.
+
+Next investigations:
+1. HW-018 — Romans 9:6–24: examine mercy, hardening, election, and the potter/clay argument in context.
+2. HW-019 — John 6:35–65: examine coming, believing, the Father's giving and drawing, and the Son's reception.
+3. Compare Romans 10:13–17 and 2 Corinthians 1:21–22 in a dedicated cross-reference audit of hearing, believing, and sealing.
+4. Keep U-006 (definition and components of human will) open. Ephesians 1 identifies believing as a real response but does not by itself exhaustively define its origin or every aspect of human willing.
+
+---
+
 ## 14. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
@@ -2034,6 +2271,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-014 | 1 John 5:1 | COMPLETED — see entry above. |
 | HW-015 | 2 Thessalonians 2:13–14 | COMPLETED — see entry above. |
 | HW-016 | Romans 8:28–30 | COMPLETED — see entry above. |
+| HW-017 | Ephesians 1:3–14 | COMPLETED — see entry above. |
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
