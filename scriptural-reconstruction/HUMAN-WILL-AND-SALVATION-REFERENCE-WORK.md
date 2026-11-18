@@ -165,13 +165,104 @@ Lexical caution: θέλημα can denote will, desire, or intention according to
 
 **Status:** PASS for the narrow finding concerning the source of birth; PARTIAL for the wider question concerning the origin of faith and the complete order of salvation.
 
-## 8. Initial passage register — not yet adjudicated
+## 8. Entry — HW-002: Deuteronomy 30:11–20
+
+### A. Exact KJV passage
+
+> **Deuteronomy 30:11–20**
+>
+> 11 For this commandment which I command thee this day, it is not hidden from thee, neither is it far off.
+>
+> 12 It is not in heaven, that thou shouldest say, Who shall go up for us to heaven, and bring it unto us, that we may hear it, and do it?
+>
+> 13 Neither is it beyond the sea, that thou shouldest say, Who shall go over the sea for us, and bring it unto us, that we may hear it, and do it?
+>
+> 14 But the word is very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it.
+>
+> 15 See, I have set before thee this day life and good, and death and evil;
+>
+> 16 In that I command thee this day to love the LORD thy God, to walk in his ways, and to keep his commandments and his statutes and his judgments, that thou mayest live and multiply: and the LORD thy God shall bless thee in the land whither thou goest to possess it.
+>
+> 17 But if thine heart turn away, so that thou wilt not hear, but shalt be drawn away, and worship other gods, and serve them;
+>
+> 18 I denounce unto you this day, that ye shall surely perish, and that ye shall not prolong your days upon the land, whither thou passest over Jordan to go to possess it.
+>
+> 19 I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live:
+>
+> 20 That thou mayest love the LORD thy God, and that thou mayest obey his voice, and that thou mayest cleave unto him: for he is thy life, and the length of thy days: that thou mayest dwell in the land which the LORD sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them.
+
+### B. Argument commonly made
+
+The argument is that Moses commands Israel to choose life (v. 19); therefore, human beings possess Free Will as a God-given, independent power to choose spiritual life and salvation. The command is sometimes treated as proof that the hearer has an autonomous ability to originate the spiritual response God requires.
+
+The first part of the argument is accurate: Israel is commanded to choose. The further inference must be tested. The passage must identify the kind of life being set before Israel, the covenant setting of the command, and what the surrounding text says about the heart and God's own work.
+
+### C. Immediate biblical context
+
+Deuteronomy 30 does not begin at verse 11. Verses 1–10 describe Israel's future after the blessings and curses have come upon them and they return unto the LORD. The LORD promises to gather the dispersed people, bring them back to the land, and do them good. Crucially, verse 6 states:
+
+> **Deuteronomy 30:6**
+>
+> And the LORD thy God will circumcise thine heart, and the heart of thy seed, to love the LORD thy God with all thine heart, and with all thy soul, that thou mayest live.
+
+The text assigns the heart-circumcising action to the LORD. Its stated purpose is that Israel love the LORD with the whole heart and soul, unto life. Verse 8 then says, “And thou shalt return and obey the voice of the LORD, and do all his commandments.” The passage therefore places God's promised action toward the heart in the same restoration context as Israel's return and obedience.
+
+Verses 11–14 explain that the commandment is not inaccessible or hidden. It is near, in Israel's mouth and heart, so that it may be done. Verses 15–20 set out the covenant alternatives: life and good, or death and evil; love, obedience, and cleaving to the LORD, or a heart turning away, refusal to hear, and idolatry. The stated consequence is explicitly tied to Israel's life in the land promised to the fathers (vv. 16, 18, 20).
+
+The chapter's immediate subject is Israel's covenant relationship with the LORD, including restoration, obedience, blessing, curse, and life in the land. The word “life” must first be read in this covenant setting. The passage cannot simply be detached from that setting and treated as a direct technical definition of the origin of an individual's regeneration or eternal salvation.
+
+### D. Counter-texts and contextual qualifications
+
+**Deuteronomy 30:6** is the primary qualification within the same chapter. Israel is commanded to love and obey, but the LORD says that He will circumcise the heart so that Israel will love Him with all the heart and soul. This is an explicit divine action directed toward the heart and ordered toward the love commanded in verses 16 and 20.
+
+This does not make the command to choose in verse 19 unreal, nor does it say that Israel does not make choices or bear covenant responsibility. It does prevent verse 19 from being isolated as though the chapter contained only an unaided human choice and no divine work upon the heart.
+
+**Deuteronomy 10:12–16** supplies earlier covenant context: Israel is called to fear, walk, love, serve, and keep the LORD's commandments; verse 16 commands circumcision of the heart. Read with Deuteronomy 30:6, the heart is not treated as a merely external decision-point.
+
+**Romans 10:6–10** quotes and applies language from Deuteronomy 30:12–14 to the word of faith preached concerning Christ. This is an important canonical development, but Paul's use must be examined in its own argument. It does not authorize silently replacing the original covenant setting of Deuteronomy 30:11–20 with a later doctrinal formula. Romans 10 deserves its own full entry before conclusions are drawn from the relationship.
+
+Other relevant texts for later comparison include Jeremiah 31:31–34 and Ezekiel 36:24–28, where covenant renewal, a new heart, and God's action are described. They are corroborating research references, not substitutes for reading Deuteronomy in its own context.
+
+### E. Original Hebrew findings
+
+- **הַמִּצְוָה (*hammiṣwāh*)**, “the commandment” (v. 11): the definite noun identifies the command/instruction under discussion. The following clause says it is not hidden or far away.
+- **נִפְלֵאת (*niphlēṯ*)**, from פלא (*p-l-ʾ*) (v. 11): a Niphal form describing something extraordinary, difficult, or beyond reach. In this context the point is that the command is not inaccessible or beyond Israel's reach; it is not a declaration that every inward spiritual capacity question has been settled.
+- **בָּחַר (*bāḥar*)**, “choose” (v. 19): the verb is used in the exhortation commonly rendered “choose life.” It establishes a real covenant summons to choose between the alternatives Moses has set before Israel. The verb itself does not encode a philosophical doctrine of autonomous Free Will, nor does its occurrence alone define the source of spiritual regeneration.
+- **לֵבָב (*lēbāb*)**, “heart” (vv. 6, 14, 17): the heart is the inward center of thought, disposition, and will in Hebrew usage. Verse 6 makes it the direct object of the LORD's promised circumcising action; verse 17 describes the heart turning away.
+- **וּמָל (*ūmāl*)**, from מול (*m-w-l*) (v. 6): “and [He] will circumcise.” The subject is “the LORD thy God”; the heart is the object. The clause continues with **לְאַהֲבָה (*ləʾahăḇāh*)**, “to love,” expressing the purpose/result of this heart-circumcision. The grammatical subject of the circumcising action is God, not Israel.
+
+The Hebrew findings support the plain contrast in the chapter: Israel is addressed with a genuine command and responsibility, while the LORD is identified as the one who will circumcise the heart in the restoration promise. Lexical data alone does not settle every theological question about the relationship between command, ability, divine action, and response.
+
+### F. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| Choice/response | ESTABLISHED | Israel is commanded to choose life (v. 19). |
+| Covenant responsibility | ESTABLISHED | Israel is warned of the consequences of turning away, refusing to hear, and serving other gods (vv. 17–18). |
+| Human ability | PARTIAL / NOT FULLY DEFINED | The command is described as near and not inaccessible (vv. 11–14); this does not, by itself, define autonomous ability to regenerate or save oneself. |
+| Willingness/disposition | ADDRESSED | The heart may turn away (v. 17); the LORD promises to circumcise the heart so that Israel will love Him (v. 6). |
+| Divine initiative | ESTABLISHED IN THE RESTORATION PROMISE | The LORD gathers, brings, prospers, and circumcises the heart (vv. 3–6, 9). |
+| Spiritual regeneration in the later technical sense | NOT SETTLED BY THIS PASSAGE ALONE | Heart-circumcision is explicit, but the passage is framed in Israel's covenant restoration and land life. Later canonical connections require separate examination. |
+| Human will as the originating cause of spiritual birth | NOT ESTABLISHED | The text commands covenant choice but does not identify autonomous human will as the source of spiritual birth. |
+| Salvation as a whole | NOT EXHAUSTIVELY DEFINED HERE | The immediate subject is covenant restoration, obedience, blessing, curse, and life in the promised land. |
+
+### G. GUA-W Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** The command to choose life must be acknowledged. So must the chapter's preceding promise that the LORD will circumcise the heart. Neither may be removed.
+- **Scientific coherence — PASS, within scope.** The Hebrew observations distinguish the command to choose from the divine action upon the heart. The covenant and land context is retained. No philosophical conclusion is smuggled into the verb “choose.”
+- **GUA-W consistency — PASS, within scope.** The passage presents human covenant response and responsibility while attributing the promised heart-circumcision to the LORD. It does not make the derivative human response the Original Cause of God's work.
+
+**Entry finding:** Deuteronomy 30:19 undeniably commands Israel to choose life. It establishes covenant choice and responsibility. It does not, by that command alone, establish that fallen man's independent will is a God-given autonomous power that originates spiritual birth or salvation. The immediate chapter also declares that the LORD will circumcise Israel's heart so that Israel will love Him (v. 6). The command and the divine heart-work must be read together.
+
+**Status:** PASS for the narrow finding that the passage commands covenant choice; FAIL for the claim that the command itself proves autonomous human will as the originating cause of spiritual birth or salvation; PARTIAL for broader questions concerning ability and the canonical relation between covenant heart-circumcision and regeneration.
+
+## 9. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
 
 | ID | Passage | Initial question to test |
 |---|---|---|
-| HW-002 | Deuteronomy 30:11–20 | What kind of covenant choice is commanded, and what does the surrounding covenant context establish about ability and heart? |
+| HW-002 | Deuteronomy 30:11–20 | COMPLETED — see entry above. |
 | HW-003 | Joshua 24:14–28 | What does “choose you this day” address, and how does Joshua's own assessment in v. 19 qualify the appeal? |
 | HW-004 | Genesis 3:1–7 | What do seeing, desiring, taking, and eating establish about human action after the command? |
 | HW-005 | John 3:1–8 | What does the birth “of the Spirit” establish about source, necessity, and human capacity? |
@@ -187,11 +278,11 @@ The following passages are candidates for investigation because they are commonl
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
-## 9. Related register
+## 10. Related register
 
 The exact KJV English expression **“freewill”** is maintained separately in [KJV Freewill Phrase Register](KJV-FREEWILL-PHRASE-REGISTER.md). It must not be conflated with the wider biblical teaching about choosing, willing, desire, ability, or the philosophical concept of autonomous Free Will.
 
-## 10. Governing question retained
+## 11. Governing question retained
 
 **Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
 
