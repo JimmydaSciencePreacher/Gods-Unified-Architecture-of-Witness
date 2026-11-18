@@ -31,6 +31,15 @@ Read the chapters in sequence for the main argument. Follow the linked investiga
 ## Part I — The Author, the Word, and the One Creation
 
 ### Chapter 1. One Author, One Word, One Creation
+
+**Read the completed chapter:** [Chapter 1 — One Author, One Word, One Creation](book/01-ONE-AUTHOR-ONE-WORD-ONE-CREATION.md)
+
+Establish the governing order and distinguish the Author from Creation and from every derivative witness. The chapter is written from the existing governing and architecture records; its research trail links back to the source documents.
+
+Primary reading:
+- [GUA-W Completed Architecture](GUA-W-COMPLETED-ARCHITECTURE.md)
+- [Governing Principles](GOVERNING-PRINCIPLES.md)
+- [The Answer Before the Question](THE-ANSWER-BEFORE-THE-QUESTION.md)
 Establish the governing order and distinguish the Author from Creation and from every derivative witness.
 
 Primary reading:
