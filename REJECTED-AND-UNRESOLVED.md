@@ -147,6 +147,11 @@ The following update supplements U-006. The U-007 notes are historical evidence 
 
 **Effect on U-008:** This widens the prophetic context for the breath/Spirit investigation to include the gathered people, shepherd-king, covenant peace, and divine dwelling. It does not resolve the timing or relationship of John 20:22 and Acts 2. U-008 remains UNRESOLVED.
 
+
+**Ezekiel 34 and the wider Shepherd canon:** Ezekiel 34 condemns shepherds who exploit the flock; the LORD declares that He Himself will seek, gather, feed, heal, and protect His sheep, then appoints “my servant David” as one shepherd (vv. 11–24). This divine shepherding and appointed Davidic shepherd belong together. John 10 presents Jesus as the Good Shepherd who lays down His life and takes it again; Hebrews 13:20 calls the resurrected Jesus the great Shepherd brought again from the dead; 1 Peter 5:1–4 makes elders accountable to the Chief Shepherd; Revelation 7:17 presents the Lamb as Shepherd. These passages strongly support the New Testament's Christological presentation of Jesus within the prophetic shepherd expectation. They clarify the identity and mission context of the risen Christ but do not decide the timing or nature of Spirit reception in John 20:22.
+
+**Effect on U-008:** The Shepherd canon adds covenant and mission context, not a resolution of the John 20:22 / Acts 2 chronology. U-008 remains UNRESOLVED.
+
 ### U-006 supplement — Human will, responsibility, desire, and mastery
 
 **New evidence reviewed:** Genesis 4:6–7, in continuity with Genesis 4:1–8 and Genesis 3:16–17.
