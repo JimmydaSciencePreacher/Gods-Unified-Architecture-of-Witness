@@ -331,3 +331,16 @@ Key distinctions recorded:
 - The three passages use different wording and describe distinct events. Their unity is a canonical/theological correspondence, not lexical identity. Revelation 16:17 also says “It is done”; Revelation 21:6 is the consummation witness in this comparison.
 
 No GUA-W component was added or altered. The record is an explanatory recognition of the existing Scriptural relationship. Read-back verification is required after writing.
+
+
+### John 17:4 / John 19:28–30 — the work given and the Cross completion
+
+The Genesis 2 completion foundation now contains a comparative examination of Jesus' prayer and His declaration at the Cross. John 17:4 is read in John 17:1–5 and the whole prayer (17:6–26): Jesus says He has glorified the Father on earth and finished the work the Father gave Him, as the appointed “hour” has come and before the Passion occurs. John 19:28–30 is read as the Cross narrative: Jesus knows all things are now accomplished, fulfills Scripture, declares “It is finished,” and gives up His spirit.
+
+The two statements are not contradictory and are not collapsed. John 17:4 looks back over the Father's entrusted mission as manifested in Jesus' earthly ministry and speaks from the threshold of the hour; John 19:30 is the climactic completion declaration at the Cross. John 17:4 does not mean the crucifixion has already happened; John 19:30 does not make the Resurrection, Ascension, or Revelation 21 consummation unnecessary. The Resurrection remains essential to the apostolic Gospel (1 Corinthians 15:3–19; Romans 4:25).
+
+### Old Testament covenant people and the promised Seed line
+
+Added the canonical bridge from Genesis 3:15 through the Abrahamic and Davidic promises to Jesus: Genesis 12, 17, 21, 25, 28 and 49; 2 Samuel 7; prophetic witnesses in Isaiah, Jeremiah, and Micah; Matthew 1:1; Luke 1:31–33; Romans 1:3–4; and Galatians 3:8, 16. The finding is that God established and preserved a covenant people through whom the promised Messiah came and through whom blessing to the nations was announced. Israel's calling is broader than genealogy: Exodus 19:4–6, Deuteronomy 7:6–8, Romans 3:1–2, and Romans 9:4–5 record covenant vocation, election, entrusted oracles, promises, worship, and the Messiah's coming according to the flesh. Romans 11 and the remnant texts preserve the distinction between God's faithfulness and human perfection.
+
+No new GUA-W component or new three-completion scheme was created. John 17:4 is not a fourth completion; it clarifies the Father's commission and the Son's faithful work as the hour arrives. Read-back verification is required.
