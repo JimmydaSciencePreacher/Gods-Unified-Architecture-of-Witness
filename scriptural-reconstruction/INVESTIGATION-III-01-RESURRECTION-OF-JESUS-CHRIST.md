@@ -909,3 +909,48 @@ The Author–Word–Creation–Witness hierarchy is preserved. The investigation
 - “Christ and Creation in the Synoptic Gospels,” *Journal for the Study of the New Testament* (2024). https://doi.org/10.1177/0142064X241300470.
 
 **Source note:** Scholarly sources help assess literary allusions and interpretive debates. They do not replace the primary text, establish every proposed allusion, or determine GUA-W architecture. Stronger and weaker connections have been distinguished deliberately.
+
+## 46. Integrated canonical relationship — the sign, the Resurrection, and the witnesses (2026-11-18)
+
+This section connects Investigation II's miracle records with the central Resurrection study and the Creator-authority / Human Will findings. It does not create a new Resurrection claim or replace the detailed work in the preceding sections.
+
+### A. The distinction between a sign and the event to which it points
+
+Cana (John 2:1–11) records Jesus' first sign in John's Gospel and the narrator's statement that it manifested His glory. The servants' obedience, the governor's tasting, and the disciples' belief are distinct witness activities. The sign is attributed to Jesus, not to the human participants.
+
+The raising of Lazarus (John 11) is a powerful sign immediately preceding the Passion. Jesus identifies Himself as the resurrection and the life and calls Lazarus forth. The event points to His identity and the Father's sending of Him. Yet Lazarus is restored to life within the mortal human story; this event is not identical to Jesus' own Resurrection as firstfruits, which Paul treats as the ground and beginning of the resurrection order (1 Corinthians 15:20–23).
+
+The Resurrection of Jesus must therefore retain its unique identity and canonical significance. It is not merely the largest item in a list of miracles, nor a repetition of the raising of Lazarus.
+
+### B. The Father, the Son, and the Spirit — preserve the attributed actions
+
+The central Resurrection study records the Father's raising of the Son, the Son's own statements concerning His authority over His life (John 10:17–18), and the Spirit's relation to resurrection life (for example Romans 8:11). Hebrews 1:1–3 identifies the Son as the One through whom the worlds were made and the One upholding all things. These statements must be held together without confusing the persons or assigning one text's grammatical subject to another passage.
+
+The related Investigation III.2 examines John 20:19–23, Luke 24, Acts 1–2, and the promised Spirit. Its bounded conclusion is that the risen Son breathes upon the disciples and commands them to receive the Holy Ghost in John's account; Luke and Acts preserve the commission, the promise, the forty-day interval, and the public outpouring at Pentecost. The exact relation of John 20:22 to Acts 2 in extent, timing, and function remains unresolved. The disciples receive, are commissioned, and bear witness; they do not originate the Resurrection or the Spirit.
+
+### C. The witness is real but derivative
+
+The Gospel witnesses see, hear, touch, report, remember, and proclaim. Their testimony is indispensable to the apostolic proclamation, but witness is not authorship. This is consistent with John 20:30–31, where the signs are written so readers may believe that Jesus is the Christ, the Son of God, and have life through His name; and with 1 Corinthians 15:3–8, where Paul transmits the received proclamation and names witnesses to the risen Christ.
+
+The Creator-authority finding sharpens the boundary: a creature's ability to observe, explain, report, or interpret does not confer authority to define or originate the event. Conversely, identifying Christ as the source and authority does not make the witnesses' actual seeing, hearing, believing, or reporting fictitious.
+
+### D. Integrated finding
+
+The miracle records and Resurrection testimony belong to one canonical account, but retain their distinctions:
+
+1. Jesus' signs bear witness to His identity and authority.
+2. The raising of Lazarus points to Jesus as the resurrection and the life but is not Christ's own Resurrection.
+3. The Father raises the Son; the Son's authority and identity remain explicit in the Gospel testimony; the Spirit's role is stated in its own passages.
+4. The risen Christ commissions witnesses; the Spirit empowers witness; the apostles proclaim what they received and saw.
+5. The witnesses do not become the Author, cause, or authority of the work to which they testify.
+
+**The sign points to Christ. Christ is raised. The witnesses proclaim Him. The testimony does not become the event's originating cause.**
+
+### E. Triple Constraint and limits
+
+- **Biblical compliance — PASS within scope:** the distinctions among Jesus' signs, Lazarus' raising, Christ's Resurrection, the Father's action, the Son's authority, the Spirit's work, and apostolic witness are preserved.
+- **Scientific coherence — PASS within scope:** no physical mechanism is invented for the signs, Resurrection, or Spirit's work. Historical assessment remains distinct from theological attribution.
+- **GUA-W consistency — PASS at the governing level:** Author, Word, Creation, and witness retain their proper distinctions. No new layer, Gear, or technical mechanism is established.
+
+This section is an integrated cross-reference among Investigations II, III.1, III.2, and the Creator-authority / Human Will studies. It does not close the remaining historical, chronological, or interpretive questions.
+
