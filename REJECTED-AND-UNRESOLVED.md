@@ -97,19 +97,32 @@ This register distinguishes genuinely unresolved questions from matters already 
 
 ### U-008 — The relationship between John 20:22 and the outpouring at Pentecost
 
-**Question:** Does the risen Christ's breathing upon the disciples and command “Receive ye the Holy Ghost” in John 20:22 describe an actual impartation on the Resurrection day, an enacted sign or anticipation of Pentecost, or a relationship involving both an initial reception and a later distinct outpouring/empowerment?
+**Question:** What is the precise relationship between the risen Christ's breathing upon His disciples and command “Receive ye the Holy Ghost” (John 20:22), and the later outpouring in Acts 2? The inquiry must distinguish the extent/timing of reception from the function of the gift.
 
 **Current status:** UNRESOLVED.
 
-**Evidence reviewed:** Genesis 2:7; Ezekiel 37:1–14; John 7:37–39; 14:16–17, 26; 15:26; 16:7–15; 19:30, 34–35; 20:19–23; Acts 1:3–11; 2:1–39; Romans 8:11; 1 Corinthians 15:45–49.
+**Evidence reviewed:** Genesis 2:7; Ezekiel 37:1–14; John 7:37–39; 14:16–17, 26; 15:26; 16:7–15; 19:30, 34–35; 20:19–23; Luke 24:36–49; Acts 1:3–11; 2:1–39; Romans 8:11; 1 Corinthians 15:45–49.
 
-**Reason:** John 20:19–23 explicitly places Jesus' breathing and command to receive the Holy Ghost after His Resurrection and within the commission to the disciples. Acts 1–2 records the command to wait for the Father's promise, the Ascension, and the later coming of the Holy Ghost with power for witness. The passages establish both events and their stated contexts, but do not explicitly define the precise theological or chronological relation between them. Interpretive traditions differ.
+**Established textual observations:**
+- John 20:19–23 places Jesus' breathing and command to receive the Holy Ghost after His Resurrection, within His appearance and commission to the disciples.
+- Acts 1 records Jesus' instruction to wait for the Father's promise and His promise of power for witness; Acts 2 records the disciples filled with the Holy Ghost and Peter's interpretation of the event in relation to the exalted Jesus.
+- John 20:22's Greek breathing verb has a significant lexical correspondence with the LXX of Genesis 2:7; Ezekiel 37 remains a relevant Scriptural breath/Spirit/restoration parallel.
+- The passages establish both the Resurrection-day scene and the later Pentecost event, but do not explicitly state the complete theological relation between them.
 
-**Guardrail:** Do not erase or reduce John 20:22 to protect a preferred account of Pentecost; do not erase or collapse Acts 1–2 into John 20:22. Distinguish the explicit wording from proposed harmonizations. Do not invent a physical mechanism or declare the two events identical in every respect without textual warrant.
+**Questions that must remain distinct:**
+1. **Extent/timing:** anticipatory sign; actual impartation; partial or temporary reception; complete gift; or a staged relation across more than one event.
+2. **Function:** life/new-creation imagery; indwelling; revelation; mission empowerment; prophetic enablement; commissioned ministry; or more than one function.
+3. **Narrative relation:** how John 7 and John 14–16, John 20:19–23, Luke 24:36–49, and Acts 1–2 fit together without one passage cancelling another.
+
+**Reason:** Scholarly interpretation is not a simple two-position dispute between “symbolic” and “actual.” Adrian P. Rosen's 2025 survey identifies a wider range of proposals and questions but does not advocate one final interpretation. The lexical allusion, the imperative “receive,” the Spirit's function, and the relation to the commission each require separate assessment.
+
+**Guardrail:** Do not erase or reduce John 20:22 to protect a preferred account of Pentecost; do not erase or collapse Acts 1–2 into John 20:22. Do not treat a scholarly proposal as an explicit biblical statement. Do not infer doctrine solely from the presence or absence of the Greek article. Do not invent a physical mechanism or declare the events identical in every respect without textual warrant.
 
 **Related investigations:** [Investigation III.2 — The Breath of the Risen Christ](scriptural-reconstruction/INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md); [Investigation III — Passion, Resurrection, Appearances, and Ascension Register](scriptural-reconstruction/INVESTIGATION-III-PASSION-RESURRECTION-REGISTER.md).
 
-**Revision history:** Added 2026-11-17 after the text-first canonical investigation of the breath of the risen Christ. The question remains open pending further canonical, historical, and textual-critical examination.
+**Scholarly source:** Adrian P. Rosen, “Interpretive Questions Related to the Gift of the Spirit in John 20:22,” *Journal of the Evangelical Theological Society* 68, no. 2 (2025): 285–97. The article is used as a map of scholarly questions and proposals, not as an authority that settles the biblical interpretation.
+
+**Revision history:** Expanded 2026-11-17 after the scholarly interpretive audit of Investigation III.2. The question remains open pending further canonical, historical, and textual-critical examination.
 
 ## 12. Evidence update — Genesis 4:6–7 (2026-11-16)
 
