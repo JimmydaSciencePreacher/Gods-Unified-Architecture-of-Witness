@@ -2024,7 +2024,7 @@ Retain these guardrails:
 Next investigations:
 1. HW-017 — Ephesians 1:3–14: examine election, adoption, redemption, hearing the Word of truth, believing, and sealing with the Spirit.
 2. Retain 1 Peter 1:1–5 and 2 Timothy 1:9 as comparisons for foreknowledge, election, calling, and purpose.
-4. Keep U-006 (definition and components of human will) open. Romans 8:28–30 establishes a strong account of God's purpose and action for the people in view, but does not exhaustively define every aspect of human willing or the complete scope and mechanics of election.
+3. Keep U-006 (definition and components of human will) open. Romans 8:28–30 establishes a strong account of God's purpose and action for the people in view, but does not exhaustively define every aspect of human willing or the complete scope and mechanics of election.
 
 ---
 
