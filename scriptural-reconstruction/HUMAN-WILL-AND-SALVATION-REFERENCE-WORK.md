@@ -1,7 +1,7 @@
 # The Biblical Examination of the Human Will
 
 **GUA-W Scripture Reference Work**  
-**Status:** ACTIVE — HW-001–HW-019 recorded; retrospective cross-reference audit and entry-level synchronization completed; final quality control in progress  
+**Status:** ACTIVE — HW-001–HW-020 recorded; retrospective cross-reference audit and entry-level synchronization completed; final quality control in progress  
 **Governing question:** Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?
 
 ## 1. Scriptural starting point and governing posture
@@ -192,7 +192,7 @@ Lexical caution: θέλημα can denote will, desire, or intention according to
 
 **Original limitation reviewed:** The relation between receiving/believing and birth from God is not fully explained by these two verses alone.
 
-**Canonical passages examined:** John 3:3–8, 14–21 (HW-005); John 6:35–45, 63–65 (HW-006); Acts 11:18; 13:48; 16:14 (HW-013 context); Romans 10:17; Ephesians 1:13 (HW-017); Philippians 1:29; 2 Thessalonians 2:13–14 (HW-015); James 1:18 (HW-009); 1 Peter 1:3, 23; 1 John 5:1 (HW-014); Titus 3:3–7 (HW-019).**
+**Canonical passages examined:** John 3:3–8, 14–21 (HW-005); John 6:35–45, 63–65 (HW-006); Acts 11:18; 13:48; 16:14 (HW-013 context); Romans 10:17; Ephesians 1:13 (HW-017); Philippians 1:29 (HW-020); 2 Thessalonians 2:13–14 (HW-015); James 1:18 (HW-009); 1 Peter 1:3, 23; 1 John 5:1 (HW-014); Titus 3:3–7 (HW-019).**
 
 
 
@@ -208,7 +208,7 @@ The following passages address the missing dimension more directly. They must be
 | **Acts 16:14** | The Lord opened Lydia's heart so that she attended to the things spoken by Paul. | Divine opening and attention to the preached message are joined; the verse does not specify the complete relation between that opening and regeneration. |
 | **Romans 10:17** | Faith comes by hearing, and hearing by the word of God. | This identifies the proclaimed Word as the means associated with faith; it does not say that hearing, by itself, is the originating cause of new birth. |
 | **Ephesians 1:13 (HW-017)** | The hearers hear the word of truth, believe in Christ, and are sealed with the Holy Spirit of promise. | The sequence in Paul's sentence must be retained, but sealing must not simply be equated with every aspect of regeneration without argument. |
-| **Philippians 1:29** | Paul says it is given to believers not only to believe on Christ but also to suffer for His sake. | Believing is expressly described as granted; the verse does not give a full chronology of regeneration and faith. |
+| **Philippians 1:29 (HW-020)** | Paul says it is given to believers not only to believe on Christ but also to suffer for His sake. | Believing is expressly described as granted; the verse does not give a full chronology of regeneration and faith. |
 | **2 Thessalonians 2:13–14 (HW-015)** | God's choice unto salvation is joined with sanctification of the Spirit and belief of the truth; the calling comes through the Gospel. | The elements are joined in Paul's account; the passage does not turn them into a fully specified temporal chart. |
 | **1 Peter 1:3, 23** | New birth is attributed to God's abundant mercy and is also connected with the incorruptible Word. | These verses identify source and Word-related means; they do not independently specify the instant at which faith first occurs. |
 | **James 1:18 (HW-009)** | God begets “of his own will” with the Word of Truth. | The verse names God's will and begetting, but does not mention faith in that sentence. |
@@ -2965,11 +2965,125 @@ The passage does not identify human righteous works as the source of salvation. 
 
 **Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
-## 26. Repository-wide Cross-Reference Completion Audit — HW-001–HW-019 (2026-11-18)
+## 26. Entry — HW-020: Philippians 1:29 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **Philippians 1:29**
+>
+> 29 For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;
+
+### B. Claim under examination
+
+This verse is cited to support the claim that believing in Christ is graciously granted rather than originating in an autonomous human will. Paul does not merely describe an opportunity to believe: he places “to believe on him” within what has been graciously granted. The conclusion must still preserve the reality of the recipients' own believing and must not make the verse answer questions about regeneration or chronology that it does not address.
+
+### C. Immediate context — Philippians 1:27–30
+
+Verse 27 calls the Philippians to conduct worthy of the Gospel, standing fast in one spirit and striving together for the faith of the Gospel. Verse 28 tells them not to be terrified by adversaries and describes the matter as a sign concerning perdition and salvation, “and that of God.” Verse 29 begins with “For” and explains the exhortation: it has been graciously granted to them not only to believe in Christ but also to suffer for His sake. Verse 30 connects their present conflict with the same struggle they had seen in Paul.
+
+The subject is the congregation's steadfast Gospel conduct amid opposition, not an abstract philosophical definition of free will. Believing and suffering are both placed within the gracious grant. The surrounding reference to what is “of God” in verse 28 supports identifying God as the giver. However, the grammatical subject of “was granted” in verse 29 is not an expressed personal name; the immediate context supplies the identification of the source.
+
+### D. Original Greek observations
+
+**Greek text:** ὅτι ὑμῖν ἐχαρίσθη τὸ ὑπὲρ Χριστοῦ, οὐ μόνον τὸ εἰς αὐτὸν πιστεύειν ἀλλὰ καὶ τὸ ὑπὲρ αὐτοῦ πάσχειν
+
+- **ὅτι (*hoti*)**, “for / because”: conjunction linking the grant to the preceding exhortation.
+- **ὑμῖν (*hymin*)**, “to you”: dative plural personal pronoun. Paul addresses the Philippian believers collectively.
+- **ἐχαρίσθη (*echaristhē*)**, “it was graciously granted”: aorist passive indicative, third-person singular, from **χαρίζομαι (*charizomai*)**, to grant or bestow graciously. The passive presents the recipients as receiving a grant; the verb itself does not name the giver. Verse 28's “and that of God” supplies the immediate contextual connection to God.
+- **τὸ ὑπὲρ Χριστοῦ (*to hyper Christou*)**, “the matter concerning/on behalf of Christ”: introduces the content of what has been granted.
+- **τὸ εἰς αὐτὸν πιστεύειν (*to eis auton pisteuein*)**, “the believing in him”: the article **τὸ** makes the infinitive phrase function substantivally. **πιστεύειν (*pisteuein*)** is a present active infinitive of **πιστεύω (*pisteuō*)**, “to believe / trust.” The action is grammatically active: the recipients genuinely believe. Its inclusion under **ἐχαρίσθη** means this believing is part of what has been graciously granted.
+- **ἀλλὰ καὶ (*alla kai*)**, “but also”: introduces the second, coordinated item.
+- **τὸ ὑπὲρ αὐτοῦ πάσχειν (*to hyper autou paschein*)**, “the suffering for his sake”: another articular infinitive phrase. **πάσχειν (*paschein*)** is also a present active infinitive. Suffering for Christ is included alongside believing in Christ under the same grant.
+
+**Grammatical safeguards:**
+
+1. The verse describes the act of believing in Christ as granted. It does not use a separate noun meaning “a quantity of faith,” nor does it define an independently bestowed faculty or measure of faith. “Believing itself is included in the grant” is the precise observation.
+2. The active voice of **πιστεύειν** identifies believing as the action performed by the believers. It does not identify them as the originating source of the grant.
+3. The aorist **ἐχαρίσθη** presents the grant as a whole; the aorist by itself does not establish a detailed temporal sequence between regeneration and the first act of faith.
+4. The present infinitive **πιστεύειν** does not by itself establish a chronology or prove that faith is continuously or progressively imparted.
+5. The passive construction does not grammatically name God as its agent. God is identified contextually, especially by verse 28, not by pretending that the passive verb contains an expressed subject “God.”
+
+The Greek text and morphology have been cross-checked against the SBL Greek New Testament / Nestle Greek text and interlinear morphological presentations. The conclusion rests on the syntax of the sentence, not on a Strong's gloss alone.
+
+### E. What exactly is given, and to whom?
+
+| Question | Textual finding | Boundary |
+|---|---|---|
+| What is given? | The gracious grant includes both believing in Christ and suffering for His sake. | The verse describes these actions as granted; it does not define faith as an abstract substance or quantify it. |
+| To whom is it given? | “Unto you” — the Philippian believers addressed by Paul, plural. | The immediate grammatical recipients are this congregation; universal application requires wider canonical examination. |
+| Who gives it? | The passive verb leaves the giver unnamed in verse 29; verse 28 says the related matter is “of God,” supporting God as giver in context. | Do not claim the passive morphology alone names the agent. |
+| How is believing performed? | The present active infinitive **πιστεύειν** describes the recipients' real act of believing in Christ. | Active human response does not establish independent human origination. |
+| Through what means is the grant given? | No precise mechanism is specified in verse 29. The immediate context names the Gospel and its shared confession, but does not explain the complete operation by which the grant produces believing. | Do not insert a complete regeneration/faith chronology into this verse. |
+| Why is suffering included? | Suffering for Christ is placed alongside believing as part of the same gracious grant, in the context of opposition and Gospel steadfastness. | This does not teach that suffering earns salvation or is identical to faith. |
+
+### F. Canonical cross-reference completion
+
+The question “through what means?” must not be left at “the verse does not say” without checking other passages already examined in this reference work. These passages contribute distinct pieces and must not be collapsed into one technical sequence.
+
+| Passage | What it contributes | Boundary that must be preserved |
+|---|---|---|
+| **John 6:37–45, 63–65 (HW-006)** | Jesus says that coming to Him depends upon the Father's drawing and that coming is given by the Father. Verse 45 also speaks of hearing and learning from the Father. | The passage establishes divine initiative and the necessity of coming; it does not supply a complete timetable for regeneration and first faith. |
+| **Acts 16:14** | The Lord opens Lydia's heart so that she attends to the things spoken by Paul. | Divine opening and attention to the preached message are joined in the narrative. The verse does not define every step between opening, regeneration, and faith. |
+| **Romans 10:14–17** | Paul connects calling, believing, hearing, and preaching, and says faith comes by hearing the word of God. | The Gospel message and its proclamation are identified as the public means associated with faith. This does not make the preacher or hearer the independent originating cause of salvation. |
+| **1 Corinthians 3:5–7** | Paul describes himself and Apollos as ministers “by whom ye believed,” while also saying the Lord gave to every man and that God gives the increase. | The text distinguishes human ministry as an instrument from God's action; its immediate subject is the ministers' role and the growth of God's field, not a complete account of regeneration. |
+| **Ephesians 2:8–10 (HW-008)** | Salvation is by grace through faith, not of works, and the saved are God's workmanship, created in Christ Jesus unto good works. | The antecedent and scope of “that” in verse 8 require grammatical care. Do not use the verse as if its grammar alone unambiguously defines faith as the individual gift without addressing the interpretive question recorded in HW-008. |
+| **2 Thessalonians 2:13–14 (HW-015)** | God's choice, sanctification of the Spirit, belief of the truth, and calling through the Gospel appear together. | The passage joins divine action, believing, and Gospel calling, but does not convert them into an exhaustive chronological chart. |
+
+**Combined finding:** The wider testimony identifies the Gospel/Word and its proclamation as the public means through which people hear and believe, while also identifying the Father's drawing and giving, the Lord's opening of the heart, the Spirit's sanctifying work, and God's gracious action. Philippians 1:29 contributes a direct statement that believing in Christ itself is included in what has been graciously granted. Scripture therefore preserves both divine initiative and the real human act of hearing, attending, coming, repenting, and believing.
+
+**What remains open:** These passages do not all describe the same operation or use “granting,” “drawing,” “opening,” “sanctifying,” “calling,” “hearing,” and “believing” as interchangeable terms. They establish the Gospel as a means and divine initiative as necessary, but do not provide one exhaustive technical chronology specifying every moment and causal relation between regeneration and the first act of faith. Philippians 1:29 itself does not state the precise mechanism by which believing is granted.
+
+### G. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| Choice / response | ESTABLISHED | The Philippians actively believe in Christ and stand in the Gospel conflict. |
+| Responsibility | ESTABLISHED IN CONTEXT | They are exhorted to conduct themselves worthily, stand fast, and strive together (vv. 27–28). |
+| Human ability | NOT DEFINED AS AUTONOMOUS SPIRITUAL ABILITY | The verse describes believing but does not identify independent human capacity as its source. |
+| Willingness | NOT EXPLICITLY ANALYZED | The passage does not give a theory of the will or explain the internal mechanics of desire. |
+| Divine initiative / grant | ESTABLISHED | Believing and suffering are included in what has been graciously granted; verse 28 connects the matter with God. |
+| Faith | ESTABLISHED AS A GRANTED ACT | The text explicitly includes “to believe on him” within the grant. |
+| Human action | ESTABLISHED | **πιστεύειν** is active; the recipients truly believe. |
+| Means of faith | NARROWED BY CANONICAL COMPARISON | Romans 10 identifies hearing the Word; Acts 16:14 identifies the Lord's opening of Lydia's heart as she attends to Paul's message. Philippians 1:29 alone does not specify the mechanism. |
+| Regeneration / spiritual birth | NOT EXPLICITLY NAMED | The verse does not use birth/regeneration terminology. |
+| Chronology of regeneration and faith | NOT SETTLED | Neither the aorist passive grant nor the present active infinitive supplies a complete temporal sequence. |
+| Suffering for Christ | ESTABLISHED AS ALSO GRANTED | The same governing verb includes suffering for Christ; this is not a meritorious cause of salvation. |
+| Salvation as a whole | NOT EXHAUSTIVELY DEFINED HERE | The passage contributes to the source of believing and the believer's suffering, not every stage of salvation. |
+
+### H. GUA-W Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** The passage expressly includes believing in Christ within what has been graciously granted. It also preserves the active believing of the recipients and the second granted matter, suffering for Christ. The surrounding context connects the matter with God. The entry does not claim that the verse states a complete chronology or mechanism.
+- **Scientific coherence — PASS, within scope.** The Greek morphology and syntax support the distinction between the passive grant and the active infinitive of believing. The aorist is not used to manufacture a temporal sequence, and the passive verb is not treated as grammatically naming an unexpressed agent.
+- **GUA-W consistency — PASS, within scope.** God is the contextual source of the gracious grant; the Philippians are genuine human responders who believe. The derivative response is not thereby made the Original Cause. No GUA-W layer, operator, Gear, or architectural change is proposed.
+
+### I. Entry finding and limits
+
+**Finding:** Philippians 1:29 states that the Philippian believers have been graciously granted not only to believe in Christ but also to suffer for His sake. The verb **ἐχαρίσθη** is passive and does not name its giver within verse 29; the preceding verse's statement that the matter is “of God” identifies God as the contextual source. The infinitive **πιστεύειν** is active: the Philippians themselves truly believe. The passage therefore places the real human act of believing within a divine grant; it does not present believing as an independently originating human achievement.
+
+The verse does not specify the precise means or complete internal mechanism by which believing is granted. The wider canon identifies Gospel proclamation and hearing as means associated with faith, while also identifying the Father's drawing, the Lord's opening of the heart, and the Spirit's work. Those passages clarify the wider relationship but do not provide one exhaustive chronology of regeneration and first faith.
+
+**Status:** PASS for the finding that believing in Christ is included in what is graciously granted; PASS for the distinction between divine grant and active human believing; PASS for suffering for Christ as the second item under the same grant; NARROWED by canonical comparison concerning the Gospel/Word as means and divine initiative; UNRESOLVED for the complete chronology and precise mechanism relating regeneration and the first act of faith.
+
+**No GUA-W architectural change is proposed.** HW-020 is the single authoritative investigation of Philippians 1:29. Future discoveries concerning this verse must be added to this entry, not opened as another investigation.
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** Philippians 1:29 does not specify the means or mechanism by which believing is granted, nor does it state the complete chronology of regeneration and first faith.
+
+**Canonical passages examined:** John 6:37–45, 63–65 (HW-006); Acts 16:14; Romans 10:14–17; 1 Corinthians 3:5–7; Ephesians 2:8–10 (HW-008); 2 Thessalonians 2:13–14 (HW-015).
+
+**Combined biblical finding:** The Gospel is publicly preached and heard; faith is connected with hearing the Word (Romans 10:14–17). The Lord opens Lydia's heart as she attends to Paul's message (Acts 16:14). The Father draws and gives in the coming to Christ (John 6:37–45, 63–65). Paul distinguishes the human ministers through whom the Corinthians believed from God's giving of the increase (1 Corinthians 3:5–7). Second Thessalonians joins Spirit-sanctification, belief of the truth, and calling through the Gospel. These passages clarify means and divine initiative without making the human act of believing unreal.
+
+**Revised disposition:** **NARROWED.** The canonical testimony supplies the public means of Gospel proclamation/hearing and further statements of divine initiative. The precise mechanism and exhaustive chronology of regeneration and the first act of faith remain not fully specified. No passage should be made to provide a technical sequence it does not state.
+
+**Synchronization instruction:** This review governs the classification of the limitation above. “Not specified in Philippians 1:29” is a passage-level boundary, not a claim that Scripture says nothing about the means of faith. The combined testimony clarifies the Word/Gospel means and divine initiative, while preserving the exact remaining chronological and causal limits. No duplicate HW investigation is created.
+
+
+## 27. Repository-wide Cross-Reference Completion Audit — HW-001–HW-020 (2026-11-18)
 
 ### Purpose and audit standard
 
-This audit applies the Canonical Cross-Reference Completion Rule retrospectively to all nineteen numbered Human Will investigations. The aim is not to make every question appear settled. It is to distinguish what an individual passage says from what the combined biblical testimony supplies.
+This audit applies the Canonical Cross-Reference Completion Rule retrospectively to all twenty numbered Human Will investigations. The aim is not to make every question appear settled. It is to distinguish what an individual passage says from what the combined biblical testimony supplies.
 
 Each entry below is reviewed against its own unresolved questions, existing comparisons, and the wider canonical context. References to an existing HW entry are cross-references, not new investigations. References outside an existing entry's assigned passage are supporting texts only; they do not silently enlarge that entry's passage boundary.
 
@@ -2999,6 +3113,7 @@ Each entry below is reviewed against its own unresolved questions, existing comp
 | **HW-018 — 1 Peter 1:1–5.** The semantic scope of foreknowledge and the relation of sanctification, new birth, faith, and preservation need the wider Petrine and canonical context. | **1 Peter 1:6–12, 18–25; 2:1–10; Romans 8:28–30 (HW-016); Ephesians 1:3–14 (HW-017); 2 Thessalonians 2:13–14 (HW-015); John 1:12–13 (HW-001); John 3:3–8 (HW-005); Titus 3:3–7 (HW-019); Romans 10:13–17.** | First Peter's immediate continuation includes tested faith, love for Christ, salvation, the prophets' testimony, and new birth through the Word. Romans 8 and Ephesians 1 provide related purpose/election accounts. John 1 and 3 clarify divine source and Spirit-birth. Titus names regeneration and renewal by the Spirit. Romans 10 supplies the proclamation/hearing/believing relationship. | **NARROWED.** The Father's foreknowledge, the Spirit's sanctification, Christ's blood/resurrection, God's begetting, and preservation through faith are explicit. The passage does not state that election is based on foreseen autonomous faith. The full semantic scope of foreknowledge and exact chronology remain not exhaustively defined. |
 | **HW-019 — Titus 3:3–7.** The relation of regeneration, faith, justification, and the washing imagery requires the wider canon. | **John 1:12–13 (HW-001); John 3:3–8 (HW-005); Ephesians 2:1–10 (HW-008); Romans 4:4–5; 5:1; James 1:18 (HW-009); 1 Peter 1:23; 2 Thessalonians 2:13–14 (HW-015); 1 John 5:1 (HW-014); Romans 6:1–4; Acts 2:38–41; Ephesians 5:25–27; Hebrews 10:19–22.** | The first set supplies the source of new birth, the Spirit's work, divine life-giving, faith's relation to justification, and begetting through the Word. Romans 6, Acts 2, Ephesians 5, and Hebrews 10 add baptismal, cleansing, and washing imagery in their own contexts. They must be compared before deciding whether Titus's “washing” refers exclusively to water baptism, inward cleansing, or a joined sacramental/cleansing image. | **NARROWED.** The broad relations of mercy, regeneration, Spirit-renewal, faith, justification by grace, and good works are clarified. The exact chronology and full causal mechanics are not exhaustively specified. The baptism/washing question remains an interpretive question requiring careful comparison of the cited texts; no single cross-reference should be made to decide it by itself. |
 
+| **HW-020 — Philippians 1:29.** The verse says believing in Christ and suffering for His sake have been graciously granted, but does not specify the means or full mechanism of the grant. | **Philippians 1:27–30; John 6:37–45, 63–65 (HW-006); Acts 16:14; Romans 10:14–17; 1 Corinthians 3:5–7; Ephesians 2:8–10 (HW-008); 2 Thessalonians 2:13–14 (HW-015).** | Philippians identifies believing itself as included in the gracious grant and places it alongside suffering for Christ. The active infinitive preserves the Philippians' real believing; the passive grant and verse 28's “of God” identify divine initiative in context. The wider passages connect faith with Gospel proclamation/hearing, the Lord's opening of the heart, the Father's drawing/giving, Spirit-sanctification, and God's work through human ministers. | **NARROWED.** The grant of believing and the Word/Gospel means are established across the cited passages, while the precise mechanism and exhaustive chronology of regeneration and first faith remain unspecified. The aorist passive does not itself name the agent or provide a timeline. |
 ### Audit conclusions
 
 1. **The recurring chronology question is now more accurately stated.** The canon repeatedly identifies God's initiative, the Spirit's work, the Word/Gospel, believing, justification, obedience, and preservation. It does not provide one technical timetable specifying every interval and causal mechanism among all these realities. The broad relations are often established; the exhaustive chronology is not.
@@ -3007,16 +3122,17 @@ Each entry below is reviewed against its own unresolved questions, existing comp
 4. **Romans 9 must remain inside Romans 9–11.** Romans 10's preaching, hearing, believing, and calling, and Romans 11's Israel/Gentile argument, belong to the same Pauline discourse. They are not new investigations and must not be detached as counter-texts without context.
 5. **Grammar must not be asked to prove more than it says.** Tense, aspect, voice, participles, and passive constructions contribute evidence, but they do not automatically provide a complete chronology, identify an unnamed agent, or settle a whole theological system.
 6. **The baptism/washing question remains a genuine open issue in HW-019.** Relevant passages are now identified, but the audit does not claim that merely listing them settles the interpretation.
-7. **No duplicate investigations are created.** All nineteen original passage identities and numbers remain unchanged. Existing entries remain the authoritative locations for their assigned verses. These audit links supplement those entries and do not create HW-020 or alter the next unassigned number.
+7. **No duplicate investigations are created.** All twenty original passage identities and numbers remain unchanged. Existing entries remain the authoritative locations for their assigned verses. These audit links supplement those entries and do not create duplicate investigations or alter the next unassigned number.
+8. **Philippians 1:29 (HW-020) has one authoritative entry.** Its wording establishes believing in Christ as part of the gracious grant, while preserving active human believing and the second granted matter of suffering for Christ. Its mechanism and full chronology are not stated in that verse; the wider canonical means and divine initiative are recorded without collapsing the distinct passages.
 
 ### Required follow-through
 
-This repository-wide audit is the cross-reference map for HW-001–HW-019. When an entry is next substantively revised, its own “unresolved” table and final status must be synchronized with the findings above. A question that has been answered by canonical comparison must not remain labelled wholly unresolved in that entry. A question narrowed by the audit must name the remaining precise limitation. No entry may claim that a reference settles a matter unless the cited passage actually addresses it in context.
+This repository-wide audit is the cross-reference map for HW-001–HW-020. When an entry is next substantively revised, its own “unresolved” table and final status must be synchronized with the findings above. A question that has been answered by canonical comparison must not remain labelled wholly unresolved in that entry. A question narrowed by the audit must name the remaining precise limitation. No entry may claim that a reference settles a matter unless the cited passage actually addresses it in context.
 
 
-## 27. Completed passage register — HW-001–HW-019
+## 28. Completed passage register — HW-001–HW-020
 
-The following table is the completed register for the nineteen existing investigations. Each passage has one authoritative HW entry; the canonical audit supplements those entries but does not create additional investigations. The dispositions are recorded in the individual entries and the repository-wide completion audit.
+The following table is the completed register for the twenty existing investigations. Each passage has one authoritative HW entry; the canonical audit supplements those entries but does not create additional investigations. The dispositions are recorded in the individual entries and the repository-wide completion audit.
 
 | ID | Passage | Register status |
 |---|---|---|
@@ -3039,15 +3155,16 @@ The following table is the completed register for the nineteen existing investig
 | HW-017 | Ephesians 1:3–14 | COMPLETED — see entry above. |
 | HW-018 | 1 Peter 1:1–5 | COMPLETED — see entry above. |
 | HW-019 | Titus 3:3–7 | COMPLETED — see entry above. |
+| HW-020 | Philippians 1:29 | COMPLETED — see entry above. |
 
 
 A new HW number is assigned only after checking the repository for an existing investigation of the same passage. Cross-references do not receive new HW numbers unless a genuinely distinct investigation is authorized. This register records passage identity and completion status; it is not, by itself, a doctrinal conclusion.
 
-## 28. Related register
+## 29. Related register
 
 The exact KJV English expression **“freewill”** is maintained separately in [KJV Freewill Phrase Register](KJV-FREEWILL-PHRASE-REGISTER.md). It must not be conflated with the wider biblical teaching about choosing, willing, desire, ability, or the philosophical concept of autonomous Free Will.
 
-## 29. Governing question retained
+## 30. Governing question retained
 
 **Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
 
