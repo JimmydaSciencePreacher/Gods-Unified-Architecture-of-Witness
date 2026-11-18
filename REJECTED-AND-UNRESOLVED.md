@@ -152,6 +152,11 @@ The following update supplements U-006. The U-007 notes are historical evidence 
 
 **Effect on U-008:** The Shepherd canon adds covenant and mission context, not a resolution of the John 20:22 / Acts 2 chronology. U-008 remains UNRESOLVED.
 
+
+**Davidic covenant and Acts 2:22–36:** The New Testament explicitly connects the LORD's oath to David, Jesus' Resurrection, and His exaltation. Peter argues that David died and was buried, but spoke prophetically concerning the Christ; God raised Jesus, exalted Him to His right hand, and Jesus poured forth the Father's promised Spirit (Acts 2:29–36). Psalm 110:1 is applied to the exalted Jesus. This establishes the source and authority of the Pentecostal outpouring in the Father's promise and the risen Christ's exaltation.
+
+**Boundary:** Acts 2:33 does not by itself specify whether John 20:22 was an anticipatory sign, an actual earlier impartation, a commissioning act, or a distinct stage in the same larger work. The Davidic and Resurrection evidence clarifies Christ's identity and authority but does not resolve U-008's specific extent/timing and function questions. U-008 remains UNRESOLVED.
+
 ### U-006 supplement — Human will, responsibility, desire, and mastery
 
 **New evidence reviewed:** Genesis 4:6–7, in continuity with Genesis 4:1–8 and Genesis 3:16–17.
