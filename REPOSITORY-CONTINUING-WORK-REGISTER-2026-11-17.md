@@ -91,6 +91,8 @@ Rosen (2025) provides a map of interpretive questions and proposals, not a final
 
 **Latest recorded pass (2026-11-17):** Ezekiel 36:16–38 and 37:1–28 have been examined in their corporate restoration context. The strongest links are Ezekiel 36:25–27 with John 3:5, and the shared breath verb connecting Genesis 2:7, Ezekiel 37:9 (Hebrew and LXX), and John 20:22. Continue by examining the Old Testament promise of the Spirit and the Johannine/Lukan witness together, keeping Israel's restoration oracle distinct from later canonical applications. Do not identify Ezekiel 37 exclusively with Pentecost or treat the lexical echo as proof that John 20:22 and Acts 2 are the same event.
 
+**Latest recorded pass (2026-11-17):** Ezekiel 37:15–28 has been examined with John 10:14–18 and 11:51–52. The two sticks signify the divided houses of Israel; the LORD promises one people under one Davidic shepherd-king and His sanctuary among them. John's good-shepherd and gathering language strongly corresponds to this restoration pattern. Continue with the Old Testament shepherd promises (Ezekiel 34; Jeremiah 23; 2 Samuel 7) and the New Testament's explicit identification of Jesus as the Davidic shepherd-king. Keep the original Israel setting and later canonical application distinct. U-008 remains open.
+
 
 ### Priority 4 — Close open subquestions in III.A–III.G
 
