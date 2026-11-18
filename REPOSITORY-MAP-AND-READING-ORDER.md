@@ -38,6 +38,13 @@ This map orders the written record; it does not establish a new authority hierar
 - [THE ANSWER BEFORE THE QUESTION](THE-ANSWER-BEFORE-THE-QUESTION.md)
 - [THEOLOGY QUEEN OF THE SCIENCES](THEOLOGY-QUEEN-OF-THE-SCIENCES.md)
 
+## Book chapters
+
+- [Chapter 1 — One Author, One Word, One Creation](book/01-ONE-AUTHOR-ONE-WORD-ONE-CREATION.md)
+- [Chapter 2 — The Answer Before the Question](book/02-THE-ANSWER-BEFORE-THE-QUESTION.md)
+- [Chapter 3 — Theology and the Differentiated Sciences](book/03-THEOLOGY-AND-THE-DIFFERENTIATED-SCIENCES.md)
+- [Chapter 4 — Genesis 1: The Word Establishes Order](book/04-GENESIS-1-THE-WORD-ESTABLISHES-ORDER.md)
+
 ## II. Scriptural foundation — Genesis and Hebrew examinations
 
 - [GENESIS 1 1 5 TEXT FIRST RECONSTRUCTION](scriptural-reconstruction/GENESIS-1-1-5-TEXT-FIRST-RECONSTRUCTION.md)
