@@ -573,3 +573,100 @@ These expressions are related, but the text does not authorize treating every ve
 
 **Disposition:** U-008 remains UNRESOLVED, but the Lukan evidence places a strong constraint on every proposed reading. Any adequate account must explain both the direct Resurrection-day command in John 20:22 and the still-future endowment promised in Luke 24:49 and Acts 1:4–8. The distinction between an earlier reception and a later promised endowment is a serious candidate for investigation, but its exact terms and theological meaning must be demonstrated rather than assumed.
 
+## 21. John 7:39 — the Spirit's promised reception and the glorification of Jesus
+
+The next controlling text is John 7:37–39. The narrator explicitly interprets Jesus' promise of living water as a reference to the Spirit whom believers were to receive, and connects that reception to Jesus' glorification. This passage must be read alongside John 16:7, John 17:1–5, John 19:30–34, John 20:22, and Acts 2:32–33.
+
+### 21.1 The immediate setting: living water and the promised Spirit
+
+At the feast, Jesus calls the thirsty to come to Him and drink (John 7:37). He speaks of rivers of living water flowing from the believer (v. 38). The narrator then states that Jesus spoke concerning the Spirit, whom believers were to receive, “for the Holy Ghost was not yet given; because that Jesus was not yet glorified” (v. 39, KJV).
+
+The narrator's explanation is decisive for identifying the living water with the Spirit. It is not necessary to guess whether the image is merely physical water or a general metaphor for blessing: the text itself identifies the subject.
+
+The direction of the promise is also clear: believers are to receive the Spirit, and the narrator relates this reception to the glorification of Jesus. The verse does not, by itself, specify every detail of when or how that reception occurs.
+
+### 21.2 A translation and textual observation: “given” is supplied in the KJV
+
+The KJV prints “given” in italics, indicating that the word is supplied to make the sense clear in English. The commonly printed Greek wording is compact: “for the Spirit was not yet, because Jesus was not yet glorified” (οὔπω γὰρ ἦν πνεῦμα, ὅτι Ἰησοῦς οὐδέπω ἐδοξάσθη).
+
+Some later witnesses add wording equivalent to “given,” while the shorter wording is broadly represented in the early Greek textual tradition. The NET textual note explains that “given” is supplied in translation to prevent the mistaken conclusion that the Spirit did not exist before Jesus' glorification. This is a translation clarification, not a claim that the Spirit had no existence or activity before the Cross.
+
+The Gospel itself has already described the Spirit descending and remaining upon Jesus (John 1:32–33), and Jesus has spoken of birth from the Spirit (3:5–8). Therefore John 7:39 cannot reasonably mean that the Spirit did not exist or had never acted. The explanatory focus is the promised reception associated with Jesus' glorification.
+
+**Guardrail:** Do not build a doctrine on the English italics alone; do not claim that the Holy Spirit did not exist or work before Jesus was glorified; do not make the supplied word “given” disappear from consideration. Attend to the Greek wording, the KJV translation, and the Gospel's own prior Spirit references together.
+
+### 21.3 What does “glorified” mean in John's Gospel?
+
+John's use of glory language is not confined to one isolated instant. The narrative develops Jesus' “hour” and glorification through several connected passages:
+
+- **John 12:23–24:** Jesus declares that the hour has come for the Son of man to be glorified, then speaks of the grain of wheat falling into the ground and dying in order to bring forth much fruit.
+- **John 12:27–33:** Jesus speaks of the hour, the Father's name being glorified, and being “lifted up”; the narrator identifies this lifting up with the kind of death Jesus would die.
+- **John 13:1, 31–32:** Jesus knows His hour has come to depart out of this world unto the Father; after Judas departs, Jesus speaks of the Son of man being glorified and God being glorified in Him.
+- **John 16:5–7:** Jesus says He is going to the One who sent Him and that His departure is connected with the coming of the Comforter.
+- **John 17:1–5:** Jesus asks the Father to glorify the Son so that the Son may glorify the Father, and speaks of the glory He had with the Father before the world was.
+- **John 19:30:** Jesus declares “It is finished,” bows His head, and gives up the ghost.
+- **John 20:** the risen Jesus appears to His disciples.
+
+The strongest textual conclusion is that the Cross is central to Johannine glorification, but the full movement is related to Jesus' return to the Father. The Cross is not a disposable preliminary to glory: John presents the lifting up in death itself as glorifying. At the same time, John 13:1 and 16:5–7 place His departure to the Father and the sending of the Comforter within the same movement. John 17:1–5 joins the hour, the Cross-shaped mission, and the glory with the Father.
+
+It is therefore too narrow to say that “glorified” means only the moment of Resurrection, or only the moment of Ascension, without explaining John's Cross-centered use of the term. It is also too narrow to isolate the crucifixion from the return to the Father and the sending of the Spirit.
+
+### 21.4 The Cross and John 19:30 — does Jesus give the Spirit at His death?
+
+John 19:30 says that Jesus bowed His head and “gave up the ghost” (παρέδωκεν τὸ πνεῦμα). Because the same Gospel has connected the Spirit with living water and glorification (John 7:37–39), some interpreters have proposed that John's wording at the Cross carries a double meaning: Jesus truly dies, while the language also anticipates or signifies the giving of the Spirit.
+
+This proposal must be examined, not assumed.
+
+Peter-Ben Smit's study, “The Gift of the Spirit in John 19:30? A Reconsideration of παραδωκεν τὸ πνεῦμα,” argues that the expression primarily describes Jesus' complete death, while allowing that it may carry a proleptic reference to what unfolds in the final chapters. John Christopher Thomas's 2021 survey also records the debate and cautions that arguments for a direct bestowal of the Spirit at this exact point may exceed the evidence.
+
+The immediate textual sequence is:
+1. Jesus declares the work finished (John 19:30).
+2. He bows His head and gives up the ghost (v. 30).
+3. A soldier pierces His side, and blood and water come forth (v. 34).
+4. John gives eyewitness testimony to the event (vv. 35–37).
+5. The risen Jesus later breathes upon the disciples and commands them to receive the Holy Ghost (20:22).
+
+John 19:30 unquestionably records Jesus' death. Whether its wording also signals the Spirit's gift is debated. John 19:34's blood and water may be read in relation to the living-water promise, but a direct identification of the water with the Spirit at that precise moment must be demonstrated rather than presumed. The narrator's explicit identification of living water with the Spirit occurs in John 7:39; the narrator does not explicitly repeat that identification in John 19:34.
+
+**Guardrail:** Do not treat “gave up the ghost” as proof that the Spirit was imparted to the disciples at the Cross. Do not rule out every literary or theological echo simply because the immediate sense is Jesus' death. Keep primary meaning and possible proleptic resonance distinct.
+
+### 21.5 John 16:7 is a key bridge between glorification and the Spirit's coming
+
+Jesus says that it is expedient for the disciples that He go away; if He does not go away, the Comforter will not come to them, but if He departs, He will send Him (John 16:7).
+
+This statement strongly links the Spirit's coming to Jesus' departure. It supports the future orientation of John 7:39 and aligns with Luke 24:49 and Acts 1:4–8, where the disciples are told to wait for the Father's promise and the coming power.
+
+Yet John 16:7 does not explain John 20:22 by itself. We must not assume that “go away” refers only to the instant of death, nor may we detach it from the Cross and Resurrection that form the passage's surrounding context. The relation between departure, return to the Father, glorification, and the Spirit's coming requires the whole narrative.
+
+### 21.6 The strongest synthesis currently supported
+
+The passages now provide a more coherent sequence of textual claims:
+
+- **John 7:37–39:** Jesus promises living water; the narrator identifies it as the Spirit believers were to receive in relation to Jesus' glorification.
+- **John 12:23–33:** Jesus' hour of glorification arrives through the Cross; His being lifted up is identified with His death.
+- **John 13:1; 16:5–7:** His departure to the Father is linked with the coming of the Comforter.
+- **John 17:1–5:** Jesus asks the Father to glorify Him in the hour and speaks of the glory He had with the Father before the world.
+- **John 19:30–37:** Jesus completes His work and truly dies; the side-piercing and blood/water testimony follow. A direct Spirit-bestowal interpretation of 19:30 remains debated.
+- **John 20:19–23:** the risen Jesus breathes upon the disciples and commands them to receive the Holy Ghost.
+- **Luke 24:49; Acts 1:4–8:** the disciples are still commanded to wait for the Father's promised endowment and power for witness.
+- **Acts 2:32–33:** Peter identifies Pentecost's outpouring with the exalted Jesus' shedding forth of the Father's promise.
+
+This supports a connected divine purpose across Cross, Resurrection, return to the Father, and the Spirit's coming. It does not yet settle whether John 20:22 is an actual reception distinct from Pentecost, an anticipatory sign, or a moment within a larger staged bestowal. A unified purpose does not make the events identical; distinct events do not require unrelated purposes.
+
+### 21.7 Triple Constraint assessment
+
+- **Biblical compliance — PASS within scope:** John 7:39 is read with its narrator's explanation; earlier Spirit activity is not denied; the Cross remains central to John's glorification language; John 19:30 is not made to prove more than it explicitly states; John 20 and Acts 2 retain their distinct wording and chronology.
+- **Scientific coherence — PASS within scope:** this is a textual, grammatical, and historical-theological investigation. No unsupported physical mechanism for the Spirit's action is proposed.
+- **GUA-W consistency — PASS:** the Father is the Source; the Son completes the mission, returns to the Father, and sends/pours forth the promised Spirit; believers receive and witness. No derivative witness is made the originating cause.
+
+**Disposition:** John 7:39 and 16:7 place Jesus' glorification/departure in a necessary relation to the promised reception of the Spirit. The Cross is central to this Johannine glorification, and the return to the Father is part of the narrative movement. John 19:30's primary reference is Jesus' death; a secondary Spirit-gift resonance remains debated. U-008 remains UNRESOLVED pending a full synthesis of John's narrative with Luke–Acts and the historical evidence.
+
+### 21.8 Scholarly sources consulted
+
+- John Christopher Thomas, “The Spirit in the Gospel according to John, 1John, and 2John: ‘Rivers of Living Water,’” *Pneuma* 43 (2021): 442–469, https://doi.org/10.1163/15700747-bja10054. Open-access survey of Johannine pneumatology; see especially its discussion of John 19:30 and the disputed proposal that Jesus bestows the Spirit at the Cross.
+- Peter-Ben Smit, “The Gift of the Spirit in John 19:30? A Reconsideration of παραδωκεν τὸ πνεῦμα,” *New Testament Studies* (2016). Argues that the expression primarily denotes Jesus' death, while considering possible proleptic resonance. https://repository.up.ac.za/bitstream/handle/2263/57327/Smit_Gift_2016.pdf?sequence=3
+- John W. Romanowsky, “‘When the Son of Man Is Lifted Up’: The Redemptive Power of the Crucifixion in the Gospel of John,” *Horizons* 32, no. 1 (2005): 100–116. Argues for the redemptive centrality of the historical Cross and its Johannine presentation as exaltation/glorification. https://doi.org/10.1017/S0360966900002218
+- Thomas L. Brodie, *The Gospel According to John: A Literary and Theological Commentary* (Oxford University Press, 1997), chapter “The Glorification of Jesus,” pp. 541–596. Treats death and Resurrection as a unified glorification process, with the Cross inaugurating that movement.
+- NET Bible, note on John 7:39. Explains the supplied “given” and the Greek wording “the Spirit was not yet,” guarding against the mistaken claim that the Spirit did not previously exist. https://classic.net.bible.org/verse.php?book=Joh&chapter=7&tab=commentaries&theme=false&verse=39
+
+
