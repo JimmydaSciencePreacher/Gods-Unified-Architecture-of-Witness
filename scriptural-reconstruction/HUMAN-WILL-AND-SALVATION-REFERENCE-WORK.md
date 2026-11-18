@@ -187,6 +187,19 @@ Lexical caution: θέλημα can denote will, desire, or intention according to
 
 **Status:** PASS for the narrow finding concerning the source of birth; PARTIAL for the wider question concerning the origin of faith and the complete order of salvation.
 
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The relation between receiving/believing and birth from God is not fully explained by these two verses alone.
+
+**Canonical passages examined:** **John 3:3–8, 14–21 (HW-005); John 6:35–45, 63–65 (HW-006); 1 John 5:1 (HW-014); James 1:18 (HW-009); 1 Peter 1:23; Ephesians 2:1–10 (HW-008).**
+
+**Combined biblical finding:** John 1 itself distinguishes receiving and believing from the source of birth, which is not the will of the flesh or man but God. John 3 identifies birth from the Spirit as necessary and then speaks of believing in the Son. First John 5:1 identifies the believer as born of God. James and Peter connect divine begetting/new birth with God's Word. Ephesians describes God making the dead alive and salvation through faith.
+
+**Revised disposition:** **NARROWED.** Scripture establishes divine source, the necessity and reality of believing, and the Word/Spirit's role in new birth. The exact temporal interval and complete causal mechanics between regeneration and the first act of faith are not stated in one exhaustive formula. Do not claim the two verses alone settle that chronology.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
+
 ## 8. Entry — HW-002: Deuteronomy 30:11–20
 
 ### A. Exact KJV passage
@@ -277,6 +290,19 @@ The Hebrew findings support the plain contrast in the chapter: Israel is address
 **Entry finding:** Deuteronomy 30:19 undeniably commands Israel to choose life. It establishes covenant choice and responsibility. It does not, by that command alone, establish that fallen man's independent will is a God-given autonomous power that originates spiritual birth or salvation. The immediate chapter also declares that the LORD will circumcise Israel's heart so that Israel will love Him (v. 6). The command and the divine heart-work must be read together.
 
 **Status:** PASS for the narrow finding that the passage commands covenant choice; FAIL for the claim that the command itself proves autonomous human will as the originating cause of spiritual birth or salvation; PARTIAL for broader questions concerning ability and the canonical relation between covenant heart-circumcision and regeneration.
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The relation between Israel's commanded choice and God's action upon the heart requires the chapter's wider covenant setting.
+
+**Canonical passages examined:** **Deuteronomy 10:12–16; 30:1–10, especially 30:6; Jeremiah 31:31–34; Ezekiel 36:24–28; Romans 10:6–13.**
+
+**Combined biblical finding:** Deuteronomy 30:6 expressly promises that the LORD will circumcise Israel's heart so that Israel will love Him; the command to choose life in 30:19 must be read alongside that promise. Jeremiah and Ezekiel describe covenant renewal and God's action in giving a new heart and Spirit. Romans 10 applies Deuteronomy's word-near-you language to the word of faith concerning Christ, while preserving Paul's own Gospel context.
+
+**Revised disposition:** **ANSWERED as to whether the covenant Scriptures also attribute heart-renewal to God: YES. NARROWED as to the relation of commanded choice and divine heart-work.** The original passage remains a real covenant summons with real responsibility. It does not, by itself, define the entire order of Christian regeneration.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 9. Entry — HW-003: Joshua 24:14–28
 
@@ -375,6 +401,19 @@ The Hebrew therefore gives no basis for pretending that the word “choose” is
 **Entry finding:** Joshua 24:15 establishes that Israel is summoned to make a real covenant choice concerning whom it will serve. Verse 22 confirms that the people have chosen the LORD and are witnesses against themselves. But Joshua 24:19 immediately warns, “Ye cannot serve the Lord,” and verses 23–27 expose the continuing demand to put away idols and formalize covenant accountability. The chapter is not a proof that autonomous human Free Will originates salvation. It is a covenant-renewal summons grounded in the LORD's prior deliverance, and it contains a direct warning about the people's capacity and fidelity in serving the holy God.
 
 **Status:** PASS for the existence of covenant choice and responsibility; PARTIAL for the precise scope of “Ye cannot serve the Lord”; FAIL for using this passage alone as proof that independent human will originates spiritual birth or salvation.
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The meaning and scope of “choose” and “ye cannot serve the LORD” must be held together; the passage does not itself define universal metaphysical inability.
+
+**Canonical passages examined:** **Joshua 24:1–13, 19–27; Deuteronomy 30:6; Judges 2:6–23; Ezekiel 36:24–28.**
+
+**Combined biblical finding:** Joshua 24:1–13 grounds Israel's response in the LORD's prior acts of calling, deliverance, preservation, and gift. Verses 19–27 retain the warning about the LORD's holiness, the people's covenant unfaithfulness, and the need to put away foreign gods. Deuteronomy 30:6 and Ezekiel 36 show that Scripture also speaks of God's action upon the heart. Judges 2 records the subsequent history of covenant failure.
+
+**Revised disposition:** **NARROWED.** The chapter establishes accountable covenant choice and warns against treating a verbal pledge as proof of faithful service. It does not teach that autonomous choice originates salvation, nor does “cannot” in this covenant warning by itself define every person's metaphysical ability in every spiritual matter.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 10. Entry — HW-004: Genesis 3:1–7
 
@@ -475,6 +514,19 @@ The Hebrew supports the narrative sequence of perception, evaluation/desire, tak
 
 **Status:** PASS for the narrated sequence of temptation, desire, choice, and transgression; PARTIAL for the precise relationship between deception, desire, and volition; NOT ESTABLISHED for a comprehensive philosophical doctrine of autonomous Free Will; NOT THE SUBJECT for the origin of regeneration or salvation.
 
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The relation between deception, desire, evaluation, and volition, and the larger consequences of the Fall, cannot be exhausted by the seven verses.
+
+**Canonical passages examined:** **Genesis 2:15–17; 3:8–24; 4:6–7; 1 Timothy 2:13–14; 2 Corinthians 11:3; Romans 5:12–19; Romans 8:20–22.**
+
+**Combined biblical finding:** Genesis 2 supplies the original command; Genesis 3:8–24 records hiding, judgment, and expulsion; Genesis 4:6–7 adds the warning concerning sin and Cain. First Timothy and Second Corinthians add apostolic testimony about Eve's deception while Romans 5 places Adam's trespass in the Adam/Christ comparison. Romans 8 describes creation's subjection and hope in the wider consequence of the Fall.
+
+**Revised disposition:** **NARROWED.** The canonical record confirms deception, human transgression, Adam's representative role in Paul's argument, and consequences beyond Genesis 3:1–7. The claim that Eve formally asserted a complete philosophical authority to define good and evil remains an inference, not an explicit sentence in Genesis 3:1–7.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
+
 ## 11. Entry — HW-005: John 3:1–8
 
 ### A. Exact KJV passage
@@ -565,6 +617,19 @@ The Greek grammar supports the distinction between the Spirit as source/agent of
 **Entry finding:** Jesus declares that a person must be born from above to see and enter the kingdom of God. He distinguishes flesh-born from Spirit-born life, identifies the Spirit as the source of the latter, and describes the person as one who is born—not as the one who originates his own birth. The wind analogy underscores the Spirit's operation, which cannot be directed or mastered by the human observer. John 3:1–8 therefore does not support the claim that independent human will originates spiritual birth. It establishes the necessity and divine source of the new birth. The relation of this birth to believing is further addressed in John 3:14–21 and must be examined without imposing a chronology not established by these eight verses alone.
 
 **Status:** PASS for the necessity and Spirit-source of new birth; PARTIAL for the exact interpretation of “water and Spirit” and the relation of faith to regeneration; FAIL for using John 3:1–8 to claim that independent human will originates spiritual birth.
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The referent of “water,” and the relation of new birth to believing, require the rest of the conversation and canonical background.
+
+**Canonical passages examined:** **Ezekiel 36:24–28; John 1:12–13 (HW-001); John 3:9–21; John 6:63–65 (HW-006); Titus 3:3–7 (HW-019); 1 Peter 1:23.**
+
+**Combined biblical finding:** Ezekiel provides the strong cleansing/new-heart/Spirit background. John 3:9–21 continues the same conversation and explicitly joins the lifted-up Son with believing and eternal life. John 1 distinguishes believing from the divine source of birth. Titus names regeneration and renewal of the Holy Ghost. First Peter connects new birth with the Word.
+
+**Revised disposition:** **NARROWED.** The wider testimony strongly supports reading “water and Spirit” against God's cleansing and renewing work, particularly Ezekiel 36. The exact referent of “water” in John 3:5 should still be identified as an interpretive question rather than declared lexically settled. The broad relation of new birth, Spirit, Word, and believing is established; a complete temporal mechanism is not.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 12. Entry — HW-006: John 6:35–45, 63–65
 
@@ -678,6 +743,19 @@ The Greek therefore establishes the Father as giver and drawer, the Spirit as li
 **Entry finding:** John 6:35–45, 63–65 explicitly presents coming and believing as real responses, while identifying the Father as the giver and drawer and the Spirit as the one who quickens. Jesus states that no one can come unless the Father draws him, explains the drawing in relation to hearing and learning from the Father, and repeats that coming must be given by the Father. The passage therefore directly contradicts the claim that a person's independent ability is the originating source of coming to Christ. At the same time, the lexical range of “draw,” the comparison with John 12:32, and the precise chronology of regeneration and faith require careful treatment. The text establishes divine necessity and initiative; it does not invite us to invent an order beyond what it states.
 
 **Status:** PASS for the necessity of the Father's drawing/grant and the Spirit's life-giving work; PASS for the reality of coming and believing; PARTIAL for the precise scope/manner of drawing and the complete chronology of regeneration and faith; FAIL for using this passage to establish autonomous human will as the originating cause of coming, faith, or salvation.
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The scope and manner of the Father's drawing, and the relation of divine giving to believing, must not be decided by one verb alone.
+
+**Canonical passages examined:** **John 6:36–45, 63–71; John 12:20–33, especially 12:32; John 1:12–13 (HW-001); Romans 10:13–17; Ephesians 2:1–10 (HW-008); Acts 13:44–48 (HW-013).**
+
+**Combined biblical finding:** John 6:45 explains drawing in relation to hearing and learning from the Father. John 12:32 uses the same drawing verb in a different context and must be considered when discussing its lexical scope. Romans 10 places preaching, hearing, and believing together. Ephesians 2 joins God's life-giving action with salvation through faith. Acts 13 records proclamation, rejection, and belief in the same narrative.
+
+**Revised disposition:** **NARROWED.** The Father’s drawing/giving and the Spirit's quickening are explicit in John 6; believing and coming are also explicit. The lexical verb alone does not settle every question about the scope or manner of drawing. The wider canon supplies proclamation and believing as real means/responses, but does not authorize reducing the Father's action to autonomous human initiative.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 13. Entry — HW-007: Romans 9:6–24
 
@@ -824,6 +902,19 @@ The Greek strongly supports Paul's explicit contrast: the purpose according to e
 **Entry finding:** Romans 9:6–24 directly denies that God's mercy originates in the human being who wills or runs. Paul's argument places the purpose according to election before the twins' works and identifies God as the one who calls and shows mercy. He also explicitly attributes hardening to God and grounds the Creator's authority in the potter/clay distinction. The passage is situated within Paul's grief for Israel and his explanation of God's faithfulness to His promise; it must be read through Romans 10–11, where believing, hearing, preaching, Israel, Gentiles, and mercy are further addressed. The text does not authorize us to erase human believing or accountability. Nor does the passive wording of verse 22 identify the agent who fitted the vessels of wrath; that grammatical distinction must remain intact.
 
 **Status:** PASS for the denial that human willing or striving is the source of God's mercy; PASS for God's purpose according to election and His authority to show mercy and harden; PARTIAL for the full relation of individual and corporate election and the complete order of salvation, requiring Romans 10–11 and wider canonical comparison; UNRESOLVED as to the unexpressed agent in the “fitted” clause of verse 22; FAIL for claiming Romans 9 teaches that autonomous human will originates divine mercy.
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The passage's relation to human response, the agent in “fitted” (9:22), and the scope of mercy/hardening require Paul's complete argument.
+
+**Canonical passages examined:** **Romans 9:25–33; 10:1–21; 11:1–36; Exodus 9:13–21; Hosea 1:10; 2:23; Isaiah 10:20–23; 29:16; 45:9; 64:8; John 6:35–45; Ephesians 2:1–10.**
+
+**Combined biblical finding:** Romans 10 preserves Israel's responsibility, the necessity of preaching, hearing, believing, and calling upon the Lord. Romans 11 treats Israel and Gentiles, partial hardening, warning against boasting, mercy, and the doxology to God. The Old Testament quotations supply the covenant and prophetic background Paul invokes. John 6 and Ephesians 2 contribute related statements about divine giving, drawing, and life-giving action.
+
+**Revised disposition:** **NARROWED.** Romans 9–11 must be read as one connected argument; neither Romans 9 nor 11:32 alone establishes universal final salvation for every individual. Human response and responsibility are explicit in Romans 10. The unexpressed agent in Romans 9:22 remains grammatically unexpressed; canonical inference must be labelled as inference, not inserted into the clause.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 14. Entry — HW-008: Ephesians 2:1–10 (2026-11-18)
 
@@ -979,6 +1070,19 @@ No new GUA-W layer, Gear, or architectural component is proposed by this entry.
 
 ---
 
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The precise relation of being made alive, grace, faith, and works, including the antecedent/scope of “this” in 2:8, needs wider comparison.
+
+**Canonical passages examined:** **Ephesians 1:3–14 (HW-017); Romans 3:21–28; 4:4–5; 5:1; John 5:24–25; Titus 3:3–7 (HW-019); Ephesians 2:10; James 2:14–26.**
+
+**Combined biblical finding:** Ephesians 1 supplies the preceding account of God's purpose and the Spirit's sealing. Romans 3–5 explicitly develops justification by faith apart from works of the law and peace with God through faith. John 5 speaks of passing from death to life at the voice of the Son. Titus 3 parallels salvation by mercy, regeneration, renewal, and justification by grace. Ephesians 2:10 and James 2 clarify that good works follow as the intended life of faith, not as the source by which salvation is earned.
+
+**Revised disposition:** **NARROWED.** God's life-giving initiative, salvation by grace through faith, exclusion of boasting, and good works as the intended walk are established across the passages. The exact grammatical scope of “this” in Ephesians 2:8 and the full temporal mechanics of quickening and first faith should not be overstated.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
+
 ## 14. Entry — HW-009: James 1:16–18 (2026-11-18)
 
 ### A. Exact KJV passage
@@ -1094,6 +1198,19 @@ Cross-references for continued examination:
 4. Keep U-006 (definition and components of human will) open. James 1 distinguishes human lust in temptation from God's will in begetting, but it does not provide an exhaustive definition of the human will.
 
 ---
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The relation of God's begetting by His own will and the Word to the believer's faith and new birth needs comparison.
+
+**Canonical passages examined:** **John 1:12–13 (HW-001); John 3:3–8 (HW-005); 1 Peter 1:23; 1 John 5:1 (HW-014); Ephesians 2:1–10 (HW-008); Titus 3:5 (HW-019).**
+
+**Combined biblical finding:** James explicitly says God begat us of His own will with the Word of truth. John 1 and 3 identify God/Spirit as the source of birth. First Peter 1:23 connects being born again with the incorruptible Word. First John 5:1 identifies the believer as born of God. Titus names regeneration and renewal of the Holy Ghost.
+
+**Revised disposition:** **ANSWERED as to the stated source of begetting: God's own will. NARROWED as to the relation between new birth, Word, Spirit, and believing.** The exact chronology and full mechanism of the first act of faith are not exhaustively set out by these texts.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 14. Entry — HW-010: Philippians 2:12–13 (2026-11-18)
 
@@ -1218,6 +1335,19 @@ No new GUA-W layer, Gear, or architectural component is proposed by this entry.
 5. Keep U-006 (definition and components of human will) open. Philippians 2 establishes God's operation in willing and doing but does not provide an exhaustive definition of human will.
 
 ---
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The relation between believers' working/obedience and God's working in them “to will and to do” requires passages describing the Spirit's renewal and the believer's conduct.
+
+**Canonical passages examined:** **Ezekiel 36:26–27; Jeremiah 31:31–34; Hebrews 13:20–21; Ephesians 2:8–10; Romans 8:12–14; 1 Corinthians 15:10; Philippians 1:6.**
+
+**Combined biblical finding:** Ezekiel describes God giving a new heart and putting His Spirit within His people, causing them to walk in His statutes. Hebrews asks God to work in believers what is pleasing in His sight. Ephesians distinguishes grace as salvation's source from good works as the appointed walk. Romans 8 preserves Spirit-led action and responsibility. First Corinthians 15:10 joins Paul's labour with God's grace working in him.
+
+**Revised disposition:** **ANSWERED as to the compatibility of divine operation and real human obedience: both are stated. NARROWED as to the complete order and mechanics of willing.** Philippians 2:13 explicitly attributes the operation in willing and doing to God; verse 12 still commands the believers' own working out. The text does not make either side unreal.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 14. Entry — HW-011: 1 Corinthians 2:10–16 (2026-11-18)
 
@@ -1359,6 +1489,19 @@ Cross-references for continued examination:
 5. Keep U-006 (definition and components of human will) open. This passage establishes a specific inability in spiritual reception and discernment but does not define every aspect of human willing.
 
 ---
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The scope of the natural person's inability, and the relation of Spirit-given understanding to conversion and faith, need contextual controls.
+
+**Canonical passages examined:** **1 Corinthians 1:18–2:16; John 14:16–26; 16:12–15; Romans 8:5–11 (HW-012); Ephesians 1:17–19; 1 John 2:20, 27.**
+
+**Combined biblical finding:** Paul's argument concerns God's wisdom revealed through the Spirit, not an inability to understand every ordinary fact. John 14 and 16 describe the Spirit's teaching and guidance. Romans 8 addresses the fleshly mind's inability to submit to God's law and the Spirit-indwelt contrast. Ephesians and First John speak of spiritual understanding and the Spirit's teaching.
+
+**Revised disposition:** **NARROWED.** The inability is specifically about receiving and discerning the things of the Spirit in Paul's argument. The wider testimony supports the Spirit's teaching and illumination. It does not establish universal intellectual incapacity or an exhaustive theory of every stage of regeneration and faith.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 14. Entry — HW-012: Romans 8:5–11 (2026-11-18)
 
@@ -1509,6 +1652,19 @@ Relevant established distinctions:
 
 ---
 
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The object and scope of the fleshly mind's inability, and its relation to indwelling, new birth, and future bodily life, need the wider Pauline and prophetic context.
+
+**Canonical passages examined:** **Romans 7:14–25; 8:1–17, 18–27; Galatians 5:16–25; Ezekiel 36:26–27; John 3:5–8; 1 Corinthians 2:10–16 (HW-011).**
+
+**Combined biblical finding:** Romans 7–8 supplies Paul's movement from the conflict under sin to life in the Spirit, adoption, and future bodily redemption. Galatians 5 contrasts works of the flesh with the fruit of the Spirit. Ezekiel 36 supplies the promised new heart and Spirit-enabled walk. John 3 identifies birth from the Spirit. First Corinthians 2 addresses Spirit-dependent discernment.
+
+**Revised disposition:** **NARROWED.** The stated inability concerns submission to God's law and pleasing God, not every ordinary human action. The Spirit's indwelling and future quickening are explicit. The exact chronology of conversion and an exhaustive account of the will are not provided by these passages as a complete sequence.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
+
 ## 14. Entry — HW-013: Acts 13:44–48 (2026-11-18)
 
 ### A. Exact KJV passage
@@ -1617,6 +1773,19 @@ Next investigations:
 5. Keep U-006 (definition and components of human will) open. Acts 13:48 strongly orders appointment and believing in this clause but does not exhaustively define human willing or the full scope and mechanics of election.
 
 ---
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The passive appointment clause does not name its agent, and the timing, grounds, and scope of appointment require comparison with Luke-Acts and the wider canon.
+
+**Canonical passages examined:** **Acts 13:26–52; 14:1–23; 18:9–11; Luke 10:21–22; John 6:37–45 (HW-006); Romans 10:13–17; Ephesians 1:3–14 (HW-017).**
+
+**Combined biblical finding:** The immediate narrative records Gospel proclamation, opposition, the Gentiles' rejoicing, and belief. Luke-Acts repeatedly presents God's initiative and the Gospel's public proclamation together. John 6 speaks of the Father's giving/drawing; Romans 10 speaks of preaching, hearing, and believing; Ephesians 1 attributes election and purpose to God while including hearing and believing.
+
+**Revised disposition:** **NARROWED.** The grammar and narrative support appointment as prior to the believing described, while the passive clause itself leaves the agent unexpressed. Divine agency is a contextual/canonical inference, not an explicit grammatical subject in Acts 13:48. The complete grounds and scope of appointment remain open.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 14. Entry — HW-014: 1 John 5:1 (2026-11-18)
 
@@ -1754,6 +1923,19 @@ Next investigation:
 4. Keep U-006 (definition and components of human will) open. This entry establishes divine source and the believer's described state, but does not settle every component of human willing or the complete order of salvation.
 
 ---
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The relation between being born of God and believing, and what the perfect form contributes to chronology, require the wider Johannine witness.
+
+**Canonical passages examined:** **1 John 2:29; 3:1–10; 4:7–10; 5:1–5; John 1:12–13 (HW-001); John 3:3–8 (HW-005); James 1:18 (HW-009); 1 Peter 1:23.**
+
+**Combined biblical finding:** First John repeatedly associates birth from God with righteousness, love, and overcoming. John 1 and 3 identify God's/Spirit's source of birth; James and Peter connect divine begetting with God's Word. First John 5:1 directly identifies the believer as one born of God.
+
+**Revised disposition:** **NARROWED.** The wider Johannine testimony strongly supports reading faith as the mark/manifestation of one born of God, not as self-begetting. The perfect tense alone does not establish a measurable time interval or every causal step.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 15. Entry — HW-015: 2 Thessalonians 2:13–14 (2026-11-18)
 
@@ -1895,6 +2077,19 @@ Next investigations:
 4. Keep U-006 (definition and components of human will) open. This passage establishes God's choice and the connected means and responses but does not exhaustively define the human will or every stage of salvation.
 
 ---
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The relation among divine choice, sanctification of the Spirit, belief of the truth, and Gospel calling, including the phrase “from the beginning,” needs comparison.
+
+**Canonical passages examined:** **2 Thessalonians 2:10–17; 1 Thessalonians 1:4–5; Romans 8:28–30 (HW-016); Ephesians 1:3–14 (HW-017); 1 Peter 1:1–5 (HW-018); John 6:37–65 (HW-006); Romans 10:13–17.**
+
+**Combined biblical finding:** The immediate context links deception, reception/love of truth, God's choice, sanctification, belief, and calling through the Gospel. First Thessalonians joins election with Gospel power in the Holy Ghost. Romans 8, Ephesians 1, and First Peter provide parallel accounts of purpose/election and human believing/obedience. Romans 10 clarifies the public means of preaching and hearing.
+
+**Revised disposition:** **NARROWED.** Divine choice, Spirit sanctification, belief of truth, and Gospel calling are all explicitly present. The exact chronology and mechanics are not fully specified. The precise referent of “from the beginning” must be handled with textual-variant and contextual care rather than used as a stand-alone proof of a complete pre-creation timeline.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 16. Entry — HW-016: Romans 8:28–30 (2026-11-18)
 
@@ -2049,6 +2244,19 @@ Next investigations:
 3. Keep U-006 (definition and components of human will) open. Romans 8:28–30 establishes a strong account of God's purpose and action for the people in view, but does not exhaustively define every aspect of human willing or the complete scope and mechanics of election.
 
 ---
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The precise meaning of foreknowledge, its relation to faith, and the scope of the sequence require the whole chapter and related election texts.
+
+**Canonical passages examined:** **Romans 8:18–39; 9:6–24 (HW-007); 10:1–17; 11:1–36; Ephesians 1:3–14 (HW-017); 1 Peter 1:1–5 (HW-018); 2 Timothy 1:9; John 6:37–45 (HW-006).**
+
+**Combined biblical finding:** Romans 8 itself includes present suffering, waiting, Spirit help, love of God, and the assurance sequence. Romans 9–11 supplies Paul's connected discussion of Israel, Gentiles, mercy, hardening, and faith. Ephesians 1 and First Peter 1 add election/foreknowledge contexts. Second Timothy 1:9 speaks of God's purpose and grace before the world began.
+
+**Revised disposition:** **NARROWED.** God is the acting subject of the sequence in Romans 8:29–30; conformity to Christ is the stated purpose. The wider canon confirms that believing, calling, and response are real. The exact semantic nuance of foreknowledge and a complete theory of its relation to faith are not settled by one lexical item or one passage.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 17. Entry — HW-017: Ephesians 1:3–14 (2026-11-18)
 
@@ -2287,6 +2495,19 @@ Next investigations:
 ---
 
 
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The relation between hearing, believing, sealing, election, and inheritance, including the timing of sealing, needs the wider canonical context.
+
+**Canonical passages examined:** **Ephesians 2:1–10 (HW-008); 4:30; Romans 8:23, 28–30 (HW-016); 10:13–17; 2 Corinthians 1:21–22; Acts 10:34–48; 19:1–7; 1 Peter 1:1–5 (HW-018); 2 Thessalonians 2:13–14 (HW-015); 2 Timothy 1:9.**
+
+**Combined biblical finding:** Ephesians 2 clarifies grace, faith, and works. Romans 10 clarifies preaching/hearing/believing. Second Corinthians 1 and Ephesians 4 describe sealing and the Spirit as earnest/guarantee toward redemption. Acts 10 and 19 provide distinct narrative cases concerning the Spirit's reception; they must not be forced into one invariant chronology. First Peter and Second Thessalonians provide further election/Spirit/belief comparisons.
+
+**Revised disposition:** **NARROWED.** God's purpose, election in Christ, redemption, Gospel hearing, human believing, and the Spirit's sealing/guarantee are established. The exact temporal relation between believing and sealing and the complete mechanism by which faith arises remain not exhaustively specified.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
+
 ## 18. Entry — HW-018: 1 Peter 1:1–5 (2026-11-18)
 
 ### A. Exact KJV passage
@@ -2450,6 +2671,19 @@ The passage does not identify independent human will or foreseen autonomous fait
 
 **No GUA-W architectural change is proposed.** HW-018 is one investigation of 1 Peter 1:1–5. Future discoveries concerning these same verses must be added to this entry, not opened as another investigation.
 
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The semantic scope of foreknowledge and the relation of sanctification, new birth, faith, and preservation need the wider Petrine and canonical context.
+
+**Canonical passages examined:** **1 Peter 1:6–12, 18–25; 2:1–10; Romans 8:28–30 (HW-016); Ephesians 1:3–14 (HW-017); 2 Thessalonians 2:13–14 (HW-015); John 1:12–13 (HW-001); John 3:3–8 (HW-005); Titus 3:3–7 (HW-019); Romans 10:13–17.**
+
+**Combined biblical finding:** First Peter's immediate continuation includes tested faith, love for Christ, salvation, the prophets' testimony, and new birth through the Word. Romans 8 and Ephesians 1 provide related purpose/election accounts. John 1 and 3 clarify divine source and Spirit-birth. Titus names regeneration and renewal by the Spirit. Romans 10 supplies the proclamation/hearing/believing relationship.
+
+**Revised disposition:** **NARROWED.** The Father's foreknowledge, the Spirit's sanctification, Christ's blood/resurrection, God's begetting, and preservation through faith are explicit. The passage does not state that election is based on foreseen autonomous faith. The full semantic scope of foreknowledge and exact chronology remain not exhaustively defined.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## 19. Entry — HW-019: Titus 3:3–7 (2026-11-18)
 
@@ -2648,6 +2882,19 @@ The passage does not identify human righteous works as the source of salvation. 
 
 **No GUA-W architectural change is proposed.** HW-019 is one investigation of Titus 3:3–7. Any future discoveries concerning these same verses must be added to this entry, not opened as another investigation.
 
+
+
+### Canonical completion review — 2026-11-18
+
+**Original limitation reviewed:** ** The relation of regeneration, faith, justification, and the washing imagery requires the wider canon.
+
+**Canonical passages examined:** **John 1:12–13 (HW-001); John 3:3–8 (HW-005); Ephesians 2:1–10 (HW-008); Romans 4:4–5; 5:1; James 1:18 (HW-009); 1 Peter 1:23; 2 Thessalonians 2:13–14 (HW-015); 1 John 5:1 (HW-014); Romans 6:1–4; Acts 2:38–41; Ephesians 5:25–27; Hebrews 10:19–22.**
+
+**Combined biblical finding:** The first set supplies the source of new birth, the Spirit's work, divine life-giving, faith's relation to justification, and begetting through the Word. Romans 6, Acts 2, Ephesians 5, and Hebrews 10 add baptismal, cleansing, and washing imagery in their own contexts. They must be compared before deciding whether Titus's “washing” refers exclusively to water baptism, inward cleansing, or a joined sacramental/cleansing image.
+
+**Revised disposition:** **NARROWED.** The broad relations of mercy, regeneration, Spirit-renewal, faith, justification by grace, and good works are clarified. The exact chronology and full causal mechanics are not exhaustively specified. The baptism/washing question remains an interpretive question requiring careful comparison of the cited texts; no single cross-reference should be made to decide it by itself.
+
+**Synchronization instruction:** This disposition supplements the original passage analysis and governs the classification of the limitation above. Where an earlier table says only “not established by this passage alone” or “unresolved,” read that statement as a limit of the assigned passage, not as a conclusion about the whole canon. The cited passages must remain in their own contexts. Any remaining question is limited to the precise boundary stated here; no duplicate HW investigation is created.
 
 ## Repository-wide Cross-Reference Completion Audit — HW-001–HW-019 (2026-11-18)
 
