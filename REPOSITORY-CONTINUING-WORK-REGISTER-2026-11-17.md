@@ -382,3 +382,13 @@ The new text-first explanatory study is recorded in [Genesis 1–3 — Knowledge
 The study preserves the distinction between valid investigation of HOW and the ultimate WHY grounded in the Author. It does not declare all post-Fall scientific findings false, nor does it permit Theology to invent domain-specific mechanisms. Each finding remains subject to its proper evidence and the Triple Constraint Law.
 
 No GUA-W component, layer, Gear, or runtime stage was added or changed. README navigation was updated. The new study and README entry must be read back; this register entry records the investigation and its limits, not a claim that all related scientific or historical questions are closed.
+
+## 2026-11-18 — Romans 1:18–32: knowledge, suppression, exchange, and divine giving over
+
+Continued the Genesis 1–3 investigation by examining Paul's argument in Romans 1:18–32, read within Romans 1:1–3:31. The text-first study is recorded in [Romans 1:18–32 — Knowledge, Suppression, Exchange, and the Judgment of Being Given Over](scriptural-reconstruction/ROMANS-1-18-32-KNOWLEDGE-SUPPRESSION-AND-THE-CREATOR.md).
+
+**Finding:** Paul does not describe the total loss of human knowing or the extinction of the capacity to investigate Creation. He describes truth held down in unrighteousness; knowledge of God manifested through what is made; failure to glorify and thank God; vain reasoning and darkened hearts; exchange of God's glory and truth; refusal to retain God in knowledge; God's judicial giving over; and continued conduct despite knowledge of judgment.
+
+This is a canonical diagnosis of knowledge suppressed and exchanged in rebellion against the Creator. It must not be turned into a blanket assertion that every scientific finding is false, every scientist consciously rejects God, or empirical investigation itself is sinful. The distinction between ultimate theological WHY and domain-specific HOW remains intact. The study also preserves the distinction between Genesis 3's beginning-account narrative and Paul's later canonical diagnosis; they are related witnesses, not identical passages.
+
+No GUA-W component, layer, Gear, or runtime stage was added or altered. README navigation was updated. The new study and README entry require read-back verification before this register entry is treated as fully synchronized.
