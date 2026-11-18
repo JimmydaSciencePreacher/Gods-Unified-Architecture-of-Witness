@@ -156,3 +156,20 @@ No new GUA-W layer, component, or Gear is created or promoted by this audit.
 
 ---
 **Audit method:** recursive tree inspection, selected full-file reads, cross-checking of registers against files present on `main`, and status reconciliation. This record is a witness to the state of the repository at the audit date; it is not an amendment to the completed architecture.
+
+
+### Priority 8 — Human Will and Salvation Reference Work
+
+A new text-first reference work has been opened at [The Biblical Examination of the Human Will](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md), with a separate [KJV “Freewill” Phrase Register](scriptural-reconstruction/KJV-FREEWILL-PHRASE-REGISTER.md).
+
+The governing question is: **Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
+
+The reference work requires every entry to preserve the exact KJV passage, the argument made from it, immediate context, contextual counter-texts, relevant original-language findings, the specific category established (choice, responsibility, ability, willingness, divine initiative, spiritual birth, faith, salvation, or other), and a Triple Constraint disposition. Explicit text, supported inference, interpretation, and unresolved questions must remain distinct.
+
+**First entry recorded:** HW-001, John 1:12–13. The entry distinguishes receiving/believing in verse 12 from the source of birth in verse 13. The text identifies those born as born “of God” and expressly negates “the will of the flesh” and “the will of man” as the source of that birth. The finding is scope-limited: it does not by itself settle the full causal order of faith and regeneration.
+
+**Initial research queue:** Deuteronomy 30:11–20; Joshua 24:14–28; Genesis 3:1–7; John 3:1–8; John 6:35–45, 63–65; Romans 9:6–24; Ephesians 2:1–10; James 1:16–18; Philippians 2:12–13; 1 Corinthians 2:10–16; Romans 8:5–11; Acts 13:44–48; and 1 John 5:1. These are not pre-adjudicated conclusions.
+
+The KJV phrase register currently records 17 exact joined-form occurrences of “freewill”; its occurrence-level text and morphology audit remains PARTIAL. Do not conflate freewill offerings or Ezra 7:13's voluntary return with a complete philosophical doctrine of autonomous Free Will. Do not add other English forms such as “freely,” “willingly,” or “voluntary” to the exact-phrase count.
+
+Continue by independently verifying the KJV phrase occurrences and then investigating the candidate passages in canonical context. This reference work is an evidence record within the completed GUA-W, not a proposal to alter or reconstruct the architecture.
