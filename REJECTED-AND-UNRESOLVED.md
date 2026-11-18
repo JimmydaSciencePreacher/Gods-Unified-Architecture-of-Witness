@@ -430,3 +430,30 @@ Related record: [Genesis 4:13–16 — Text-First Reconstruction](scriptural-rec
 
 **Related investigation:** [The Biblical Examination of the Human Will — HW-011, 1 Corinthians 2:10–16](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
 
+
+
+## 21. Evidence update — Romans 8:5–11 (2026-11-18)
+
+### U-006 supplement — Fleshly mindset and inability
+
+**New evidence reviewed:** Romans 8:5–11, with Romans 7:14–25, 8:1–4, and 8:12–17 as context.
+
+**Textual observations:**
+- Those according to the flesh mind the things of the flesh; those according to the Spirit mind the things of the Spirit (8:5).
+- The mindset of the flesh is death; the mindset of the Spirit is life and peace (8:6).
+- The mindset of the flesh is enmity against God, does not submit to God's law, and “neither indeed can be” (8:7).
+- Those in the flesh cannot please God (8:8).
+- The Spirit of God dwelling in a person marks the contrast Paul draws; a person without the Spirit of Christ does not belong to Christ (8:9).
+- God will give life to believers' mortal bodies through His indwelling Spirit (8:10–11).
+- Believers are commanded to mortify the deeds of the body through the Spirit (8:12–13), preserving real human action and responsibility.
+
+**Effect on question:** Paul expressly states inability, not merely reluctance: the fleshly mindset cannot submit to God's law, and those in the flesh cannot please God. The stated objects are specific. The passage does not establish that an unregenerate person cannot make any ordinary choice or perform any outwardly useful act. Nor does “flesh” mean that the physical body is inherently evil.
+
+**Limits:** The passage does not provide an exhaustive definition of human will or a complete chronology of regeneration, faith, and indwelling. Romans 7:14–25 has interpretive questions about the identity and rhetorical function of Paul's “I”; do not resolve them by assumption in this entry.
+
+**Status remains:** UNRESOLVED.
+
+**Guardrail:** Preserve the explicit inability language. Do not reduce it to mere lack of information or reluctance. Keep its stated object precise: submission to God's law and pleasing God. Do not equate flesh with physical tissue or deny the real Spirit-enabled action commanded in Romans 8:12–13.
+
+**Related investigation:** [The Biblical Examination of the Human Will — HW-012, Romans 8:5–11](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
+
