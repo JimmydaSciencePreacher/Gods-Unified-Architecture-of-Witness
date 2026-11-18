@@ -281,3 +281,20 @@ The two statements are not contradictory and are not collapsed. John 17:4 looks 
 Added the canonical bridge from Genesis 3:15 through the Abrahamic and Davidic promises to Jesus: Genesis 12, 17, 21, 25, 28 and 49; 2 Samuel 7; prophetic witnesses in Isaiah, Jeremiah, and Micah; Matthew 1:1; Luke 1:31–33; Romans 1:3–4; and Galatians 3:8, 16. The finding is that God established and preserved a covenant people through whom the promised Messiah came and through whom blessing to the nations was announced. Israel's calling is broader than genealogy: Exodus 19:4–6, Deuteronomy 7:6–8, Romans 3:1–2, and Romans 9:4–5 record covenant vocation, election, entrusted oracles, promises, worship, and the Messiah's coming according to the flesh. Romans 11 and the remnant texts preserve the distinction between God's faithfulness and human perfection.
 
 No new GUA-W component or new three-completion scheme was created. John 17:4 is not a fourth completion; it clarifies the Father's commission and the Son's faithful work as the hour arrives. Read-back verification is required.
+
+
+## John 6:37–45, 64–65 and John 17 — the Father gives; the Son receives, keeps, and raises
+
+This canonical comparison is added as a focused examination of the people and work entrusted to the Son, not as a new numbered event in the Passion/Resurrection sequence.
+
+**John 6:37–40:** Jesus says all that the Father gives Him shall come to Him; the one who comes will not be cast out. He came to do the Father's will. The Father's will is that He lose nothing of what has been given Him, but raise it at the last day. The one seeing the Son and believing on Him has everlasting life, and Jesus will raise that one at the last day.
+
+**John 6:44–45, 64–65:** the Father draws; the one who has heard and learned of the Father comes; and coming is not possible unless it is given by the Father. The discourse also identifies unbelief among hearers. The passage holds divine initiative and human coming/believing together without presenting the human response as an independent originating cause.
+
+**John 17:** the Father gives the Son authority over all flesh and gives Him people to whom He gives eternal life (17:1–3); Jesus manifests the Father's name and words to those given Him (17:6–8); prays for them and asks the Father to keep them (17:9–11); speaks of keeping those given Him, with the “son of perdition” clause retained in its context (17:12); extends the prayer to later believers through the disciples' word (17:20); and speaks of those given Him beholding His glory (17:24).
+
+**Necessary distinction:** the Old Testament covenant genealogy is the historical line through which the Messiah came; the people the Father gives to the Son in John 6 and 17 are the focus of the Son's saving work. These categories belong within God's one purpose but must not be collapsed. John 8:39–47, Romans 9:6–8, and Galatians 3:7, 26–29 prevent natural descent alone from being treated as equivalent to saving reception by Christ.
+
+**Finding:** The Father gives; the Son is sent; those given come; the Son receives, keeps, gives eternal life, and promises resurrection; those who believe have everlasting life. These passages establish divine initiative, the Son's commission and keeping, real human coming/believing, and the promised raising at the last day. They do not, by the word “given” alone, supply a complete chronological chart of regeneration, faith, and every saving operation.
+
+This clarifies John 17:4 and the mission that reaches its climactic Cross declaration in John 19:30. It is not a fourth completion, and it does not replace the distinct necessity of the Resurrection and final raising.
