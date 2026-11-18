@@ -137,5 +137,5 @@ A file's presence here does not, by itself, make its contents canonical.
 
 ## Human Will and Salvation Reference Work
 
-- [The Biblical Examination of the Human Will](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md) — includes HW-001 through HW-014; next HW-015: 2 Thessalonians 2:13–14.
+- [The Biblical Examination of the Human Will](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md) — includes HW-001 through HW-015; next HW-016: Romans 8:28–30.
 - [KJV “Freewill” Phrase Register](scriptural-reconstruction/KJV-FREEWILL-PHRASE-REGISTER.md)
