@@ -97,6 +97,8 @@ Rosen (2025) provides a map of interpretive questions and proposals, not a final
 
 **Latest recorded pass (2026-11-17):** The Davidic covenant and its Resurrection fulfillment have been examined through 2 Samuel 7, Psalm 89 and 110, Matthew 1 and 22, Luke 1, Romans 1:1–4, Acts 2:22–36 and 13:22–39, Hebrews 13:20, and Revelation 22:16. Acts 2 explicitly connects David's oath, Jesus' Resurrection, exaltation, and the Spirit outpouring. Next, examine the Gospel Resurrection narratives and Acts 1–2 as one chronological and functional sequence, comparing John 20:19–23 with Luke 24:36–49 and Acts 1:1–8. Keep the questions of actual reception, commissioning, and empowerment distinct; do not infer a settled two-stage or one-stage model prematurely. U-008 remains unresolved.
 
+**Latest recorded pass (2026-11-17):** An integrated chronology of John 20:17–23, Luke 24:36–53, Acts 1:1–11, and Acts 2:1–36 has been added to Investigation III.2. It distinguishes the first-day Johannine breathing/reception command from Luke's future promise, Acts' forty-day interval, Ascension, waiting period, and Pentecostal outpouring. Acts 1:8 explicitly connects the coming of power with witness; Acts 2:32–33 attributes the outpouring to the exalted Jesus acting in relation to the Father's promise. The chronology and function questions are kept separate. U-008 remains UNRESOLVED. The III register now records this pass.
+
 
 ### Priority 4 — Close open subquestions in III.A–III.G
 
