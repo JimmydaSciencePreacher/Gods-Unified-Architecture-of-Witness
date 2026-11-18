@@ -7,6 +7,8 @@
 
 ## How to read this repository
 
+**For a continuous book-style reading path, begin with the [Book Structure and Reading Edition](BOOK-STRUCTURE-AND-READING-EDITION.md).** The map below remains the full research-library inventory.
+
 This map orders the written record; it does not establish a new authority hierarchy or alter GUA-W.
 
 1. Begin with the README and governing principles.
