@@ -238,7 +238,7 @@ There the text will take us through:
 - God's permission and prohibition.
 - The provision of the woman and the account of their joining.
 
-This is where the question of purpose becomes explicit in the narrative. Genesis 2:15 gives man an appointed work before the Fall. That fact will matter when we later investigate the relationship between purpose, constraint, and the realization of structure. We will distinguish what the verse says from the architectural inference drawn from it.
+This is where the question of purpose becomes explicit in the narrative. Genesis 2:15 gives man an appointed work before the Fall. That appointment is read within the completed GUA-W as a witness to the relationship among purpose, the appointed place and boundaries, and assigned activity. Chapter 6 will distinguish the verse's explicit wording from the concise architectural description of that relationship; it will not treat the architecture as awaiting construction or validation.
 
 **Chapter 6 — The Garden, Humanity, Purpose, and Relationship.**
 
