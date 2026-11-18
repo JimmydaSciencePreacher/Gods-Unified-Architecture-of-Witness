@@ -249,4 +249,4 @@ Continue by independently verifying the KJV phrase occurrences and then investig
 
 **Correction recorded (2026-11-18):** The proposed HW-018 Romans 9:6–24 supplementary entry was a duplicate of HW-007 and has been removed. Its distinct clarifications have been merged into the single canonical HW-007 entry. The HW-018 number is unassigned; select only a new passage not already examined. John 6:35–45, 63–65 is already HW-006 and must not be opened again as a supplementary HW-019 investigation.
 
-**Next investigation:** HW-019 — John 6:35–65, as a supplementary canonical cross-check. The earlier HW-006 entry remains intact.
+**Next investigation:** HW-018 remains unassigned. Do not reopen Romans 9:6–24 (HW-007) or John 6:35–45, 63–65 (HW-006) as supplementary investigations. Select a distinct passage before assigning the next number.
