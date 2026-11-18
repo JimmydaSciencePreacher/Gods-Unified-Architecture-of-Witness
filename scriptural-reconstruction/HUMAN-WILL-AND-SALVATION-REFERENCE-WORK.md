@@ -4,7 +4,24 @@
 **Status:** ACTIVE — first entry recorded; full corpus not yet audited  
 **Governing question:** Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?
 
-## 1. Purpose and scope
+## 1. Scriptural starting point and governing posture
+
+**This study begins at Genesis 22:18–19 (KJV).** It does not begin with a theological system's definition of Free Will, nor with a preacher's preferred conclusion. It begins with the passage God has given and follows the text through its context and the wider testimony of Scripture.
+
+> **Genesis 22:18–19**
+>
+> 18 And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
+>
+> 19 So Abraham returned unto his young men, and they rose up and went together to Beer-sheba; and Abraham dwelt at Beer-sheba.
+
+These verses are not to be detached from Genesis 22:1–19. The account includes God's command and testing of Abraham, Abraham's obedience, the provision of the ram, the reaffirmation of the oath and promise, and Abraham's return. Verse 18 explicitly connects the promised blessing of all nations in Abraham's seed with Abraham's obedience to God's voice. Verse 19 records the return from the event. The study must examine what this wording establishes—and what it does not establish—before drawing conclusions about will, choice, obedience, promise, seed, or salvation.
+
+The starting point is therefore not permission to read a complete doctrine into two verses. It is the appointed textual point of departure. The investigation must trace the promise and its fulfilment through Scripture, preserving the distinction between God's originating word and the human obedience that the passage actually records.
+
+**Governing posture:** This is a direct, unsparing examination of claims made in the name of Scripture. No doctrine receives protection because it is popular, traditional, comforting, or preached with confidence. Equally, no passage may be exaggerated to make a stronger claim than its words and context support. The force of the conclusion must come from the Word itself.
+
+## 2. Purpose and scope
+
 
 This is a canonical, text-first reference work examining passages used to claim that human Free Will is a gift from God, especially where the claim moves from ordinary human choice or responsibility to an assertion that fallen man's independent will originates spiritual birth, faith, or salvation.
 
@@ -12,7 +29,7 @@ The investigation is not a collection of isolated proof-texts. Each passage must
 
 The work does not assume that every use of will, choose, desire, receive, believe, obey, or come has the same meaning. Nor does it assume that demonstrating human choice establishes autonomous spiritual ability, or that responsibility by itself proves ability.
 
-## 2. Mandatory record for every passage entry
+## 3. Mandatory record for every passage entry
 
 Every full entry must preserve these fields:
 
@@ -27,7 +44,7 @@ Every full entry must preserve these fields:
 
 No passage may be made to answer a question it does not address. A passage that establishes choice must not automatically be cited as proof of autonomous spiritual ability. A passage that establishes responsibility must not automatically be treated as proof of ability. A passage that describes belief must not automatically be treated as identifying the originating cause of regeneration.
 
-## 3. Governing distinctions
+## 4. Governing distinctions
 
 - **Choice:** selection, decision, or response among alternatives.
 - **Responsibility:** moral or covenantal accountability for an action or omission.
@@ -40,7 +57,7 @@ No passage may be made to answer a question it does not address. A passage that 
 
 The term **independent will** is used here in a carefully limited sense: a human will alleged to originate spiritual birth, faith, or salvation independently of God's prior saving initiative. It does not mean that a person has no will, makes no choices, or bears no responsibility.
 
-## 4. Triple Constraint application
+## 5. Triple Constraint application
 
 Each entry is tested under all three constraints:
 
@@ -50,7 +67,7 @@ Each entry is tested under all three constraints:
 
 Failure under any one constraint prevents admission of a claim as an accepted GUA-W conclusion. A disputed reading may remain recorded as a competing interpretation or unresolved question.
 
-## 5. Initial entry — HW-001: John 1:12–13
+## 6. Initial entry — HW-001: John 1:12–13
 
 ### A. Exact KJV passage
 
@@ -123,7 +140,7 @@ Lexical caution: θέλημα can denote will, desire, or intention according to
 
 **Status:** PASS for the narrow finding concerning the source of birth; PARTIAL for the wider question concerning the origin of faith and the complete order of salvation.
 
-## 6. Initial passage register — not yet adjudicated
+## 7. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
 
@@ -145,11 +162,11 @@ The following passages are candidates for investigation because they are commonl
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
-## 7. Related register
+## 8. Related register
 
 The exact KJV English expression **“freewill”** is maintained separately in [KJV Freewill Phrase Register](KJV-FREEWILL-PHRASE-REGISTER.md). It must not be conflated with the wider biblical teaching about choosing, willing, desire, ability, or the philosophical concept of autonomous Free Will.
 
-## 8. Governing question retained
+## 9. Governing question retained
 
 **Does Scripture ever identify fallen man's independent will as the originating cause of his spiritual birth, faith, or salvation?**
 
