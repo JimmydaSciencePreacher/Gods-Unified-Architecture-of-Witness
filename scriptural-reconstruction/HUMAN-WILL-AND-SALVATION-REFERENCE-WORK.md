@@ -41,3 +41,18 @@ The beginning account establishes the principal operations of human willing in t
 The existing Genesis 3 reconstruction and HW-004 are the authoritative records for this passage. No duplicate Genesis investigation or new HW number is created. Later Scripture is to be brought in as witness and canonical clarification after the beginning has been examined, not as a replacement starting point.
 
 **Methodological guardrail:** An unresolved label describes the current state of the written examination; it must never imply that the Answer was absent from Scripture. Return to Genesis 1–2 before retaining such a label, then examine the relevant beginning-account event, and only afterward compare later canonical testimony.
+
+
+## 33. Genesis 3:8–24 — the human response and God's governing action
+
+The Genesis 3 examination is extended through the chapter's conclusion. Verses 8–13 show the man and woman hearing God, hiding, fearing, answering, and attributing responsibility. Adam refers to the woman and to God's giving; the woman refers to the serpent's beguiling. Neither answer changes the fact of the recorded eating. The narrative preserves the reality of deception and the reality of human participation without collapsing either into the other.
+
+Verses 14–19 record differentiated divine judgments: the serpent is cursed and enmity declared; the woman is addressed concerning sorrow/conception, childbirth, and her relation to her husband; Adam is addressed concerning his hearkening and eating, the cursed ground, labor, and return to dust. These are God's judgments, not consequences whose standard is authored by the human will. The passage must not be used to claim that every later instance of suffering or conflict maps directly to a specific personal sin.
+
+Verses 20–21 record Adam naming his wife Eve and the LORD God making and providing coats of skins. The text does not explicitly call the clothing event a sacrifice or supply a ritual explanation; do not state either as though Genesis 3:21 says it.
+
+Verses 22–24 record God's stated concern about the man taking from the tree of life and living forever, God's sending the man from the Garden to till the ground, and God's guarding the way to the tree of life with cherubims and a flaming sword. The human does not secure access by independent will; God governs the boundary.
+
+**Integrated result:** Genesis 3:1–24 presents human willing as real, multi-faceted, and accountable, but not sovereign or originating. It includes reception of speech, perception, evaluation, desire, heeding, action, fear, concealment, response, and attribution. It presents God as the One who commands, calls, questions, judges, provides, expels, and guards. The Creator/creature distinction remains intact through the chapter's final verse.
+
+**U-006 refinement:** The beginning account gives a substantial narrative answer about the operations and limits of human willing. It does not give an exhaustive abstract taxonomy of every faculty or settle every later doctrinal question concerning saving faith. Those questions must return to the Beginning first, then be compared with their specific canonical witnesses. Genesis 3 must not be treated as silent merely because it is narrative rather than a formal definition.
