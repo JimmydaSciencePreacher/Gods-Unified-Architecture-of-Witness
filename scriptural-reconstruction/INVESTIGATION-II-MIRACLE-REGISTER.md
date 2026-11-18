@@ -172,7 +172,7 @@
 | Man with dropsy | Luke 14:1–6 | WRITTEN — [Case study II.27](INVESTIGATION-II-27-MAN-WITH-DROPSY.md) |
 | Ten lepers cleansed | Luke 17:11–19 | WRITTEN — [Case study II.15](INVESTIGATION-II-15-TEN-LEPERS.md) |
 | Malchus' ear restored | Luke 22:50–51; John 18:10 | WRITTEN — [Case study II.34](INVESTIGATION-II-34-MALCHUS-EAR.md) |
-| Healing at Bethesda | John 5:1–15 | REGISTERED |
+| Healing at Bethesda | John 5:1–15 | WRITTEN — Case study II.3; the dedicated record covers John 5:1–18 |
 | Man born blind | John 9:1–41 | WRITTEN — [Case study II.17](INVESTIGATION-II-17-MAN-BORN-BLIND.md) |
 | Other grouped healings | Matthew 4:23–24; 8:16–17; 9:35; 12:15; 14:14, 34–36; 15:29–31; 19:2; 21:14; Mark 1:32–34; 3:7–12; 6:53–56; Luke 4:40–41; 6:17–19; 7:21 | GROUPED ACCOUNT |
 
@@ -195,8 +195,8 @@
 | Water made wine | John 2:1–11 | WRITTEN — II.1 |
 | First miraculous catch of fishes | Luke 5:1–11 | WRITTEN — [Case study II.25](INVESTIGATION-II-25-FIRST-CATCH-FISH.md) |
 | Storm calmed | Matthew 8:23–27; Mark 4:35–41; Luke 8:22–25 | WRITTEN — [Case study II.6](INVESTIGATION-II-06-STORM-CALMED.md) |
-| Feeding five thousand | Matthew 14:13–21; Mark 6:30–44; Luke 9:10–17; John 6:1–14 | REGISTERED |
-| Walking on water; Peter walks and sinks | Matthew 14:22–33; Mark 6:45–52; John 6:16–21 | REGISTERED |
+| Feeding five thousand | Matthew 14:13–21; Mark 6:30–44; Luke 9:10–17; John 6:1–14 | WRITTEN — Case study II.4 |
+| Walking on water; Peter walks and sinks | Matthew 14:22–33; Mark 6:45–52; John 6:16–21 | WRITTEN — Case study II.5 |
 | Feeding four thousand | Matthew 15:32–39; Mark 8:1–9 | WRITTEN — [Case study II.19](INVESTIGATION-II-19-FEEDING-FOUR-THOUSAND.md); distinct from feeding five thousand |
 | Coin in fish's mouth | Matthew 17:24–27 | WRITTEN — [Case study II.29](INVESTIGATION-II-29-COIN-IN-FISH.md) |
 | Fig tree withered | Matthew 21:18–22; Mark 11:12–14, 20–25 | WRITTEN — [Case study II.20](INVESTIGATION-II-20-FIG-TREE.md); compare narrative sequence |
@@ -206,25 +206,25 @@
 
 | Event | Primary passage(s) | Status |
 |---|---|---|
-| Jairus' daughter | Matthew 9:18–26; Mark 5:21–43; Luke 8:40–56 | REGISTERED |
+| Jairus' daughter | Matthew 9:18–26; Mark 5:21–43; Luke 8:40–56 | WRITTEN — included in Case study II.9 |
 | Widow's son at Nain | Luke 7:11–17 | WRITTEN — [Case study II.11](INVESTIGATION-II-11-WIDOW-SON-NAIN.md) |
 | Lazarus | John 11:1–46 | WRITTEN — [Case study II.16](INVESTIGATION-II-16-LAZARUS-RAISED.md) |
-| Jesus' own resurrection | All four Gospels; Acts 1–2; 1 Corinthians 15 | REGISTERED — distinct central investigation, not treated as an ordinary healing |
+| Jesus' own resurrection | All four Gospels; Acts 1–2; 1 Corinthians 15 | WRITTEN AS CENTRAL INVESTIGATION III.1 — distinct from an ordinary healing; further historical/textual-critical work remains open |
 
 ## H. Events surrounding the Passion, death, resurrection, and ascension
 
 | Event | Primary passage(s) | Status |
 |---|---|---|
 | Transfiguration; appearance of Moses and Elias; heavenly voice | Matthew 17:1–9; Mark 9:2–10; Luke 9:28–36 | WRITTEN — [Case study II.35](INVESTIGATION-II-35-TRANSFIGURATION.md); revelation/sign, not ordinary healing |
-| Darkness at crucifixion | Matthew 27:45; Mark 15:33; Luke 23:44–45 | REGISTERED |
-| Temple veil rent | Matthew 27:51; Mark 15:38; Luke 23:45 | REGISTERED |
-| Earthquake and rocks rent | Matthew 27:51 | REGISTERED |
-| Graves opened; saints appear after resurrection | Matthew 27:52–53 | REGISTERED; preserve Matthew's chronology and wording |
-| Centurion's testimony and signs at death | Matthew 27:54; Mark 15:39; Luke 23:47 | REGISTERED |
-| Resurrection of Jesus | Matthew 28; Mark 16; Luke 24; John 20 | REGISTERED — central, separate treatment |
-| Angelic appearances at tomb | Matthew 28:1–7; Mark 16:1–8; Luke 24:1–8; John 20:1–13 | REGISTERED |
-| Risen Christ appears to disciples and others | Matthew 28; Luke 24; John 20–21; 1 Corinthians 15:5–8 | REGISTERED |
-| Ascension | Luke 24:50–53; Acts 1:1–11 | REGISTERED |
+| Darkness at crucifixion | Matthew 27:45; Mark 15:33; Luke 23:44–45 | WRITTEN — dedicated study III.B; physical cause and geographic extent remain unresolved |
+| Temple veil rent | Matthew 27:51; Mark 15:38; Luke 23:45 | WRITTEN — dedicated study III.C; precise curtain identification remains qualified |
+| Earthquake and rocks rent | Matthew 27:51 | WRITTEN — dedicated study III.D; physical extent and mechanism remain unresolved |
+| Graves opened; saints appear after resurrection | Matthew 27:52–53 | WRITTEN — dedicated study III.D; identity, chronology, and subsequent destiny remain unresolved |
+| Centurion's testimony and signs at death | Matthew 27:54; Mark 15:39; Luke 23:47 | COVERED IN DEDICATED STUDY III.A; preserve each Gospel's distinct testimony |
+| Resurrection of Jesus | Matthew 28; Mark 16; Luke 24; John 20 | WRITTEN — central study III.1 through Pass III; historical/textual-critical work remains open |
+| Angelic appearances at tomb | Matthew 28:1–7; Mark 16:1–8; Luke 24:1–8; John 20:1–13 | WRITTEN — included in four-Gospel empty-tomb study III.E |
+| Risen Christ appears to disciples and others | Matthew 28; Luke 24; John 20–21; 1 Corinthians 15:5–8 | WRITTEN — dedicated comparative study III.F; chronology remains partly unresolved |
+| Ascension | Luke 24:50–53; Acts 1:1–11 | WRITTEN — dedicated study III.G; chronology and textual questions remain open |
 
 ## I. Apostolic and disciple works in Jesus' name — separate category
 
@@ -275,4 +275,4 @@ Each event study must include:
 - The Gospels do not all use the same selection, sequence, or terminology. Preserve each writer's presentation.
 - “All” coverage means all identifiable narrated events in the defined scope, together with grouped summaries and explicit acknowledgment of non-exhaustive statements (e.g., John 20:30). It does not mean pretending the Gospels record every work Jesus ever performed.
 
-**Overall status: OPEN.** Thirty-five dedicated case studies are written. The remaining registered events are a work queue, not completed findings.
+**Overall status: OPEN.** Thirty-five dedicated case studies are written. The Passion/Resurrection items formerly listed as REGISTERED are now cross-referenced to their dedicated Investigation III records. Remaining REGISTERED rows are a work queue; some are grouped summaries, prophetic/angelic events, or apostolic works and must be classified before deciding whether each requires an individual case study.
