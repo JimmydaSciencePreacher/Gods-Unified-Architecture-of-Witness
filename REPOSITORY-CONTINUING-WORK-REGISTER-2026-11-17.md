@@ -83,6 +83,8 @@ Keep two questions separate:
 
 Rosen (2025) provides a map of interpretive questions and proposals, not a final verdict. Test each proposal from the primary texts and relevant historical evidence. Do not collapse Resurrection, glorification, Ascension, Spirit reception, and Pentecost into one event without textual warrant. Maintain U-008 as UNRESOLVED until the evidence supports a narrower conclusion.
 
+**Latest recorded pass (2026-11-17):** Luke 24:36–49 and Acts 1:1–8 have now been compared directly with John 20:19–23 and Acts 2:32–33 in the primary study. The future promise to wait until endued with power is explicit; the text does not explicitly deny an earlier reception. Continue by testing the competing models against the complete passages, rather than assuming “indwelling versus empowerment” as a settled answer.
+
 ### Priority 4 — Close open subquestions in III.A–III.G
 
 - III.A: exact medical mechanism remains unresolved.
