@@ -241,3 +241,11 @@ John 10:14–18 presents Jesus as the good shepherd who lays down His life and t
 
 **Disposition:** The larger restoration horizon of Ezekiel 37 is now recorded; John 20:22's relation to Pentecost remains unresolved; no new GUA-W Gear established.
 
+### Investigation III.2 — Ezekiel 34 and the canonical Shepherd witness
+
+The primary study now examines Ezekiel 34 alongside Psalm 23, 2 Samuel 7, Isaiah 40, Jeremiah 23, John 10–11, Hebrews 13:20, 1 Peter 2 and 5, and Revelation 7. Ezekiel condemns shepherds who exploit the flock; the LORD declares that He Himself will seek, gather, feed, heal, and protect His sheep, then appoints “my servant David” as one shepherd. The New Testament presents Jesus as the Good Shepherd who lays down and takes up His life, the great Shepherd brought again from the dead, and the Chief Shepherd to whom under-shepherds answer. Revelation presents the Lamb shepherding the redeemed.
+
+**Updated study:** [Investigation III.2 — The Breath of the Risen Christ](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
+
+**Disposition:** Strong canonical shepherd/Resurrection connection recorded, especially Hebrews 13:20; U-008 remains UNRESOLVED; no new GUA-W Gear established.
+
