@@ -278,3 +278,12 @@ Continue by independently verifying the KJV phrase occurrences and then investig
 
 
 **HW-001 focused canonical completion — 2026-11-18.** Expanded the existing John 1:12–13 entry with a dedicated cross-reference subsection on the source and means of faith. It now examines John 6:44, 65; Acts 11:18; Acts 13:48; Acts 16:14; Romans 10:17; Ephesians 1:13; Philippians 1:29; 2 Thessalonians 2:13–14; 1 Peter 1:3, 23; and James 1:18. The finding distinguishes divine drawing/granting, granted repentance and faith, the Lord's opening of the heart, the Spirit's work, Gospel/Word means, and the real human response. It explicitly avoids equating these distinct terms or claiming an exhaustive chronology of regeneration and first faith. Existing HW-001 remains the sole entry for John 1:12–13; no new numbered investigation was created. Main-file read-back verified the addition. The next pass should inspect the source passages' own entry contexts and reconcile any conflicting register wording before HW-001 is marked final.
+
+
+## Governing correction — source-first question resolution (2026-11-18)
+
+The work-control method is corrected: **the Answer precedes the question; the question exists to find the Answer already given in the Beginning.** A question marked unresolved is a prompt to return to the Source, not proof that the Answer is missing and not an automatic instruction to open another investigation.
+
+For every unresolved item, begin with **Genesis 1–2, especially Genesis 2:1–5**, then examine the relevant event or subject in the beginning account. For the Human Will question (U-006), this means Genesis 3, using the existing `GENESIS-3-1-24-TEXT-FIRST-RECONSTRUCTION.md` as the starting record. Only after that foundation is examined should later canonical passages be brought in as witnesses that illuminate, confirm, qualify, or complete the finding.
+
+**Corrected next action:** Do not start a new abstract survey to define the human will. Reconcile the existing Genesis 3 findings with the Genesis 1–2 foundation, then integrate the relevant canonical witnesses into U-006 and the Human Will reference work. Reclassify stale unresolved labels where the combined evidence answers them. Preserve genuine textual limits without manufacturing an answer, sequence, or mechanism. No duplicate Genesis 3 investigation is authorized.
