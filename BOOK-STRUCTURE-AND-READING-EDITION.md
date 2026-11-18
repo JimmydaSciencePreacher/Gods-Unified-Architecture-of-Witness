@@ -40,13 +40,16 @@ Primary reading:
 - [GUA-W Completed Architecture](GUA-W-COMPLETED-ARCHITECTURE.md)
 - [Governing Principles](GOVERNING-PRINCIPLES.md)
 - [The Answer Before the Question](THE-ANSWER-BEFORE-THE-QUESTION.md)
-Establish the governing order and distinguish the Author from Creation and from every derivative witness.
+### Chapter 2. The Answer Before the Question
+
+**Read the completed chapter:** [Chapter 2 — The Answer Before the Question](book/02-THE-ANSWER-BEFORE-THE-QUESTION.md)
+
+Examine inquiry, discovery, evidence, measurement, interpretation, and witness. The chapter distinguishes a reality that exists from the investigator's later recognition of it, while preserving the fact that measurement arrangements can affect what is observed.
 
 Primary reading:
-- [GUA-W Completed Architecture](GUA-W-COMPLETED-ARCHITECTURE.md)
-- [Governing Principles](GOVERNING-PRINCIPLES.md)
+- [The Answer Before the Question](THE-ANSWER-BEFORE-THE-QUESTION.md)
+- [Investigation Protocol](INVESTIGATION-PROTOCOL.md)
 
-### Chapter 2. The Answer Before the Question
 Examine inquiry, discovery, evidence, and witness. A question may be new to the investigator; the reality being investigated is not thereby new.
 
 Primary reading:
