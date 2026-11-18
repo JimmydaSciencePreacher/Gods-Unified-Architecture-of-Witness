@@ -1471,6 +1471,115 @@ Relevant established distinctions:
 
 ---
 
+## 14. Entry — HW-013: Acts 13:44–48 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **Acts 13:44–48**
+>
+> 44 And the next sabbath day came almost the whole city together to hear the word of God.
+>
+> 45 But when the Jews saw the multitudes, they were filled with envy, and spake against those things which were spoken by Paul, contradicting and blaspheming.
+>
+> 46 Then Paul and Barnabas waxed bold, and said, It was necessary that the word of God should first have been spoken to you: but seeing ye put it from you, and judge yourselves unworthy of everlasting life, lo, we turn to the Gentiles.
+>
+> 47 For so hath the Lord commanded us, saying, I have set thee to be a light of the Gentiles, that thou shouldest be for salvation unto the ends of the earth.
+>
+> 48 And when the Gentiles heard this, they were glad, and glorified the word of the Lord: and as many as were ordained to eternal life believed.
+
+### B. Argument and immediate context
+
+Acts 13:48 is commonly cited to argue that divine appointment to eternal life precedes and explains the believing of those appointed. The Greek clause is καὶ ἐπίστευσαν ὅσοι ἦσαν τεταγμένοι εἰς ζωὴν αἰώνιον — “and they believed, as many as had been appointed to eternal life.”
+
+The surrounding narrative is essential. Paul has preached Jesus, forgiveness, and justification (13:13–43). Almost the whole city gathers to hear the Word (v. 44). Some oppose the message (v. 45). Paul and Barnabas say that these hearers put the Word away and judge themselves unworthy of eternal life (v. 46). The missionaries turn to the Gentiles in accordance with the Lord's command and the prophetic light-to-the-Gentiles commission (v. 47; compare Isaiah 49:6). The Gentiles rejoice and glorify the Word, and Luke identifies those who believed as those appointed to eternal life (v. 48). The Word continues to spread (vv. 49–52).
+
+The narrative therefore holds together divine purpose, public proclamation, hearing, accountable rejection, rejoicing, glorifying the Word, and believing. Appointment does not make preaching or response irrelevant.
+
+### C. Greek and grammatical findings
+
+- **ἐπίστευσαν (*episteusan*)**, “believed”: aorist active indicative, third person plural, from πιστεύω (*pisteuō*), “believe, trust.” The people are presented as the ones who believe. The active voice does not make their belief the originating cause of their appointment.
+- **ὅσοι (*hosoi*)**, “as many as”: identifies the group described by the following clause. Luke does not say that every Gentile present without distinction believed.
+- **ἦσαν (*ēsan*)**, “were”: imperfect indicative of εἰμί (*eimi*), “be.”
+- **τεταγμένοι (*tetagmenoi*)**, “ordained/appointed”: perfect middle/passive participle, nominative masculine plural, from τάσσω (*tassō*), “arrange, appoint, assign, set in order.” Joined with ἦσαν, it forms a periphrastic pluperfect construction, naturally rendered “had been appointed.” The perfect aspect presents a prior appointment with a resulting state relevant to the believing described.
+- **εἰς ζωὴν αἰώνιον (*eis zōēn aiōnion*)**, “unto eternal life”: the appointment is directed toward eternal life, not merely toward hearing a sermon or receiving a temporary opportunity.
+- **ἀπωθεῖσθε (*apōtheisthe*)**, “ye put it from you” (v. 46): present middle indicative from ἀπωθέω, “push away, reject.” The rejection is a real and accountable response.
+- **οὐκ ἀξίους κρίνετε ἑαυτούς (*ouk axious krinete heautous*)**, “judge yourselves unworthy” (v. 46): the hearers are charged with judging themselves unworthy by rejecting the Word. This does not say that they created or revoked an eternal appointment.
+- **ἔταξα (*etaxa*)**, “I have set” (v. 47): aorist active form from the same verb τάσσω in the Lord's commission quotation. It illustrates the lexical range of setting/appointing but does not mechanically settle every nuance of verse 48.
+
+The passive appointment clause does not explicitly name its agent. Divine appointment is the leading contextual and canonical reading, but the grammatical clause itself does not insert the words “by God.” The construction does not specify the precise time, grounds, mechanics, or full scope of election.
+
+### D. Interpretive alternatives and controls
+
+1. **Divine appointment — leading reading.** The passive participle and periphrastic pluperfect naturally identify the believing people as those already appointed to eternal life. This fits the KJV and Luke's wider portrayal of God's initiative.
+2. **“Disposed” or “inclined” toward eternal life.** Some interpreters argue for a middle sense, rendering the phrase as those disposed toward eternal life. The form is morphologically middle/passive, so morphology alone does not decide voice. However, the context does not explicitly say that the Gentiles appointed or disposed themselves. This alternative must account for the construction and Luke's wider usage; it should be considered, not dismissed by assertion.
+3. **Belief caused the appointment.** This reverses the natural force of the clause. Luke does not say that those who first believed were then appointed. A theological system may argue an order from other texts, but it should not attribute that reversed sequence to the straightforward grammar of Acts 13:48.
+4. **Appointment makes preaching and response irrelevant.** The narrative contradicts this. The Word is preached and heard; some reject it; others rejoice, glorify the Word, and believe.
+5. **Rejection in verse 46 cancels appointment in verse 48.** The text does not say this. It does not identify the rejecting individuals as people previously appointed to eternal life and then disqualified. Nor does it classify every person in either audience.
+
+### E. Canonical comparisons
+
+- **Acts 2:23, 37–41:** God's determinate counsel and foreknowledge coexist in Peter's sermon with the hearers' culpability and response to the preached Word.
+- **Acts 11:18:** the Jerusalem believers say God granted the Gentiles repentance unto life.
+- **Acts 16:14:** the Lord opens Lydia's heart to attend to Paul's message; divine action and the preached Word appear together.
+- **John 1:12–13:** receiving and believing are real, while birth is explicitly said to be of God and not of the will of man.
+- **John 6:37, 44, 65:** those given by the Father come to Christ; no one can come unless drawn, and coming is granted by the Father.
+- **Romans 8:28–30 and Ephesians 1:3–14:** require dedicated examination of purpose, foreknowledge, election, predestination, and calling before a complete synthesis is attempted.
+- **2 Thessalonians 2:13–14:** connects God's choice, sanctification of the Spirit, belief of the truth, and calling through the gospel.
+- **1 Timothy 2:3–6 and 2 Peter 3:9:** commonly raised concerning God's saving will and the scope of His desire; retain for full contextual examination rather than ignoring or prematurely harmonizing them.
+
+### F. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| The Word is preached and heard | EXPLICIT | Acts 13:44–46 |
+| Some hearers reject the Word and are held accountable | EXPLICIT | Acts 13:45–46 |
+| The Gentile mission follows the Lord's command | EXPLICIT | Acts 13:47 |
+| Gentiles rejoice and glorify the Word | EXPLICIT | Acts 13:48 |
+| Those who believe are identified as appointed to eternal life | EXPLICIT | Acts 13:48 |
+| Appointment is prior to the believing described | STRONGLY SUPPORTED | ἦσαν + perfect participle τεταγμένοι |
+| God is explicitly named as the agent in the passive clause | NOT EXPLICIT | Agent is unstated; divine agency is contextual/canonical inference |
+| The verse explains the time, grounds, mechanics, or complete scope of election | NOT ESTABLISHED | Not supplied in the clause |
+| Belief is unnecessary because appointment exists | CONTRADICTED BY NARRATIVE | The appointed people believe through the preached Word |
+| All ordinary human response is unreal | CONTRADICTED BY NARRATIVE | Rejection, rejoicing, glorifying, and believing are narrated |
+
+### G. Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** Preserves the preaching of the Word, accountable rejection, the Lord's commission, and the statement that those appointed to eternal life believed.
+- **Scientific coherence — PASS, within scope.** Distinguishes the active verb “believed” from the perfect middle/passive participle “appointed,” and separates the explicit grammar from inference about the agent. No empirical claims are derived from the theological text.
+- **GUA-W consistency — PASS, within scope.** The Word is proclaimed under the Lord's command; the appointed group believes. Belief is not presented as the originating cause of appointment. No GUA-W architectural modification is proposed.
+
+### H. Entry finding and limits
+
+Acts 13:48 identifies those who believed as those who had been appointed to eternal life. The Greek construction ἦσαν τεταγμένοι is a periphrastic pluperfect using a perfect middle/passive participle of τάσσω. Its natural reading is prior appointment with a resulting state relevant to the believing described. The verse does not naturally say that belief caused the appointment or that people appointed themselves.
+
+The passive clause does not explicitly name its agent. Divine appointment is the leading contextual and canonical inference, but that distinction must be preserved. The verse does not specify the full timing, grounds, mechanics, or scope of election.
+
+The narrative also preserves the historical means and accountable responses: the Word is preached and heard; some reject it; the Gentiles rejoice and glorify the Word; those appointed believe. Divine appointment does not cancel proclamation or response. The passage does not classify every person in the city or settle every question concerning the scope of God's saving purpose.
+
+**Finding:** Luke presents those believing in Acts 13:48 as those appointed to eternal life. The grammar strongly supports appointment antecedent to the believing described. The verse does not make belief the originating cause of appointment. Divine agency is the leading contextual and canonical inference, although the passive clause does not explicitly name the agent.
+
+**Status:** PASS for identifying believers as those appointed to eternal life; PASS for the grammatical priority of appointment in the clause; PASS for retaining proclamation and accountable response; UNRESOLVED for the full mechanics, grounds, timing, and scope of election, and for the complete canonical relation between divine appointment and universal saving-will passages.
+
+### I. GUA-W recognition and research queue
+
+This passage witnesses a distinction between the Lord's purpose and command, the proclaimed Word, human reception or rejection, and the appointment associated with eternal life. The believing response is real, but Luke does not present it as the originating cause of appointment. This is a textual recognition, not a proposal to create or modify GUA-W architecture.
+
+Retain these distinctions:
+- appointment is not identical to the act of believing;
+- proclamation and hearing remain means in the narrative;
+- rejection is a real and accountable human response;
+- the passive appointment clause does not explicitly state its agent;
+- the verse does not provide a complete doctrine of election by itself.
+
+Next investigations:
+1. HW-014 — 1 John 5:1: examine the Greek perfect tense and the relation between believing that Jesus is the Christ and having been born of God.
+2. HW-015 — 2 Thessalonians 2:13–14: examine divine choice, sanctification of the Spirit, belief of the truth, and calling through the gospel.
+3. Retain Romans 8:28–30 and Ephesians 1:3–14 for dedicated examinations.
+4. Retain Acts 11:18 and Acts 16:14 as Lukan comparisons for God granting repentance and opening the heart.
+5. Keep U-006 (definition and components of human will) open. Acts 13:48 strongly orders appointment and believing in this clause but does not exhaustively define human willing or the full scope and mechanics of election.
+
+---
+
 ## 14. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
@@ -1488,7 +1597,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-010 | Philippians 2:12–13 | COMPLETED — see entry above. |
 | HW-011 | 1 Corinthians 2:10–16 | COMPLETED — see entry above. |
 | HW-012 | Romans 8:5–11 | COMPLETED — see entry above. |
-| HW-013 | Acts 13:44–48 | How does Luke narrate belief, appointment, and the response to the word? |
+| HW-013 | Acts 13:44–48 | COMPLETED — see entry above. |
 | HW-014 | 1 John 5:1 | What is the grammatical and contextual relation between believing and having been born of God? |
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
