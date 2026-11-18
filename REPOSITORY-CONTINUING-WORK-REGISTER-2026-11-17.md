@@ -197,3 +197,9 @@ Continue by independently verifying the KJV phrase occurrences and then investig
 
 **Next passage:** HW-010, Philippians 2:12–13, examining human working and God's working in believers, including willing and doing. 1 John 5:1 remains a priority comparison for the relation between believing and having been born of God.
 
+
+
+**Tenth entry recorded — HW-010, Philippians 2:12–13 (2026-11-18).** The entry reads “work out your own salvation” (v. 12) with its explanatory “For” in verse 13 and the preceding Christological context (2:5–11). Paul acknowledges the believers' obedience and commands their lived conduct; he does not say they earn or purchase salvation. God is the subject of “worketh in you,” and the operation expressly includes both “to will” and “to do.” The passage therefore preserves genuine human willing and action while identifying God's operation in both. The corporate setting is noted, as are the limits of the present forms for establishing chronology. No new GUA-W architectural component is proposed.
+
+**Next passage:** HW-011, 1 Corinthians 2:10–16, examining the natural man, the things of the Spirit, spiritual discernment, and the mind of Christ. Hebrews 13:20–21 and 1 Corinthians 15:10 remain priority comparisons for divine operation and human doing.
+
