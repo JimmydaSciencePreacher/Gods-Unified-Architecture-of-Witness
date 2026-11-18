@@ -331,3 +331,26 @@ God's protection of Cain does not cancel the previously announced ground-related
 - נוֹד (*Nōḏ*) is a place-name associated by wordplay with wandering; its exact geography is not supplied.
 
 Related record: [Genesis 4:13–16 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-4-13-16-TEXT-FIRST-RECONSTRUCTION.md).
+
+
+## 17. Evidence update — Ephesians 2:1–10 (2026-11-18)
+
+### U-006 supplement — Human desire, conduct, spiritual death, and divine quickening
+
+**New evidence reviewed:** Ephesians 2:1–10, read with Ephesians 1:19–23 and 2:11–22.
+
+**Textual observations:**
+- Ephesians 2:1 describes people as “dead in trespasses and sins.” In the Greek, verse 1 begins with “And you, being dead”; the KJV supplies “hath he quickened” from the main verb in verse 5.
+- Verses 2–3 describe active human conduct during this former condition: walking according to the age of this world, living in desires, and fulfilling the desires of the flesh and mind.
+- Verse 4 introduces the decisive contrast, “But God,” and verses 5–6 attribute making alive, raising, and seating together with Christ to God's action.
+- Verse 8 names faith as the means through which salvation is received and denies that the saving reality is from the recipients; verse 9 excludes works as its source and grounds for boasting.
+- Verse 10 identifies believers as God's workmanship, created in Christ for good works prepared beforehand by God.
+
+**Effect on question:** The passage requires keeping spiritual condition distinct from human activity. “Dead” does not mean that people had no desires, choices, conduct, or ordinary human agency; Paul expressly describes their activity. Yet that activity is not the source of spiritual life. God is the subject of the life-giving action. The passage adds evidence about desire and conduct but does not supply an exhaustive definition of the human will or settle every aspect of the causal/chronological relation between faith and quickening.
+
+**Status remains:** UNRESOLVED.
+
+**Guardrail:** Do not turn “dead” into a claim that people are inactive or lack every form of agency. Do not turn the presence of desire, faith, or response into proof that autonomous human will originates spiritual life. Do not claim that Ephesians 2:8's neuter demonstrative by itself conclusively proves or disproves that faith is separately a gift; assess its antecedent and the wider canonical evidence.
+
+**Related investigation:** [The Biblical Examination of the Human Will — HW-008, Ephesians 2:1–10](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md).
+
