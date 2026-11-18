@@ -55,10 +55,6 @@ For each cross-disciplinary investigation:
 
 This is an investigative procedure, not a new GUA-W layer or runtime sequence. See [Cross-Disciplinary Investigation Principle](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md).
 
-## Writing findings into the repository
-
-When the user asks for findings to be recorded, use the available GitHub connection to write them into the appropriate Revised-GUA-W files. Update related registers and navigation where necessary, then verify every change by reading the files back. AI's write ability is a tool-mediated registration capability, not authorship or authority over GUA-W. Distinguish capability, connected-account permission, and the user's task authorization. A successful commit proves only that a repository change occurred; it does not establish the truth of the written claim. Record findings as they are understood rather than retaining them in private notes for later transfer. Report exactly what was changed and what was successfully read back. See [AI Writing and Repository-Registration Capability](AI-WRITING-AND-REPOSITORY-REGISTRATION-CAPABILITY.md).
-
 ## Recording what is witnessed
 
 Substantial records identify, as applicable:
