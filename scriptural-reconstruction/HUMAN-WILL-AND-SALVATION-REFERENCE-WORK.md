@@ -1717,6 +1717,147 @@ Next investigation:
 
 ---
 
+## 15. Entry — HW-015: 2 Thessalonians 2:13–14 (2026-11-18)
+
+### A. Exact KJV passage
+
+> **2 Thessalonians 2:13–14**
+>
+> 13 But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:
+>
+> 14 Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
+
+The immediate context must include 2:10–12 and the continuation in 2:15–17. Verses 10–12 describe those who receive not the love of the truth, refuse the truth, have pleasure in unrighteousness, and believe a lie. Verses 13–14 turn to Paul's thanksgiving for the brethren beloved of the Lord, God's choice unto salvation, sanctification of the Spirit, belief of the truth, calling through the Gospel, and the obtaining of Christ's glory. Verses 15–17 exhort them to stand fast, hold the received teaching, and receive comfort and establishment from God.
+
+### B. Greek text and textual variation
+
+The KJV follows the reading **ἀπ᾽ ἀρχῆς (*ap’ archēs*)**, “from the beginning,” in verse 13. Another significant manuscript reading is **ἀπαρχήν (*aparchēn*)**, “as firstfruits.” The manuscript evidence is divided. The NET textual note slightly prefers “from the beginning” but acknowledges that the decision is difficult; other textual discussions favor “firstfruits.” The variation must be recorded rather than concealed.
+
+The two readings are not identical:
+- **ἀπ᾽ ἀρχῆς** means “from the beginning,” but this phrase alone does not identify precisely which beginning Paul means. It should not automatically be expanded into a fully specified doctrine of an eternal decree.
+- **ἀπαρχήν** means “as firstfruits,” and would describe the Thessalonians in relation to a firstfruits image. The precise referent and scope would require contextual examination.
+
+The KJV reading is retained as the primary English text for this study. The variant affects the wording of the temporal/firstfruits expression; it does not remove the remaining statements about God's choosing, salvation, sanctification, faith, and calling.
+
+### C. Greek and grammatical findings
+
+- **ὀφείλομεν (*opheilomen*)**, “we are bound / ought”: present active indicative, first person plural, from ὀφείλω. Paul expresses an ongoing obligation to give thanks.
+- **εὐχαριστεῖν (*eucharistein*)**, “to give thanks”: present active infinitive. Thanksgiving is directed to God.
+- **ἠγαπημένοι ὑπὸ κυρίου (*ēgapēmenoi hypo kyriou*)**, “beloved of the Lord”: perfect passive participle, identifying the brethren as those loved by the Lord.
+- **εἵλατο (*heilato*)**, “chose”: aorist middle indicative, third person singular, from αἱρέομαι (*haireomai*), choose/select. God is the grammatical subject and the Thessalonians are the object. The verb states God's choosing; the aorist presents the action as a whole and does not by itself specify the exact date or full mechanics of the choice.
+- **ὑμᾶς (*hymas*)**, “you”: the people addressed, the Thessalonian believers.
+- **εἰς σωτηρίαν (*eis sōtērian*)**, “unto salvation”: the stated goal or direction of the choice.
+- **ἐν ἁγιασμῷ πνεύματος (*en hagiasmō pneumatos*)**, “through/in sanctification of the Spirit”: ἐν can express sphere or means. πνεύματος is a genitive; the natural contextual reading is sanctification accomplished by the Spirit. The construction identifies the Spirit's sanctifying work as integral to the saving description.
+- **καὶ πίστει ἀληθείας (*kai pistei alētheias*)**, “and belief/faith of the truth”: a coordinated second element. Faith is not omitted or treated as unreal. The genitive ἀληθείας identifies the truth as the content/object associated with faith.
+- **εἰς ὃ (*eis ho*)**, “whereunto / to which”: points back to the salvation just described, or to the saving end in view.
+- **ἐκάλεσεν (*ekalesen*)**, “he called”: aorist active indicative, third person singular, from καλέω. God is the subject; the Thessalonians are the object.
+- **διὰ τοῦ εὐαγγελίου ἡμῶν (*dia tou euangeliou hēmōn*)**, “by/through our Gospel”: διά with the genitive expresses means or agency. The Gospel is identified as the means through which the calling came.
+- **εἰς περιποίησιν (*eis per poiēsin*)**, “to the obtaining/acquiring”: expresses the goal of the calling.
+- **τῆς δόξης (*tēs doxēs*)**, “the glory”: the glory belongs to the Lord Jesus Christ.
+
+The syntax places God's choosing, the Spirit's sanctification, belief of the truth, and calling through the Gospel in one connected account. It does not present a complete chronological chart of every moment in the order of salvation. The aorist forms do not independently establish a detailed timeline.
+
+### D. Immediate argument — 2 Thessalonians 2:10–17
+
+**Verses 10–12 — refusal and deception.** Paul describes people who do not receive the love of the truth, who refuse the truth, and who take pleasure in unrighteousness. Their response is morally significant in Paul's argument. He does not describe them as neutral or as lacking all response.
+
+**Verse 13 — thanksgiving and God's action.** In contrast, Paul says he is bound to thank God for the brethren beloved of the Lord, because God chose them unto salvation (KJV reading). The sentence directs thanksgiving to God, not to the human will as the originating cause of salvation.
+
+**Verse 13 — the joined elements.** Paul names sanctification of the Spirit and belief of the truth together. Neither element should be deleted. The Spirit's work is not replaced by autonomous human action; belief is not erased by divine action.
+
+**Verse 14 — calling through the Gospel.** The calling is attributed to God and is said to occur through the Gospel preached by Paul and his companions. The passage therefore retains proclamation as a real means in God's saving work.
+
+**Verse 14 — the end.** The calling is directed toward obtaining the glory of the Lord Jesus Christ. Salvation is not reduced to a momentary decision; Paul identifies a Christ-centred final end.
+
+**Verses 15–17 — exhortation and divine strengthening.** The believers are commanded to stand fast and hold the traditions taught by the apostles, whether by word or epistle. Paul then prays that the Lord Jesus Christ and God the Father will comfort their hearts and establish them in every good word and work. Divine action and real exhortation coexist in the same context.
+
+### E. Interpretive alternatives and controls
+
+1. **God's choice is the originating action in Paul's thanksgiving.** This is explicit in the KJV reading: Paul thanks God because God chose the Thessalonians unto salvation. The text does not credit an independent human will as the source of God's choice.
+
+2. **Sanctification of the Spirit and belief of the truth are integral to the saving account.** The coordinated construction joins these elements. It is not faithful to the sentence to preserve the Spirit's work while deleting faith, or to preserve faith while deleting the Spirit's sanctification.
+
+3. **The verse specifies every chronological step of salvation.** This overstates the passage. The syntax connects the elements but does not give a complete temporal sequence, define the precise moment of regeneration, or describe the full mechanics of faith.
+
+4. **The Gospel is unnecessary because God has chosen.** This is contradicted by verse 14, which explicitly says God called through the Gospel. The means of proclamation is part of Paul's account.
+
+5. **Human believing is the originating cause of God's choice.** The text does not say this. God is the subject of “chose,” and belief is joined with the Spirit's sanctification in the description of salvation. The sentence does not present belief as the cause that induces God to choose.
+
+6. **Believing is irrelevant or unreal because God chooses.** This is also contradicted by verse 13. Paul explicitly includes “belief of the truth.” The human response is real and necessary to the described saving account, even though it is not identified as the originating cause of God's choice.
+
+7. **“From the beginning” must mean a precisely specified point before creation.** The KJV reading says “from the beginning,” but this phrase alone does not define the referent with sufficient precision to establish a complete chronology. Other canonical texts may inform the wider doctrine, but the phrase should not be made to say more than it does here.
+
+8. **The “firstfruits” variant can be ignored.** It cannot. The variant is real and must remain visible in a responsible textual record. The central clauses concerning God's choice, sanctification, belief, calling, and glory remain present under either reading.
+
+9. **The passage settles the scope of election or the fate of every person.** It does not. Paul addresses the Thessalonian believers and contrasts them with those described in verses 10–12. He does not provide in these two verses a complete account of all persons, all possible responses, or the entire scope of God's saving will.
+
+### F. Canonical comparisons
+
+- **2 Thessalonians 1:3–10:** the same letter already speaks of faith, love, endurance, God's righteous judgment, and the glorification of Christ in His people. Read the letter as a connected argument.
+- **1 Thessalonians 1:4–5:** Paul speaks of knowing the election of the Thessalonians and recalls that the Gospel came not in word only, but also in power, in the Holy Ghost, and in much assurance. This is a close Pauline comparison for election and Gospel proclamation.
+- **Romans 8:28–30:** requires its own examination of purpose, foreknowledge, predestination, calling, justification, and glorification. It may illuminate the language of salvation's end but must not be substituted for the present passage.
+- **Ephesians 1:3–14:** requires its own examination of election, adoption, redemption, the Word of truth, believing, and sealing with the Spirit.
+- **John 6:37–65:** preserves the Father's giving and drawing, the Son's reception of those who come, and the necessity of coming to Christ. It is a relevant comparison, not a replacement for Paul's wording.
+- **Acts 13:44–48:** already examined in HW-013; proclamation, accountable rejection, and belief among those appointed to eternal life occur together.
+- **1 Peter 1:2:** joins election according to foreknowledge with sanctification of the Spirit unto obedience and sprinkling of the blood of Jesus Christ. This is a useful comparison for the relation between divine choice, the Spirit, and obedient response.
+
+### G. What the passage establishes
+
+| Category | Finding | Reason |
+|---|---|---|
+| Paul gives thanks to God for the Thessalonian believers | EXPLICIT | 2 Thessalonians 2:13 |
+| God is the grammatical subject of “chose” | EXPLICIT | εἵλατο |
+| The choice is directed unto salvation | EXPLICIT | εἰς σωτηρίαν |
+| The Spirit's sanctifying work is included | EXPLICIT | ἐν ἁγιασμῷ πνεύματος |
+| Belief of the truth is included | EXPLICIT | καὶ πίστει ἀληθείας |
+| God calls through the Gospel | EXPLICIT | 2:14 |
+| The calling is directed toward Christ's glory | EXPLICIT | 2:14 |
+| The passage gives a complete chronological sequence of regeneration and faith | NOT ESTABLISHED | Syntax joins elements but does not chart every temporal step |
+| Human belief is the originating cause of God's choice | NOT STATED / NOT SUPPORTED BY THE CLAUSE | God is the subject of “chose” |
+| Belief is unnecessary or unreal | CONTRADICTED | 2:13 explicitly includes belief |
+| Gospel proclamation is unnecessary | CONTRADICTED | 2:14 explicitly names the Gospel as means |
+| “From the beginning” specifies an exact point before creation | NOT ESTABLISHED BY THIS PHRASE ALONE | Referent is not fully specified here |
+| The textual variant “firstfruits” may be ignored | NO | Significant manuscript variation exists |
+| The passage settles the complete scope and mechanics of election | NOT ESTABLISHED | Limited scope of the two verses |
+
+### H. Triple Constraint disposition
+
+- **Biblical compliance — PASS, within scope.** Preserves God's choice, the Spirit's sanctifying work, belief of the truth, the Gospel call, Christ's glory, the preceding contrast, and the following exhortation.
+- **Scientific coherence — PASS, within scope.** Distinguishes grammatical subject, verb voice and tense, coordinated phrases, means, and textual variation. No empirical claims are derived from the theological text.
+- **GUA-W consistency — PASS, within scope.** The passage distinguishes God's initiating action from the Spirit's work, the preached Gospel, and the believing response. This is a textual recognition only; no new Gear or architectural alteration is proposed.
+
+### I. Entry finding and limits
+
+Paul's thanksgiving is directed to God because God chose the Thessalonian believers unto salvation (KJV reading). The sentence joins the sanctification of the Spirit and belief of the truth. Verse 14 identifies the Gospel as the means through which God called them and names the glory of Jesus Christ as the end.
+
+The passage does not teach that human faith originates God's choice. Nor does it teach that divine choice makes belief or Gospel proclamation unnecessary. Both the Spirit's sanctifying work and belief of the truth are explicitly present, and the calling occurs through the Gospel. Verses 15–17 preserve real exhortation and the believers' obligation to stand fast, alongside Paul's prayer for God's strengthening.
+
+The KJV's “from the beginning” reading has a significant textual variant, “as firstfruits.” Both readings must be documented. The phrase “from the beginning,” if retained, does not by itself identify the exact beginning or establish a complete chronology of the divine purpose. The two verses do not settle the full mechanics, scope, or chronological order of election, regeneration, and faith.
+
+**Finding:** 2 Thessalonians 2:13–14 explicitly attributes the choice unto salvation to God, joins the Spirit's sanctifying work with belief of the truth, and identifies the Gospel as the means through which God calls. Belief is real and integral, but is not presented as the originating cause of God's choice. The passage preserves divine initiative and the means of proclamation without erasing the believing response. Textual variation and the limits of the passage's chronology and scope must remain visible.
+
+**Status:** PASS for God's being the subject of the choice unto salvation; PASS for the Spirit's sanctification and belief of the truth both being included; PASS for calling through the Gospel; PASS for retaining exhortation and response; UNRESOLVED for the exact chronology and mechanics of regeneration and faith, the full scope of election, and the precise referent of “from the beginning” in the KJV reading.
+
+### J. GUA-W recognition and research queue
+
+The passage witnesses a connected distinction among God's choice, the Spirit's sanctifying work, the Gospel as the means of calling, the believer's faith, and the final glory of Christ. These elements are not interchangeable and none should be removed to protect a preferred theological system. This is a textual recognition, not a new GUA-W architectural rule.
+
+Retain these guardrails:
+- do not make human faith the originating cause of God's choice;
+- do not erase belief of the truth;
+- do not detach God's calling from the Gospel named in verse 14;
+- do not claim the two verses provide a complete chronology of salvation;
+- preserve the textual variant in verse 13;
+- do not infer the complete scope of election from this passage alone.
+
+Next investigations:
+1. HW-016 — Romans 8:28–30: examine foreknowledge, predestination, calling, justification, and glorification in Paul's argument.
+2. HW-017 — Ephesians 1:3–14: examine election, adoption, redemption, hearing the Word of truth, believing, and sealing with the Spirit.
+3. Retain 1 Thessalonians 1:4–5 and 1 Peter 1:2 as close comparisons.
+4. Keep U-006 (definition and components of human will) open. This passage establishes God's choice and the connected means and responses but does not exhaustively define the human will or every stage of salvation.
+
+---
+
 ## 14. Initial passage register — not yet adjudicated
 
 The following passages are candidates for investigation because they are commonly used in discussions of choice, ability, responsibility, faith, divine initiative, or salvation. Their inclusion is not a verdict.
@@ -1736,6 +1877,7 @@ The following passages are candidates for investigation because they are commonl
 | HW-012 | Romans 8:5–11 | COMPLETED — see entry above. |
 | HW-013 | Acts 13:44–48 | COMPLETED — see entry above. |
 | HW-014 | 1 John 5:1 | COMPLETED — see entry above. |
+| HW-015 | 2 Thessalonians 2:13–14 | COMPLETED — see entry above. |
 
 Further entries are added only after checking the repository and examining the relevant texts. This register is a work queue, not a doctrinal conclusion.
 
