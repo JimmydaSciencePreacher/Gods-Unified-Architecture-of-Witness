@@ -217,3 +217,17 @@ The study now records the Spirit's descent and remaining upon Jesus, Jesus' teac
 
 **Disposition:** Findings refined without forcing consensus; U-008 remains UNRESOLVED; no new GUA-W Gear established.
 
+### Investigation III.2 — Ezekiel 36–37 prophetic breath and renewal study added
+
+The primary study now examines Ezekiel 36:16–38 and 37:1–28 in their corporate restoration setting. It records cleansing, new heart, new spirit, God's Spirit within Israel, the dry-bones sequence, and the LORD's own interpretation of the vision as the restoration of the whole house of Israel.
+
+Key canonical connections:
+- Ezekiel 36:25–27 is a strong background for John 3:5's water-and-Spirit language, without being an explicit quotation.
+- Ezekiel 37:9 shares the Hebrew breathing verb with Genesis 2:7.
+- John 20:22 shares the Greek verb ἐμφυσάω with the Septuagint of Genesis 2:7 and Ezekiel 37:9, strongly supporting a new-creation resonance.
+- Ezekiel 37's primary referent remains Israel's restoration; it is not reduced to an individual conversion formula or exclusively identified with Pentecost.
+
+**Updated study:** [Investigation III.2 — The Breath of the Risen Christ](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
+
+**Disposition:** Strong intertextual connection recorded; the exact relation of John 20:22 to Pentecost remains unresolved; no new GUA-W Gear established.
+
