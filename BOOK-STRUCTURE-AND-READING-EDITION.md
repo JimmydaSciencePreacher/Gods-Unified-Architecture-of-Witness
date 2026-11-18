@@ -258,8 +258,11 @@ Primary reading:
 
 ## Part VIII — What Is Established, What Remains Open
 
-### Chapter 18. Rejected Claims, Unresolved Questions, and Continuing Investigation
-A responsible book does not hide its limits. This final part distinguishes established findings from rejected proposals, bounded questions, and work not yet investigated.
+### Chapter 18. What Is Established, What Remains Open
+
+**Read the completed chapter:** [Chapter 18 — What Is Established, What Remains Open](book/18-WHAT-IS-ESTABLISHED-WHAT-REMAINS-OPEN.md)
+
+Bring the reading journey to its present conclusion by distinguishing established findings, rejected claims, narrowed questions, and genuinely unresolved work. The chapter explains why the end of the planned book is not the end of investigation: the completed GUA-W remains distinct from the continuing work of clarifying its written presentation and evidence record.
 
 Primary reading:
 - [Rejected and Unresolved Register](REJECTED-AND-UNRESOLVED.md)
