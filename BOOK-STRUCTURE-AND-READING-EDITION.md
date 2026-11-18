@@ -162,6 +162,9 @@ Primary reading:
 ## Part V — The Works of Christ: Signs, Death, Resurrection, and Witness
 
 ### Chapter 11. The Works and Signs of Jesus
+
+**Read the completed chapter:** [Chapter 11 — The Works and Signs of Jesus](book/11-THE-WORKS-AND-SIGNS-OF-JESUS.md)
+
 Read the miracle investigations as a connected witness to the works of Christ. The register provides the overview; individual studies provide the detailed accounts.
 
 Primary reading:
