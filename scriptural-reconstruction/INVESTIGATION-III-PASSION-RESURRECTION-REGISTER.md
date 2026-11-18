@@ -320,3 +320,10 @@ The central Resurrection study now includes section 46, distinguishing Jesus' si
 
 **Read-back verified:** sections 46 and 28 are present in their respective studies. No new Resurrection event, chronological scheme, or GUA-W component was created. Historical, chronological, and interpretive limits remain open where the texts do not settle them.
 
+
+
+**2026-11-18 — Investigation III.2 recipient-scope pass:** The Breath of the Risen Christ study now includes section 29, comparing the gathered disciples in John 20:19–24, the wider gathering in Luke 24:33–49, the waiting community in Acts 1:12–15, the Pentecostal assembly in Acts 2:1–4, and the reach of the promise in Acts 2:38–39. The update distinguishes Thomas's absence from the first Johannine gathering, the presence of others beyond the eleven in Luke and Acts, and Peter's statement that the promise extends to those afar off and those the Lord calls. It does not assume an exact headcount for Acts 2:1–4 or identify all groups as identical.
+
+A limited Greek comparison records John 20:22's plural imperative λάβετε, Acts 1:8 and 2:38's future plural λήμψεσθε, Acts 2:4's “were filled,” and Acts 2:33's “poured out.” The forms are related but not treated as interchangeable technical labels.
+
+**Effect on U-008:** recipient scope is now examined alongside extent/timing, function, and narrative relation. This adds precision without resolving whether John 20:22 is an actual impartation, an anticipatory sign, or a distinct aspect of the larger work. U-008 remains UNRESOLVED. See [Investigation III.2 — The Breath of the Risen Christ, section 29](INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md).
