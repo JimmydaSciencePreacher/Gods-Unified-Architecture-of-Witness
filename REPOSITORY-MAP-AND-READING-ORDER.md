@@ -21,7 +21,7 @@ This map orders the written record; it does not establish a new authority hierar
 **Governing order:** Author → Word → Creation → Witness.  
 **GUA-W is complete.** The written explanation and evidence record remain open to correction, discovery, and completion.
 
-## I. Governing documents — read first
+## I. Root and governing documents
 
 - [CROSS DISCIPLINARY INVESTIGATION PRINCIPLE](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md)
 - [CROSS DISCIPLINARY INVESTIGATION WORKSHEET](CROSS-DISCIPLINARY-INVESTIGATION-WORKSHEET.md)
@@ -31,13 +31,12 @@ This map orders the written record; it does not establish a new authority hierar
 - [README](README.md)
 - [REJECTED AND UNRESOLVED](REJECTED-AND-UNRESOLVED.md)
 - [REPOSITORY CONTINUING WORK REGISTER 2026 11 17](REPOSITORY-CONTINUING-WORK-REGISTER-2026-11-17.md)
+- [REPOSITORY MAP AND READING ORDER](REPOSITORY-MAP-AND-READING-ORDER.md)
 - [REPOSITORY WIDE TRIPLE CONSTRAINT AUDIT 2026 11 17](REPOSITORY-WIDE-TRIPLE-CONSTRAINT-AUDIT-2026-11-17.md)
 - [THE ANSWER BEFORE THE QUESTION](THE-ANSWER-BEFORE-THE-QUESTION.md)
 - [THEOLOGY QUEEN OF THE SCIENCES](THEOLOGY-QUEEN-OF-THE-SCIENCES.md)
 
 ## II. Scriptural foundation — Genesis and Hebrew examinations
-
-## Genesis text-first reconstructions and synthesis
 
 - [GENESIS 1 1 5 TEXT FIRST RECONSTRUCTION](scriptural-reconstruction/GENESIS-1-1-5-TEXT-FIRST-RECONSTRUCTION.md)
 - [GENESIS 1 14 25 TEXT FIRST RECONSTRUCTION](scriptural-reconstruction/GENESIS-1-14-25-TEXT-FIRST-RECONSTRUCTION.md)
@@ -62,19 +61,13 @@ This map orders the written record; it does not establish a new authority hierar
 - [HEBREW AUDIT GENESIS 2 7 15 17](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-7-15-17.md)
 - [HEBREW AUDIT GENESIS 2 8 14](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-8-14.md)
 
-
 ## III. Human Will and Salvation — integrated reference work
-
-## Human Will reference and phrase register
 
 - [HUMAN WILL AND SALVATION REFERENCE WORK](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md)
 - [HUMAN WILL CREATURELY CAPACITY AND CREATOR AUTHORITY JOB ISAIAH COLOSSIANS](scriptural-reconstruction/HUMAN-WILL-CREATURELY-CAPACITY-AND-CREATOR-AUTHORITY-JOB-ISAIAH-COLOSSIANS.md)
 - [KJV FREEWILL PHRASE REGISTER](scriptural-reconstruction/KJV-FREEWILL-PHRASE-REGISTER.md)
 
-
 ## IV. The works and signs of Jesus — Investigation II
-
-## Investigation II master studies, register, and event-level records
 
 - [INVESTIGATION II 01 CANA JOHN 2 1 11](scriptural-reconstruction/INVESTIGATION-II-01-CANA-JOHN-2-1-11.md)
 - [INVESTIGATION II 02 NOBLEMAN SON JOHN 4 46 54](scriptural-reconstruction/INVESTIGATION-II-02-NOBLEMAN-SON-JOHN-4-46-54.md)
@@ -124,10 +117,7 @@ This map orders the written record; it does not establish a new authority hierar
 - [INVESTIGATION III G ASCENSION OF JESUS CHRIST](scriptural-reconstruction/INVESTIGATION-III-G-ASCENSION-OF-JESUS-CHRIST.md)
 - [INVESTIGATION III PASSION RESURRECTION REGISTER](scriptural-reconstruction/INVESTIGATION-III-PASSION-RESURRECTION-REGISTER.md)
 
-
 ## V. Passion, Resurrection, appearances, Ascension, and Breath — Investigation III
-
-## Investigation III studies and registers
 
 - [INVESTIGATION III 01 RESURRECTION OF JESUS CHRIST](scriptural-reconstruction/INVESTIGATION-III-01-RESURRECTION-OF-JESUS-CHRIST.md)
 - [INVESTIGATION III 02 BREATH OF THE RISEN CHRIST](scriptural-reconstruction/INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
@@ -140,17 +130,11 @@ This map orders the written record; it does not establish a new authority hierar
 - [INVESTIGATION III G ASCENSION OF JESUS CHRIST](scriptural-reconstruction/INVESTIGATION-III-G-ASCENSION-OF-JESUS-CHRIST.md)
 - [INVESTIGATION III PASSION RESURRECTION REGISTER](scriptural-reconstruction/INVESTIGATION-III-PASSION-RESURRECTION-REGISTER.md)
 
-
 ## VI. Other canonical and theological reconstructions
-
-## Additional Scriptural studies
 
 - [ROMANS 1 18 32 KNOWLEDGE SUPPRESSION AND THE CREATOR](scriptural-reconstruction/ROMANS-1-18-32-KNOWLEDGE-SUPPRESSION-AND-THE-CREATOR.md)
 
-
 ## VII. Cross-disciplinary evidence and scientific audits
-
-## Evidence audits and primary-source verification
 
 - [COMPARATIVE REVIEW HOLOGRAPHY BLACK HOLE INFORMATION AUDITS](audits/COMPARATIVE-REVIEW-HOLOGRAPHY-BLACK-HOLE-INFORMATION-AUDITS.md)
 - [EVIDENCE AUDIT Double Slit And Observer Anomaly](audits/EVIDENCE-AUDIT-Double-Slit-and-Observer-Anomaly.md)
@@ -166,16 +150,13 @@ This map orders the written record; it does not establish a new authority hierar
 - [PRIMARY SOURCE VERIFICATION QUANTUM FOUNDATIONS AND UNITARITY 2026 11 17](audits/PRIMARY-SOURCE-VERIFICATION-QUANTUM-FOUNDATIONS-AND-UNITARITY-2026-11-17.md)
 - [QUANTUM TRACE COVERAGE AND REMAINING CLAIMS 2026 11 17](audits/QUANTUM-TRACE-COVERAGE-AND-REMAINING-CLAIMS-2026-11-17.md)
 
-
 ## VIII. Architecture-related blueprint records
-
-## Blueprints
 
 - [Evidence Audit — Identity, Change, And Persistence](blueprints/Evidence Audit — Identity, Change, and Persistence.md)
 
 
 ## Inventory note
 
-The recursive tree contained **101 entries**, of which **98 are files** and **3 are directories**. This map is generated from the tracked tree and is intended as navigation, not as a claim that every individual scientific, historical, linguistic, or Scriptural claim has received a fresh line-by-line audit.
+The recursive tree contained **102 entries**, of which **99 are files** and **3 are directories**. This map is generated from the tracked tree and is intended as navigation, not as a claim that every individual scientific, historical, linguistic, or Scriptural claim has received a fresh line-by-line audit.
 
-A document's inclusion here does not make every statement in it canonical. The completed-architecture presentation and the governing principles control architectural terminology; source texts and domain-appropriate evidence control the claims made about their subjects.
+A document's presence here does not make every statement in it canonical. The completed-architecture presentation and the governing principles control architectural terminology; source texts and domain-appropriate evidence control the claims made about their subjects.
