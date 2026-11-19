@@ -41,7 +41,7 @@ A candidate's strangeness is not evidence of a supernatural cause, a universal m
 2. **Superfluidity:** How can matter flow with effectively zero viscosity?
 3. **Superconductivity:** How can certain materials conduct electrical current with zero resistance?
 4. **Black holes:** What happens to matter, energy, and information near an event horizon?
-5. **Double-slit experiment:** What determines the observed interference pattern and measurement outcomes?
+5. **Mandelbrot set:** How does a simple iterative mathematical rule generate an intricate boundary with structure at arbitrarily fine scales?
 
 ### Domain 2 — Chemistry
 
