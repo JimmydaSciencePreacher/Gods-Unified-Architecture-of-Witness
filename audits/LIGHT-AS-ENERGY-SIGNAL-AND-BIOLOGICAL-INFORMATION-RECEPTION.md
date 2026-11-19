@@ -137,3 +137,22 @@ In this paired investigation, the outward HOW-sciences examine:
 The return journey brings the cross-verified findings to Theology, the Queen of the Sciences, for examination under Genesis 1–2 and the wider Scriptural witness. The orchid is a biological witness within Creation; it does not replace Scripture or prove a predetermined theological conclusion.
 
 **Related paired investigation:** [Water: Two-Journey Investigation with the Bee Orchid as Biological Witness](WATER-TWO-JOURNEY-INVESTIGATION-BEE-ORCHID-BIOLOGICAL-WITNESS.md)
+
+
+## 14. Bee Orchid chemical signaling: light, scent, and the insect receiver
+
+The Bee Orchid (*Ophrys apifera*) is the shared biological witness for the light and water investigations. Its flower presents visual features and releases volatile organic compounds (VOCs). The volatile molecules travel through air and can be detected by an insect's olfactory system. This creates a second reception pathway alongside the plant's own reception of light.
+
+For the outward HOW investigation, distinguish:
+- **Light reception by the plant:** photoreceptors absorb photons and initiate molecular signaling.
+- **Visual detection by an insect:** the insect's visual system receives reflected light from the flower.
+- **Chemical reception by an insect:** floral VOCs travel through air and interact with olfactory receptors.
+- **Contact and pollen transfer:** physical contact may move pollinia or other surface material; this is not automatically chemical communication.
+
+The genus *Ophrys* is well known for floral chemical blends that mimic female insect pheromones. Species-specific research reports that *O. apifera* produces chemicals associated with bee-pheromone mimicry, although it is predominantly self-pollinating across much of its range. A published VOC survey of *O. apifera* identified a complex floral scent profile. The detection of a compound does not by itself prove that it attracts a particular bee or causes a particular behavior; that requires species-specific behavioral evidence.
+
+Do not assume a bee receives nectar or water from the flower. *Ophrys* flowers are generally non-rewarding; any claim of liquid-water exchange between *O. apifera* and a bee requires direct evidence. Likewise, possible bee-to-flower transfer of cuticular compounds or microorganisms remains a question unless directly demonstrated for this species.
+
+This biological witness therefore gives the paired light-and-water investigation a further interface to examine: the plant receives light, uses water, releases chemical compounds, and may interact physically with insects. Each transfer route must be identified and tested separately.
+
+**Related investigation:** [Water: Two-Journey Investigation with the Bee Orchid as Biological Witness](WATER-TWO-JOURNEY-INVESTIGATION-BEE-ORCHID-BIOLOGICAL-WITNESS.md)
