@@ -1,8 +1,8 @@
-# Comparative Biological Synthesis: Identity, Development, Relationship, and Persistence in the Bee Orchid and Spiny Leaf Insect
+# Comparative Biological Synthesis: Identity, Development, Relationship, and Persistence Across Three Biological Cases
 
-**Status:** Cross-case synthesis of two evidence-led biological investigations  
+**Status:** Cross-case synthesis of three evidence-led biological investigations  
 **Prepared:** 2026-11-18  
-**Cases:** *Ophrys apifera* and *Extatosoma tiaratum*  
+**Cases:** *Ophrys apifera*, *Extatosoma tiaratum*, and butterfly complete metamorphosis (Lepidoptera)  
 **Governing order:** Author → Word → Creation → Witness
 
 ## 1. Why compare these two organisms?
@@ -161,12 +161,40 @@ Priority directions:
 
 Each new case should answer a defined question and be investigated with primary sources. It should not be added merely because it looks remarkable.
 
+
+## 13. Third case added: butterfly complete metamorphosis
+
+The butterfly case adds a developmental pattern not represented by either of the first two investigations: complete metamorphosis, with egg, larva, pupa, and adult stages. The pupal stage involves extensive, regulated tissue remodeling and adult differentiation. It is not equivalent to the orchid's seasonal underground persistence or the spiny leaf insect's sequence of nymphal molts.
+
+**New evidence base:** [Biological Identity, Development, and Continuity: Butterfly Metamorphosis](BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md).
+
+| Shared question | Bee orchid | Spiny leaf insect | Butterfly |
+|---|---|---|---|
+| Initial form | Seed with embryo | Egg with developing insect | Egg with developing embryo |
+| Early developmental expression | Germination and protocorm | First-instar nymph | Larva |
+| Distinctive transition | Plant differentiation and seasonal phases | Successive molts and changing ecological presentation | Larval growth followed by pupal remodeling |
+| Environmental relationship | Fungal partners commonly assist natural establishment | Ant-mediated egg removal is species-dependent | Larval host plants and stage-specific conditions |
+| Persistence question | Underground seasonal continuity | Individual continuity through molts | Individual continuity through extensive remodeling |
+
+The three cases now span plant germination and seasonal persistence, insect development through successive nymphal molts, and insect complete metamorphosis. This broader range makes the comparison more informative, but it does not establish one shared biological mechanism.
+
+The synthesis must preserve the following boundaries:
+
+- The orchid's protocorm is not an insect larva or pupa.
+- The spiny leaf insect's nymphal molts are not complete metamorphosis.
+- The butterfly pupa is not a dormant seed or a seasonal underground plant structure.
+- Environmental relationships differ in kind and function across all three cases.
+- Individual continuity must remain distinct from persistence of every cell or structure, and from population or lineage continuity.
+
+The addition is an expansion of the evidence base, not of GUA-W architecture. It introduces no new layer, Gear, runtime stage, State term, or universal law.
+
 ## 12. Source records
 
 The factual claims in this synthesis are drawn from the two linked case studies and their source lists:
 
 - [Bee Orchid Case Study — *Ophrys apifera*](BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md).
 - [Spiny Leaf Insect Case Study — *Extatosoma tiaratum*](BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md).
+- [Butterfly Metamorphosis Case Study](BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md).
 
 The bee orchid source record includes taxonomic and botanical references, fungal-association research, and species-specific pollination sources. The spiny leaf insect source record includes the 2023 ant-mediated egg-removal study and the 2020 post-hatch dispersal study.
 
@@ -174,7 +202,7 @@ A reader should consult those primary and specialist sources for the detailed me
 
 ## Conclusion
 
-The bee orchid and the spiny leaf insect do not share one developmental mechanism. They do share a set of biological questions that become clearer when the evidence is placed together: beginning versus mature form, identity versus appearance, development in relationship with an environment, and persistence through change.
+The bee orchid, spiny leaf insect, and butterfly do not share one developmental mechanism. Their three different developmental patterns make a set of biological questions clearer when the evidence is placed together: beginning versus mature form, identity versus appearance, development in relationship with an environment, differentiation, and persistence through change.
 
 The comparison is useful because it preserves both unity and distinction. It shows how separate investigations can illuminate a broader question without being forced into one explanation.
 
