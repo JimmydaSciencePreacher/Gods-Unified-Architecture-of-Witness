@@ -157,6 +157,7 @@ The [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) inve
 - [Evidence Audit — ER=EPR and Quantum Entanglement](audits/EVIDENCE-AUDIT-ER-EPR-and-Quantum-Entanglement.md)
 - [Primary-Source Verification — ER=EPR and Quantum Entanglement](audits/PRIMARY-SOURCE-VERIFICATION-ER-EPR-AND-ENTANGLEMENT-2026-11-17.md)
 - [Evidence Audit — Genesis 2, Daniel 12:4, and Twelve-Step Restore](audits/EVIDENCE-AUDIT-Genesis-2-Daniel-12-and-Twelve-Step-Restore.md)
+- [Biological Identity, Development, and Continuity — Bee Orchid Case Study](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md)
 
 A file's presence here does not, by itself, make its contents canonical.
 
