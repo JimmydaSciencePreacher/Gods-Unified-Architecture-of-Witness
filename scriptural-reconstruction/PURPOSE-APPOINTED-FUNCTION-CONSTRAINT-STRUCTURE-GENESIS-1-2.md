@@ -115,3 +115,65 @@ This is an initial, scope-limited assessment, not a final resolution of the arch
 ---
 
 **Initial disposition:** A genuine internal unification question has been identified and opened: how Author-stated purpose and appointed function relate to the existing Constraint → Structure relationship. The Scriptural evidence supports continued examination, but does not yet authorize a new architectural definition or component.
+
+
+## 7. Second-pass comparison — distinguish Purpose, Function, Constraint, and Structure
+
+The completed architecture defines Constraint as the final foundational term before Structure, and Structure as the first derived realization and hinge. Purpose is not enumerated as a separate stage. The investigation must therefore explain its relationship to the established sequence without inserting a new component.
+
+### 7.1 Four distinct questions
+
+| Term | Question it addresses | Evidence in the present scope |
+|---|---|---|
+| Author-stated Purpose | What end or intention does the Author state? | Genesis 1:14–15 gives functions in God's command; Genesis 2:15 states the purpose of man's placement. |
+| Appointed Function | What activity or role is assigned within the created order? | The lights have stated functions (Genesis 1:14–18); man is placed to work/cultivate and keep/guard the Garden (2:15). |
+| Constraint / Boundary | What limit or condition is established by the Author? | Genesis 2:16–17 gives broad permission and a specific prohibition, with a stated consequence. |
+| Structure | What is the first derived realization in the established architecture? | GUA-W defines Structure as the first derived realization and hinge; the Genesis passages provide cases to examine, not a replacement definition. |
+
+These questions are related but not interchangeable. In particular, a stated purpose is not itself a prohibition; an appointed function is not the same as the structure in which it is carried out; and a boundary is not the Author's entire purpose.
+
+### 7.2 Two different textual presentations must be preserved
+
+**Genesis 1:14–18:** The functions of the lights are included in the command before the account reports God's making and setting of them. This supports the observation that Author-stated function is not merely an interpretation added by a later observer after the result.
+
+**Genesis 2:8–17:** The Garden is planted and the man is placed there; Genesis 2:15 states the man's appointed work, and 2:16–17 records permission and prohibition. Here the purpose clause is attached to the man's placement and activity in an already prepared environment.
+
+These passages should not be forced into one identical chronology. They show that the Author can state function in a command and can state the purpose of a creature's placement within a prepared environment. Neither passage by itself defines a universal technical sequence for every created thing.
+
+### 7.3 What this clarifies about Constraint → Structure
+
+The current evidence supports a careful distinction:
+
+- Purpose is an Authorial intention or stated end; it is not a new runtime stage.
+- Function is an appointed role or activity; it is not automatically identical with Structure.
+- Constraint establishes an Author-given boundary or condition; it must not be reduced to prohibition alone, since the wider creation account includes conditions and distinctions beyond a moral command.
+- Structure remains the first derived realization in GUA-W; it is not redefined as “purpose” or “function.”
+
+**Working recognition, not a new definition:** Author-stated purpose and appointed function provide context for understanding why a created arrangement is ordered as it is. Constraint and Structure must be examined in that context, while their established architectural meanings remain intact. The available passages do not yet prove that Purpose is a technical bridge or an independent governing mechanism between Constraint and Structure.
+
+### 7.4 A further distinction: boundary and enabling condition
+
+Genesis 2:16–17 gives a specific command boundary. Genesis 1:14–18 describes lights with appointed functions and their placement. These are not identical kinds of evidence. The former concerns permission and prohibition addressed to man; the latter concerns the functions and ordering of created lights.
+
+Therefore, the word *constraint* must not be treated as synonymous only with restriction, prohibition, or denial. The repository's existing definition must be checked against its use across the architecture and its evidence base before any broader technical wording is proposed.
+
+### 7.5 Second-pass Triple Constraint disposition
+
+| Candidate claim | Biblical compliance | Scientific coherence | GUA-W consistency | Disposition |
+|---|---|---|---|---|
+| Purpose is stated by the Author in Genesis 1:14–15 and 2:15. | Direct textual support. | No physical mechanism asserted. | Preserves Author primacy. | PASS, textual scope |
+| Appointed function and boundary are distinct in Genesis 2:15–17. | Direct contextual support. | No scientific mechanism asserted. | Preserves distinct roles. | PASS, textual scope |
+| Purpose is a new stage between Constraint and Structure. | Not stated by these texts. | Not established. | Would alter the enumerated architecture. | NOT ADMISSIBLE |
+| Purpose is a useful interpretive context for examining Constraint and Structure. | Supported as a bounded inference. | No scientific equivalence claimed. | Preserves completed architecture. | PASS, provisional |
+| Constraint means prohibition alone. | Too narrow for the wider Genesis evidence. | Not a complete general account. | Risks collapsing distinct constraints. | REJECT AS A GENERAL DEFINITION |
+| Purpose is the proven technical bridge from Constraint to Structure. | The textual formula is absent. | Not demonstrated. | Relationship remains unresolved. | OPEN |
+
+### 7.6 Questions carried forward from this pass
+
+1. What exact definition of Constraint is supported by the repository's existing source records, beyond the example of the prohibition in Genesis 2:17?
+2. Which Genesis operations and distinctions are already recognized as the first derived realization called Structure?
+3. How do Genesis 1:14–18 and Genesis 2:8–17 jointly clarify the relation of Author-stated purpose to an established arrangement without imposing one chronology on both passages?
+4. Can examples from other domains demonstrate a useful correspondence between purpose, boundary conditions, and realized structure while preserving each domain's own definitions and evidence?
+5. Does the wider canonical record clarify the relation of God's purpose to created order and appointed creaturely activity?
+
+**Second-pass disposition:** The investigation has clarified four distinct questions and rejected two premature formulations: Purpose as a new architectural stage, and Constraint as prohibition alone. The exact relationship between the established Constraint and Structure definitions remains open. No architectural component, sequence, or definition has been changed.
