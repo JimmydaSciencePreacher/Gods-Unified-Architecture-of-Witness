@@ -174,6 +174,7 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 - [Physics Investigation I — Quantum Entanglement](audits/PHYSICS-INVESTIGATION-I-QUANTUM-ENTANGLEMENT.md)
 - [Physics Investigation II — Superconductivity](audits/PHYSICS-INVESTIGATION-II-SUPERCONDUCTIVITY.md)
 - [Physics Investigation III — Bose–Einstein Condensation](audits/PHYSICS-INVESTIGATION-III-BOSE-EINSTEIN-CONDENSATION.md)
+- [Physics Investigation IV — Neutron Stars](audits/PHYSICS-INVESTIGATION-IV-NEUTRON-STARS.md)
 - [EVIDENCE AUDIT ER EPR And Quantum Entanglement](audits/EVIDENCE-AUDIT-ER-EPR-and-Quantum-Entanglement.md)
 - [EVIDENCE AUDIT Genesis 2 Daniel 12 And Twelve Step Restore](audits/EVIDENCE-AUDIT-Genesis-2-Daniel-12-and-Twelve-Step-Restore.md)
 - [EVIDENCE AUDIT Holographic Principle And Black Hole Information](audits/EVIDENCE-AUDIT-Holographic-Principle-and-Black-Hole-Information.md)
