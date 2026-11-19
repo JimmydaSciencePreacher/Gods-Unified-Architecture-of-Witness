@@ -537,3 +537,12 @@ The 2026-11-18 work order remains a historical record for the Scriptural and can
 ### Editorial note
 
 The Water investigation currently contains appended subsections numbered “4” and “5” after its original section 10. This does not change the research content, but the numbering should be normalized in a later, separate editorial-only batch after confirming all internal references. Do not combine that formatting correction with evidence review.
+
+
+## 2026-11-19 — Light: information theory and optical communication
+
+Extended the existing light cross-disciplinary audit with a bounded examination of Shannon's mathematical theory of communication and NASA/JPL optical-communication systems. The new section distinguishes physical energy, signal, encoding, channel, detection/decoding, Shannon information, evidence, recovered data, and semantic meaning. It contrasts engineered optical communication with astronomical inference and biological photoreception, avoiding the assumption that natural correlations are intentionally encoded messages or that biological response implies conscious interpretation.
+
+The evidence supports a concrete engineered communication chain: data are encoded/modulated onto an optical carrier, propagated through a channel subject to loss and noise, detected, and decoded by a receiver. Shannon's framework addresses statistical communication and deliberately brackets semantic meaning. Biological photoreception and astronomical spectroscopy remain distinct cases requiring their own evidence and definitions.
+
+The section records bounded placements within existing GUA-W vocabulary and applies the Triple Constraint. No architecture component, Gear, runtime stage, State term, or universal law was added. The modified light audit was read back after writing; the remaining work is source-level verification of the Shannon and NASA/JPL references, plus a quantitative worked optical-link example if warranted.
