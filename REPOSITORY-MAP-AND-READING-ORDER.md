@@ -161,6 +161,7 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 
 ## VII. Cross-disciplinary evidence and scientific audits
 - [Comparative Biological Synthesis — Identity, Development, Relationship, and Persistence](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md)
+- [The Sciences as Differentiated Witnesses to One Creation: Genesis 1–2, Chemistry, Information, and Mathematics](audits/SCIENCES-AS-DIFFERENTIATED-WITNESSES-TO-ONE-CREATION-GENESIS-1-2.md)
 - [Biological Organization, Individuality, and Integration: Fungal Networks, Eusocial Insects, Ant–Fungus Agriculture, and Chemical Information Transfer](audits/BIOLOGICAL-ORGANIZATION-INDIVIDUALITY-AND-INTEGRATION-FUNGI-BEES-ANTS.md).
 - [Lichen Symbiosis, Chemical Signaling, and Multipart Integration](audits/BIOLOGICAL-ORGANIZATION-LICHEN-SYMBIOSIS-AND-MULTIPARTNER-INTEGRATION.md).
 - [Cellular Recognition, Receptor Signaling, and Symbiotic Accommodation](audits/CELLULAR-RECOGNITION-RECEPTOR-SIGNALING-AND-SYMBIOTIC-ACCOMMODATION.md).
