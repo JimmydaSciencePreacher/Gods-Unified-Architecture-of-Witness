@@ -29,6 +29,10 @@ A candidate's strangeness is not evidence of a supernatural cause, a universal m
 
 ### Domain 1 — Physics
 
+**Completed Investigation I:** [Quantum Entanglement](PHYSICS-INVESTIGATION-I-QUANTUM-ENTANGLEMENT.md).
+
+**Completed Investigation II:** [Superconductivity](PHYSICS-INVESTIGATION-II-SUPERCONDUCTIVITY.md).
+
 **Completed investigation:** [Physics Investigation I — Quantum Entanglement](PHYSICS-INVESTIGATION-I-QUANTUM-ENTANGLEMENT.md).
 
 1. **Quantum entanglement:** How do separated systems exhibit correlated measurement outcomes?
