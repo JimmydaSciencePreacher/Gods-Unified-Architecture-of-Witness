@@ -136,7 +136,27 @@ A newly recognized relationship is a discovery by the investigator, not a newly 
 
 **Required discipline:** A physics result does not prove a theological claim. A theological interpretation does not supply a missing physical mechanism. Preserve counterevidence, domain boundaries, and the status of every scientific claim.
 
-### 6. Witness, knowledge, measurement, and the written record
+### 6. Biological identity, development, and continuity
+
+**Why this is a major intersection:** Biological development provides observable cases in which inherited information, environmental conditions, relationships, differentiation, changing form, and persistence can be investigated together. The bee orchid is the first focused case study.
+
+**Existing evidence base:**
+- [Biological Identity, Development, and Continuity: The Bee Orchid Case Study](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md).
+- The identity, change, and persistence investigations.
+- Genesis 1:11–12 and Genesis 2:5 textual investigations concerning seed, plant life, and conditions of manifestation.
+
+**Unifying investigation:** Compare biological evidence about seed and embryo, development, symbiosis, seasonal persistence, and reproduction with the existing questions about identity, change, and realized expression—without turning biological mechanisms into architectural stages or theological proof.
+
+**Priority questions:**
+1. How does inherited information participate in development without functioning as an environment-independent specification of every outcome?
+2. How do organisms retain individual identity through developmental stages, dormancy, tissue renewal, and changing morphology?
+3. How must individual identity be distinguished from population, species, and lineage continuity?
+4. How do symbiotic partners contribute to development without becoming the organism they support?
+5. Which observations are species-specific, and which mechanisms can responsibly be compared across plants, animals, and fungi?
+
+**Required discipline:** Distinguish observation, mechanism, inference, and analogy. Preserve species-level qualifications; for example, the bee orchid *Ophrys apifera* is predominantly self-pollinating despite the broader sexual-deception pattern found in many *Ophrys* species. No biological case study proves Genesis or creates a new GUA-W component.
+
+### 7. Witness, knowledge, measurement, and the written record
 
 **Why this is a unifying intersection:** The source–witness distinction governs Scripture investigation, scientific observation, historical research, and AI-assisted analysis.
 
@@ -182,8 +202,9 @@ A connection should be followed wherever it leads in the evidence. It should not
 3. **Completion–Christ–consummation synthesis:** examine the three completion witnesses alongside the Word, Resurrection, Ascension, and Revelation.
 4. **Christ's works and signs synthesis:** resolve event classification, parallel accounts, agency, and collective canonical testimony.
 5. **Scientific cross-audit synthesis:** compare the existing physics audits with identity, change, persistence, and carefully selected biological/ecological investigations.
-6. **Witness and knowledge synthesis:** connect the source–witness distinction to measurement, interpretation, testimony, and AI's derivative role.
-7. **Book integration pass:** revise chapter transitions and research links so the reader can follow these relationships without confusing the book's explanatory sequence with the architecture itself.
+6. **Biological cross-investigation:** develop the bee orchid case alongside seed-to-plant, embryo-to-organism, differentiation, symbiosis, regeneration, and lineage studies.
+7. **Witness and knowledge synthesis:** connect the source–witness distinction to measurement, interpretation, testimony, and AI's derivative role.
+8. **Book integration pass:** revise chapter transitions and research links so the reader can follow these relationships without confusing the book's explanatory sequence with the architecture itself.
 
 This order is a research priority, not a new architectural sequence. Work may move between priorities when a source reveals a material connection.
 
