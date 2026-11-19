@@ -19,7 +19,7 @@ The purpose is not to force these organisms into one developmental formula. It i
 
 This synthesis is explanatory. The detailed natural-history and experimental claims remain in the linked case studies and their cited sources.
 
-## 2. The four cases at a glance
+## 2. The five cases at a glance
 
 | Question | Bee orchid | Spiny leaf insect | Butterfly | Axolotl | Zebrafish |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ Limb regeneration research identifies wound closure, nerve–epithelium interact
 
 The important comparison is therefore not that the axolotl "does what the butterfly does." It does not. The axolotl shows that an individual can continue while a major structure is absent and subsequently reconstructed through a distinct regenerative process.
 
-## 8. What the cases reveal together—and what they do not
+## 9. What the five cases reveal together—and what they do not
 
 ### What is supported
 
