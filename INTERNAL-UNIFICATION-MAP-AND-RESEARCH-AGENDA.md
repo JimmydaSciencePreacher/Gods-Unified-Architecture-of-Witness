@@ -127,6 +127,8 @@ A newly recognized relationship is a discovery by the investigator, not a newly 
 
 **Unifying investigation:** Compare the questions addressed by these fields—such as constraint, relation, identity, change, persistence, measurement, information, and realization—without claiming that shared vocabulary establishes a shared physical mechanism.
 
+**Directional clarification from the November 19, 2026 investigation:** The purpose is not only to compare scientific domains. It is to examine chemistry, information, mathematics, physics, and biology as differentiated witnesses to one Creation. Their findings are interpreted in the direction **Creation → scientific observation and description → witness pointing back to the Author**, while preserving the causal order **Author → Word → Creation**. Genesis 1–2 supplies the Scriptural foundation; it is not treated as a modern technical textbook, and scientific findings are not presented as laboratory proof of God. See [The Sciences as Differentiated Witnesses to One Creation](audits/SCIENCES-AS-DIFFERENTIATED-WITNESSES-TO-ONE-CREATION-GENESIS-1-2.md).
+
 **Priority questions:**
 1. Which findings are experimentally established, mathematically derived, model-dependent, conjectural, analogical, or unresolved?
 2. Where do separate scientific audits address the same underlying question from different directions?
