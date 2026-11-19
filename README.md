@@ -138,6 +138,7 @@ The [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) inve
 - [Investigation II — Master Miracle and Sign Register](scriptural-reconstruction/INVESTIGATION-II-MIRACLE-REGISTER.md)
 - [Works and Signs of Jesus — Internal Unification Synthesis](scriptural-reconstruction/WORKS-AND-SIGNS-OF-JESUS-INTERNAL-UNIFICATION-SYNTHESIS.md)
 - [Witness, Knowledge, Measurement, and Registration — Internal Unification Synthesis](scriptural-reconstruction/WITNESS-KNOWLEDGE-MEASUREMENT-AND-REGISTRATION-INTERNAL-UNIFICATION-SYNTHESIS.md)
+- [Identity, Change, and Persistence — Internal Unification Synthesis](scriptural-reconstruction/IDENTITY-CHANGE-AND-PERSISTENCE-INTERNAL-UNIFICATION-SYNTHESIS.md)
 - [Investigation III — Passion, Resurrection, Appearances, and Ascension Register](scriptural-reconstruction/INVESTIGATION-III-PASSION-RESURRECTION-REGISTER.md)
 - [Investigation III.1 — The Resurrection of Jesus Christ](scriptural-reconstruction/INVESTIGATION-III-01-RESURRECTION-OF-JESUS-CHRIST.md)
 - [Investigation III.2 — The Breath of the Risen Christ](scriptural-reconstruction/INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
