@@ -549,3 +549,64 @@ This is recognition within the completed architecture, not a new biological stag
 - [Evolution of olfactory circuits in insects](https://pmc.ncbi.nlm.nih.gov/articles/PMC7192870/). Review of sensory-neuron organization, antennal-lobe circuitry, and evolutionary variation.
 
 **Working conclusion:** An insect's chemical environment is converted into sensory activity through species-dependent receptors, then transformed by neural circuits. Both combinatorial and specialized coding strategies occur. Mixture responses can be nonlinear, and background odors and internal context can change the resulting behavior. This establishes a general receiver-side mechanism, but not yet the complete *Ophrys apifera*–insect pathway.
+
+
+## Cross-organism observation: when light input is related to another organism's action
+
+**Jimmy's side note / investigative lead:** We may be witnessing—or approaching—a case in which light received by one organism is connected, through an organized biological process, to an action expressed by a different organism. Preserve this as an important cross-organism question. Do not yet write it as an established *Ophrys apifera* causal pathway.
+
+The phrase **“light becoming an action”** is useful as a compact observation, provided the physical and biological distinctions remain explicit. Light does not literally turn into the second organism or directly become its action. Light is electromagnetic energy. A first organism may absorb it and use photoreceptor-mediated signaling and metabolism to alter its own state or outputs. A second organism may then receive an output—such as a volatile chemical mixture—or may independently receive light through its own visual system. Its own organization processes that input and may produce behavior.
+
+### Three distinct pathways must not be collapsed
+
+**Pathway A — Light received by the plant**
+
+Light → plant photoreceptor / photosynthetic processes → intracellular signaling and physiological state → possible change in development, metabolism, or volatile emission.
+
+This is a biologically plausible class of pathway, but the exact effect of light on the VOC identity, blend ratio, or emission rate of *O. apifera* has not been demonstrated by the species-specific sources assembled in this audit. It remains a direct research question.
+
+**Pathway B — Plant chemical output received by an insect**
+
+Plant VOC emission → atmospheric transport and plume transformation → insect antennal reception → neural processing → possible behavior.
+
+General mechanisms for this pathway are supported in studied plant–insect systems. For *O. apifera*, the complete chain from its measured VOCs to a named insect's sensory response, behavior, and reproductive consequence remains unestablished in the sources examined.
+
+**Pathway C — Light received directly by the insect**
+
+Light → insect photoreceptors / visual processing → possible orientation or behavior.
+
+This is separate from olfactory reception. An insect may use visual information, chemical information, and other sensory inputs together, but the relative contribution and interaction must be tested for the particular species and behavior.
+
+### The discriminating experiment
+
+To test whether light received by *O. apifera* is causally related to an insect's later behavior through plant chemical output, a study would need to separate plant illumination from insect illumination and control the chemical pathway:
+
+1. Expose matched plants or flowers to defined light conditions while controlling temperature, humidity, water status, flower age, and pollination state.
+2. Measure the plant's VOC identity and emission rates under each condition, using blanks, calibration, replication, and time-resolved sampling.
+3. Present the characterized headspace or reconstructed blend to a candidate insect under controlled conditions, with the insect's visual environment held constant.
+4. Test antennal detection separately from behavioral response.
+5. Include controls that distinguish a direct visual effect of light on the insect from a plant-mediated chemical effect.
+6. If behavior changes, test whether it results in pollinia transfer and a measurable reproductive consequence.
+
+A factorial design could vary plant light exposure and insect visual exposure independently. This would distinguish a plant-mediated light → chemistry → insect response from a direct light → insect visual response, and from an interaction between both pathways.
+
+### Bounded recognition within completed GUA-W
+
+The observation brings existing relationships into one cross-organism view:
+
+- **Reception:** each organism receives inputs through its own organized systems.
+- **Activation and Differentiation:** input-specific processes change state and distinguish conditions.
+- **Propagation:** the plant's chemical output can travel through the environment.
+- **Integration:** each organism processes inputs within its own organization.
+- **Expression:** each organism may produce its own measurable output or action.
+- **Witness-state:** investigators register each link separately and do not infer an unmeasured link from the endpoints alone.
+
+This does not add a stage, Gear, State term, or architecture component. It is an investigative recognition across organisms, not a claim that the two organisms share one sensory system or that the mechanism is already demonstrated for this orchid.
+
+### Triple Constraint disposition
+
+- **Biblical compliance:** PASS within scope. The observation does not redefine Scripture or claim that a modern photobiological pathway is the technical meaning of Genesis.
+- **Scientific coherence:** PASS as a research framing and as a distinction among plant photoreception, plant chemical output, insect olfaction, and insect vision. The species-specific causal chain remains unresolved pending direct tests.
+- **GUA-W consistency:** PASS as a bounded recognition of distinct receiving systems, organized processing, propagation between systems, and separate expressions. No architecture change is proposed.
+
+**Working conclusion:** The important possibility is not that light literally becomes another organism's action. It is that energy received by one organism may participate in an organized sequence whose effects become inputs to another organism, which then expresses its own action. The intervening links must be measured. The next investigation should test whether light changes *O. apifera* chemical output and whether that output changes a named insect's response, while separating both from the insect's direct visual response.
