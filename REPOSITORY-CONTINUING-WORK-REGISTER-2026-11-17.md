@@ -555,3 +555,14 @@ Extended the existing light audit with a bounded case study of NASA/JPL's Deep S
 The investigation identifies the connected but differentiated contributions of physics, optical engineering, detector physics, measurement science, information theory, coding, and systems engineering. It records bounded placement within existing GUA-W vocabulary and applies the Triple Constraint. No architecture component, Gear, runtime stage, State term, or universal law was added.
 
 The light audit was read back after writing. Remaining work: if useful, trace the DSOC link budget and modulation/coding chain from the mission's technical papers, with special attention to received photon statistics, detector efficiency, error rates, and the relation between distance and data rate. Do not infer a universal distance-rate law from the milestone table.
+
+
+## 2026-11-19 — Light reception: receiver-dependent energy use and biological signaling
+
+Extended `audits/LIGHT-AS-ENERGY-SIGNAL-AND-BIOLOGICAL-INFORMATION-RECEPTION.md` with Section 16, an evidence integration pass on what makes a receiving system capable of using light. The investigation uses a useful molecular comparison: photolyases use light energy to catalyze DNA repair, while plant sensory cryptochromes use light-triggered flavin-state changes and a reversible photocycle to initiate downstream signaling. The distinction is functional and mechanistic; photon absorption alone does not establish that a molecule is a signaling photoreceptor.
+
+The new pass also examines receiver properties that condition detection and use: spectral selectivity, sensitivity and threshold, signal amplification, noise, adaptation/gain control, temporal response/recovery, and downstream integration. It distinguishes cellular single-photon responses in dark-adapted rods from conscious visual perception, and notes that downstream retinal circuitry can further limit sensitivity. The evidence is not generalized across all receptor families as though their mechanisms were identical.
+
+The investigation recognizes that the same physical input can be absorbed for chemical work, detected as a regulatory cue, or registered by an instrument. The receiving system's structure and operation condition the result. Bounded placement is made within existing GUA-W terms; no new component, Gear, runtime stage, State term, or universal law is added. Triple Constraint status is recorded as PASS within the stated scope.
+
+Sources include the 2024 *Frontiers in Plant Science* cryptochrome photocycle review, the Webvision/NCBI phototransduction review, the 2022 *Journal of Physiology* rod/cone review, and retinal noise/gain-control research. Read-back verification of the new section and register entry remains to be completed.
