@@ -67,11 +67,16 @@ A candidate's strangeness is not evidence of a supernatural cause, a universal m
 
 ### Domain 3 — Astronomy and Cosmology
 
-1. **Black holes:** How do objects form with event horizons, and how are they observed?
-2. **Neutron stars:** How does matter behave at extraordinary densities?
-3. **Cosmic web:** How did galaxies become organized into enormous structures?
+**Completed Investigation I (cross-domain):** [Black Holes](PHYSICS-INVESTIGATION-V-BLACK-HOLES.md). The dedicated Physics investigation remains the detailed record; this entry is cross-listed, not duplicated.
+
+**Completed Investigation II (cross-domain):** [Neutron Stars](PHYSICS-INVESTIGATION-IV-NEUTRON-STARS.md). The dedicated Physics investigation remains the detailed record; this entry is cross-listed, not duplicated.
+
+**Completed Investigation III:** [Cosmic Web](#13-astronomy-and-cosmology-investigation-i--the-cosmic-web) (full investigation recorded in Section 13 of this survey).
+
 4. **Gravitational lensing:** How does gravity bend the path of light?
 5. **Dark matter:** What accounts for gravitational effects not explained by visible matter?
+
+**Domain progress:** Three of five listed subjects are now accounted for, including two cross-domain studies. Gravitational lensing is next in the uncompleted sequence; dark matter follows.
 
 ### Domain 4 — Earth Sciences and Geology
 
@@ -1453,3 +1458,251 @@ The field is scientifically significant because it connects molecular-scale chem
 The central witness from this investigation is the distinction between **building blocks, coordination relationships, network topology, internal voids, accessible porosity, measured performance, and environmental constraints**.
 
 This completes the five selected Chemistry investigations in the initial fifty-investigation survey. It does not complete all of Chemistry as a scientific discipline, and it does not authorize a redesign of GUA-W.
+
+
+---
+
+## 13. Astronomy and Cosmology Investigation I — The Cosmic Web
+
+# Astronomy and Cosmology Investigation I — The Cosmic Web
+
+**Domain:** Astronomy / Cosmology / Large-Scale Structure  
+**Survey position:** Domain 3, first uncompleted investigation after cross-domain deduplication  
+**Prepared:** 2026-11-18  
+**Primary question:** How did the matter distribution of the expanding Universe develop into a multiscale network of galaxy clusters, filaments, walls, and cosmic voids, and how do researchers observe and reconstruct that network?
+
+### 1. Continuity and sequence audit
+
+The survey lists black holes and neutron stars as the first two Astronomy and Cosmology candidates. Both already have dedicated investigations in the Physics domain:
+
+- [Physics Investigation IV — Neutron Stars](PHYSICS-INVESTIGATION-IV-NEUTRON-STARS.md)
+- [Physics Investigation V — Black Holes](PHYSICS-INVESTIGATION-V-BLACK-HOLES.md)
+
+They are legitimate cross-domain subjects, but repeating them as new investigations would duplicate work. They are therefore cross-listed as completed for Astronomy and Cosmology while their original Physics investigations remain the detailed records.
+
+The next candidate in the survey not already investigated is the **Cosmic Web**. This record continues the existing sequence without silently changing the candidate list.
+
+### 2. Purpose and scope
+
+The cosmic web is the large-scale spatial distribution of matter in the Universe. On scales larger than individual galaxies and galaxy groups, matter is commonly classified into:
+
+- **Nodes:** dense regions, often associated with galaxy clusters and intersections of filaments.
+- **Filaments:** elongated structures connecting dense regions.
+- **Walls or sheets:** extended, comparatively thin surfaces surrounding underdense regions.
+- **Voids:** large regions with matter density below the cosmic mean.
+
+These are descriptive categories used to characterize the matter-density field. They are not rigid objects with sharp universal boundaries. Their identification depends partly on scale, smoothing, tracer, and classification method.
+
+This investigation distinguishes observed galaxy positions from the underlying total matter distribution; luminous matter from dark matter; direct measurements from reconstructions and simulations; statistical morphology from any one chosen filament catalogue; and a physical network from metaphorical uses of the word “web.”
+
+### 3. What is actually observed?
+
+Astronomers do not take a photograph of the Universe from outside. They observe light and other signals reaching us from different directions and distances.
+
+A galaxy survey typically measures sky position, brightness, spectra, and redshift. Redshift provides information about cosmic expansion and, after accounting for peculiar velocities and other effects, helps estimate a galaxy's distance. A sufficiently large redshift survey can reconstruct a three-dimensional distribution of galaxies over a volume of the observable Universe.
+
+The result is a map of **galaxy tracers**, not a complete direct census of every particle or all matter. Galaxies form preferentially in dark-matter halos and do not trace the underlying matter field perfectly at every scale. Survey selection, incompleteness, dust, redshift errors, peculiar velocities, and the relationship between galaxies and halos must be modeled.
+
+Complementary methods include:
+
+- **Weak gravitational lensing:** statistical distortions in apparent shapes of background galaxies constrain projected gravitational mass, including dark matter.
+- **Lyman-alpha forest tomography:** absorption in spectra of distant background sources traces intervening neutral hydrogen and can reconstruct three-dimensional structures at high redshift.
+- **X-ray observations:** hot intergalactic and intracluster gas emits X-rays, particularly in dense environments.
+- **Sunyaev–Zel'dovich measurements:** hot electrons in ionized gas distort the cosmic microwave background spectrum, providing a probe of ionized baryons.
+- **Radio and other spectral observations:** trace selected gas phases and galaxy populations.
+
+Each method observes a different component or consequence of the matter distribution. Agreement across independent tracers strengthens a reconstruction; differences can reveal selection effects or missing physical processes.
+
+### 4. How the cosmic web develops in the standard cosmological picture
+
+Within the Lambda Cold Dark Matter (ΛCDM) framework, the early Universe contained small density fluctuations. Gravity amplified these variations as the Universe expanded.
+
+The cosmic web emerges from the growth of these initial fluctuations under gravity, shaped by the anisotropic distribution of matter and the tidal gravitational field.
+
+A simplified picture of anisotropic collapse is:
+
+1. Collapse proceeds first along a direction with the greatest compression, producing a sheet-like feature.
+2. Further collapse along another principal direction can produce an elongated filament.
+3. Continued collapse along the remaining direction can form a denser node or compact structure.
+
+This is associated with the Zel'dovich approximation and later cosmic-web theory. It is a useful dynamical picture, not a universal clock in which every sheet must form first, every filament second, and every node last. Real structure formation is hierarchical, nonlinear, multiscale, and occurs within an expanding Universe.
+
+Small structures can form and merge into larger structures. Matter also accretes diffusely from anisotropic surroundings. The web is dynamic: galaxies and gas move, filaments evolve, halos merge, and voids expand relative to denser environments.
+
+### 5. The role of dark matter
+
+In the standard cosmological model, dark matter contributes most of the matter content and interacts gravitationally. It does not emit or absorb light in the way ordinary luminous matter does.
+
+Dark-matter density fluctuations provide gravitational wells in which ordinary matter can accumulate. Gas cools under suitable conditions, forms stars, and builds galaxies. The resulting galaxy distribution is therefore related to the dark-matter distribution, but it is not a one-to-one copy.
+
+Keep separate:
+
+- **Dark matter:** inferred through gravitational effects and mapped through methods such as weak lensing and dynamical modeling.
+- **Baryonic matter:** ordinary matter, including stars, gas, and dust, observed through electromagnetic and other signals.
+- **Galaxies:** biased tracers of the underlying matter field.
+- **Simulations:** numerical realizations based on specified initial conditions, gravity, cosmological parameters, and, where included, models of baryonic physics.
+
+A simulation is not itself an observation. Its value depends on its equations, initial conditions, numerical resolution, and modeled physical processes, and on how well its predictions compare with independent observations.
+
+### 6. Filaments: transport, not rigid pipes
+
+Filaments are among the most visually striking features of the cosmic web. They connect dense nodes and can channel matter toward groups and clusters.
+
+Matter flows along gravitationally shaped structures, but a filament is not a solid tube or a perfectly defined pipe. Its density, width, temperature, velocity field, and internal substructure vary. Gas in filaments may occupy multiple temperature phases, including the warm-hot intergalactic medium, and may be difficult to detect because it is diffuse.
+
+Recent simulation work emphasizes that filaments are heterogeneous. Their measured properties depend on how the filament is identified, the density field used, the smoothing scale, and the physical components included. Some simulations differ in their predictions for gas distribution, so detailed baryonic structure remains an active research question.
+
+### 7. Voids: underdense regions are not absolute emptiness
+
+Cosmic voids are large regions with matter density below the cosmic mean. They are not literally empty. They may contain galaxies, gas, dark matter, and smaller structures, though at lower density than surrounding walls and filaments.
+
+As structure grows, matter tends to move away from underdense regions toward denser structures. This contributes to the expansion and evolution of voids relative to their surroundings.
+
+Void boundaries are not necessarily sharp surfaces. Their identification depends on the density estimator, tracer population, smoothing scale, and void-finding algorithm.
+
+Voids are useful cosmological probes because their sizes, shapes, distribution, and dynamics depend on the growth of structure and the expansion history of the Universe.
+
+### 8. How researchers identify the cosmic web
+
+There is no single universally mandatory algorithm for classifying every location as a node, filament, wall, or void.
+
+Common approaches include:
+
+- **Density-based methods:** classify regions according to local density and its spatial variation.
+- **Tidal-field methods:** examine eigenvalues and eigenvectors of a gravitational potential or related deformation tensor.
+- **Hessian methods:** use curvature of a smoothed density or potential field to identify sheet-like, filamentary, or node-like environments.
+- **Skeleton methods:** identify ridges or persistent topological features in a density field.
+- **Watershed and void finders:** identify underdense basins and their boundaries.
+- **Graph and topology methods:** quantify connectivity, branching, persistence, and network organization.
+
+Different methods can produce different catalogues from the same underlying data. This is not automatically evidence that the cosmic web is unreal. It means operational definitions, resolution, noise, smoothing, and tracer choices must be reported when comparing results.
+
+A reliable claim about a particular filament or void should identify the data, method, scale, threshold, and uncertainty used to define it.
+
+### 9. Recent research directions and evidence
+
+**2025 synthesis of large-scale structure.** Rita Tojeiro and Katarina Kraljic's review summarizes how redshift surveys and cosmological simulations are used to study relationships between dark-matter halos, galaxies, and the cosmic web. It describes nodes, filaments, walls, and voids as environments emerging from primordial density fluctuations and anisotropic gravitational collapse. The review also emphasizes remaining uncertainty in how halo assembly and cosmic-web environment translate into specific galaxy properties.
+
+**2025 filament structure and simulation dependence.** A study of simulated cosmic filaments using EAGLE and TNG100 examined filament identification and internal properties. It found substantial variation in filament widths, lengths, and densities. It also reported differences between simulated gas-property maps, cautioning against treating one simulation's detailed baryonic predictions as settled.
+
+**2026 dynamics of web components.** A study in *Monthly Notices of the Royal Astronomical Society* examined gravitational forces and tidal fields associated with filaments, walls, cluster nodes, and voids using a large dark-matter-only simulation. It treats the web as a dynamical system whose components contribute to the local gravitational environment. This is simulation-based, not a direct measurement of every force in the observed Universe.
+
+**2026 high-resolution weak-lensing mass mapping.** A *Nature Astronomy* study reported a high-resolution weak-lensing map of dark matter over a field observed with the James Webb Space Telescope as part of COSMOS-Web. The analysis used shapes of background galaxies to infer projected mass and examine the relationship between dark and luminous matter across filaments, clusters, and underdensities. This is a projected mass reconstruction with uncertainties, not a direct photograph of dark matter particles.
+
+### 10. What the cosmic web does and does not establish
+
+The evidence supports the existence of large-scale, interconnected structure in the distribution of galaxies and matter. It supports gravitational growth from early density fluctuations within the standard cosmological framework.
+
+It does not establish that:
+
+- the Universe is a literal biological web;
+- every filament has a sharply defined boundary;
+- all matter is visible in galaxy surveys;
+- galaxy maps perfectly reproduce dark-matter maps;
+- all classification algorithms return identical structures;
+- every feature in a simulation has been directly observed;
+- the exact gas content and temperature of every filament are known;
+- the web is static or a rigid lattice;
+- a network-like appearance proves a universal mechanism shared with unrelated systems;
+- the cosmic web by itself settles every question about the origin, purpose, or ultimate cause of the Universe.
+
+The word “web” is a useful morphological description. It must not be mistaken for a claim that the Universe is literally a net-like object made of strands.
+
+### 11. Evidence status and limits
+
+| Claim | Evidence status |
+|---|---|
+| Galaxies exhibit large-scale clustering into filaments, walls, and dense nodes separated by underdense regions | Strongly established by redshift surveys |
+| The cosmic web is multiscale and dynamically evolving | Strongly supported by observations and simulations |
+| Initial density fluctuations grow under gravity in the expanding Universe | Core result of the standard cosmological framework, supported by multiple cosmological observations |
+| Dark-matter halos and galaxies are associated with cosmic-web environment | Strongly supported; detailed relationships remain active research |
+| Filaments can channel matter toward denser nodes | Supported by simulations and observationally inferred flows; details vary by scale and system |
+| Weak gravitational lensing can map projected mass, including dark matter | Established method; maps carry reconstruction and statistical uncertainties |
+| Every individual filament's gas structure is fully known | Not established |
+| All classification algorithms identify exactly the same cosmic web | False |
+| A cosmic-web simulation is equivalent to a direct observation | False |
+| The cosmic web demonstrates biological purpose, consciousness, or agency | Not established by the scientific evidence |
+
+### 12. Cross-disciplinary relationships
+
+**Physics:** The cosmic web is shaped by gravity, expansion, density perturbations, tidal fields, and motion of matter. It is a large-scale gravitational structure, not a material lattice.
+
+**Mathematics:** Density fields, eigenvalues, differential geometry, graph theory, topology, persistence, and statistical inference help classify and quantify web structure. Algorithm-dependent definitions must be kept distinct from the physical distribution being analyzed.
+
+**Chemistry:** Gas in the cosmic web contains atoms, ions, and molecules whose state depends on density, temperature, radiation, and chemical history. The chemistry of diffuse intergalactic gas is not identical to chemistry in stars, planets, or laboratories.
+
+**Biology:** The cosmic web influences environments in which galaxies and their stars form, but it is not itself a living system. Similar network appearance does not imply biological organization or shared mechanism.
+
+**Information and computation:** Simulations, survey pipelines, statistical reconstruction, and machine learning help infer large-scale structure. Their outputs are models and classifications of observational data, not substitutes for the underlying physical system.
+
+### 13. Examination through the completed GUA-W
+
+This is a bounded recognition within the completed architecture, not a proposal to add a GUA-W component.
+
+**Author → Word → Creation → Witness**
+
+The cosmic web is part of the created physical order being investigated. Astronomers witness its distribution through light, redshift, lensing, gas signals, and other observations. Their maps and simulations are derivative representations of that physical order; they are not the physical structure itself and are not its Author.
+
+**Constraint and realized configuration**
+
+The observed large-scale configuration is studied through initial density fluctuations, gravity, cosmic expansion, matter composition, and subsequent nonlinear evolution. The realized distribution is not inferred from visual resemblance alone. It is reconstructed through measurements and models whose assumptions and limits must be stated.
+
+The correspondence to GUA-W is not that the cosmic web is a new layer, runtime operation, or universal blueprint. It is a bounded recognition that physical structure is investigated through its realized configuration and that witness-records must be distinguished from what they describe.
+
+No new GUA-W layer, Gear, runtime stage, State term, or universal law is introduced.
+
+### 14. Triple Constraint Law assessment
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Disposition |
+|---|---|---|---|---|
+| The observable Universe contains large-scale galaxy and matter structure | No conflict with Genesis 1–2 foundation; scientific description, not reinterpretation of Scripture | Strong observational support | Describes Creation rather than an Original Cause | PASS within scope |
+| Gravity and initial density fluctuations contribute to cosmic-web development | No conflict established within stated scope | Supported within standard cosmological framework | Preserves distinction between physical process and ultimate cause | PASS within scope |
+| Galaxy maps are exact maps of all matter | Not a conclusion supplied by Scripture | Scientifically inaccurate; galaxies are biased tracers | Confuses a witness/representation with the full referent | FAIL |
+| A particular simulation is a direct observation of the Universe | Not a conclusion supplied by Scripture | Scientifically inaccurate | Confuses model with realized physical system | FAIL |
+| The cosmic web is literally a biological or conscious network | Not established by Scripture | Unsupported by evidence | Confuses morphological resemblance with identity or agency | FAIL |
+| The cosmic web provides a bounded example of multiscale physical structure studied through observation and reconstruction | No conflict within stated scope | Supported with methodological limits | Compatible as recognition, not architectural equivalence | PARTIAL / RECOGNITION |
+
+### 15. Findings and unresolved questions
+
+**Findings supported within scope**
+
+1. The cosmic web is a multiscale description of the large-scale matter distribution, commonly classified into nodes, filaments, walls, and voids.
+2. Its development is explained within the standard cosmological framework by growth of primordial density fluctuations under gravity in an expanding Universe.
+3. Anisotropic gravitational collapse and tidal fields help shape the web's morphology.
+4. Galaxies trace the underlying matter distribution imperfectly; dark matter and diffuse gas require complementary observational methods and modeling.
+5. Filaments are heterogeneous and dynamic, not rigid pipes with universal dimensions or boundaries.
+6. Classification methods differ, so scale, smoothing, tracer, and algorithm must be reported.
+7. Weak lensing provides an independent gravitational probe of projected mass, including dark matter.
+8. The broad cosmic-web picture is strongly supported, while detailed gas structure and some environment–galaxy relationships remain uncertain.
+
+**Questions retained for further investigation**
+
+- How do different filament and void identification algorithms compare when applied to the same survey and simulation data?
+- How much of the diffuse baryonic matter in filaments has been directly detected rather than inferred?
+- How do feedback from galaxies and active galactic nuclei alter gas distribution in filaments and nodes?
+- How reliably can weak-lensing maps resolve the dark-matter structure of individual filaments?
+- How do cosmic-web properties evolve across redshift and different cosmological environments?
+- Which observed galaxy-property correlations are causal consequences of the web, and which reflect halo mass, selection effects, or other covariates?
+- How well do current simulations reproduce observed gas temperature, density, and velocity structure of filaments?
+- Which aspects of cosmic-web topology are robust to survey incompleteness, smoothing, and classification choices?
+
+These questions remain open or method-dependent. They should be retained rather than answered by analogy.
+
+### 16. Sources and further reading
+
+1. R. Tojeiro and K. Kraljic, “Large Scale Structure and the Cosmic Web” (2025), arXiv:2503.21759. https://arxiv.org/abs/2503.21759
+2. Y. M. Bahé et al., “Galaxies in the simulated cosmic web - I. Filament identification and properties,” *Astronomy & Astrophysics* (2025). https://doi.org/10.1051/0004-6361/202554079
+3. R. van de Weygaert, “Cosmic web dynamics: forces and strains,” *Monthly Notices of the Royal Astronomical Society* (2026). https://doi.org/10.1093/mnras/stag193
+4. “An ultra-high-resolution map of (dark) matter,” *Nature Astronomy* 10 (2026), 573–582. https://www.nature.com/articles/s41550-025-02763-9
+5. J. R. Bond, L. Kofman, and D. Pogosyan, “How filaments of galaxies are woven into the cosmic web,” *Nature* 380 (1996), 603–606. https://doi.org/10.1038/380603a0
+6. R. van de Weygaert and E. Platen, “Cosmic Void Statistics and the Publicly Available Void Catalogues,” *International Journal of Modern Physics: Conference Series* 1 (2011), 41–52. https://doi.org/10.1142/S2010194511000092
+
+### 17. Final conclusion
+
+The cosmic web is a strongly supported description of the large-scale, multiscale distribution of matter in the Universe. Galaxy surveys reveal its visible tracers; weak lensing, gas observations, and other methods provide complementary information; and cosmological simulations investigate how its structure develops under gravity in an expanding Universe.
+
+The broad morphology is well established. The precise identification of individual filaments and voids, the detailed distribution of diffuse gas, and the causal influence of environment on galaxy evolution remain subjects of active research.
+
+The central witness from this investigation is the distinction between **the physical matter distribution, the processes that shape it, the observational tracers used to map it, the models used to reconstruct it, and the limits of each representation**.
+
+This is the first uncompleted candidate in the Astronomy and Cosmology domain after recognizing that black holes and neutron stars already have dedicated Physics investigations. It records a cross-domain continuation, not a duplicate study and not a redesign of GUA-W.
