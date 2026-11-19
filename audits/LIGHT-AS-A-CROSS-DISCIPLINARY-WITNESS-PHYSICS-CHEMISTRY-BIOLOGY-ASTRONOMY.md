@@ -280,3 +280,104 @@ These are connected interfaces, not one mechanism replacing all disciplinary exp
 - **GUA-W consistency:** no architectural change. The findings remain differentiated scientific witnesses concerning one created phenomenon. No new layer, Gear, runtime stage, State term, or universal mechanism is introduced.
 
 **Working conclusion:** The light investigation has a supported cross-disciplinary foundation, but not every proposed interface has equal evidentiary depth. The evidence is strongest for electromagnetic relationships, spectroscopy, plant light responses, astronomical spectral inference, and satellite radiation measurements. Information-theoretic interpretation and complete end-to-end measurement case studies remain explicit work, not assumed conclusions.
+
+## 17. Case study — tracing sunlight through a leaf to a measured response
+
+**Question:** Can the outward HOW journey be followed through a real biological event, from incident sunlight to a measured change in leaf photosynthesis, while keeping the evidence at each scale distinct?
+
+**Case selected:** the effect of far-red sunlight (701–750 nm) on photosynthesis in leaves, studied by Zhen, van Iersel, and Bugbee (2022). This case is useful because the researchers manipulated part of the incident spectrum, measured leaf gas exchange, characterized the light spectrum, and quantified absorbed photons. It also tests a common simplification: that only photons from 400 to 700 nm contribute to photosynthesis.
+
+### 17.1 Incident radiation — physics and radiometry
+
+Sunlight reaching a leaf contains a distribution of wavelengths and photon fluxes, not one uniform “light” input. Photon energy depends on frequency and wavelength; wavelength, frequency, and photon energy are linked quantities rather than independent confirmations.
+
+For a given spectral band, the incident photon flux is a population-level quantity. The study measured spectral photon distributions with a spectroradiometer and used a calibrated quantum sensor alongside the leaf chamber. This provides the physical input needed to compare treatments.
+
+**Evidence boundary:** the experiment did not track the trajectory of each individual solar photon. It measured spectral distributions and aggregate photon flux under defined conditions.
+
+### 17.2 Leaf interception and absorption — optics and plant structure
+
+Not all incident photons are absorbed. Some are reflected, some transmitted through the leaf, and some absorbed by pigments and other constituents. Absorption depends on wavelength and leaf structure. The study measured leaf reflectance and transmission and used these to estimate absorbed photon flux in the 400–700 nm and 701–750 nm bands.
+
+The distinction matters: incident photon flux is not identical to absorbed photon flux, and neither quantity alone equals the rate of carbon fixation.
+
+### 17.3 Molecular capture and photochemistry — biophysics and biochemistry
+
+In oxygenic photosynthesis, pigment molecules in light-harvesting complexes absorb photons. Excitation energy is transferred among pigments toward photosystem reaction centers. At photosystem II, excitation supports charge separation and electron transfer; the oxidized reaction center is replenished through the water-oxidation machinery. Electron transport through the photosynthetic apparatus contributes to a proton electrochemical gradient, which supports ATP synthesis. Photosystem I contributes to the production of reducing power, including NADPH.
+
+The light reactions therefore convert part of the absorbed radiant energy into chemical energy and reducing equivalents. They do not directly equal the whole-plant growth response. The products of the light reactions are used in carbon assimilation and other metabolic processes, and the rates of light reactions and carbon use can become mismatched under some environmental conditions.
+
+**Evidence boundary:** this molecular sequence is supported by mechanistic research and reviews of photosystem structure and function. The 2022 leaf-filter experiment did not directly image or measure every molecular intermediate in the same leaves during its gas-exchange measurements. The molecular pathway and the whole-leaf response are connected by established research, but they are not one uninterrupted measurement record.
+
+### 17.4 Carbon assimilation — plant physiology
+
+The 2022 study compared photosynthesis with and without most far-red photons. A shortpass filter removed approximately 95% of photons above 700 nm while reducing the 400–700 nm photon flux only slightly; the researchers measured and accounted for that small reduction. A separate UV-filter control tested whether reduced ultraviolet transmission explained the response.
+
+Under full sunlight, removing far-red photons reduced net photosynthetic rate by about 6% in both sunflower (a C3 species) and corn (a C4 species). Under medium sunlight, the reported reductions were about 12% in both species. The study also measured leaf temperature, carbon dioxide conditions, and the spectral distribution, and calculated gross photosynthesis and quantum yield using absorbed photon flux.
+
+The authors reported that far-red photons contributed to photosynthesis in the tested conditions and that the effect was relevant under both full and medium sunlight. Their broader study also measured a tree and an understory species in natural shade conditions.
+
+**Important limits:** these results are not a universal percentage for every plant, leaf, climate, or light environment. The sunflower and corn measurements were conducted under specified experimental conditions, with limited biological replication in some treatments. The authors' calculations also depend on stated assumptions, including the treatment of dark respiration when estimating gross photosynthesis. The result should be reported as a finding from this study, not as an invariant law for all vegetation.
+
+### 17.5 Measured result — independent quantities, linked interpretation
+
+The case contains several different measurements:
+
+| Evidence stage | Quantity or observation | Method in the study | What it supports |
+|---|---|---|---|
+| Incident light | Spectral photon distribution | Spectroradiometer and calibrated quantum sensor | What spectral radiation reached the leaf chamber |
+| Leaf interaction | Reflectance and transmission | Optical measurements | Estimate of how much incident light was absorbed |
+| Environmental control | CO2 concentration, temperature, vapor-pressure conditions | Controlled leaf chamber measurements | Conditions under which the leaf response was compared |
+| Biological output | Net CO2 assimilation | Infrared gas-exchange system | Net carbon exchange under the treatment |
+| Derived physiological quantity | Gross photosynthesis and quantum yield | Calculations from measured gas exchange, respiration estimate, and absorbed photon flux | A model-dependent estimate of photosynthetic performance |
+
+These are linked but not identical measurands. A measured spectrum does not directly measure a molecular excited state; chlorophyll fluorescence does not directly equal carbon fixation; and net CO2 exchange is not itself a direct measurement of photon absorption. The inference becomes stronger when distinct methods constrain connected steps and their uncertainties are stated.
+
+### 17.6 What this case establishes—and what it does not
+
+**Supported by this case and the mechanistic literature:**
+- A leaf receives a wavelength-dependent distribution of solar radiation.
+- A portion of the incident radiation is reflected, transmitted, and absorbed.
+- Photosynthetic pigments and photosystems use absorbed photons to drive photochemistry.
+- The spectral composition of light can affect photosynthetic performance.
+- Gas exchange and optical measurements can quantify parts of the response and test predictions about absorbed photon flux.
+
+**Not established by this case alone:**
+- A continuous observation of one individual photon from the Sun through every molecular step to a carbon atom in a product.
+- A universal response shared by every plant species and environment.
+- That all absorbed light becomes stored chemical energy; excess excitation can be dissipated or contribute to photodamage, and photosynthesis is regulated.
+- That the scientific mechanism settles the ultimate theological WHY or supplies the technical meaning of Genesis 1:3–5.
+
+### 17.7 Cross-disciplinary result
+
+This is a genuine, bounded connection among physics, optics, photochemistry, photosystem biophysics, plant physiology, and measurement science. The connection is not merely that the disciplines use the word “light.” The experimental design links spectral input to absorbed photon estimates and then to measured carbon exchange, while mechanistic studies explain the intermediate photochemical processes.
+
+The strongest conclusion is therefore not “all sciences are one science.” It is: **one leaf-level event can require several differentiated sciences to describe and test its connected stages.** Each discipline contributes evidence at a different scale; the interfaces must be demonstrated rather than assumed.
+
+### 17.8 GUA-W placement — bounded, no architectural addition
+
+This case may be examined using existing GUA-W terms:
+- **Reception:** leaf tissues and photosynthetic pigments encounter and absorb part of the incident radiation.
+- **Activation:** photon absorption produces excited pigment states and initiates photochemical events.
+- **Differentiation:** wavelength, intensity, leaf structure, and photosystem properties condition different outcomes.
+- **Propagation:** excitation transfer and electron/proton transport carry effects through photosynthetic machinery.
+- **Integration:** photosynthetic energy conversion and carbon metabolism operate in relation to environmental conditions and other cellular processes.
+- **Expression:** measurable gas exchange, photochemical activity, and physiological response.
+- **Witness-state:** instruments and investigators register bounded quantities, with calibration, uncertainty, assumptions, and interpretation.
+
+These are analytical placements within existing vocabulary, not a claim that the biological pathway is identical to GUA-W runtime or that the leaf is an authoring agent.
+
+### 17.9 Triple Constraint disposition for this case
+
+- **Biblical compliance:** PASS within scope. The case is not used to redefine Genesis or to claim that photosynthesis proves a theological proposition.
+- **Scientific coherence:** PASS for the bounded connection among incident spectrum, leaf absorption, photosynthetic photochemistry, and measured carbon exchange. The complete molecular-to-whole-leaf chain is assembled from multiple lines of evidence, not directly measured end-to-end in one experiment.
+- **GUA-W consistency:** PASS as a bounded witness placement. No new architecture, Gear, runtime stage, State term, or universal mechanism is proposed.
+
+### Sources for the case
+
+- Zhen, S., van Iersel, M. W., & Bugbee, B. (2022). [Photosynthesis in sun and shade: the surprising importance of far-red photons](https://doi.org/10.1111/nph.18375). *New Phytologist*, 236, 538–546. The article reports the filter manipulation, spectral measurements, leaf gas exchange, absorbed-photon estimates, and treatment results.
+- [Photosynthesis: basics, history and modelling](https://doi.org/10.1093/aob/mcz171). *Annals of Botany* (2020). Review of the sequence from light absorption and excitation transfer through primary photochemistry, electron/proton transport, ATP/NADPH production, and carbon fixation.
+- [Solar energy conversion by photosystem II: principles and structures](https://pmc.ncbi.nlm.nih.gov/articles/PMC10203033/). Review of photon absorption, excitation transfer, charge separation, and photosystem II structure and function.
+- [Photosynthetic Quantum Yield Dynamics: From Photosystems to Leaves](https://pmc.ncbi.nlm.nih.gov/articles/PMC3442578/). Review and experimental synthesis connecting photosystem excitation balance with leaf-level measurements, including gas exchange and chlorophyll fluorescence.
+
+**Working conclusion:** The sunlight-to-leaf case provides an evidence-supported bridge across multiple sciences, but the bridge is assembled from measurements and mechanistic studies at different scales. That limitation is not a weakness to hide; it defines exactly what has been witnessed and what remains to be measured.
