@@ -78,4 +78,4 @@ A newly noticed relationship is investigated in its source context and recognize
 
 ## Repository distinction
 
-This repository is the current presentation and investigation record. The original GUA-W repository is retained as an independent historical source. Its historical wording and records are not silently rewritten by this repository.
+This repository is the current presentation and investigation record. The original GUA-W repository is retained as an independent historical source. Its historical wording and records are not silently rewritten by this repository. AI has write ability inside of this Revised GUA-W only, the original GUA-W repository is retained as an independent historical source.
