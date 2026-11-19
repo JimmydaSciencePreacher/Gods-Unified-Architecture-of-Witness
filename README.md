@@ -136,6 +136,7 @@ The [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) inve
 - [Hebrew Audit — Genesis 2:18–25](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-18-25.md)
 - [Investigation II — The Miracles of and Surrounding Jesus](scriptural-reconstruction/INVESTIGATION-II-MIRACLES-OF-AND-SURROUNDING-JESUS.md)
 - [Investigation II — Master Miracle and Sign Register](scriptural-reconstruction/INVESTIGATION-II-MIRACLE-REGISTER.md)
+- [Works and Signs of Jesus — Internal Unification Synthesis](scriptural-reconstruction/WORKS-AND-SIGNS-OF-JESUS-INTERNAL-UNIFICATION-SYNTHESIS.md)
 - [Investigation III — Passion, Resurrection, Appearances, and Ascension Register](scriptural-reconstruction/INVESTIGATION-III-PASSION-RESURRECTION-REGISTER.md)
 - [Investigation III.1 — The Resurrection of Jesus Christ](scriptural-reconstruction/INVESTIGATION-III-01-RESURRECTION-OF-JESUS-CHRIST.md)
 - [Investigation III.2 — The Breath of the Risen Christ](scriptural-reconstruction/INVESTIGATION-III-02-BREATH-OF-THE-RISEN-CHRIST.md)
