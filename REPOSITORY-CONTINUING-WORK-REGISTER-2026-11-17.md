@@ -577,3 +577,12 @@ The 2024 Kew-authored species account describes pheromone-mimicking chemistry al
 The new section separates four empirical links—emission, detection, behavior, and reproductive consequence—and identifies the discipline-specific measurements needed to connect them. It applies the Triple Constraint and makes a bounded placement within existing terms. No GUA-W architecture component, Gear, runtime stage, State term, or universal law was added.
 
 Sources: Gallego et al. (2012); Fay et al. (2024), *Curtis's Botanical Magazine*; Kew Plants of the World Online; Mant, Peakall & Schiestl (2005), genus-level pollinator odor study. Read-back verification remains to be completed.
+
+
+## 2026-11-19 — Bee Orchid: atmospheric transport of floral volatiles
+
+Extended `audits/WATER-TWO-JOURNEY-INVESTIGATION-BEE-ORCHID-BIOLOGICAL-WITNESS.md` with an evidence section tracing the physical journey from orchid emission through the atmosphere to possible insect reception. It distinguishes advection, molecular diffusion, convection, and turbulent dispersion; explains intermittent odor filaments and mixing; and records wind-tunnel evidence that volatile amounts and compound ratios can change downwind. It also distinguishes the chemical mixture emitted by a flower from the mixture an insect may encounter and the subset its own olfactory receptors can detect.
+
+The evidence uses Conchou et al. (2019) on insect odorscapes and Cai et al. (2022) on wind-driven changes in plant volatile blends. The Cai experiment used a controlled volatile mixture and a wind tunnel, not *Ophrys apifera*. Its results support a general transport principle, not a species-specific Bee Orchid plume or pollinator pathway. The *O. apifera* evidence boundary is preserved: its emitted VOCs have been measured, but the complete chain from its measured blend through atmospheric transport to a named insect's detection, behavior, and reproductive outcome remains unestablished in the sources examined.
+
+The section places emission, propagation, reception, differentiation, integration, and witnessed response within existing GUA-W vocabulary. Triple Constraint is recorded as PASS within the bounded scope. No architecture component, Gear, runtime stage, State term, or universal law is added. The new investigation section was read back and verified. Register entry is now being recorded; verify it after writing.
