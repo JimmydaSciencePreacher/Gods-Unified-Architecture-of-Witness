@@ -235,3 +235,84 @@ Sources for this section:
 - [Fay, Taylor & Sayers (2024), *Ophrys apifera* species account, Curtis's Botanical Magazine](https://onlinelibrary.wiley.com/doi/full/10.1111/curt.12561)
 - [Scientific Reports (2025), Climate change-driven northward expansion of *Ophrys apifera*](https://www.nature.com/articles/s41598-025-15167-6)
 - [Claessens & Kleynen (2002), Investigations on the autogamy in *Ophrys apifera*](https://www.zobodat.at/pdf/Jber-Natwiss-Ver-Wuppertal_55_0062-0077.pdf)
+
+## Species-specific evidence audit — what is known about *Ophrys apifera* scent, reception, and habitat
+
+**Question:** Which parts of the Bee Orchid chemical-reception account have been directly measured in *Ophrys apifera*, which are supported by broader *Ophrys* research, and which still require a species-specific receiver or behavior experiment?
+
+### 1. Direct species-specific chemical measurement
+
+Gallego and colleagues (2012) sampled volatile organic compounds (VOCs) from orchid inflorescences, including *O. apifera*, using dynamic headspace collection with sorbent cartridges and thermal-desorption gas chromatography/mass spectrometry (TD-GC/MS). The authors reported a complex volatile profile. In their *O. apifera* sample, 1-butanol, butyl ether, and caryophyllene were among the three compounds reported as most abundant.
+
+This is direct evidence that the sampled *O. apifera* inflorescence emitted a measurable mixture of volatile compounds under the study's sampling conditions. It is chemical-composition evidence, not a behavioral experiment. The study did not demonstrate that a particular bee species detected those three compounds, that those compounds caused attraction or pseudocopulation, or that they were necessary for pollination.
+
+The study itself emphasizes that VOC profiles can vary with conditions such as day/night, temperature, hydric stress, pollination readiness, post-pollination state, and flower age. Those are relevant variables for future work, but this particular study should not be cited as having experimentally measured all of those effects in *O. apifera*.
+
+### 2. Species-specific evidence versus genus-level evidence
+
+The 2024 *Curtis's Botanical Magazine* species account by Fay and colleagues reports that *O. apifera* produces chemicals described as mimicking female bee pheromones. The same account stresses that the species differs from the familiar *Ophrys* pattern: across much of its range it is predominantly self-pollinating, with the pollinia able to swing into contact with the stigma as a result of air movement.
+
+This supports a cautious species-level statement: *O. apifera* has a floral chemical profile described in the botanical literature as pheromone-mimicking, while autonomous self-pollination is common across much of its range. It does not establish that a particular volatile measured in the 2012 study is the active pheromone mimic, nor that a particular bee species is routinely attracted and causes successful pollination in all populations.
+
+Research on other *Ophrys* species provides strong evidence that floral odor blends can be detected by specific male bee pollinators and can trigger distinct behaviors. For example, Mant, Peakall, and Schiestl (2005) compared floral odor differentiation and pollinator responses in other *Ophrys* pollination systems, including behavioral and electrophysiological evidence involving *Colletes cunicularius*. This is important genus-level context, but it must not be transferred as a demonstrated *O. apifera*–bee behavioral mechanism without direct species-specific tests.
+
+### 3. Habitat gives the light-and-water investigation a real ecological boundary
+
+Kew's Plants of the World Online species information and the 2024 Kew-authored species account describe *O. apifera* across habitats that include dry to wet alkaline or calcareous soils, in full sunlight to light shade. Recorded habitats include grassland, open woodland margins, garrigue, dune slacks, and disturbed calcareous ground such as quarries and railway verges.
+
+This habitat range matters because the orchid is not tied to one fixed light or soil-water condition. The shared light-and-water investigation should therefore avoid a single simplified description such as “the Bee Orchid requires full sun” or “the Bee Orchid requires dry soil.” The documented range is broader.
+
+The habitat records establish occurrence across environmental conditions; they do not by themselves establish the physiological optimum, tolerance limits, or causal effects of light and water on scent production, flowering, or reproductive success.
+
+### 4. Separate the four empirical links
+
+The investigation should keep these questions distinct:
+
+1. **Emission:** Which VOCs does a flower release, in what quantities, and under which measured environmental and developmental conditions?
+2. **Detection:** Does a named insect species detect the emitted mixture? This requires receiver-specific evidence, such as antennal electrophysiology or another validated sensory assay.
+3. **Behavior:** Does detection cause approach, landing, pseudocopulation, or another measurable behavior under controlled and natural conditions?
+4. **Reproductive consequence:** Does that behavior transfer pollinia and increase outcrossing, fruit set, seed set, or offspring genetic diversity in the population?
+
+A result at one level does not automatically establish the next. A compound's presence is not proof of insect detection; detection is not proof of attraction; attraction is not proof of pollination; and pollination is not by itself proof of increased reproductive success.
+
+### 5. Light and water as possible conditioning variables
+
+The 2012 VOC paper identifies day/night, temperature, hydric stress, readiness for pollination, post-pollination state, and flower age as factors that can affect floral volatile profiles in plants. Kew's species account documents *O. apifera* across a range of light exposures and soil moisture conditions.
+
+These sources justify asking whether light and water conditions influence *O. apifera* VOC emission. They do not yet answer that question. A discriminating study would measure, on the same identified plants and flowers:
+
+- incident light quantity and spectral composition;
+- air temperature and relative humidity;
+- soil moisture and substrate properties;
+- flower age and developmental/pollination state;
+- VOC identity and emission rate over a defined collection period;
+- the response of a specified insect receiver, if a relevant receiver is identified.
+
+The study design would need replication across plants, dates, and sites, with suitable air blanks and controls for collection conditions. If insect response is tested, chemical measurement and behavioral trials should be linked to the same characterized floral samples rather than inferred from a species-level scent list.
+
+### 6. Bounded cross-disciplinary placement
+
+- **Chemistry / analytical chemistry:** identifies and quantifies emitted VOCs; method and sampling conditions define what is registered.
+- **Plant physiology:** examines how developmental state, light, water, and stress relate to volatile production.
+- **Atmospheric physics / transport:** examines dilution, wind, temperature, humidity, and movement of volatile molecules through air.
+- **Sensory physiology:** tests whether a specified insect receiver detects the compounds.
+- **Behavioral ecology:** tests whether detection changes insect behavior under defined conditions.
+- **Reproductive biology / population genetics:** tests whether behavior affects pollination, selfing/outcrossing, and reproductive outcomes.
+- **Measurement science:** evaluates blanks, calibration, detection limits, repeatability, and uncertainty.
+
+These disciplines examine connected parts of one biological interaction. No one result substitutes for the measurements required by another discipline.
+
+### 7. Triple Constraint disposition
+
+- **Biblical compliance:** PASS within scope. The biological observations are not used to redefine Genesis or to claim that the orchid's chemical profile is a technical explanation of a Scriptural passage.
+- **Scientific coherence:** PASS for the bounded claims: *O. apifera* VOCs have been measured; the species account describes pheromone-mimicking chemistry and predominantly autonomous self-pollination; broader *Ophrys* research establishes chemical signaling in specific other pollination systems. A direct causal chain from the 2012 measured compounds to a named *O. apifera* pollinator behavior remains unestablished here.
+- **GUA-W consistency:** PASS as a bounded recognition within existing terms. Emission, transport, reception, response, and witness registration can be examined without making a biological receiver the Author or adding an architectural component.
+
+### Sources
+
+- Gallego, E. et al. (2012), [Identification of volatile organic compounds (VOC) emitted from three European orchid species with different pollination strategies](https://citeseerx.ist.psu.edu/document?doi=cfaef4d10e00f662179fb0c6b587cf76ce27d0b8&repid=rep1&type=pdf), *Journal of Biodiversity and Environmental Sciences* 2(5), 18–29. Direct VOC sampling and GC/MS analysis including *O. apifera*.
+- Fay, M. F. et al. (2024), [1106. *Ophrys apifera* Huds.](https://onlinelibrary.wiley.com/doi/full/10.1111/curt.12561), *Curtis's Botanical Magazine* 41(2), 269–278. Species account, habitat, floral chemistry context, and predominantly autonomous self-pollination.
+- Royal Botanic Gardens, Kew, [Plants of the World Online: *Ophrys apifera*](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:647746-1/general-information). Accepted taxon and habitat information.
+- Mant, J., Peakall, R. & Schiestl, F. P. (2005), [Does selection on floral odor promote differentiation among populations and species of the sexually deceptive orchid genus *Ophrys*?](https://pubmed.ncbi.nlm.nih.gov/16153031/), *Evolution* 59(7), 1449–1463. Genus-level evidence linking floral odor differentiation with pollinator response in specified systems; not direct proof of an *O. apifera* receiver pathway.
+
+**Working conclusion:** The Bee Orchid is a strong shared witness for the light-and-water investigation because its habitat spans different light and soil-moisture conditions, and its flowers emit a measurable chemical mixture. The evidence supports emission and a literature-described pheromone-mimicry context, while the exact receiver, active compounds, behavioral response, and reproductive consequence require more specific evidence. The investigation must preserve those distinctions rather than turn a chemical inventory into a complete communication story.
