@@ -316,3 +316,120 @@ These disciplines examine connected parts of one biological interaction. No one 
 - Mant, J., Peakall, R. & Schiestl, F. P. (2005), [Does selection on floral odor promote differentiation among populations and species of the sexually deceptive orchid genus *Ophrys*?](https://pubmed.ncbi.nlm.nih.gov/16153031/), *Evolution* 59(7), 1449–1463. Genus-level evidence linking floral odor differentiation with pollinator response in specified systems; not direct proof of an *O. apifera* receiver pathway.
 
 **Working conclusion:** The Bee Orchid is a strong shared witness for the light-and-water investigation because its habitat spans different light and soil-moisture conditions, and its flowers emit a measurable chemical mixture. The evidence supports emission and a literature-described pheromone-mimicry context, while the exact receiver, active compounds, behavioral response, and reproductive consequence require more specific evidence. The investigation must preserve those distinctions rather than turn a chemical inventory into a complete communication story.
+
+
+## Orchid → atmosphere → insect: the physical journey of a floral volatile
+
+**Question:** After a flower emits volatile organic compounds (VOCs), what happens to them before an insect can detect them? Does the mixture measured at the flower remain unchanged as it travels through air?
+
+### 1. Emission is the beginning, not the complete interaction
+
+A headspace sample collected at a flower characterizes compounds entering the sampled air under the collection conditions. It does not automatically describe the exact mixture, concentration, or timing that an insect encounters at another location.
+
+After emission, volatile molecules are transported and mixed by the surrounding air. Their distribution depends on source strength, wind, turbulence, temperature, vegetation, local topography, and the chemical background. Some compounds may also be transformed or removed during transport. The resulting sensory environment is dynamic in both space and time.
+
+### 2. Three physical processes must be distinguished
+
+- **Advection:** bulk movement of air carries the volatile compounds with the wind. At landscape scales, this is generally the principal means by which airborne plant odors are transported over distance.
+- **Molecular diffusion:** random molecular motion produces net spreading from higher to lower concentration. It matters at small scales and around local concentration gradients, but is much slower than air movement for transport over ordinary outdoor distances.
+- **Turbulent mixing / turbulent dispersion:** irregular air motion stretches, folds, and mixes odor-bearing air with surrounding air. It creates a patchy plume rather than a smooth, stable cone.
+
+Convection and thermal structure can also move air vertically. Vegetation, ground roughness, obstacles, and topography change the local airflow and therefore the plume.
+
+These processes are related but not synonymous. “Diffusion” should not be used as a catch-all label for all odor transport.
+
+### 3. An odor plume is intermittent
+
+A useful model is not a uniform scent gradient. Turbulent air creates filaments or pockets of odor-bearing air separated by intervals with little or no target odor. An insect moving through the plume can encounter a sequence of odor “whiffs” and “blanks.”
+
+The 2019 review *Insect Odorscapes* describes how wind transports odorants downwind, while turbulent vortices mix odor-bearing and cleaner air. The local concentration can fluctuate substantially around its time-averaged value. Insects can use the timing of odor encounters together with wind direction and their own movement to locate a source; they are not necessarily following a smooth concentration gradient.
+
+This has a direct consequence for the investigation: a single average concentration measurement may miss the temporal structure that an insect's antenna actually experiences.
+
+### 4. The mixture itself can change during transport
+
+Cai and colleagues (2022) tested plant volatile blends in a wind tunnel. They collected volatiles at multiple downwind positions and found that:
+
+- the total amounts collected generally decreased with distance from the source;
+- the chemical profiles differed among collection points;
+- profiles nearest the source were most similar to the emitted blend;
+- wind speed changed the spatial distribution of collected compounds; and
+- compound ratios could change even over short transport distances.
+
+This is direct evidence that a plant volatile blend need not remain compositionally identical as it moves through air. The experiment was not performed on *Ophrys apifera*, so its result establishes a transport principle for the tested plant volatile system, not the exact transformation of the Bee Orchid's scent.
+
+A receiver may therefore encounter a changed ratio of compounds, not merely a weaker copy of the original blend. Because insects can respond to combinations and ratios of compounds, this is biologically important.
+
+### 5. The insect's sensory world is species-dependent
+
+The 2019 odorscape review explains that insect species possess different sets of olfactory receptors. Individual receptor types detect only a portion of the volatile chemicals in the environment. The sensory environment available to one insect species is therefore not identical to that available to another.
+
+The review distinguishes:
+- the chemical environment present in the habitat;
+- the subset of compounds detected by a particular insect's receptors;
+- neural processing of receptor activity; and
+- the physiological or behavioral response that follows.
+
+An airborne compound can be present without being detected by a given insect. Detection alone does not prove attraction, and attraction alone does not establish successful pollination.
+
+### 6. Keep the *Ophrys apifera* evidence boundary intact
+
+The existing species-specific audit establishes that a sampled *O. apifera* inflorescence emitted measurable VOCs. It does not establish a complete, species-specific pathway from those measured compounds through atmospheric transport to detection by a named insect and a reproductive outcome.
+
+The broader *Ophrys* literature demonstrates that specific orchid–pollinator systems can involve blends of compounds, receiver-specific responses, and behavioral assays. Those findings are valuable comparative evidence, but the pollinator and active blend in one *Ophrys* species cannot simply be assigned to *O. apifera*.
+
+For *O. apifera*, the next direct test would need to connect the following measurements:
+
+1. Identify the plant, flower age, and developmental/pollination state.
+2. Measure the emitted VOC blend and emission rate at the flower.
+3. Measure wind speed and direction, turbulence, temperature, humidity, and relevant background VOCs.
+4. Collect or measure the plume at defined distances and directions from the flower, with adequate temporal resolution.
+5. Determine whether a specified insect receiver detects the emitted and transported compounds, using an appropriate validated sensory assay.
+6. Test behavior separately, then determine whether the behavior leads to pollinia transfer and measurable reproductive outcomes.
+
+Air blanks, sampling controls, calibration, replication, and detection limits are necessary. If the study uses a wind tunnel, its airflow and boundary conditions must be reported; a controlled tunnel result should not automatically be treated as a complete representation of a natural habitat.
+
+### 7. What this establishes across disciplines
+
+| Discipline | Specific contribution |
+|---|---|
+| Plant physiology / analytical chemistry | Identifies the emitted compounds and measures emission rates |
+| Fluid mechanics / atmospheric physics | Explains advection, diffusion, turbulence, dilution, and plume structure |
+| Atmospheric / analytical chemistry | Examines mixture changes, chemical transformation, and background interference |
+| Sensory physiology | Tests receptor sensitivity and response to particular compounds or mixtures |
+| Neuroethology | Examines temporal processing and how sensory input guides movement |
+| Behavioral ecology | Tests approach, orientation, landing, and other measurable behaviors |
+| Reproductive biology | Tests pollinia transfer, fruit and seed production, and reproductive consequences |
+| Measurement science | Evaluates calibration, blanks, time resolution, detection limits, and uncertainty |
+
+The disciplines are examining connected stages of one real interaction, but their methods and conclusions remain distinct.
+
+### 8. Bounded placement within completed GUA-W
+
+The evidence can be recognized through existing GUA-W terms without adding architecture:
+
+- **Expression:** the flower emits volatile compounds.
+- **Propagation:** air movement transports and disperses the compounds; the plume changes through mixing and other processes.
+- **Reception:** an insect antenna encounters the transported chemical environment.
+- **Activation:** receptor activity changes when an appropriate compound or mixture is detected.
+- **Differentiation:** receptor tuning, concentration, compound ratios, timing, and background odors distinguish possible inputs.
+- **Integration:** sensory and neural systems process receptor activity in context.
+- **Expression:** measurable movement or behavior may follow.
+- **Witness-state:** instruments and observers register bounded evidence, subject to sampling, calibration, temporal resolution, and interpretation.
+
+This is a placement of observed relationships within the already completed architecture. It is not a claim that every insect uses an identical sequence or that this biological pathway is identical to GUA-W runtime.
+
+### 9. Triple Constraint disposition
+
+- **Biblical compliance:** PASS within scope. The atmospheric and biological findings are not used to redefine Genesis or to impose modern chemical terminology on the KJV text.
+- **Scientific coherence:** PASS for the established physics of odor transport, the intermittent character of turbulent plumes, and the wind-tunnel evidence that volatile blend ratios can change during transport. The exact plume and insect receiver pathway for *O. apifera* remain unestablished by the sources examined here.
+- **GUA-W consistency:** PASS as a bounded recognition of emission, propagation, reception, differentiation, integration, and witnessed response. No architecture component, Gear, runtime stage, State term, or universal law is added.
+
+### Sources
+
+- Conchou, L. et al. (2019), [Insect Odorscapes: From Plant Volatiles to Natural Olfactory Scenes](https://pmc.ncbi.nlm.nih.gov/articles/PMC6688386/), *Frontiers in Physiology* 10:972. Review of plant volatile emission, atmospheric transport, insect receptor selectivity, and dynamic odor environments.
+- Riffell, J. A., Abrell, L. & Hildebrand, J. G. (2008), [Physical Processes and Real-Time Chemical Measurement of the Insect Olfactory Environment](https://pmc.ncbi.nlm.nih.gov/articles/PMC2778261/), *Journal of Chemical Ecology* 34:837–853. Review of physical plume processes, insect behavior, and time-resolved chemical measurement.
+- Cai, X. et al. (2022), [Variation in the ratio of compounds in a plant volatile blend during transmission by wind](https://www.nature.com/articles/s41598-022-09450-z), *Scientific Reports* 12:6176. Wind-tunnel measurements of changing volatile amounts and blend composition downwind.
+- [Speciation, pattern recognition and the maximization of pollination: general questions and answers given by the reproductive biology of the orchid genus Ophrys](https://pmc.ncbi.nlm.nih.gov/articles/PMC6579770/). Comparative genus-level context for receiver-specific orchid odor and pollinator behavior; not direct *O. apifera* proof.
+
+**Working conclusion:** The flower emits a chemical mixture, but the atmosphere is an active physical part of the journey. Wind and turbulence transport, dilute, and restructure the plume; the receiving insect encounters an intermittent, potentially altered mixture filtered by its own sensory system. The evidence supports this general mechanism, while the complete *O. apifera* → atmospheric plume → named insect → reproductive outcome chain remains to be demonstrated directly.
