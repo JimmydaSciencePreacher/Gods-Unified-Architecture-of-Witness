@@ -77,6 +77,13 @@ Five evidence-led investigations now examine distinct developmental and regenera
 
 The cases examine plant germination and seasonal persistence, insect development through successive molts, complete metamorphosis, limb regeneration, and vertebrate embryogenesis. Their mechanisms remain distinct. The synthesis compares questions of identity, differentiation, integration, environmental relationship, and persistence while preserving those differences.
 
+### Biological organization and symbiosis audits
+
+- [Biological Organization, Individuality, and Integration — Fungal Networks, Eusocial Insects, Ant–Fungus Agriculture, and Chemical Information Transfer](audits/BIOLOGICAL-ORGANIZATION-INDIVIDUALITY-AND-INTEGRATION-FUNGI-BEES-ANTS.md)
+- [Lichen Symbiosis, Chemical Signaling, and Multipart Integration](audits/BIOLOGICAL-ORGANIZATION-LICHEN-SYMBIOSIS-AND-MULTIPARTNER-INTEGRATION.md)
+
+These investigations examine distinct modes of physical continuity, chemical communication, partner dependence, composite organization, and persistence. They do not assume a common mechanism or erase constituent identities.
+
 ## Cross-disciplinary investigation
 
 We do not attempt to persuade the sciences to adopt GUA-W before they can participate. We investigate each discipline's findings through its own evidence and methods, then use GUA-W as the governing map to examine whether those findings reveal relationships, common order, or mistaken interpretations. GUA-W does not need to make the sciences agree with it; the investigation asks whether their findings, properly understood, reveal the unified order of the One Creation. This is not permission to force a match: preserve domain boundaries, counterevidence, and unresolved questions. See the [Cross-Disciplinary Investigation Principle](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md) and the [Cross-Disciplinary Investigation Worksheet](CROSS-DISCIPLINARY-INVESTIGATION-WORKSHEET.md) for the governing method and its practical record format.
