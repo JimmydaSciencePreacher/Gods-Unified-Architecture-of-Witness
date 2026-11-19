@@ -183,3 +183,122 @@ Sources for this section:
 - [Fay, Taylor & Sayers (2024), *Ophrys apifera* species account, Curtis's Botanical Magazine](https://onlinelibrary.wiley.com/doi/full/10.1111/curt.12561)
 - [Scientific Reports (2025), Climate change-driven northward expansion of *Ophrys apifera*](https://www.nature.com/articles/s41598-025-15167-6)
 - [Claessens & Kleynen (2002), Investigations on the autogamy in *Ophrys apifera*](https://www.zobodat.at/pdf/Jber-Natwiss-Ver-Wuppertal_55_0062-0077.pdf)
+
+## 16. Evidence integration pass — what makes a receiver capable of using light?
+
+**Question:** What determines whether an interaction with light functions primarily as energy transfer, as a biological signal, or as both? What must a receiving system possess to detect, discriminate, and use the input?
+
+The evidence points to the receiving system's organization. Light is the physical input. Its biological role depends on the molecules and pathways that receive it, the transformations that follow, the system's ability to reset or adapt, and the output that can be measured.
+
+### 16.1 A decisive comparison: photolyase and cryptochrome
+
+A 2024 review in *Frontiers in Plant Science* examines the cryptochrome/photolyase protein family and makes a useful distinction.
+
+**Photolyases** use light as an energy source to catalyze repair of UV-damaged DNA. In this role, light supplies energy for a chemical reaction; the enzyme is not functioning as a light-sensing receptor that initiates a broader signaling response.
+
+**Plant cryptochromes**, by contrast, function as photoreceptors. Light absorption changes the flavin cofactor's redox state and is associated with a conformational change in the receptor. The active receptor can interact with downstream signaling partners. The receptor subsequently returns toward its inactive resting state through a dark-reversion process. The rate and lifetime of this photocycle help determine how the receptor responds to light intensity and duration. Temperature, oxygen concentration, and cellular metabolites can also influence the cycle.
+
+This is a particularly useful distinction because the same broad protein family contains light-using enzymes and light-sensing receptors. Photon absorption alone does not tell us which function is occurring. The molecular transformation and its downstream role establish the difference.
+
+**Bounded finding:** energy use and sensory signaling are not mutually exclusive properties of light. They are distinguishable functions of particular receiving systems. A light-absorbing molecule is not automatically a photoreceptor in the signaling sense.
+
+### 16.2 What a functional photoreceptor requires
+
+The 2024 cryptochrome review identifies two essential features of a functional light receptor:
+
+1. **Light-triggered activation:** absorption must cause a chemical transformation that leads to a receptor state capable of initiating biological signaling.
+2. **Recovery or reset:** the receptor must return to an inactive state on a timescale appropriate to its function. If it remains active indefinitely, it cannot continue to report changing inputs; if it resets too quickly, it may fail to produce the required downstream response.
+
+This reversible cycle allows the receptor to respond to changing light conditions rather than simply accumulating an irreversible response to the first photon.
+
+For cryptochromes, the review describes light-driven flavin redox changes, a signaling-active state, dark reversion, and additional modulation by cellular conditions. The specific details differ among photoreceptor families; do not generalize the cryptochrome mechanism to phytochromes, phototropins, UVR8, or animal opsins as though they were chemically identical.
+
+### 16.3 Receiver properties that condition detection and use
+
+Across biological photoreception and engineered measurement, the following receiver properties matter. They are related but not interchangeable:
+
+| Receiver property | What it determines | Example or evidence boundary |
+|---|---|---|
+| **Spectral selectivity** | Which wavelengths can effectively activate the receptor or detector | Plant photoreceptor families respond to different spectral regions; rods and cones have different spectral sensitivities |
+| **Sensitivity / threshold** | How weak an input can be and still produce a distinguishable response | Rod photoreceptors can respond to extremely small photon inputs under dark-adapted conditions |
+| **Signal amplification** | How a small initiating event can produce a larger downstream response | In rod phototransduction, one activated rhodopsin initiates a biochemical cascade that changes many downstream molecules and ion-channel states |
+| **Noise level** | How reliably a real input can be distinguished from spontaneous fluctuations and background | Rod sensitivity depends in part on low intrinsic noise; downstream retinal circuitry can also limit detection |
+| **Adaptation / gain control** | How responsiveness changes with background intensity and recent stimulation | Rod and cone systems differ in sensitivity, speed, dynamic range, and adaptation |
+| **Temporal response and recovery** | How quickly the receiver responds, integrates, and becomes ready for further inputs | Cryptochrome photocycle and rod/cone response and recovery kinetics |
+| **Downstream integration** | How receptor output is combined with other signals and system state | Plant signaling networks and retinal circuits transform receptor outputs into larger physiological or neural responses |
+
+These properties determine whether a receiver can detect a stimulus, distinguish it from other stimuli, and produce a regulated response. They do not automatically establish conscious recognition or semantic understanding.
+
+### 16.4 Vertebrate rods and cones: sensitivity, speed, and noise
+
+Vertebrate retinas use two major classes of photoreceptors:
+
+- **Rods** are highly sensitive and respond relatively slowly. Under dark-adapted conditions, a rod can produce a measurable response to the absorption of a single photon. Their sensitivity is associated with efficient photon capture, low intrinsic noise, and signal amplification.
+- **Cones** respond more rapidly and function across brighter conditions and a broad range of intensities. Their response properties and recovery help support vision in changing and brighter environments.
+
+The rod/cone distinction demonstrates that even within one organism, the same physical stimulus is received through different specialized systems. The receiving cell's molecular composition, noise, gain, and response kinetics condition what can be detected and how the signal is processed.
+
+**Important qualification:** a single-photon response in an individual rod is not equivalent to proof that a person consciously sees a single isolated photon. Perceptual detection depends on photon capture across cells, retinal circuitry, background noise, integration, and the criteria used in psychophysical experiments. Keep the cellular response and conscious perceptual report separate.
+
+A further result from retinal research is that sensitivity is not determined only by the first receptor. At very low light levels, noise and gain control in downstream retinal circuitry can limit ganglion-cell sensitivity. Therefore, a highly sensitive receptor does not guarantee that every receptor event becomes a perceptual event.
+
+### 16.5 The receiver, not the word “information,” does the discriminating
+
+The evidence supports a precise sequence:
+
+**Physical input → selective interaction → molecular or detector-state change → transduction → amplification and/or filtering → adaptation and integration → measurable output.**
+
+This is a descriptive chain for investigating particular receiving systems. It is not a new GUA-W runtime sequence, and it does not imply that every system uses all these steps in the same way.
+
+The word **recognition** must be used carefully:
+
+- In a biological photoreceptor, it can mean that a receptor selectively responds to a stimulus within its sensitivity range.
+- In a neural system, it can refer to progressively more complex processing and perceptual identification.
+- In an engineered receiver, it can mean detection and decoding under a defined signal protocol.
+- In a human interpreter, understanding semantic meaning is a further matter.
+
+These are not interchangeable meanings. A plant photoreceptor can transduce a light cue without conscious understanding. An optical detector can register photons without decoding data. A human can receive a visual signal without correctly identifying what it represents.
+
+### 16.6 Cross-disciplinary result
+
+This pass establishes a connected but differentiated account:
+
+1. Physics characterizes the incident radiation and its energy.
+2. Photochemistry describes the light-induced molecular transformation.
+3. Molecular and cell biology identify receptor activation, transduction, recovery, and downstream pathways.
+4. Physiology measures the response of cells, tissues, and organisms.
+5. Neuroscience examines retinal and subsequent neural processing in animals.
+6. Measurement science evaluates detector response, calibration, noise, and uncertainty.
+7. Information theory can quantify distinguishable signal states and uncertainty, but does not supply semantic meaning by itself.
+
+The strongest new recognition is that **reception is receiver-dependent**. The same physical input can be absorbed for chemical work, detected as a regulatory cue, or registered by an instrument. The receiving system's structure and operation determine the result.
+
+### 16.7 Bounded GUA-W placement
+
+The findings can be examined within existing GUA-W vocabulary:
+
+- **Reception:** a specified receptor or instrument encounters the physical input.
+- **Activation:** the input produces a molecular or detector-state change.
+- **Differentiation:** spectral selectivity, sensitivity, thresholds, timing, and background conditions distinguish possible inputs.
+- **Propagation:** biochemical, electrical, or instrument signals carry the effect through the receiving system.
+- **Integration:** downstream pathways combine the signal with other inputs and system state.
+- **Expression:** a measurable biochemical, physiological, neural, behavioral, or instrument output occurs.
+- **Witness-state:** the output is registered with limits arising from sensitivity, noise, calibration, uncertainty, and interpretation.
+
+This is a bounded placement of observed relationships within the completed architecture. The biological pathway is not identical to GUA-W runtime, and the table does not add a stage, Gear, law, or State term.
+
+### 16.8 Triple Constraint disposition
+
+- **Biblical compliance:** PASS within scope. These scientific findings are not used to redefine Genesis 1:3–5 or 1:14–19, nor to claim that a molecular receptor is the intended technical meaning of Scripture.
+- **Scientific coherence:** PASS for the distinction between photolyase light-energy use and cryptochrome photoreceptor signaling, and for the established rod/cone differences in sensitivity, noise, amplification, and response. The conscious-perception question remains distinct from cellular detection.
+- **GUA-W consistency:** PASS as a bounded recognition within existing terms. The receiving system remains derivative; reception and processing do not become Original Cause.
+
+### Sources
+
+- Aguida et al. (2024), [‘Seeing’ the electromagnetic spectrum: spotlight on the cryptochrome photocycle](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1340304/full), *Frontiers in Plant Science*. Distinguishes photolyase energy use from cryptochrome photoreception and explains activation, signaling, and dark reversion.
+- [Phototransduction in Rods and Cones](https://www.ncbi.nlm.nih.gov/books/NBK52768/), Webvision / NCBI Bookshelf. Reviews photon capture, amplification, noise, and rod sensitivity.
+- Lamb and colleagues (2022), [Photoreceptor physiology and evolution: cellular and molecular basis of rod and cone phototransduction](https://pmc.ncbi.nlm.nih.gov/articles/PMC9790638/), *The Journal of Physiology*. Reviews rod/cone sensitivity, speed, dynamic range, and response kinetics.
+- [Controlling the Gain of Rod-Mediated Signals in the Mammalian Retina](https://pmc.ncbi.nlm.nih.gov/articles/PMC6673884/). Experimental analysis of retinal gain control and noise at low light levels.
+- [Phytochrome Signaling Networks](https://doi.org/10.1146/annurev-arplant-080620-024221), *Annual Review of Plant Biology*. Reviews light sensing and downstream phytochrome signaling networks.
+
+**Working conclusion:** Light itself supplies the physical input, but it does not specify the full outcome. The receiver's selectivity, molecular transformation, recovery, sensitivity, noise, amplification, adaptation, and downstream integration determine what can be detected and how it is used. This is the evidence-based distinction between energy reception and information-bearing biological signaling.
