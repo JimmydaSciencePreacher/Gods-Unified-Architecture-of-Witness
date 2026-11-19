@@ -33,6 +33,12 @@ A candidate's strangeness is not evidence of a supernatural cause, a universal m
 
 **Completed Investigation II:** [Superconductivity](PHYSICS-INVESTIGATION-II-SUPERCONDUCTIVITY.md).
 
+**Completed Investigation III:** [Bose–Einstein Condensation](PHYSICS-INVESTIGATION-III-BOSE-EINSTEIN-CONDENSATION.md).
+
+**Completed Investigation I:** [Quantum Entanglement](PHYSICS-INVESTIGATION-I-QUANTUM-ENTANGLEMENT.md).
+
+**Completed Investigation II:** [Superconductivity](PHYSICS-INVESTIGATION-II-SUPERCONDUCTIVITY.md).
+
 **Completed investigation:** [Physics Investigation I — Quantum Entanglement](PHYSICS-INVESTIGATION-I-QUANTUM-ENTANGLEMENT.md).
 
 1. **Quantum entanglement:** How do separated systems exhibit correlated measurement outcomes?
