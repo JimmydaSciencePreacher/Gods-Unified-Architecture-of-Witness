@@ -566,3 +566,14 @@ The new pass also examines receiver properties that condition detection and use:
 The investigation recognizes that the same physical input can be absorbed for chemical work, detected as a regulatory cue, or registered by an instrument. The receiving system's structure and operation condition the result. Bounded placement is made within existing GUA-W terms; no new component, Gear, runtime stage, State term, or universal law is added. Triple Constraint status is recorded as PASS within the stated scope.
 
 Sources include the 2024 *Frontiers in Plant Science* cryptochrome photocycle review, the Webvision/NCBI phototransduction review, the 2022 *Journal of Physiology* rod/cone review, and retinal noise/gain-control research. Read-back verification of the new section and register entry remains to be completed.
+
+
+## 2026-11-19 — Bee Orchid: species-specific chemical reception and habitat evidence audit
+
+Extended `audits/WATER-TWO-JOURNEY-INVESTIGATION-BEE-ORCHID-BIOLOGICAL-WITNESS.md` with a species-specific evidence audit. The investigation separates direct VOC measurement in *Ophrys apifera* from the behavioral and electrophysiological results established for other *Ophrys* pollination systems. Gallego et al. (2012) measured an *O. apifera* floral volatile mixture using dynamic headspace sampling and TD-GC/MS; 1-butanol, butyl ether, and caryophyllene were among the most abundant compounds in that sampled profile. The study did not test a named bee receiver's detection or behavior, so compound presence is not treated as proof of attraction or pollination.
+
+The 2024 Kew-authored species account describes pheromone-mimicking chemistry alongside predominantly autonomous self-pollination across much of the species' range. Kew habitat information documents occurrence across dry-to-wet calcareous/alkaline soils and full sunlight-to-light shade. These records justify asking whether light, water, temperature, developmental state, and hydric stress condition VOC emission; they do not establish physiological optima or causal effects.
+
+The new section separates four empirical links—emission, detection, behavior, and reproductive consequence—and identifies the discipline-specific measurements needed to connect them. It applies the Triple Constraint and makes a bounded placement within existing terms. No GUA-W architecture component, Gear, runtime stage, State term, or universal law was added.
+
+Sources: Gallego et al. (2012); Fay et al. (2024), *Curtis's Botanical Magazine*; Kew Plants of the World Online; Mant, Peakall & Schiestl (2005), genus-level pollinator odor study. Read-back verification remains to be completed.
