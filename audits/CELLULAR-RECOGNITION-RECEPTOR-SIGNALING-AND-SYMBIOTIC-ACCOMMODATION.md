@@ -162,13 +162,20 @@ This audit therefore does not claim that *O. apifera* uses the same LysM recepto
 
 ## 12. Mechanistic synthesis
 
-The best-supported root endosymbiosis cases support this descriptive chain:
+The best-supported root endosymbiosis cases identify several interacting processes, not one universal one-way chain. These include signal production and release, receptor or sensor interaction, intracellular signaling, gene expression, immune activity, membrane and cell-wall remodeling, accommodation, resource exchange, and persistence.
 
-**Signal production → release and transport → receptor or sensor interaction → intracellular signal transduction → altered gene expression and cell organization → controlled accommodation → persistent exchange and interaction.**
+The relationships among these processes are dynamic:
 
-Each arrow represents a question requiring evidence. A detected chemical does not establish a receptor; receptor binding does not establish a complete pathway; pathway activation does not guarantee successful colonization; and colonization does not by itself establish a higher-level biological individual.
+- Plant nutritional and developmental states can alter root exudates, receptor activity, and the conditions under which microbial signals are received.
+- Microbial signals can alter plant signaling, immune activity, and cellular organization.
+- Plant responses can change microbial access, growth, and subsequent signal exposure.
+- Microbial effectors and secreted compounds can modify host defense and the physical conditions of colonization.
+- Accommodation and resource exchange can change the physiological state of both partners, influencing later interactions.
+- Environmental conditions can affect several of these processes at once.
 
-This chain is a research summary, not a new GUA-W runtime sequence or universal biological law.
+Some events are causally dependent in particular experiments, but that does not establish a fixed order for all symbioses. The same process can participate in feedback, parallel responses, repeated checkpoints, or different outcomes in different organisms. The terms *recognition*, *defense*, *accommodation*, and *integration* remain analytically distinct; their relationships must be established for each biological system.
+
+This is a research map of interacting processes, not a new GUA-W runtime sequence or universal biological law.
 
 ## 13. Bounded recognition within the existing GUA-W
 
@@ -229,6 +236,167 @@ These are bounded correspondences. No Gear, stage, runtime operation, State term
 6. Gough, C., & Cullimore, J. (2011). “Lipo-chitooligosaccharide signaling in endosymbiotic plant-microbe interactions.” *Molecular Plant-Microbe Interactions*. https://doi.org/10.1094/MPMI-01-11-0019  
    Review of reciprocal signal exchange and common symbiosis signaling in arbuscular mycorrhiza and rhizobia–legume interactions.
 
+
+
 ---
 
-**Investigation conclusion:** Cells can detect molecular features through receptor systems and translate detection into intracellular signaling, altered gene expression, and developmental reorganization. In plant root endosymbioses, several parts of this pathway are well characterized. In lichenization, compatibility-dependent development is demonstrated, but the receptor-level mechanism remains unresolved. Recognition, admission, accommodation, and persistent integration are distinct events and must be evidenced separately.
+## 17. Interconnected regulation: beneficial-partner recognition, immunity, and accommodation
+
+### 17.1 The question
+
+How do plant roots support beneficial microbial associations while retaining defenses against pathogens, especially when beneficial and harmful organisms can present chemically related molecular features?
+
+The evidence does not support a simple “friend-or-enemy” switch. Nor does it establish one fixed sequence in which recognition must finish before defense, accommodation, or exchange begins. Plant–microbe relationships involve partially shared pathways, distinct receptor systems, microbial modulation of host responses, host regulation, and environmental context. These processes can interact repeatedly.
+
+The strongest mechanistic evidence comes from model plant–microbe systems, particularly legume roots interacting with rhizobia and arbuscular mycorrhizal (AM) fungi. Findings from these models must not automatically be assigned to lichens, orchids, insects, or every plant lineage.
+
+### 17.2 Distinct receptor systems can discriminate related chemical signals
+
+Bozsoki and colleagues (2017) investigated how the legumes *Lotus japonicus* and *Medicago truncatula* distinguish chitin oligomers associated with fungal recognition from lipochitooligosaccharide (LCO) Nod factors associated with rhizobial symbiosis.
+
+They identified chitin-perception receptors LjLYS6, MtLYK9, and MtLYR4, and distinguished their functions from the Nod-factor receptor systems LjNFR1/MtLYK3 and LjNFR5/MtNFP. Inactivation of the chitin-receptor genes impaired early reactive-oxygen-species responses and defense-gene induction. The mutants were more susceptible to tested fungal and bacterial pathogens, while rhizobial and AM-fungal colonization remained substantially maintained in the tested conditions.
+
+Biochemical work also showed that the LjLYS6 ectodomain binds chitin oligomers, with at least six N-acetylglucosamine units required for optimal binding efficiency.
+
+**Narrow result:** In these tested legumes, distinct receptor systems help separate chitin-triggered defense from Nod-factor-triggered symbiotic signaling. This is strong evidence for receptor-level discrimination in those systems. It is not evidence that every plant uses the same receptor arrangement or that all beneficial and harmful microbes carry uniquely separable signals.
+
+### 17.3 Shared chemical families and overlapping signaling complicate the distinction
+
+The 2025 review by Zhang, Tan, and Wang describes plant symbiosis and immunity as a continuum of partly shared and partly distinct regulatory networks. Both can involve signal perception, cellular remodeling, metabolic rearrangement, and changes in gene expression. The outcomes differ, but the underlying processes are not wholly separate.
+
+The 2026 review by Fougner-Økland, Spezzati, and Parys likewise emphasizes that LysM receptor families perceive several related classes of GlcNAc-derived molecules, including rhizobial Nod factors, fungal LCOs, chitin oligomers, and exopolysaccharide-associated signals. Specificity can depend on chemical modification, chain length, relative abundance, receptor composition, binding dynamics, and the formation of receptor complexes.
+
+Therefore, a chemical family name alone does not determine whether the plant response will be defensive or symbiotic. The receiving organism's receptor repertoire and physiological context matter.
+
+**Qualification:** “Short chitin fragments mean beneficial; long fragments mean harmful” is not a universal classification rule. Signal length is one possible discriminating feature among several, and its significance varies with the plant and microbial system.
+
+### 17.4 Beneficial partners can actively modify host defense
+
+Recognition is not exclusively a host-side event. Microbes can release compounds that alter the host's response.
+
+Zeng and colleagues (2020) studied the AM fungus *Rhizophagus irregularis* and identified RiSLM, a secreted LysM-domain effector. Their experiments found that RiSLM binds chitin oligomers and LCOs, protects fungal hyphae from plant chitinases, and interferes with chitin-triggered plant immune responses. Host-induced silencing of the fungal gene substantially reduced fungal infection and arbuscule abundance in the tested host system.
+
+This provides evidence that a beneficial symbiont can use an immune-modulating mechanism resembling strategies also found among pathogenic fungi. The presence of immune suppression is therefore not, by itself, proof of pathogenicity. Its biological significance depends on the organism, the interaction, the outcome for the host, and the wider evidence.
+
+A related 2013 study by Liang and colleagues found that rhizobial Nod factors could suppress MAMP-triggered immunity in *Arabidopsis thaliana* and other non-legumes, including through reduced levels of pattern-recognition receptors at the plasma membrane. This shows that a microbial signal can alter immune responsiveness even in a plant that does not thereby establish the full legume–rhizobium symbiosis.
+
+**Narrow result:** Beneficial microbes can contribute to the regulation or suppression of host immune responses. Such modulation is one part of a broader interaction and does not alone establish successful symbiosis, compatibility, or benefit.
+
+### 17.5 Recognition is coupled to cell organization and membrane trafficking
+
+A 2026 *Nature Communications* study by Song and colleagues provides a further example of connected processes. In soybean, Nod-factor perception activates the receptor kinase GmSymRKβ, which phosphorylates the Qa-SNARE protein GmSYP111a. The phosphorylation promotes clathrin-mediated endocytosis of the receptor–SNARE complex and links signal perception to membrane trafficking required for infection-thread development. Genetic analyses in soybean and *Lotus japonicus* support a conserved requirement for GmSYP111a in nodule initiation.
+
+This finding connects molecular recognition with the cell's membrane-trafficking machinery. Signal reception is not merely followed by a separate developmental event; receptor activity and the machinery that reorganizes cellular membranes are mechanistically coupled.
+
+The study is specific to the tested legume systems and does not establish that all symbiotic accommodation uses this same SNARE mechanism.
+
+### 17.6 The relationship is reciprocal and context-dependent
+
+The plant and microbial partners influence one another. Plant nutrient status can alter root exudates and the conditions that favor microbial recruitment. Microbial signals can alter plant receptor activity and immune state. Host responses can change microbial access and colonization. Microbial effectors can modify host defenses. Successful accommodation and resource exchange can then change the physiological state of both partners, influencing subsequent signaling and growth.
+
+Environmental conditions, host genotype, microbial strain, developmental stage, nutrient availability, and the surrounding microbial community can affect several of these relationships simultaneously.
+
+The evidence therefore supports a dynamic network of interacting processes, including feedback and repeated regulation—not a single irreversible progression from signal to recognition to acceptance.
+
+### 17.7 Comparative evidence map
+
+| Process or relationship | Evidence in the systems examined | Boundary |
+|---|---|---|
+| Receptor discrimination | Distinct chitin- and Nod-factor receptor functions in *Lotus* and *Medicago* | Not a universal receptor architecture |
+| Shared signal chemistry | Related GlcNAc-derived molecules participate in defense and symbiosis | Chemical family alone does not determine outcome |
+| Immune modulation by a symbiont | RiSLM from *R. irregularis* binds chitin-related molecules and interferes with chitin-triggered defense | Demonstrated in the tested AM-fungal system |
+| Immune modulation by Nod factors | Nod factors suppress MAMP-triggered immunity in tested non-legume plants | Suppression does not equal successful symbiosis |
+| Signal-to-membrane coupling | Nod-factor receptor signaling phosphorylates GmSYP111a and promotes endocytosis in legume nodulation | Specific to tested legume systems |
+| Environmental and physiological feedback | Reviews describe nutrient, hormonal, immune, and microbial-community influences | Relative causal contributions vary and remain under investigation |
+
+### 17.8 What this evidence does and does not establish
+
+**Established within the stated systems:**
+
+1. Plants can use distinct receptor systems to distinguish some related microbial signals.
+2. Symbiotic and immune signaling share components and regulatory features in some plant lineages.
+3. Beneficial microbes can modify or suppress aspects of host immune activity.
+4. Receptor signaling can be directly coupled to membrane trafficking and cellular reorganization.
+5. Host state and environmental conditions influence microbial interaction and persistence.
+
+**Not established:**
+
+1. One universal molecular test by which all plants identify every beneficial partner and pathogen.
+2. A universal friend-versus-enemy classification based on one molecule or one receptor.
+3. That immune suppression always indicates a beneficial association.
+4. That receptor binding alone establishes admission, successful colonization, or mutual benefit.
+5. That one pathway or temporal sequence explains all symbioses.
+6. That mechanisms demonstrated in legumes apply to lichens or *Ophrys apifera* without species-specific evidence.
+
+### 17.9 Interconnected model for continued investigation
+
+The evidence is best represented as interacting domains rather than a one-way chain:
+
+- **Host condition:** nutrient status, development, genotype, immune state, and environmental exposure.
+- **Microbial condition:** identity, developmental state, secreted molecules, cell-wall composition, effectors, and resource requirements.
+- **Recognition machinery:** receptor identity, ligand structure, receptor combinations, and signal dynamics.
+- **Host response networks:** calcium signaling, reactive oxygen species, hormone pathways, transcription, and membrane trafficking.
+- **Physical and metabolic relationship:** entry, accommodation, nutrient exchange, defense, restriction, and persistence.
+- **Feedback:** changes in the host and microbial partners alter later signal production, response thresholds, colonization, and resource exchange.
+
+These domains can influence one another in parallel, reciprocally, and repeatedly. The map does not prescribe a fixed order. Each proposed causal connection must be tested in the relevant organism and experimental context.
+
+### 17.10 Bounded recognition within the completed GUA-W
+
+The investigation is relevant to already-established distinctions and relationships:
+
+- **Distinction:** plant, microbial partner, chemical signal, receptor, immune response, and developmental outcome remain distinguishable.
+- **Differentiation:** related chemical inputs can produce different responses through receptor specificity and context-dependent signaling.
+- **Constraint:** molecular compatibility, receptor availability, nutrient status, immune regulation, and developmental capacity bound the outcomes observed in these biological systems.
+- **Integration:** accommodation and resource exchange can establish functional interfaces between distinct organisms.
+- **Identity and Persistence:** the partners remain distinct biological entities; the duration and stability of their association depend on continuing interactions and conditions.
+
+These are bounded correspondences with existing GUA-W terms. No new architectural component, runtime stage, Gear, State term, or universal biological law is proposed.
+
+### 17.11 Triple Constraint Law
+
+**Biblical compliance:** This investigation does not claim that Genesis 1–2 explicitly describes LysM receptors, Nod factors, fungal effectors, immune suppression, or membrane trafficking. It does not derive molecular mechanisms from Scripture or use these findings to prove Scripture. It preserves the Author → Word → Creation → Witness hierarchy.
+
+**Disposition:** PASS within this bounded descriptive scope.
+
+**Scientific coherence:** The investigation distinguishes primary experimental results from reviews, preserves species and system boundaries, and does not treat receptor recognition, immune modulation, colonization, and mutual benefit as interchangeable. The evidence supports interconnected regulation but not a universal sequence or universal friend–foe detector.
+
+**Disposition:** PASS within the stated scope; cross-lineage generalization and several causal relationships remain unresolved.
+
+**GUA-W consistency:** The findings are related only to established terms. The completed architecture is not modified or reconstructed.
+
+**Disposition:** PASS within the stated scope.
+
+### 17.12 Unresolved questions and next discriminating work
+
+1. How do different plant lineages combine receptor identity, ligand structure, and downstream signaling to distinguish related microbial molecules?
+2. Which receptor combinations are necessary and sufficient for defense or symbiotic responses in each model system?
+3. How do nutrient status, developmental stage, and environmental stress alter receptor expression, immune thresholds, and partner compatibility?
+4. How do beneficial microbial effectors avoid disabling defenses needed to contain pathogens?
+5. Under what conditions does immune suppression support a stable mutualism, and under what conditions does it increase host vulnerability?
+6. How do host responses and microbial behavior feed back on one another during established colonization and resource exchange?
+7. Which mechanisms are shared across AM fungi, rhizobia, lichen-forming fungi, and orchid mycorrhizal partners, and which are lineage-specific?
+8. What measurements distinguish initial recognition, successful accommodation, actual resource exchange, and persistent mutual benefit?
+
+These questions remain open. The next investigation should examine one named system and causal mechanism at a time, then compare the results without assuming a shared mechanism.
+
+### 17.13 Additional sources for interconnected recognition and immunity
+
+7. Bozsoki, Z., et al. (2017). “Receptor-mediated chitin perception in legume roots is functionally separable from Nod factor perception.” *Proceedings of the National Academy of Sciences* 114(38): E8118–E8127. https://doi.org/10.1073/pnas.1706795114  
+   Primary biochemical and genetic evidence for distinct chitin-defense and Nod-factor-symbiosis receptor functions in *Lotus japonicus* and *Medicago truncatula*.
+
+8. Zhang, X., Tan, X., & Wang, E. (2025). “Networks of the symbiosis-immunity continuum in plants.” *Cell Host & Microbe* 33(8): 1256–1275. https://doi.org/10.1016/j.chom.2025.06.009  
+   Review of shared and distinct regulatory networks linking plant symbiosis and immunity.
+
+9. Zeng, T., et al. (2020). “A lysin motif effector subverts chitin-triggered immunity to facilitate arbuscular mycorrhizal symbiosis.” *New Phytologist* 225(1): 448–460. https://doi.org/10.1111/nph.16245  
+   Primary evidence for an AM-fungal LysM effector that binds chitin-related molecules, protects hyphae, and interferes with host immune responses.
+
+10. Liang, Y., et al. (2013). “Nonlegumes respond to rhizobial Nod factors by suppressing the innate immune response.” *Science* 341(6152): 1384–1387. https://doi.org/10.1126/science.1242736  
+    Primary evidence that Nod factors can suppress MAMP-triggered immunity and reduce plasma-membrane pattern-recognition receptor levels in tested non-legume plants.
+
+11. Song, J. H., Yang, M., Jorge, G. L., Kim, D., Agake, S.-I., Traeger, J., Hu, D., Thelen, J. J., & Stacey, G. (2026). “Direct coupling of nod factor signaling to vesicular trafficking initiates legume nodulation.” *Nature Communications* 17: 8663. https://doi.org/10.1038/s41467-026-75535-2  
+    Primary evidence linking Nod-factor receptor signaling, phosphorylation of a Qa-SNARE, endocytosis, and membrane trafficking during legume nodule initiation.
+
+---
+
+**Updated investigation conclusion:** Plant–microbe recognition is not a universal friend-or-enemy switch and does not follow one fixed one-way sequence. Distinct receptors, shared signaling components, microbial immune modulation, host physiology, membrane trafficking, environmental conditions, and reciprocal feedback contribute to different outcomes in different systems. The evidence supports interconnected regulation while preserving the distinctions among detection, defense, accommodation, integration, and persistence.
