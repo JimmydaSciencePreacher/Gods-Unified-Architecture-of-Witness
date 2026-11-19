@@ -233,3 +233,36 @@ Search the original GUA-W repository and the historical development records for 
 Preserve source dates and provenance. Do not treat later AI-generated wording as an original definition. If the source history does not contain an approved operational definition, report that absence plainly and ask Jimmy to determine the intended meaning rather than supplying one.
 
 **Disposition:** This pass identifies a precise source-recovery task. No architectural term, sequence, or definition is changed.
+
+
+## 9. Historical-source comparison — original repository
+
+The original repository, The-Grand-Unified-Architecture-of-Witness-GUA-W-, was checked as an independent historical source, in keeping with the current repository's provenance rule.
+
+### 9.1 What the original SYSTEM_MANIFEST establishes
+
+The original SYSTEM_MANIFEST.md describes:
+- the Author, Word, Creation, GUA-W map, and downstream witnesses;
+- the Triple Constraint Law;
+- a twelve-step diagnostic trace organized into Source/Criterion, Drift, and Output phases;
+- a black-hole information example.
+
+**Critical provenance distinction:** The twelve-step diagnostic trace is not the current completed architecture sequence. The current repository explicitly preserves that distinction. The historical manifest does not provide an authoritative operational definition of the current architectural node Constraint or the Structure hinge.
+
+### 9.2 What the historical AI analysis says
+
+The original file audits/AI Analyze Grand Unified Architecture of Witness (GUA-W).md contains an AI-produced diagram and descriptive glosses, including:
+- foundational concepts organizing constraints into relationships;
+- Structure as the first derived realization;
+- repeatable arrangements following Structure;
+- Framework and Pattern as derived layers.
+
+This is potentially useful historical commentary, but it is explicitly an AI analysis, not an approved source definition from Jimmy. Its wording must not be promoted into the current architecture as authoritative merely because it sounds explanatory.
+
+### 9.3 Historical-source finding
+
+The original repository supplies provenance for the Author/Word/Creation/Witness orientation and the diagnostic trace. The inspected historical material does not settle the exact technical meaning of the current Constraint → Structure relationship.
+
+The source audit therefore remains open. Any useful historical explanation must be identified by its author, date, and status before it is used. In particular, an AI-generated explanation is a derivative witness and cannot silently become the authoritative definition of GUA-W.
+
+**Disposition:** Historical material reviewed; no original file modified. The current repository's completed architecture remains governing for this investigation. The next step is to recover any Jimmy-authored or explicitly approved source wording that predates the AI analysis, or to report that such wording has not yet been located.
