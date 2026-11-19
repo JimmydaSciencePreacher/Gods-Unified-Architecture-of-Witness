@@ -2,7 +2,7 @@
 
 **Review date:** 2026-11-19  
 **Scope:** Documentation quality and the distinction between repository subject matter, project procedures, and governing records.  
-**Status:** Initial review; repository-wide examination remains open.
+**Status:** Active component of the repository-wide witness audit; findings and coverage are maintained as files are examined.
 
 ## 1. Purpose
 
@@ -47,8 +47,14 @@ A documentation review can ask:
 6. Are proposed changes clearly distinguished from adopted project conventions?
 7. Does the document describe the existing GUA-W architecture accurately without silently changing it?
 
-## 6. Current limitation
+## 6. Witnessing and GUA-W placement
 
-This is an initial documentation-quality review. It does not establish that every file has been checked, nor does it certify every claim or cross-reference in the repository. A complete repository audit requires file-by-file coverage and verification of material links between records.
+The repository audit witnesses what the repository reports. Every file, claim, citation, interpretation, and cross-reference is within the scope of that witness: what is stated, where it is stated, what source is offered, how it is connected to other records, and whether another file reports something different.
+
+**Witnessing a claim is not the same as declaring the claim true or placing it within GUA-W.** The audit records the claim faithfully and traces its supporting material. GUA-W's governing framework then provides the place to examine its admissibility and fit under the Triple Constraint Law: Biblical compliance, scientific coherence, and consistency with GUA-W. A claim may be faithfully witnessed while its interpretation, evidence, or placement remains unresolved.
+
+The repository-wide audit is therefore not restricted to a preliminary documentation review. Its scope is the whole repository. File-by-file examination and cross-reference tracing are the means by which that complete witness record is established. Coverage should be recorded transparently as the work proceeds, and the completed audit should account for every tracked file and every material cross-file relationship.
+
+The purpose is not to certify every reported statement as true. It is to ensure that nothing reported is overlooked, misrepresented, disconnected from its source, or silently promoted into GUA-W without examination.
 
 ---
