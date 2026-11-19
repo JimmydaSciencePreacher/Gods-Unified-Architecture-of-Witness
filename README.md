@@ -128,6 +128,7 @@ The [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) inve
 - [Genesis 1–2 — Consolidated Textual Findings](scriptural-reconstruction/GENESIS-1-2-CONSOLIDATED-TEXTUAL-FINDINGS.md)
 - [Genesis 1–2 — Internal Unification Synthesis](scriptural-reconstruction/GENESIS-1-2-INTERNAL-UNIFICATION-SYNTHESIS.md)
 - [Human Will and Salvation — Internal Unification Synthesis](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-INTERNAL-UNIFICATION-SYNTHESIS.md)
+- [Creation, Redemption, and Consummation — Internal Unification Synthesis](scriptural-reconstruction/CREATION-REDEMPTION-CONSUMMATION-INTERNAL-UNIFICATION-SYNTHESIS.md)
 - [Hebrew Audit — Genesis 2:1–3](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-1-3.md)
 - [Hebrew Audit — Genesis 2:7, 2:15–17](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-7-15-17.md)
 - [Hebrew Audit — Genesis 2:4–6](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-4-6.md)
