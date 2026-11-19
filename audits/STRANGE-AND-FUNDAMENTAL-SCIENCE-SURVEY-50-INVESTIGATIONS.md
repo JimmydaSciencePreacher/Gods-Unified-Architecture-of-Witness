@@ -55,13 +55,15 @@ A candidate's strangeness is not evidence of a supernatural cause, a universal m
 
 **Completed Investigation IV:** Autocatalysis (full investigation recorded in Section 11 of this survey).
 
+**Completed Investigation V:** [Metal-Organic Frameworks](#12-chemistry-investigation-v--metal-organic-frameworks) (full investigation recorded in Section 12 of this survey).
+
 1. **Belousov–Zhabotinsky reaction:** How can a chemical reaction produce repeating waves and oscillations?
 2. **Molecular self-assembly:** How do molecules organize into larger structures?
 3. **DNA origami:** How can DNA be used to construct designed nanoscale shapes?
 4. **Autocatalysis:** How can reaction products help generate more of themselves?
 5. **Metal-organic frameworks:** How can crystalline materials contain extensive internal pore networks?
 
-**Domain progress:** Four of the five Chemistry investigations are now recorded. Metal-organic frameworks remain the next and final candidate in this domain.
+**Domain progress:** All five Chemistry investigations are now recorded. The domain-level synthesis remains a separate task and must preserve the differences among the five mechanisms.
 
 ### Domain 3 — Astronomy and Cosmology
 
@@ -1016,3 +1018,438 @@ Autocatalysis demonstrates that a chemical product can participate in accelerati
 The mechanism is not universal, and acceleration alone is not sufficient evidence. The product-to-catalyst relationship must be tested through controlled kinetics, chemical analysis, and mechanistic evidence. The reaction remains dependent on reactants, conditions, and the thermodynamic and physical environment.
 
 The central witness from this investigation is the distinction between **product formation, catalytic feedback, network structure, environmental constraints, and experimentally realized chemical behavior**. Autocatalysis is a well-established chemical phenomenon and a valuable subject for further investigation. It is not, by itself, an explanation of life, a demonstration of agency, or a new component of GUA-W.
+
+
+---
+
+## 12. Chemistry Investigation V — Metal-Organic Frameworks
+
+# Chemistry Investigation V — Metal-Organic Frameworks: Building Extended Networks with Internal Pore Systems
+
+**Domain:** Chemistry / Coordination Chemistry / Supramolecular Chemistry / Porous Materials  
+**Survey position:** Chemistry Investigation V; final candidate in the initial Chemistry sequence  
+**Prepared:** 2026-11-18  
+**Primary question:** How can metal-containing nodes and organic linkers connect into extended coordination networks containing internal voids, and how do composition, geometry, synthesis conditions, and environmental conditions influence the resulting structure and function?
+
+## 1. Purpose and scope
+
+Metal-organic frameworks (MOFs) are a broad family of coordination networks in which metal ions or metal-containing clusters connect with organic ligands. Many form porous materials with internal channels, cages, or cavities. Their composition and architecture can be varied, making them useful systems for studying the relationship between molecular building blocks, extended structure, accessible internal space, and measurable material properties.
+
+MOFs are commonly crystalline, but crystallinity is not a universal requirement in the current IUPAC definition. IUPAC defines a metal-organic framework as a coordination network with organic ligands containing potential voids. The wording accounts for dynamic structures in which temperature, pressure, or other stimuli may change the framework and its accessible porosity.
+
+This investigation distinguishes:
+
+- metal nodes from organic linkers;
+- coordination bonds from covalent bonds within the organic linker;
+- a designed network topology from the structure actually obtained in synthesis;
+- geometric voids from experimentally accessible pores;
+- internal surface area from useful adsorption capacity or selectivity;
+- reversible framework flexibility from irreversible structural collapse;
+- a laboratory demonstration from practical industrial performance;
+- chemical function from biological agency, intention, or purpose.
+
+MOFs are not one material with one mechanism. They are a large and diverse materials family. Different metal centers, linkers, coordination geometries, topologies, defects, and synthesis conditions produce different properties.
+
+## 2. What is a metal-organic framework?
+
+The central architecture combines two broad component classes.
+
+### 2.1 Metal-containing nodes
+
+A node may be a single metal ion or a cluster of metal ions connected by atoms or groups such as oxygen. The metal center's oxidation state, coordination preferences, geometry, and ligand-binding behavior influence the network that can form.
+
+Examples of metals used in MOF chemistry include zinc, copper, zirconium, aluminum, iron, chromium, and others. The choice is not interchangeable: different metals produce different coordination strengths, geometries, redox properties, costs, and environmental or biological considerations.
+
+### 2.2 Organic linkers
+
+Organic linkers are molecules with groups that can coordinate to metal centers. Carboxylate, imidazolate, pyridyl, and other ligand groups are used in different framework families.
+
+A linker can connect two or more nodes. Its length, shape, rigidity, flexibility, functional groups, and binding geometry influence the dimensions and topology of the resulting network.
+
+### 2.3 Coordination bonds and network propagation
+
+Coordination occurs when an electron-pair donor on a ligand interacts with a metal center that can accept electron density. Repeated metal–ligand connections can propagate into one-, two-, or three-dimensional networks.
+
+A useful conceptual distinction is:
+
+**Node + linker + coordination geometry + synthesis conditions → realized coordination network**
+
+This is a description of the chemical construction, not a universal equation predicting every product. Solvent, temperature, concentration, pH, counterions, reaction time, competing ligands, and crystallization kinetics can alter which phase forms.
+
+A structure that looks straightforward on paper may not be obtained experimentally. Competing phases, defects, interpenetration, kinetic trapping, or changes during activation can produce a different realized material.
+
+## 3. How internal pores arise
+
+When nodes and linkers connect in an extended arrangement, their geometry may leave unoccupied regions within the network. These regions can form channels, cages, or interconnected pore systems.
+
+Three concepts must be kept separate:
+
+1. **Geometric void:** Space identified from a structural model.
+2. **Potential pore:** A void that may be accessible depending on the framework's actual configuration and conditions.
+3. **Accessible porosity:** Internal space that a particular probe molecule can reach under specified measurement conditions.
+
+A geometric opening does not guarantee that every molecule can pass through it. Pore windows, framework flexibility, defects, blocked entrances, solvent residues, and molecular size all affect accessibility.
+
+The material can also contain guest molecules in its pores. Solvent or other guests may be present after synthesis and may need to be removed before the framework's porosity becomes accessible.
+
+## 4. Representative MOF structures
+
+### 4.1 MOF-5
+
+MOF-5 is a classic zinc-based framework built from zinc-oxide-containing clusters connected by terephthalate linkers. It became an influential example of how metal-containing nodes and organic linkers can produce an extended porous architecture.
+
+Its structure helped establish the potential of reticular chemistry: connecting molecular building units through selected geometries to create extended networks.
+
+However, MOF-5's sensitivity to moisture is an important practical limitation. A highly porous structure is not automatically a robust one.
+
+### 4.2 HKUST-1
+
+HKUST-1 is a copper-based framework constructed from copper paddlewheel units connected by benzene-1,3,5-tricarboxylate linkers.
+
+It is a widely studied example of a framework with accessible pores and metal sites that can contribute to adsorption and catalytic behavior.
+
+Its properties depend on activation, guest molecules, and environmental conditions. Water exposure and other chemical interactions can affect performance and stability.
+
+### 4.3 ZIF-8
+
+ZIF-8 is a zeolitic imidazolate framework built from zinc nodes and 2-methylimidazolate linkers. Its metal–imidazolate connections produce a topology related to that found in some zeolites.
+
+ZIF-8 is studied for adsorption, separation, catalysis, and other applications. Its framework can show flexibility and dynamic behavior; its effective molecular selectivity cannot always be inferred from a static drawing of its pore openings.
+
+### 4.4 UiO-66
+
+UiO-66 is a zirconium-based framework built from zirconium-containing clusters connected by terephthalate linkers. It is a major example in research on robust MOFs and functionalized frameworks.
+
+Substitution of linker groups can change chemical properties while retaining a related framework architecture. Defects and synthesis conditions can also substantially influence its measured properties.
+
+These examples demonstrate that the term MOF identifies a family, not a single structural pattern or performance profile.
+
+## 5. Synthesis: how researchers make MOFs
+
+MOFs can be prepared by several routes. No single method is appropriate for every framework.
+
+### 5.1 Solvothermal and hydrothermal synthesis
+
+Metal precursors and organic linkers are combined in a solvent and heated, often in a sealed vessel. Temperature, concentration, solvent, reaction time, and acidity influence nucleation, crystal growth, and the phase obtained.
+
+This route is widely used, but solvent choice, energy requirements, reaction time, and scale-up can become significant constraints.
+
+### 5.2 Diffusion and layering methods
+
+In some preparations, reactants are allowed to diffuse toward one another gradually. Slower mixing can influence nucleation and crystal growth, sometimes producing crystals suitable for structural analysis.
+
+### 5.3 Mechanochemical synthesis
+
+Mechanical energy, often supplied by grinding or milling, promotes reaction between solid precursors. Some mechanochemical routes reduce or avoid bulk solvent use.
+
+The actual outcome depends on milling conditions, additives, reaction time, and the specific chemical system. A solvent-reduced process is not automatically environmentally superior in every life-cycle comparison.
+
+### 5.4 Microwave-assisted synthesis
+
+Microwave heating can accelerate some syntheses and alter nucleation or crystal-growth behavior. Its benefits are system-dependent and must be compared with conventional heating under controlled conditions.
+
+### 5.5 Electrochemical synthesis
+
+Electrochemical methods can generate metal species or promote framework formation at an electrode. They can be useful for coatings and supported films, although substrate compatibility, uniformity, and process control remain important.
+
+### 5.6 Why synthesis is not simply assembly by design
+
+A researcher can select a metal, linker, solvent, and target topology. But the final product depends on competing chemical and kinetic pathways.
+
+The target structure is a design objective, not proof that the synthesis produced it. Phase identification, structural characterization, and measurement are necessary.
+
+## 6. Activation and the difference between a synthesized and usable framework
+
+A newly synthesized MOF may contain solvent or guest molecules inside its pores. Researchers often use an activation procedure to remove these molecules.
+
+Activation can involve solvent exchange, heating, vacuum, or other controlled treatments. The correct method depends on the material.
+
+This step is critical because removing guests can expose internal pore space, but it can also damage a fragile framework. Excessive heat, vacuum, or unsuitable solvent exchange may change the structure or collapse the pores.
+
+Therefore, the following are distinct states:
+
+- as-synthesized material;
+- solvent-exchanged material;
+- activated material;
+- material exposed to the intended working environment;
+- material after repeated use and regeneration.
+
+A pore structure measured immediately after activation may not remain unchanged during operation.
+
+## 7. How researchers determine whether the framework exists and works
+
+A proposed MOF requires multiple complementary forms of characterization.
+
+### 7.1 Powder X-ray diffraction (PXRD)
+
+PXRD provides information about crystalline phase identity and long-range structural order. It can help determine whether the expected phase formed and whether the structure changes after activation or exposure.
+
+PXRD alone does not establish accessible porosity, chemical purity, or every local structural feature.
+
+### 7.2 Single-crystal X-ray diffraction
+
+When suitable crystals are available, single-crystal diffraction can provide detailed structural information about atomic positions, connectivity, and framework geometry.
+
+Not every MOF can be obtained as crystals of sufficient size and quality for this technique.
+
+### 7.3 Gas adsorption measurements
+
+Gas adsorption experiments measure how much of a selected gas a material takes up under controlled temperature and pressure conditions.
+
+Nitrogen adsorption at 77 K is commonly used for surface-area and pore-characterization studies. Other probe molecules may be necessary when nitrogen diffusion is restricted or when the intended application involves different gases.
+
+BET surface area is a model-derived quantity, not a direct photograph or simple count of all internal surfaces. The choice of fitting range and assumptions matters.
+
+### 7.4 Thermogravimetric analysis
+
+Thermogravimetric analysis (TGA) measures mass changes during controlled heating. It can help identify solvent loss, guest release, decomposition, and approximate thermal stability.
+
+A temperature at which a sample loses mass is not automatically a universal framework-failure temperature; interpretation depends on the identity of the species leaving and the atmosphere used.
+
+### 7.5 Spectroscopy
+
+Infrared, Raman, X-ray photoelectron, and other spectroscopic techniques can help examine bonding, chemical groups, oxidation states, and changes in the material.
+
+No single spectrum proves the entire proposed framework architecture.
+
+### 7.6 Microscopy and elemental analysis
+
+Electron microscopy can examine morphology and local structure. Elemental analysis and related methods can test composition and identify variations or contaminants.
+
+The strongest structural conclusion combines several methods whose limitations are understood.
+
+## 8. What makes MOFs scientifically and technologically interesting?
+
+### 8.1 Gas storage and adsorption
+
+A porous framework can adsorb gas molecules within its internal space. Capacity depends on pressure, temperature, pore geometry, framework chemistry, and the interactions between gas molecules and the material.
+
+Hydrogen and methane storage have been investigated extensively. High surface area alone does not guarantee practical storage performance; volumetric capacity, operating pressure, heat effects, and delivery conditions also matter.
+
+### 8.2 Carbon dioxide capture and gas separation
+
+MOFs can be designed with pore environments and chemical sites that favor certain molecules over others. This makes them candidates for carbon dioxide capture and separation of gas mixtures.
+
+A meaningful separation assessment must consider selectivity, capacity, diffusion rates, moisture tolerance, regeneration energy, cycling stability, and performance in realistic mixtures rather than ideal single-gas tests alone.
+
+### 8.3 Water harvesting
+
+Some MOFs interact strongly with water vapor and can adsorb water at relatively low humidity. Researchers investigate whether selected materials can capture atmospheric moisture and release it through heating or other regeneration methods.
+
+Performance depends on local humidity, temperature, water uptake, adsorption/desorption kinetics, energy input, durability, and system design. A laboratory adsorption result is not proof of an economical water supply system.
+
+### 8.4 Catalysis
+
+Metal sites, functionalized linkers, and internal pore environments can provide locations for catalytic reactions.
+
+The pore environment may influence which molecules enter, how reactants are oriented, and how products leave. However, researchers must establish whether the active catalyst is actually part of the intact framework or whether the framework decomposes and releases another active species.
+
+### 8.5 Chemical sensing
+
+Changes in fluorescence, conductivity, optical response, or other measurable properties can occur when a guest molecule interacts with a MOF.
+
+Such responses can be used to investigate chemical sensing. Selectivity, detection limits, response time, interference, reversibility, and stability are necessary performance measures.
+
+### 8.6 Biomedical research
+
+MOFs have been investigated for drug delivery, imaging, and other biomedical applications. Their composition and pore structure may permit incorporation and release of selected compounds.
+
+This area has additional constraints: biocompatibility, degradation products, metal-ion release, toxicity, immune response, reproducibility, and clearance from the body. Promising laboratory results do not establish clinical safety or effectiveness.
+
+## 9. Flexibility, breathing, and structural change
+
+One of the most interesting features of some MOFs is that their structure can respond to external conditions.
+
+Changes in pressure, temperature, guest molecules, or chemical environment may cause a framework to expand, contract, rotate, or change its pore accessibility.
+
+This behavior is sometimes described as framework breathing or gate-opening behavior.
+
+A static structural model may therefore be incomplete as a description of the material under operating conditions.
+
+However, not all MOFs are flexible, and not every structural change is reversible. Researchers must distinguish:
+
+- reversible flexibility;
+- a reversible phase transition;
+- irreversible damage;
+- chemical decomposition;
+- loss of accessible porosity without complete framework collapse.
+
+Dynamic behavior can be useful for selective adsorption, but it can also complicate prediction and practical operation.
+
+## 10. Defects and imperfections
+
+A synthesized framework is not necessarily a perfect repetition of an ideal structural model.
+
+Possible defects include missing linkers, missing nodes, incomplete coordination, substitutions, intergrowths, and variations in local composition.
+
+Defects can alter pore size, chemical activity, stability, adsorption, and transport. In some cases, controlled defects are deliberately introduced to create additional accessible sites or change functionality.
+
+The distinction is between a defect that is measured and understood, and an assumed ideal structure that does not represent the actual material.
+
+A reported framework topology does not by itself reveal the full distribution of defects in a sample.
+
+## 11. Limits and engineering challenges
+
+Despite their versatility, MOFs face significant barriers to practical deployment.
+
+### 11.1 Chemical and environmental stability
+
+Some frameworks are vulnerable to water, acids, bases, coordinating gases, or other environmental conditions. Stronger metal–ligand interactions and appropriate framework design can improve robustness, but stability must be tested for the intended operating environment.
+
+### 11.2 Mechanical and processing limitations
+
+Powdered MOFs may need to be formed into pellets, coatings, membranes, or other usable shapes. Shaping can introduce binders, reduce accessible porosity, or affect mass transport.
+
+### 11.3 Scale-up and reproducibility
+
+A synthesis that produces a small laboratory sample may not transfer directly to large-scale production. Mixing, heat transfer, nucleation, solvent recovery, washing, activation, and batch-to-batch consistency can all change with scale.
+
+### 11.4 Cost and sustainability
+
+Metal and linker costs, solvent use, energy consumption, waste generation, regeneration requirements, and end-of-life treatment all matter.
+
+A material should not be described as environmentally beneficial solely because it can adsorb carbon dioxide or capture water. Its complete process and life-cycle context must be assessed.
+
+### 11.5 Real-world performance
+
+Many promising results are obtained under carefully controlled laboratory conditions. Real gas streams contain mixtures, water vapor, impurities, and changing temperatures and pressures.
+
+A material's practical value depends on its performance across repeated cycles and under realistic conditions.
+
+Recent reviews emphasize the gap between discovery and deployment, including synthesis optimization, advanced characterization, processability, scale-up, and techno-economic evaluation.
+
+## 12. What MOFs do not establish
+
+MOF research does not, by itself, establish that:
+
+- every metal–organic combination forms a porous framework;
+- a designed topology is guaranteed to form during synthesis;
+- all internal geometric voids are accessible to every molecule;
+- high surface area automatically means high practical capacity;
+- every MOF is crystalline;
+- all MOFs are stable in water or under ordinary atmospheric conditions;
+- a framework's flexibility is always reversible;
+- a laboratory material is ready for industrial deployment;
+- a porous network is alive or possesses agency;
+- chemical coordination demonstrates intention or consciousness;
+- a MOF provides a new universal law of structure or organization.
+
+A MOF is a chemically realized material whose properties depend on composition, bonding, topology, defects, synthesis, activation, and operating conditions.
+
+## 13. Evidence status and limits
+
+| Claim | Evidence status |
+|---|---|
+| MOFs are coordination networks containing organic ligands and potential voids | Established definition in IUPAC terminology |
+| Metal nodes and organic linkers can form extended coordination networks | Established chemistry |
+| Some MOFs contain accessible internal pores and high specific surface areas | Established experimentally; values depend on material and measurement |
+| MOF structures and pore chemistry can be varied through composition and synthesis | Established, with system-specific limits |
+| Some frameworks undergo guest- or stimulus-dependent structural changes | Established in specific MOFs |
+| MOFs can adsorb and separate selected gases | Demonstrated; performance is material- and condition-dependent |
+| MOFs can be used in selected catalytic and sensing demonstrations | Demonstrated in specific systems |
+| Selected MOFs can adsorb water vapor | Demonstrated; practical water-harvesting performance depends on operating conditions |
+| MOFs are suitable for every industrial gas-separation process | Not established |
+| High surface area alone predicts practical performance | False as a general claim |
+| All MOFs are chemically and mechanically robust | False |
+| All MOFs are crystalline | False under the current IUPAC definition |
+| MOFs demonstrate agency, intention, or consciousness | No scientific evidence establishes this |
+
+## 14. Cross-disciplinary relationships
+
+**Physics:** Adsorption and framework response involve molecular motion, diffusion, intermolecular interactions, thermodynamics, heat transfer, and mechanical response. Structural changes can couple molecular-scale interactions to measurable bulk behavior.
+
+**Mathematics:** Network topology, graph theory, geometry, symmetry, crystallography, and computational modeling are used to describe framework connectivity and possible structures. A mathematically valid network is not proof that a synthesis will produce it.
+
+**Materials science:** MOFs connect chemical composition with porosity, mechanical properties, thermal stability, transport, and processing. They illustrate why a material's internal architecture and its usable engineering form must be examined separately.
+
+**Environmental science:** Carbon capture, gas separation, water harvesting, and pollutant removal are potential application areas. Their environmental value requires complete process, regeneration, durability, and life-cycle analysis.
+
+**Biology and medicine:** MOFs are investigated as carriers and sensing platforms. Their biological interactions must be evaluated through material-specific safety, degradation, and biological testing; chemical complexity is not equivalent to biological function.
+
+**Information and computation:** Computational screening can search large combinations of nodes, linkers, and topologies. Predicted structures and properties remain hypotheses until synthesis and measurement establish what the material actually does.
+
+## 15. Examination through the completed GUA-W
+
+This is a bounded recognition within the completed architecture, not a proposal to add a GUA-W component.
+
+**Author → Word → Creation → Witness**
+
+A MOF is a material within Creation. Its realized coordination network depends on the chemical properties of its constituent nodes and linkers, their bonding relationships, and the conditions under which the material forms.
+
+The researcher can specify a target structure and choose synthesis conditions. The researcher does not thereby guarantee that the target structure will be realized. The actual material must be established through evidence.
+
+**Constraint and realized configuration**
+
+The realized framework depends on metal identity and coordination preferences, ligand geometry, solvent, temperature, concentration, pH, competing species, reaction kinetics, defects, activation, and subsequent environmental exposure.
+
+The proposed topology, experimentally measured structure, accessible pore system, and practical performance are related but distinct.
+
+A model of a framework is not the framework itself. A geometric void is not automatically an accessible pore. A measured adsorption result is not proof of industrial suitability.
+
+A bounded comparison can be made between molecular components, coordination constraints, network formation, and realized material structure. This comparison does not make MOF chemistry identical to a GUA-W operation or introduce a new architectural layer, Gear, runtime stage, State term, or universal law.
+
+## 16. Triple Constraint Law assessment
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Disposition |
+|---|---|---|---|---|
+| Metal nodes and organic linkers form coordination networks | No conflict with the Genesis 1–2 foundation; Scripture is not being used as a chemical mechanism | Established chemistry | Describes a material within Creation, not an Original Cause | PASS within scope |
+| Some coordination networks contain accessible pores | No conflict within the stated scope | Established experimentally | Preserves the distinction between structure and measured properties | PASS within scope |
+| Synthesis conditions influence the realized framework | No conflict within the stated scope | Established chemistry | Preserves the distinction between design intention and realized configuration | PASS within scope |
+| Some MOFs respond dynamically to guests or environmental conditions | No conflict within the stated scope | Demonstrated in specific systems | A bounded observation of material behavior | PASS within scope |
+| Every designed MOF structure must form as intended | Not a conclusion supplied by Genesis 1–2 | Scientifically false as a universal claim | Confuses a proposed representation with the realized material | FAIL |
+| MOFs are universally stable and commercially practical | No conclusion supplied by Scripture | Not established; performance is system-specific | Overgeneralizes from selected demonstrations | FAIL as a universal claim |
+| MOF architecture demonstrates consciousness or intention in matter | Not established by Scripture | Unsupported | Confuses coordination chemistry with agency | FAIL |
+| MOFs offer a bounded example of chemical components forming extended structures under constraints | No conflict within the stated scope | Strongly supported | Useful recognition without architectural identity | PARTIAL / RECOGNITION |
+
+## 17. Findings and unresolved questions
+
+**Findings supported within scope**
+
+1. MOFs are a diverse family of coordination networks built from metal-containing nodes and organic ligands.
+2. Many MOFs contain internal voids and accessible pore systems.
+3. Metal identity, linker geometry, coordination chemistry, synthesis conditions, and defects influence the realized structure.
+4. A target topology or geometric model does not guarantee the experimental product.
+5. Accessible porosity and adsorption performance require experimental characterization.
+6. Some MOFs display dynamic structural behavior in response to guests or environmental conditions.
+7. Gas adsorption, separation, catalysis, sensing, and water harvesting have been demonstrated in selected systems.
+8. Stability, processability, reproducibility, scale-up, regeneration, and economic performance remain important engineering challenges.
+9. MOF chemistry demonstrates extended material organization but does not establish agency, life, or a universal organizing mechanism.
+
+**Questions retained for further investigation**
+
+- How accurately can a target framework topology be predicted from metal-node and linker geometry?
+- Which synthesis variables most strongly determine whether a target phase forms rather than a competing phase?
+- How can researchers measure defects and local structural variation more completely?
+- When does framework flexibility improve selectivity, and when does it reduce practical performance?
+- How can pore accessibility be measured under realistic mixtures and operating conditions?
+- Which framework designs combine high adsorption capacity with low regeneration energy?
+- How can MOFs be shaped and processed without losing the properties that made them attractive?
+- Which synthesis and activation routes can be scaled with acceptable cost, solvent use, and environmental impact?
+- How can long-term degradation, metal leaching, and performance loss be measured consistently?
+- Which computational predictions reliably translate into reproducible experimental materials?
+
+These questions remain open or system-dependent. They should be resolved through appropriate experiments and comparative evidence, not by analogy alone.
+
+## 18. Sources and further reading
+
+1. International Union of Pure and Applied Chemistry, *Compendium of Chemical Terminology (Gold Book)*, “metal-organic framework,” DOI: https://doi.org/10.1351/goldbook.12824
+2. S. R. C. Farha and colleagues' field foundational literature; see H. Furukawa, K. E. Cordova, M. O'Keeffe, and O. M. Yaghi, “The Chemistry and Applications of Metal-Organic Frameworks,” *Science* 341 (2013), 1230444. https://doi.org/10.1126/science.1230444
+3. “Physicochemical characterization of metal organic framework materials: A mini review,” *Heliyon* 10 (2024), e23840. https://doi.org/10.1016/j.heliyon.2023.e23840
+4. “Metal–organic frameworks for biological applications,” *Nature Reviews Methods Primers* (2024). https://www.nature.com/articles/s43586-024-00320-8
+5. “Transitioning metal–organic frameworks from the laboratory to market through applied research,” *Nature Materials* 24 (2025), 178–187. https://www.nature.com/articles/s41563-024-01947-4
+6. “Synthetic Aspects and Characterization Needs in MOF Chemistry – from Discovery to Applications,” *Advanced Materials* (2025). https://doi.org/10.1002/adma.202411359
+7. “Synthetic and analytical considerations for the preparation of amorphous metal–organic frameworks,” *Chemical Science* 15 (2024), 10689–10712. https://doi.org/10.1039/D4SC01433B
+8. “Kinetic stability of metal–organic frameworks for corrosive and coordinating gas capture,” *Nature Reviews Materials* 4 (2019), 708–725. https://doi.org/10.1038/s41578-019-0140-1
+9. G. C. Thaggard et al., “Thermodynamics of metal–organic frameworks: from fundamentals to advanced applications,” *Chemical Society Reviews* 55 (2026), 5707–5727. https://doi.org/10.1039/D6CS00060F
+
+## 19. Final conclusion
+
+Metal-organic frameworks demonstrate how metal-containing nodes and organic linkers can connect through coordination chemistry to form extended networks with internal voids and, in many cases, accessible porosity.
+
+Their properties are not determined by geometry alone. Composition, coordination preferences, synthesis pathways, defects, activation, guest molecules, and operating conditions all influence the realized structure and its behavior.
+
+The field is scientifically significant because it connects molecular-scale chemistry to extended architecture, adsorption, separation, catalysis, sensing, and materials engineering. It also demonstrates the importance of distinguishing a proposed structure from an experimentally realized material and a laboratory result from a practical technology.
+
+The central witness from this investigation is the distinction between **building blocks, coordination relationships, network topology, internal voids, accessible porosity, measured performance, and environmental constraints**.
+
+This completes the five selected Chemistry investigations in the initial fifty-investigation survey. It does not complete all of Chemistry as a scientific discipline, and it does not authorize a redesign of GUA-W.
