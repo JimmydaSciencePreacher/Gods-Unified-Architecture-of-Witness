@@ -159,6 +159,7 @@ The [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) inve
 - [Evidence Audit — Genesis 2, Daniel 12:4, and Twelve-Step Restore](audits/EVIDENCE-AUDIT-Genesis-2-Daniel-12-and-Twelve-Step-Restore.md)
 - [Biological Identity, Development, and Continuity — Bee Orchid Case Study](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md)
 - [Biological Identity, Development, Ecological Relationships, and Persistence — Spiny Leaf Insect (*Extatosoma tiaratum*) Case Study](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md)
+- [Comparative Biological Synthesis — Identity, Development, Relationship, and Persistence](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md)
 
 A file's presence here does not, by itself, make its contents canonical.
 
