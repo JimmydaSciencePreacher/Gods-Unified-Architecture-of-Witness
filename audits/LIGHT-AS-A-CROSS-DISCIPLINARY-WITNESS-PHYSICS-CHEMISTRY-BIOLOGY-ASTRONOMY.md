@@ -182,3 +182,101 @@ Theology's primacy is about ultimate origin and purpose. It does not dictate wav
 The return journey is not reverse causation and does not imply that scientific findings confer authority upon God. It is the Witness's disciplined movement from observed and cross-verified effects toward theological recognition of the Author. The Author remains the Source throughout both journeys.
 
 **Working statement:** The HOW-sciences investigate the same Creation through different glasses. Their findings must be brought together and returned to the Queen of the Sciences, Theology, for examination of the ultimate WHY. Jimmy is the Witness; the Author is not the Witness, and the Witness is not the Author.
+
+## 16. Evidence integration pass — 2026-11-19
+
+**Scope of this pass:** a source-level check of the principal cross-disciplinary claims in sections 3–10. This is a bounded literature and institutional-source review, not a replication of experiments, a complete systematic review, or a claim that every cited paper has been independently reanalyzed. The status below distinguishes a claim's support from the strength and independence of its verification.
+
+### 16.1 Physics — supported
+
+NIST's atomic-spectroscopy reference gives the transition-energy relationship:
+
+`ΔE = hν = hc/λ`
+
+for the relevant photon transition, with wavelength specified in vacuum. The frequency–wavelength relation in vacuum is `c = λν`. These are linked quantities, not three independent observations. The exact SI value of the speed of light is part of the definition of the metre; experimental checks concern measured radiation and predicted interactions, not a fresh measurement of a changing value of `c`.
+
+**Disposition:** the core quantitative relationship is supported. Keep the scope explicit: `c = λν` is the vacuum relation. In a material medium, phase velocity and wavelength differ; frequency remains fixed across a stationary boundary in the usual treatment. Do not write as though the vacuum equation applies unchanged to wavelength inside every medium.
+
+### 16.2 Chemistry — supported at the general spectroscopy level
+
+NIST describes spectroscopy as using light–matter interaction to obtain information, and NASA's spectroscopy explanation describes element-specific atomic absorption and emission lines and molecular absorption bands associated with electronic, vibrational, and rotational energy changes. These sources support the audit's general account of spectral analysis.
+
+**Qualification:** a spectral feature is not automatically a unique, unambiguous identification in a complex sample. Overlap, temperature, pressure, molecular environment, optical depth, instrument response, calibration, and the model used for fitting can affect interpretation. Concentration estimates require an appropriate quantitative method and calibration; intensity alone is not a universal concentration meter.
+
+**Disposition:** retain the general claim. State identification and quantification as model- and calibration-dependent inferences, not automatic readings from a spectrum.
+
+### 16.3 Biology — supported, with two distinct light functions
+
+The 2024 *Plant Physiology* review explicitly distinguishes sunlight as the energy source for photosynthesis from sunlight as a source of signals regulating plant growth, development, and adaptation. It describes phytochrome and cryptochrome pathways and recognizes phototropin and UV-related receptors as additional systems. The broader plant photoreceptor review describes receptor-specific responses to different spectral regions and the signaling steps following photon capture.
+
+This supports the audit's distinction between:
+- photon absorption and energy conversion in photosynthetic machinery; and
+- photoreceptor-mediated signaling that changes cellular regulation and development.
+
+These functions can interact, but they are not interchangeable. Nor should the phrase “plants use light as information” imply conscious interpretation. It means that biological systems detect signal differences and transduce them into regulated responses.
+
+**Disposition:** supported at the review level. A later deeper pass should select specific experimental systems and trace the primary experiments for photosynthetic action spectra, photoreceptor activation, and downstream responses rather than treating all plants or all wavelengths as one mechanism.
+
+### 16.4 Astronomy — supported as inference from received radiation
+
+NASA's spectroscopy material explains how absorption and emission features can be used to infer composition and other properties of astronomical sources. NASA's account of Doppler shifts supports the use of systematic spectral-line shifts to infer radial motion. These are inferences from received radiation interpreted against laboratory references and physical models.
+
+**Qualification:** composition, temperature, velocity, density, and magnetic-field estimates do not all arise from the same spectral feature or a single universal procedure. They depend on wavelength range, line formation, source conditions, intervening material, instrument calibration, and model assumptions. Polarization and time variation require their own measurement and interpretation methods.
+
+**Disposition:** the audit's general statement that astronomy uses electromagnetic radiation as evidence from distant objects is supported. The list of inferred properties should remain qualified by the relevant method and model.
+
+### 16.5 Earth science and climate — supported, with an important measurement distinction
+
+NASA's Clouds and the Earth's Radiant Energy System (CERES) documentation describes satellite measurements of reflected shortwave solar radiation and emitted longwave thermal radiation. The CERES project combines these measurements with other satellite observations and inputs to produce radiation-budget products at multiple spatial and temporal scales. NASA also explicitly notes that estimates of Earth's energy flows have uncertainty and draw on satellite observations, ground observations, and numerical models.
+
+**Important distinction:** CERES radiometers measure radiance in their instrument channels and viewing geometry. Global or top-of-atmosphere fluxes and surface-budget products require angular conversion, sampling, auxiliary observations, and retrieval/model procedures. Therefore, do not describe every global energy-budget quantity as a direct sensor reading.
+
+**Disposition:** supported. Retain the explicit qualification that energy-budget estimates are products of observations and analysis, with uncertainty.
+
+### 16.6 Measurement and information — partially supported; separate the questions
+
+NIST's metrological-traceability guidance states that traceability belongs to a measurement result and requires a documented, unbroken chain of calibrations, each contributing to measurement uncertainty. It also emphasizes that an instrument having a calibration certificate does not by itself make every result traceable. NIST's radiometric calibration guidance identifies noise and signal-to-noise ratio as contributors to measurement uncertainty.
+
+These sources support the audit's statements about calibration, detector response, noise, sensitivity, and uncertainty.
+
+The broader information-science claim—that a pattern can carry information relative to an encoding, channel, and receiver—is plausible and consistent with established information theory, but this pass has not yet traced that claim to a primary information-theory source or worked through a quantitative optical-communication example.
+
+**Disposition:** measurement claims supported; information-theory section remains **partially checked**. Keep physical signal, statistical information, inferred evidence, and semantic meaning distinct. Do not say that a photon inherently contains a human-readable message or that biological response establishes conscious understanding.
+
+### 16.7 Mathematics — supported as quantitative description, not as an independent physical cause
+
+The relationships among frequency, wavelength, photon energy, and measured spectral features are quantitatively expressed and tested within their stated physical domains. NIST's spectroscopy reference provides the relevant linked equations and units.
+
+**Qualification:** because these equations are used across several disciplines, their appearance in multiple disciplinary descriptions is not by itself multiple independent confirmations. Independent checks require distinct measurements, calibrated instruments, different experimental arrangements, or successful predictions against data not used to fit the model.
+
+**Disposition:** supported as mathematical description of measured relationships. The philosophical question of why mathematical structures describe the physical world remains open and is not settled by these equations.
+
+### 16.8 Cross-disciplinary integration — current result
+
+The evidence supports a bounded connected account:
+
+1. Physical radiation is characterized by measurable spectral properties and carries energy.
+2. Matter interacts with radiation in ways that depend on its structure and state; spectroscopy uses those interactions to investigate matter.
+3. Living systems absorb and respond to selected portions or patterns of radiation through distinct photosynthetic and sensory pathways.
+4. Astronomical instruments receive radiation from distant sources; physical models and calibrated spectral references support inferences about those sources.
+5. Earth-observing instruments measure reflected solar and emitted thermal radiation; radiation-budget products combine measurements with retrieval and analysis methods.
+6. Mathematics expresses relationships among measured quantities, while metrology evaluates calibration, traceability, and uncertainty.
+
+These are connected interfaces, not one mechanism replacing all disciplinary explanations. The strongest shared interface in this pass is **radiation–matter interaction and its measurement**. Biological signaling and information processing are further, receiver-dependent layers of investigation. The same word “light” does not erase differences among photon absorption, chemical transition, organismal response, astronomical inference, and information decoding.
+
+### 16.9 Open verification tasks
+
+- Trace the information-theory claim to Shannon's original formulation and a modern optical-communication treatment; distinguish Shannon information from semantic meaning.
+- Select one specific spectroscopic case and follow its complete chain: source, interaction, detector, calibration, uncertainty, inference, and independent check.
+- Select one plant photoreceptor and one photosynthetic reaction pathway; trace each from primary experimental evidence without merging sensory signaling and energy conversion.
+- Examine one astronomical inference (for example, radial velocity from spectral-line shift) from laboratory reference through instrument calibration and model fitting.
+- Examine one CERES data product from instrument radiance through angular conversion and uncertainty to the published radiation-budget quantity.
+- Compare independent measurements only where they target the same measurand or a clearly linked prediction; do not count repeated use of the same equation or source as independent confirmation.
+
+### 16.10 Triple Constraint status after this pass
+
+- **Biblical compliance:** no change. The scientific findings are not used to redefine Genesis 1:3–5 or 1:14–19.
+- **Scientific coherence:** **PASS within the bounded claims above; PARTIAL for the broader information-theory claim and the still-open primary-source case studies.** The qualifications in this section are part of the disposition.
+- **GUA-W consistency:** no architectural change. The findings remain differentiated scientific witnesses concerning one created phenomenon. No new layer, Gear, runtime stage, State term, or universal mechanism is introduced.
+
+**Working conclusion:** The light investigation has a supported cross-disciplinary foundation, but not every proposed interface has equal evidentiary depth. The evidence is strongest for electromagnetic relationships, spectroscopy, plant light responses, astronomical spectral inference, and satellite radiation measurements. Information-theoretic interpretation and complete end-to-end measurement case studies remain explicit work, not assumed conclusions.
