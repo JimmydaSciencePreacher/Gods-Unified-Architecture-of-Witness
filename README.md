@@ -71,6 +71,7 @@ Three evidence-led investigations now examine distinct developmental patterns wi
 - [Bee orchid — *Ophrys apifera*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md)
 - [Spiny leaf insect — *Extatosoma tiaratum*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md)
 - [Butterfly metamorphosis — Lepidoptera](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md)
+- [Axolotl limb regeneration — *Ambystoma mexicanum*](audits/BIOLOGICAL-IDENTITY-REGENERATION-AND-CONTINUITY-AXOLOTL-LIMB.md)
 - [Comparative biological synthesis](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md)
 
 The cases examine plant germination and seasonal persistence, insect development through successive molts, and complete metamorphosis with a pupal stage. Their mechanisms remain distinct. The synthesis compares questions of identity, differentiation, environmental relationship, and persistence while preserving those differences.
