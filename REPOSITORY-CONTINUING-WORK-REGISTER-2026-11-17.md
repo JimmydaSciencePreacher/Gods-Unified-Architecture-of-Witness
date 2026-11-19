@@ -505,3 +505,35 @@ Added `audits/WHY-ONE-CREATION-REQUIRES-DIFFERENTIATED-SCIENCES-UNITY-REDUCTION-
 ## 2026-11-19 — Ultimate aim clarified: cross-scientific convergence under the Queen of the Sciences
 
 Expanded `audits/WHY-ONE-CREATION-REQUIRES-DIFFERENTIATED-SCIENCES-UNITY-REDUCTION-EMERGENCE-INTEGRATION.md` to record the user's intended destination: the How sciences investigate the same Creation through different methods and lenses; their findings are to be cross-verified and integrated where evidence permits, then the resulting GUA-W interpretation is examined under the Queen of the Sciences, defined operationally here as Scripture with literal KJV Genesis 1–2 as the governing Creation foundation. The audit distinguishes scientific cross-verification from Scriptural verification, gives an eight-step convergence procedure, and states that scientific convergence does not mean exhaustive human knowledge or containment of the Author in a scientific model. This clarifies the research aim; it does not add or alter GUA-W architecture.
+
+
+## 2026-11-19 — Cross-disciplinary light-and-water workstream recorded
+
+The repository's cross-disciplinary program has advanced beyond the 2026-11-18 rebaseline. The following records are now present and linked from the Repository Map:
+
+- `audits/INTERDISCIPLINARY-CONVERGENCE-DIFFERENT-SCIENCES-ONE-CREATED-ORDER.md` frames the central question as whether differentiated sciences investigate distinct properties and relationships of the same Creation. It corrects a linear science-to-science sequence in favor of a relational model.
+- `audits/LIGHT-AS-A-CROSS-DISCIPLINARY-WITNESS-PHYSICS-CHEMISTRY-BIOLOGY-ASTRONOMY.md` examines light across physics, chemistry, biology, astronomy, Earth science, information, and mathematics.
+- `audits/LIGHT-AS-ENERGY-SIGNAL-AND-BIOLOGICAL-INFORMATION-RECEPTION.md` distinguishes physical energy transfer, signal, information relative to a receiver, and biological response. It includes a Bee Orchid case extension.
+- `audits/LIGHT-RETURN-JOURNEY-GENESIS-1-3-19-THEOLOGICAL-WHY.md` records the Scriptural return journey and keeps Genesis 1:3–5 distinct from Genesis 1:14–19.
+- `audits/WATER-TWO-JOURNEY-INVESTIGATION-BEE-ORCHID-BIOLOGICAL-WITNESS.md` opens the paired water investigation across physical, chemical, geological, atmospheric, hydrological, biological, ecological, and mathematical domains, using *Ophrys apifera* as a shared biological witness.
+
+The governing method is also supported by `CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md` and `CROSS-DISCIPLINARY-INVESTIGATION-WORKSHEET.md`. The 2026-11-19 additions to the mathematics, differentiated-sciences, and one-Creation investigations are recorded above in this register.
+
+### Current cross-disciplinary disposition
+
+These records establish an active research program and document candidate relationships; they do **not** establish that every domain has been independently source-verified, that all findings have converged, or that a universal mechanism has been found. The light and water records are investigations in progress. The Bee Orchid is a shared biological case, not a proxy for all organisms or a proof of a predetermined result.
+
+### Next work — evidence integration, not architecture construction
+
+1. **Cross-check the light claims by discipline.** Verify the primary scientific sources and the scope of each claim in physics, chemistry, biology, astronomy, Earth science, information, and mathematics. Distinguish direct results from explanatory analogies and identify where measurements are genuinely comparable.
+2. **Cross-check the water claims by discipline.** Verify water's physical and chemical properties, movement and storage, and biological roles using sources appropriate to each domain. Keep hydrology, meteorology, geology, oceanography, plant physiology, and ecology distinct while identifying supported connections.
+3. **Audit the shared Bee Orchid case.** Separate species-specific findings about *Ophrys apifera* from general plant or *Ophrys* claims. Keep light reception, water relations, floral chemistry, insect response, pollination, and reproductive outcome as distinct questions unless evidence connects them.
+4. **Build a bounded comparison of light and water.** Identify the actual shared variables, coupled processes, measurement scales, and causal links. Record non-overlap and unresolved questions as carefully as convergence.
+5. **Complete the return journey only from verified findings.** Examine the resulting evidence under the relevant KJV passages and Triple Constraint Law. Do not translate modern scientific categories into Genesis as though they were the text's original technical vocabulary.
+6. **Then extend the method to other phenomena.** Select the next subject based on a clearly stated question and available evidence, not on a desire to force every discipline into one explanatory mechanism.
+
+The 2026-11-18 work order remains a historical record for the Scriptural and canonical investigations it covers. This 2026-11-19 cross-disciplinary workstream is an additional current line of work; it does not cancel U-008, the Genesis 1–2 claim-level audit, the remaining Investigation II classifications, or other bounded unresolved questions.
+
+### Editorial note
+
+The Water investigation currently contains appended subsections numbered “4” and “5” after its original section 10. This does not change the research content, but the numbering should be normalized in a later, separate editorial-only batch after confirming all internal references. Do not combine that formatting correction with evidence review.
