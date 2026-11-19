@@ -617,3 +617,14 @@ Extended `audits/LIGHT-AS-ENERGY-SIGNAL-AND-BIOLOGICAL-INFORMATION-RECEPTION.md`
 The record explicitly states that the Bee Orchid is generally non-rewarding; no nectar-energy transfer from *Ophrys apifera* to an insect is assumed. The Bee Orchid remains a candidate information-mediated case: its floral VOC emission is measured, but light-dependent changes in its VOC profile, detection by a named insect, behavior, and reproductive consequences remain unestablished. The section records what is supported and what would require direct measurement.
 
 This is a clarification and recognition within existing GUA-W terms. No architecture component, Gear, runtime stage, or State term is added. Triple Constraint is PASS for the distinction and bounded framing; the specific Bee Orchid causal chain remains unresolved. Register entry requires read-back verification.
+
+
+## 2026-11-19 — Reciprocal organismal input, internal state change, output, and identity
+
+Extended `audits/CELLULAR-RECOGNITION-RECEPTOR-SIGNALING-AND-SYMBIOTIC-ACCOMMODATION.md` with Section 18. The new section answers the side question through bounded plant–microbe evidence: in studied arbuscular-mycorrhizal and rhizobium–legume systems, one organism's chemical output can act as an input to another, alter its internal signaling and organization, and contribute to a response that affects the partner in return. The mechanisms are reciprocal but not necessarily symmetrical, and the distinct organisms retain distinguishable biological identities. The cases are not collapsed into one mechanism.
+
+The section connects this biological question to the existing Human Will and Salvation Reference Work while preserving the domain boundary: cellular recognition, signal transduction, and regulated accommodation do not demonstrate human conscious evaluation, desire, moral responsibility, or volition. Genesis 2:1–5 is treated as the prior completion of God's creative work, not as an explicit technical definition of human will; Genesis 2:7 and 2:15–17 supply the subsequent account of received life, placement, purpose, permission, and command. The statement that creaturely will derives from God is identified as a theological synthesis of the creation account and wider canonical testimony, not a verbatim definition in Genesis 2:1–5.
+
+The section also records that an offered reward or benefit may influence willingness without being the source of the capacity to will or guaranteeing a response. Genesis 3:5–6 is used to distinguish inducement from the origin of human capacity. Biological nutrients and signals are not called rewards intended to sway a will unless evidence supports the relevant behavioral meaning.
+
+Triple Constraint is recorded as PASS within this bounded scope. No GUA-W component, Gear, runtime stage, State term, or universal law was added or changed. Read-back verification of the investigation file was completed; this register entry is now being recorded.
