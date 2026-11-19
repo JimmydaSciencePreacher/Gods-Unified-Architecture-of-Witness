@@ -302,3 +302,83 @@ This is a bounded placement of observed relationships within the completed archi
 - [Phytochrome Signaling Networks](https://doi.org/10.1146/annurev-arplant-080620-024221), *Annual Review of Plant Biology*. Reviews light sensing and downstream phytochrome signaling networks.
 
 **Working conclusion:** Light itself supplies the physical input, but it does not specify the full outcome. The receiver's selectivity, molecular transformation, recovery, sensitivity, noise, amplification, adaptation, and downstream integration determine what can be detected and how it is used. This is the evidence-based distinction between energy reception and information-bearing biological signaling.
+
+
+## 17. Cross-organism light-to-action: distinguish energy transfer from information-mediated response
+
+**Investigative clarification arising from Jimmy's observation:** Light received by one organism may be related to action in another organism through an organized sequence. Before describing that relationship, distinguish at least two fundamentally different pathways. They may coexist, but one must not be substituted for the other.
+
+### A. Energy-transfer pathway
+
+A general biological energy pathway can be represented as:
+
+**Sunlight → photosynthetic capture → chemical energy stored in organic compounds → transfer through food or another material pathway → receiving organism's metabolism → cellular work → movement or other action.**
+
+In this pathway, the energy captured from light is transformed and transferred through matter. The second organism does not need to detect the original light signal for the energy to support its activity. It obtains chemical material and uses its own metabolic organization to make cellular work possible.
+
+This is a general biological pathway, not a demonstrated *Ophrys apifera* → insect pathway. The Bee Orchid is generally non-rewarding and predominantly self-pollinating; this audit must not invent a nectar-energy transfer from this orchid to a bee. A separate rewarding plant–consumer system would be needed to investigate this pathway empirically.
+
+### B. Information-mediated pathway
+
+A different pathway is:
+
+**Light → photoreception by organism A → intracellular signaling / physiological change → altered output from organism A → environmental transmission → reception by organism B → processing → action by organism B.**
+
+Here, the central question is not whether the photon energy itself powers the second organism's movement. It is whether light changes the state or output of the first organism in a way that becomes a detectable input to the second.
+
+For the Bee Orchid investigation, the candidate route is plant light reception → possible change in floral volatile emission → atmospheric transport → insect olfactory reception → neural processing → possible behavior. The full species-specific causal chain remains unresolved. The fact that the plant emits VOCs and that insects have olfactory systems does not establish that light changes the orchid's VOC blend or that a named insect responds to that change.
+
+### C. Direct visual pathway
+
+A third route must also remain distinct:
+
+**Light reflected or transmitted from an object → direct reception by organism B's visual system → neural processing → possible action.**
+
+An insect may respond visually to a flower without the plant having transformed the light into a chemical signal. This direct visual route can operate alongside chemical reception, but its contribution must be tested separately.
+
+### D. The three pathways compared
+
+| Pathway | What crosses between systems? | What the second organism receives | What must be measured? |
+|---|---|---|---|
+| Energy transfer | Material carrying chemical potential energy | Nutrients / chemical substrates | Photosynthetic fixation, material transfer, ingestion, metabolism, and resulting work |
+| Information-mediated response | A signal or changed environmental condition | A chemical, physical, or other detectable cue | Source response, signal transmission, receiver detection, processing, and behavior |
+| Direct visual response | Reflected or transmitted electromagnetic radiation | Photons | Visual stimulus, receptor response, neural processing, and behavior |
+
+The categories describe different causal relations. Energy is conserved through transformations and transfers; information is a receiver-relative description of distinguishable signal states. A signal can carry energy, but the energy that powers an action need not be the same thing as the information that guides it.
+
+### E. What the Bee Orchid case currently witnesses
+
+The Bee Orchid work is presently a candidate **information-mediated** investigation, not a demonstrated cross-organism energy-transfer chain. The records support:
+- measurable floral VOC emission in a sampled *O. apifera* inflorescence;
+- general physical mechanisms by which volatile compounds travel and change in air;
+- general insect olfactory mechanisms in studied species;
+- predominantly autonomous self-pollination across much of the range of *O. apifera*.
+
+The records do not yet establish:
+- that light treatment changes the VOC profile or emission rate of *O. apifera*;
+- that a named insect detects the relevant *O. apifera* plume;
+- that this detection causes a particular behavior;
+- that the behavior produces a reproductive consequence.
+
+The non-rewarding floral biology of *O. apifera* also means we must not assume nectar or food-energy transfer to an insect.
+
+### F. Bounded placement within completed GUA-W
+
+The distinction can be examined within existing GUA-W terms without adding architecture:
+
+- **Reception:** an organism receives light, chemical, or material input through its own organized systems.
+- **Activation / Differentiation:** the receiving system changes state and responds selectively to conditions.
+- **Propagation:** energy-bearing matter or signals move through the created environment by their respective mechanisms.
+- **Integration:** each organism processes what it receives within its own organization.
+- **Expression:** each organism produces its own measurable work, output, or action.
+- **Witness-state:** observations and instruments register the links actually measured, without substituting one pathway for another.
+
+The two organisms retain their own identity and organization. The first organism's output can become an input to the second, but this does not mean the second organism is merely an extension of the first or that the causal pathway is complete before its links are measured.
+
+### G. Triple Constraint disposition
+
+- **Biblical compliance:** PASS within scope. This distinction does not redefine Genesis or claim that modern photosynthetic or sensory mechanisms are the technical meaning of a Scriptural passage.
+- **Scientific coherence:** PASS as a distinction among energy transfer, information-mediated response, and direct visual reception. The Bee Orchid-specific light → VOC → insect action pathway remains unresolved pending direct evidence.
+- **GUA-W consistency:** PASS as recognition of distinct receiving systems, transformations, propagation, integration, and expression within the completed architecture. No new component, Gear, runtime stage, or State term is introduced.
+
+**Working conclusion:** The phrase “light becoming an action in another organism” can point to more than one kind of relationship. In an energy pathway, light energy is transformed and transferred through chemical matter until another organism uses it to perform work. In an information-mediated pathway, light changes one organism's state or output, and that output becomes a cue another organism receives and acts upon. In a direct visual pathway, the second organism receives light itself. The next empirical investigation must identify which pathway is operating before describing the relationship.
