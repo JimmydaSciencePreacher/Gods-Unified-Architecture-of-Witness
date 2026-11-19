@@ -133,7 +133,7 @@ The important comparison is therefore not that the axolotl "does what the butter
 
 ## 10. Placement within existing GUA-W investigations
 
-The four studies illuminate questions already present in the repository:
+The five developmental case studies, considered alongside the separate organization audits, illuminate questions already present in the repository:
 
 - **Identity:** What distinguishes an organism from its changing outward expressions?
 - **Differentiation:** How do distinct forms and functions arise through different biological processes?
@@ -149,11 +149,11 @@ The biological studies remain witnesses within Creation. Their evidence can illu
 
 **Biblical compliance:** This comparison does not alter the KJV Genesis 1–2 foundation or claim that any organism proves Scripture. Any theological comparison remains subordinate to Scriptural investigation and must be labelled as interpretation.
 
-**Scientific coherence:** The synthesis preserves the distinct biological mechanisms, species-level qualifications, and evidence limits of all four cases. It distinguishes observation from inference and does not generalize a species- or tissue-specific finding beyond its support.
+**Scientific coherence:** The synthesis preserves the distinct biological mechanisms, species-level qualifications, and evidence limits of all five developmental cases. It distinguishes observation from inference and does not generalize a species- or tissue-specific finding beyond its support.
 
 **GUA-W consistency:** The synthesis uses existing questions and terms only. It does not expand or redesign the completed architecture.
 
-**Disposition: PASS, within the stated comparative scope.** The four cases are admissible as an explanatory synthesis of distinct biological patterns. Specific ecological relationships, molecular mechanisms, and species- or tissue-specific outcomes remain bounded by their individual evidence records.
+**Disposition: PASS, within the stated comparative scope.** The five developmental cases are admissible as an explanatory synthesis of distinct biological patterns. Specific ecological relationships, molecular mechanisms, and species- or tissue-specific outcomes remain bounded by their individual evidence records.
 
 ## 12. Research opened by the comparison
 
@@ -164,6 +164,7 @@ The next cases should be selected to investigate questions not yet adequately re
 3. **Dormancy and revival:** an organism that survives a period of greatly reduced activity, to distinguish dormancy, persistence, and renewed activity.
 4. **Tissue-specific regeneration:** a carefully selected case that tests how regenerative mechanisms differ among tissues and lineages.
 5. **Lineage and inheritance:** a case that distinguishes individual persistence from population and generational continuity.
+6. **Symbiotic organization:** the separate lichen audit now examines chemical interaction, physical association, photobiont plurality, additional microbiota, and persistence in a composite thallus. It should be read alongside—not merged mechanistically with—the bee orchid's mycorrhizal relationship and ant–fungus agriculture.
 
 Each case should answer a defined question and be investigated with primary sources. It should not be added merely because it looks remarkable.
 
@@ -176,6 +177,8 @@ The detailed factual claims and source lists are preserved in the individual inv
 - [Butterfly Metamorphosis Case Study — Lepidoptera](BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md).
 - [Axolotl Limb Regeneration Case Study — *Ambystoma mexicanum*](BIOLOGICAL-IDENTITY-REGENERATION-AND-CONTINUITY-AXOLOTL-LIMB.md).
 - [Zebrafish Embryonic Development Case Study — *Danio rerio*](BIOLOGICAL-IDENTITY-EMBRYONIC-DEVELOPMENT-ZEBRAFISH.md).
+- [Biological Organization Audit — Fungal Networks, Eusocial Insects, Ant–Fungus Agriculture, and Chemical Information Transfer](BIOLOGICAL-ORGANIZATION-INDIVIDUALITY-AND-INTEGRATION-FUNGI-BEES-ANTS.md).
+- [Lichen Symbiosis, Chemical Signaling, and Multipart Integration](BIOLOGICAL-ORGANIZATION-LICHEN-SYMBIOSIS-AND-MULTIPARTNER-INTEGRATION.md).
 
 The records include botanical and fungal-association research, species-specific phasmid natural-history and experimental studies, specialist reviews of holometabolous development and endocrine regulation, and axolotl lineage-tracing, blastema, positional-memory, and digit-regeneration research. Readers should consult each case's source list for methods, geographic scope, experimental conditions, and qualifications.
 
