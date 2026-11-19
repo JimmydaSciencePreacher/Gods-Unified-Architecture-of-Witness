@@ -604,3 +604,16 @@ Added a bounded section to `audits/WATER-TWO-JOURNEY-INVESTIGATION-BEE-ORCHID-BI
 The record separates three possible pathways: (A) light received by the plant may alter its physiology and chemical output; (B) plant-emitted VOCs may travel through the atmosphere and be received by an insect; and (C) the insect may receive light directly through its own visual system. These pathways must not be collapsed. The complete *Ophrys apifera* causal chain—plant illumination, altered VOC output, atmospheric transport, named insect detection, behavior, and reproductive consequence—remains unresolved pending direct experiments.
 
 A discriminating experiment is outlined to vary plant illumination and insect visual exposure independently, control environmental and developmental variables, measure VOCs, test antennal responses, separate sensory detection from behavior, and measure pollinia transfer and reproductive outcomes. The observation is placed within existing GUA-W terms without adding an architecture component, Gear, runtime stage, or State term. Triple Constraint is PASS for the bounded framing; species-specific causal claims remain unresolved. Register entry requires read-back verification.
+
+
+## 2026-11-19 — Cross-organism light-to-action: energy and information pathways distinguished
+
+Extended `audits/LIGHT-AS-ENERGY-SIGNAL-AND-BIOLOGICAL-INFORMATION-RECEPTION.md` with Section 17 to clarify Jimmy's observation that light received by one organism may be related to action expressed by another through an organized process. The new section separates three causal pathways that must not be conflated:
+
+1. **Energy transfer:** light energy is captured through photosynthesis, stored in chemical compounds, transferred through material/food pathways, and used by another organism's metabolism to perform work.
+2. **Information-mediated response:** light changes organism A's state or output; a resulting cue is transmitted through the environment, received and processed by organism B, and may guide B's action.
+3. **Direct visual response:** organism B receives photons directly through its own visual system and may respond.
+
+The record explicitly states that the Bee Orchid is generally non-rewarding; no nectar-energy transfer from *Ophrys apifera* to an insect is assumed. The Bee Orchid remains a candidate information-mediated case: its floral VOC emission is measured, but light-dependent changes in its VOC profile, detection by a named insect, behavior, and reproductive consequences remain unestablished. The section records what is supported and what would require direct measurement.
+
+This is a clarification and recognition within existing GUA-W terms. No architecture component, Gear, runtime stage, or State term is added. Triple Constraint is PASS for the distinction and bounded framing; the specific Bee Orchid causal chain remains unresolved. Register entry requires read-back verification.
