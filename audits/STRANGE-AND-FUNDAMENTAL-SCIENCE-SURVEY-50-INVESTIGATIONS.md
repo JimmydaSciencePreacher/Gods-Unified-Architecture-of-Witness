@@ -37,6 +37,8 @@ A candidate's strangeness is not evidence of a supernatural cause, a universal m
 
 **Completed Investigation IV:** [Neutron Stars](PHYSICS-INVESTIGATION-IV-NEUTRON-STARS.md).
 
+**Completed Investigation V:** [Black Holes](PHYSICS-INVESTIGATION-V-BLACK-HOLES.md).
+
 1. **Quantum entanglement:** How do separated systems exhibit correlated measurement outcomes?
 2. **Superfluidity:** How can matter flow with effectively zero viscosity?
 3. **Superconductivity:** How can certain materials conduct electrical current with zero resistance?
