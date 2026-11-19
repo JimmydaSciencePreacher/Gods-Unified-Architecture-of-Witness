@@ -163,6 +163,7 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 - [Comparative Biological Synthesis — Identity, Development, Relationship, and Persistence](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md)
 - [Biological Organization, Individuality, and Integration: Fungal Networks, Eusocial Insects, Ant–Fungus Agriculture, and Chemical Information Transfer](audits/BIOLOGICAL-ORGANIZATION-INDIVIDUALITY-AND-INTEGRATION-FUNGI-BEES-ANTS.md).
 - [Lichen Symbiosis, Chemical Signaling, and Multipart Integration](audits/BIOLOGICAL-ORGANIZATION-LICHEN-SYMBIOSIS-AND-MULTIPARTNER-INTEGRATION.md).
+- [Cellular Recognition, Receptor Signaling, and Symbiotic Accommodation](audits/CELLULAR-RECOGNITION-RECEPTOR-SIGNALING-AND-SYMBIOTIC-ACCOMMODATION.md).
 - [Bee Orchid Case Study — *Ophrys apifera*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md)
 - [Spiny Leaf Insect Case Study — *Extatosoma tiaratum*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md)
 - [Butterfly Metamorphosis Case Study — Lepidoptera](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md)
