@@ -1,234 +1,177 @@
-# Comparative Biological Synthesis: Identity, Development, Relationship, and Persistence Across Four Biological Cases
+# Comparative Biological Synthesis: Identity, Development, Regeneration, Relationship, and Persistence
 
 **Status:** Cross-case synthesis of four evidence-led biological investigations  
 **Prepared:** 2026-11-18  
-**Cases:** *Ophrys apifera*, *Extatosoma tiaratum*, butterfly complete metamorphosis (Lepidoptera), and axolotl limb regeneration (*Ambystoma mexicanum*)  
+**Cases:** Bee orchid (*Ophrys apifera*); spiny leaf insect (*Extatosoma tiaratum*); butterfly complete metamorphosis (Lepidoptera); Mexican axolotl limb regeneration (*Ambystoma mexicanum*)  
 **Governing order:** Author → Word → Creation → Witness
 
-## 1. Why compare these four biological cases?
+## 1. Purpose and scope
 
-The bee orchid (*Ophrys apifera*) and the spiny leaf insect (*Extatosoma tiaratum*) are very different organisms. One is a flowering plant; the other is an insect. Their developmental mechanisms, reproductive systems, ecological relationships, and life histories must not be treated as interchangeable.
+Four biological investigations now provide a useful comparative field. They were selected because they represent materially different patterns:
 
-Yet each makes a related set of biological questions unusually visible.
+1. Plant germination, differentiation, fungal relationship, and seasonal persistence.
+2. Insect development through successive molts and changing ecological presentation.
+3. Complete insect metamorphosis, including a distinct pupal stage and extensive tissue remodeling.
+4. Regeneration of a lost structure within an existing individual.
 
-The bee orchid draws attention to:
-- a minute seed containing an embryo with limited reserves;
-- natural germination commonly involving compatible fungi;
-- protocorm development before the familiar plant form;
-- seasonal above-ground growth and underground persistence;
-- reproductive strategy that must be described at the species level.
+The purpose is not to force these organisms into one developmental formula. It is to compare the questions each case makes visible while preserving the mechanisms and limits established by its own evidence.
 
-The spiny leaf insect draws attention to:
-- an egg with an appendage involved in ant-mediated removal;
-- a first-instar nymph that temporarily resembles ants of the genus *Leptomyrmex*;
-- active post-hatch dispersal guided by environmental cues;
-- major changes in appearance and behavior across molts;
-- different ecological relationships at different developmental stages.
+This synthesis is explanatory. The detailed natural-history and experimental claims remain in the linked case studies and their cited sources.
 
-The comparison is valuable precisely because the organisms are not the same. It lets us ask which questions can be investigated across biological domains and which answers remain specific to each organism.
+## 2. The four cases at a glance
 
-## 2. The comparison at a glance
+| Question | Bee orchid | Spiny leaf insect | Butterfly | Axolotl |
+|---|---|---|---|---|
+| Organism | Flowering plant | Phasmid insect | Lepidopteran insect | Salamander |
+| Initial focus | Seed containing embryo | Egg containing developing insect | Egg containing embryo | Existing individual with developed limb |
+| Main process | Germination and plant differentiation | Hatching and successive nymphal molts | Complete metamorphosis | Limb regeneration after injury |
+| Distinctive feature | Protocorm and fungal relationship | Ant-like first instar and later leaf-like forms | Pupal stage with extensive remodeling | Blastema and patterned replacement |
+| Environmental relationship | Compatible fungi commonly assist natural germination | Egg removal/transport by ants is documented experimentally; natural fate is qualified | Larval host plants and stage-specific ecology | Nerves, wound epithelium, local tissues, and signaling environment |
+| Central continuity question | Seasonal plant persistence | One insect through molts | One insect through metamorphosis | One animal through loss and replacement of a limb |
 
-| Shared question | Bee orchid: *Ophrys apifera* | Spiny leaf insect: *Extatosoma tiaratum* |
-|---|---|---|
-| Initial form | Minute seed containing an embryo | Egg containing the developing insect |
-| Early development | Germination and protocorm formation | Embryonic development and hatching |
-| Environmental relationship | Compatible fungi commonly assist natural germination | Ants may remove and transport eggs; natural fate remains incompletely documented |
-| Differentiation | Protocorm develops into shoot, leaves, tuberous plant, and flowering form | First-instar ant mimic develops through molts into a leaf-like phasmid |
-| Changing expression | Seasonal above-ground and underground phases | Temporary ant-like presentation, then changing nymphal and adult forms |
-| Movement or placement | Seed dispersal and establishment depend on local conditions | Hatchling actively disperses from forest floor toward canopy |
-| Reproduction | Predominantly autonomous self-pollination, with qualifications | Sexual reproduction and reported facultative parthenogenesis |
-| Persistence question | Continuity through seasonal dormancy and tuber renewal | Continuity through molts and radical changes in morphology and behavior |
+The table is a map of differences as well as points of comparison. A protocorm, nymph, pupa, and blastema are not interchangeable structures.
 
-This table organizes questions; it does not claim common mechanisms.
+## 3. Beginning and mature expression
 
-## 3. First shared finding: the beginning is not the finished form
+The bee orchid does not begin as a miniature flowering plant. Its minute seed contains an embryo with limited reserves. Germination and protocorm development precede the familiar plant form.
 
-Neither organism begins as a miniature version of the familiar adult.
+The spiny leaf insect does not hatch as a miniature adult leaf mimic. Its first-instar nymph has a temporary ant-like appearance; later stages change through successive molts.
 
-The bee orchid seed contains a small embryo with limited stored resources. The mature plant is produced through germination, protocorm development, differentiation, and resource acquisition. Its development cannot be accurately described as a fully formed orchid simply unfolding from the seed.
+A butterfly's larva is not a miniature winged adult. It is a specialized feeding and growth stage, followed by a pupa in which adult structures develop.
 
-The spiny leaf insect egg contains a developing insect, but the hatchling is not a miniature adult leaf mimic. The first-instar nymph has a temporary ant-like appearance and behavior. Later forms emerge through successive molts.
+The axolotl case begins at a different point. It does not follow an individual from egg to adult; it examines an existing animal after part of a developed limb is lost. The missing structures are rebuilt through a regenerative process.
 
-**Supported comparison:** Both cases demonstrate that an organism's initial developmental form is distinct from its later mature expression.
+**Supported comparison:** The visible form at one moment does not, by itself, explain the organism's developmental history or biological identity.
 
-**Boundary:** Plant germination and insect embryonic development are different biological processes. The protocorm is not equivalent to an insect instar, and molting is not equivalent to plant growth.
+**Boundary:** Germination, nymphal molting, complete metamorphosis, and post-injury regeneration are different processes. Similar questions about change do not establish a shared mechanism.
 
-## 4. Second shared finding: development occurs in relationship with an environment
+## 4. Differentiation, remodeling, and replacement
 
-The bee orchid's natural establishment commonly involves compatible mycorrhizal fungi. The tiny seed has limited reserves, and fungal partners can provide resources during early development. Laboratory asymbiotic germination is possible under suitable conditions, so the natural fungal relationship must not be stated as an absolute requirement in every setting.
+The orchid's protocorm develops into differentiated plant structures. The spiny leaf insect changes through molts, with stage-specific morphology and behavior. The butterfly undergoes extensive remodeling during the pupal stage: some larval tissues are removed or reorganized, while adult structures develop. The axolotl forms a blastema after limb injury; multiple cell populations contribute to the patterned regenerate.
 
-The spiny leaf insect egg may be collected and moved by ants. The 2023 ant-removal experiment demonstrates species-specific differences in egg removal, not a universal ant response or the complete natural sequence from egg transport to successful hatching. Its nymph's *Leptomyrmex* resemblance is a separate observation and should not be collapsed into the egg-transport evidence.
+These processes should be named precisely:
 
-**Supported comparison:** Both organisms have life-history stages in which interactions with other organisms or environmental conditions can materially affect development or establishment.
+- **Plant differentiation:** development of the orchid's structures following germination.
+- **Molting:** shedding the insect cuticle between instars; in the phasmid case, successive molts retain a nymphal developmental pattern until adulthood.
+- **Complete metamorphosis:** the holometabolous sequence of egg, larva, pupa, and adult.
+- **Regeneration:** replacement of missing structures following injury, involving wound responses, blastema formation, positional information, growth, patterning, and differentiation.
 
-**Boundary:** The orchid's fungal association and the insect egg's possible ant-mediated transport are not the same type of relationship. A fungal association can provide developmental resources; ant removal concerns transport and possible nest placement. One cannot be used as a mechanism for explaining the other.
+The butterfly pupa is a normal life-history stage, not an injury-induced blastema. The axolotl blastema is a regenerative structure, not a dormant pupa. The orchid protocorm is a plant developmental stage, not an insect larva.
 
-## 5. Third shared finding: outward appearance is not a sufficient measure of identity
+## 5. Relationship with the environment
 
-The bee orchid may be absent from view above ground during its underground seasonal phase. Its visible leaves and flowers change through the year, while the perennial plant persists through underground structures.
+Each case makes a different environmental relationship visible.
 
-The spiny leaf insect passes through a more dramatic sequence of outward forms. Its first-instar nymph resembles an ant, while later stages and adults resemble leaves or other vegetation. These resemblances are ecological presentations; the insect does not become an ant and later become a plant.
+The bee orchid's natural establishment commonly involves compatible mycorrhizal fungi. The seed's limited reserves make fungal assistance important in natural germination, while suitable laboratory asymbiotic methods show that the relationship must not be described as an absolute requirement in every setting.
 
-**Supported comparison:** External appearance at one moment is not, by itself, a complete account of an organism's identity or developmental history.
+The spiny leaf insect egg may be removed and transported by ants. Experimental evidence establishes ant-mediated egg removal under studied conditions, but it does not settle every step of the egg's natural fate. The temporary ant-like appearance of the first-instar nymph is a distinct observation and should not be used as proof of a particular ant-colony residence.
 
-**Boundary:** Botanical seasonal dormancy and insect metamorphic development are not equivalent. The orchid's seasonal underground phase should not be called metamorphosis, and the insect's molts should not be described as seasonal dormancy.
+Butterfly larvae depend on host plants in species-specific ways. The monarch example in the individual case study uses milkweed; that relationship must not be generalized to all butterflies.
 
-## 6. Fourth shared finding: persistence must be distinguished from sameness of form
+Axolotl limb regeneration depends on a local biological environment that includes wound epithelium, nerve-derived signals, connective-tissue populations, positional interactions, and molecular signaling. These are internal tissue and cellular relationships, not ecological symbioses like the orchid's fungal association.
 
-The orchid persists through seasonal changes that include loss of visible above-ground structures and renewal of underground tubers. Persistence does not mean that every structure remains unchanged.
+**Supported comparison:** Development and regeneration occur in relationships with conditions and other biological components. The kind of relationship must be identified rather than flattened into a generic label.
 
-The insect persists as one developing individual through successive molts, when its external structures are shed or transformed. Its identity is not determined by retaining an unchanging silhouette.
+## 6. Identity and persistence through change
 
-These observations require several distinctions:
-- individual organismal continuity;
-- persistence of particular tissues or structures;
-- developmental succession;
-- reproduction and offspring identity;
-- continuity of a population or lineage.
+The four cases make different forms of continuity visible.
 
-These are related but not interchangeable. An offspring is not numerically the same individual as its parent. A species can persist across generations while individual organisms begin and end.
+- **Bee orchid:** the perennial plant can persist through seasonal changes in visible above-ground growth and underground structures. Seasonal absence from view is not equivalent to loss of the individual.
+- **Spiny leaf insect:** one individual proceeds through molts and changing outward forms. The shed cuticle is not the organism, and the later stage is not a different species or organism.
+- **Butterfly:** the larva, pupa, and adult are successive stages in one individual's life. This individual continuity does not mean that every larval cell or structure remains unchanged through metamorphosis.
+- **Axolotl:** the animal persists through the loss and regeneration of a limb. The replacement limb is newly organized tissue, not the original material simply returning unchanged.
 
-**Supported comparison:** Biological persistence can occur through substantial change in visible form and physical structures.
+These cases require several distinctions:
 
-**Boundary:** The mechanisms of tuber renewal and insect molting are distinct. The cases do not establish a single universal biological mechanism of persistence.
+1. **Individual continuity:** whether the same organism persists through a change.
+2. **Structural continuity:** whether a particular organ or structure remains physically present and materially unchanged.
+3. **Cellular continuity:** whether the same cells remain, or whether different cell populations contribute to new structures.
+4. **Developmental continuity:** the organized sequence connecting earlier and later forms.
+5. **Reproductive continuity:** the production of offspring, who are new individuals.
+6. **Lineage continuity:** persistence of a population or species across generations.
 
-## 7. Fifth shared finding: developmental expression is not isolated from constraints
+These are related but not interchangeable. An organism can persist while particular structures are shed, remodeled, lost, or replaced. Conversely, the persistence of a lineage does not mean an individual organism persists indefinitely.
 
-In the orchid, seed reserves, compatible fungal partners, soil, water, temperature, and seasonal conditions influence establishment and growth.
+## 7. The axolotl and the meaning of replacement
 
-In the insect, egg handling by ants, light, gravity, visual contrast, vegetation structure, and developmental stage are relevant to dispersal and survival. The post-hatch movement study measured responses to environmental cues and movement strategies; its reported travel distances belong to the study conditions and should not be universalized.
+The axolotl case adds a distinction that the three developmental cases do not directly test: the relationship between the continuing individual and a structure that is physically lost and rebuilt.
 
-**Supported comparison:** Development and behavior occur under biological and environmental conditions that enable, limit, or redirect outcomes.
+Limb regeneration research identifies wound closure, nerve–epithelium interactions, blastema formation, tissue-origin restrictions in many contributing cells, positional information, pattern formation, and differentiation. The blastema is heterogeneous; it is not accurately described as a uniform mass of unrestricted pluripotent cells. Research on positional memory, including a 2025 study of a Hand2–Shh feedback circuit, has refined understanding of how positional identity can be maintained and reprogrammed. A 2026 digit study also reports variation in joint-regeneration fidelity, showing that substantial regenerative capacity does not mean every outcome is a perfect replica.
 
-**Boundary:** “Constraint” is being used here in its ordinary scientific and explanatory sense. These examples do not establish that a particular ecological factor is identical to the GUA-W architectural term Constraint. The comparison remains an interpretive correspondence, not a mechanism or proof.
+The important comparison is therefore not that the axolotl "does what the butterfly does." It does not. The axolotl shows that an individual can continue while a major structure is absent and subsequently reconstructed through a distinct regenerative process.
 
-## 8. What the four cases reveal together—and what they do not
+## 8. What the cases reveal together—and what they do not
 
 ### What is supported
 
-1. Both organisms undergo extended development from an initial reproductive form to a mature organism.
-2. Neither initial form is an adult miniature.
-3. Environmental relationships matter at particular stages.
-4. Development includes differentiation and changes in outward expression.
-5. Individual continuity can coexist with substantial changes in form.
-6. Species-specific evidence is essential; broad patterns must not be assigned indiscriminately to every member of a genus or group.
+1. An organism's initial or temporary visible form is not a complete account of its identity or history.
+2. Different biological processes produce differentiated structures and stage-specific functions.
+3. Environmental and internal relationships matter, but their mechanisms differ.
+4. Individual continuity can coexist with substantial changes in form and material organization.
+5. Replacement, remodeling, molting, germination, and seasonal persistence are distinct phenomena.
+6. Scientific claims must remain species-, tissue-, and experiment-specific where the evidence requires it.
 
 ### What is not established
 
-1. That plant and insect development follow one common mechanism.
-2. That the orchid's fungal association is equivalent to ant-mediated egg transport.
-3. That the spiny leaf insect's natural host ant is definitively *Rhytidoponera metallica*.
-4. That the ant-mimicking nymph is proven to survive routinely inside a particular ant colony.
-5. That biological identity can be reduced to genetic information alone, outward appearance alone, or uninterrupted visibility.
-6. That either organism proves a theological claim or validates GUA-W by itself.
+1. That plant germination, insect molting, butterfly metamorphosis, and axolotl regeneration share one biological mechanism.
+2. That a protocorm, nymph, pupa, and blastema are equivalent structures.
+3. That all developmental change is regeneration, or that all regeneration is ordinary development.
+4. That all cells in an axolotl blastema become unrestricted pluripotent cells.
+5. That regeneration is invariably perfect or that axolotl capacity can be generalized to humans.
+6. That outward appearance, genetic information alone, or uninterrupted visibility exhausts the meaning of biological identity.
+7. That any of these organisms proves a theological claim or validates GUA-W by itself.
 
-## 9. Placement within the existing GUA-W investigations
+## 9. Placement within existing GUA-W investigations
 
-The four cases illuminate existing questions already present in the repository:
+The four studies illuminate questions already present in the repository:
 
 - **Identity:** What distinguishes an organism from its changing outward expressions?
-- **Differentiation:** How do distinct forms and functions arise during development?
+- **Differentiation:** How do distinct forms and functions arise through different biological processes?
 - **Integration:** How do organismal structures, internal processes, and environmental relationships operate together?
-- **Persistence:** How does an individual continue through change, dormancy, renewal, or molting?
-- **Witness and registration:** How do observations, experiments, interpretations, and unresolved natural-history claims need to be distinguished?
+- **Persistence:** How does an individual continue through seasonal change, molting, metamorphosis, or loss and replacement of a structure?
+- **Witness and registration:** How must observation, experimental result, mechanistic explanation, interpretation, and unresolved natural-history claims be distinguished?
 
-These are connections to the existing GUA-W vocabulary and investigations. They do not add architecture, stages, Gears, State terms, or universal laws. They do not equate biological processes with architectural operations.
+These are explanatory connections to existing GUA-W vocabulary and investigations. They do not add an architectural layer, Gear, runtime stage, State term, or universal law. They do not equate biological processes with architectural operations.
 
 The biological studies remain witnesses within Creation. Their evidence can illuminate questions; it does not become the Author of the order being investigated.
 
 ## 10. Triple Constraint disposition
 
-**Biblical compliance:** The comparison does not alter the KJV Genesis 1–2 foundation or claim that either species proves Scripture. Any theological comparison remains subordinate to Scriptural investigation and is labelled as interpretation.
+**Biblical compliance:** This comparison does not alter the KJV Genesis 1–2 foundation or claim that any organism proves Scripture. Any theological comparison remains subordinate to Scriptural investigation and must be labelled as interpretation.
 
-**Scientific coherence:** The comparison preserves the distinct biological mechanisms, species-level qualifications, and evidence limits in both case studies. It distinguishes directly observed or experimentally supported findings from proposed ecological explanations.
+**Scientific coherence:** The synthesis preserves the distinct biological mechanisms, species-level qualifications, and evidence limits of all four cases. It distinguishes observation from inference and does not generalize a species- or tissue-specific finding beyond its support.
 
-**GUA-W consistency:** The synthesis uses only existing questions and terms. It does not expand or redesign the completed architecture.
+**GUA-W consistency:** The synthesis uses existing questions and terms only. It does not expand or redesign the completed architecture.
 
-**Disposition: PASS, within the stated comparative scope.** The comparison is admissible as an explanatory synthesis of four biological case studies. Specific ant-host relationships and other questions identified in the individual studies remain unresolved.
+**Disposition: PASS, within the stated comparative scope.** The four cases are admissible as an explanatory synthesis of distinct biological patterns. Specific ecological relationships, molecular mechanisms, and species- or tissue-specific outcomes remain bounded by their individual evidence records.
 
 ## 11. Research opened by the comparison
 
-The next useful biological cases should be selected to test questions not yet adequately represented, rather than merely accumulate unusual organisms.
+The next cases should be selected to investigate questions not yet adequately represented, rather than to accumulate unusual organisms. Useful directions include:
 
-Priority directions:
+1. **Embryonic development:** a vertebrate with a well-described sequence across tissues and organ systems.
+2. **Symbiosis:** a case in which a partner contributes directly to development or nutrition, allowing a more precise comparison with the bee orchid's mycorrhizal relationship.
+3. **Dormancy and revival:** an organism that survives a period of greatly reduced activity, to distinguish dormancy, persistence, and renewed activity.
+4. **Tissue-specific regeneration:** a carefully selected case that tests how regenerative mechanisms differ among tissues and lineages.
+5. **Lineage and inheritance:** a case that distinguishes individual persistence from population and generational continuity.
 
-1. **Metamorphosis:** a species with well-documented larval, pupal, and adult stages, to compare developmental transformation with the insect's more gradual sequence of molts.
-2. **Regeneration:** an organism in which lost structures can be regrown, to distinguish individual continuity from structural replacement.
-3. **Embryonic development:** a vertebrate with a well-described developmental sequence, to examine differentiation across tissues and organ systems.
-4. **Symbiosis:** a case in which a partner contributes directly to development or nutrition, allowing a more precise comparison with the bee orchid's mycorrhizal relationship.
-5. **Dormancy and revival:** a well-studied organism that survives a period of greatly reduced activity, to distinguish dormancy, persistence, and renewed activity.
-
-Each new case should answer a defined question and be investigated with primary sources. It should not be added merely because it looks remarkable.
-
-
-## 13. Third case: butterfly complete metamorphosis
-
-The butterfly case adds a developmental pattern not represented by either of the first two investigations: complete metamorphosis, with egg, larva, pupa, and adult stages. The pupal stage involves extensive, regulated tissue remodeling and adult differentiation. It is not equivalent to the orchid's seasonal underground persistence or the spiny leaf insect's sequence of nymphal molts.
-
-**New evidence base:** [Biological Identity, Development, and Continuity: Butterfly Metamorphosis](BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md).
-
-| Shared question | Bee orchid | Spiny leaf insect | Butterfly |
-|---|---|---|---|
-| Initial form | Seed with embryo | Egg with developing insect | Egg with developing embryo |
-| Early developmental expression | Germination and protocorm | First-instar nymph | Larva |
-| Distinctive transition | Plant differentiation and seasonal phases | Successive molts and changing ecological presentation | Larval growth followed by pupal remodeling |
-| Environmental relationship | Fungal partners commonly assist natural establishment | Ant-mediated egg removal is species-dependent | Larval host plants and stage-specific conditions |
-| Persistence question | Underground seasonal continuity | Individual continuity through molts | Individual continuity through extensive remodeling |
-
-The three developmental cases span plant germination and seasonal persistence, insect development through successive nymphal molts, and insect complete metamorphosis. This broader range makes the comparison more informative, but it does not establish one shared biological mechanism.
-
-The synthesis must preserve the following boundaries:
-
-- The orchid's protocorm is not an insect larva or pupa.
-- The spiny leaf insect's nymphal molts are not complete metamorphosis.
-- The butterfly pupa is not a dormant seed or a seasonal underground plant structure.
-- Environmental relationships differ in kind and function across all three cases.
-- Individual continuity must remain distinct from persistence of every cell or structure, and from population or lineage continuity.
-
-The addition is an expansion of the evidence base, not of GUA-W architecture. It introduces no new layer, Gear, runtime stage, State term, or universal law.
-
-## 14. Fourth case: axolotl limb regeneration
-
-The axolotl case adds regeneration after injury rather than another ordinary life-history transition. The Mexican axolotl (*Ambystoma mexicanum*) can regenerate complex limb structures. Research describes wound closure, interactions between wound epithelium and nerves, blastema formation, contributions from multiple cell populations, positional information, pattern formation, and differentiation.
-
-**New evidence base:** [Biological Identity, Regeneration, and Continuity: The Axolotl Limb](BIOLOGICAL-IDENTITY-REGENERATION-AND-CONTINUITY-AXOLOTL-LIMB.md).
-
-| Question | Axolotl limb case |
-|---|---|
-| Starting condition | An existing individual with a developed limb |
-| Trigger | Injury and loss of part of the limb |
-| Key regenerative structure | Blastema beneath a wound epidermis |
-| Contributing processes | Cell proliferation, lineage-restricted contributions, signaling, positional information, patterning, differentiation |
-| Continuity question | The individual persists while a missing structure is rebuilt |
-| Important qualification | Regeneration is substantial but not invariably perfect; limb findings are not automatically generalizable to all tissues or species |
-
-This case must not be conflated with the other three. A blastema is not a butterfly pupa, a phasmid instar, or an orchid protocorm. Limb regeneration after injury is not the same process as embryonic development, molting, metamorphosis, or seasonal dormancy.
-
-The axolotl makes a further distinction necessary: individual continuity does not require the original material of every structure to remain unchanged. The animal persists through injury while new tissue is organized into a replacement structure. Cellular continuity, structural continuity, positional information, functional recovery, and individual continuity are related but distinct.
-
-The case does not show that all cells become pluripotent or that the regenerate is always a flawless replica. Lineage-tracing and positional-memory research instead describe multiple cell populations with different developmental capacities operating in a regulated local environment.
-
-The addition broadens the evidence base without changing GUA-W architecture. It introduces no new layer, Gear, runtime stage, State term, or universal law.
-
+Each case should answer a defined question and be investigated with primary sources. It should not be added merely because it looks remarkable.
 
 ## 12. Source records
 
-The factual claims in this synthesis are drawn from the four linked case studies and their source lists:
+The detailed factual claims and source lists are preserved in the individual investigations:
 
 - [Bee Orchid Case Study — *Ophrys apifera*](BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md).
 - [Spiny Leaf Insect Case Study — *Extatosoma tiaratum*](BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md).
-- [Butterfly Metamorphosis Case Study](BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md).
-- [Axolotl Limb Regeneration Case Study](BIOLOGICAL-IDENTITY-REGENERATION-AND-CONTINUITY-AXOLOTL-LIMB.md).
+- [Butterfly Metamorphosis Case Study — Lepidoptera](BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md).
+- [Axolotl Limb Regeneration Case Study — *Ambystoma mexicanum*](BIOLOGICAL-IDENTITY-REGENERATION-AND-CONTINUITY-AXOLOTL-LIMB.md).
 
-The bee orchid source record includes taxonomic and botanical references, fungal-association research, and species-specific pollination sources. The spiny leaf insect source record includes the 2023 ant-mediated egg-removal study and the 2020 post-hatch dispersal study. The butterfly record includes specialist reviews of holometabolous development and endocrine regulation. The axolotl record includes lineage-tracing, positional-memory, blastema, and recent digit-regeneration research.
-
-A reader should consult those primary and specialist sources for the detailed methods, geographic scope, and qualifications. This synthesis does not enlarge their claims.
+The records include botanical and fungal-association research, species-specific phasmid natural-history and experimental studies, specialist reviews of holometabolous development and endocrine regulation, and axolotl lineage-tracing, blastema, positional-memory, and digit-regeneration research. Readers should consult each case's source list for methods, geographic scope, experimental conditions, and qualifications.
 
 ## Conclusion
 
-The bee orchid, spiny leaf insect, butterfly, and axolotl do not share one developmental or regenerative mechanism. Their four distinct biological patterns make a set of questions clearer when the evidence is placed together: beginning versus mature form, identity versus appearance, development in relationship with an environment, differentiation, and persistence through change.
+The bee orchid, spiny leaf insect, butterfly, and axolotl do not share one developmental or regenerative mechanism. They present four distinct biological patterns: germination and seasonal plant persistence; insect development through successive molts; complete metamorphosis with a pupal stage; and regeneration of a lost structure within an existing individual.
 
-The comparison is useful because it preserves both unity and distinction. It shows how separate investigations can illuminate a broader question without being forced into one explanation.
+The comparison is useful because it preserves both unity and distinction. One investigation can illuminate another without erasing the differences that make each organism scientifically intelligible.
 
 **One Author. One originating Word. One Creation. Many witnesses.**
