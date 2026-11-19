@@ -306,13 +306,19 @@ A detected chemical is not automatically a causal signal. A behavioral response 
 
 ### 11.9 Mechanistic synthesis: from transfer to system-level effect
 
-The evidence supports the following descriptive sequence:
+The evidence does **not** establish a universal one-way sequence. The producer, receiver, environment, and wider social or ecological system can influence one another repeatedly. The same organism may be a source in one interaction and a receiver in another; a response can alter later chemical production, transfer, exposure, or interpretation.
 
-**Distinct producer → chemical material emitted or transferred → receiver detection and processing → behavioral, physiological, or developmental response → changed interactions among units → possible contribution to larger-scale coordination.**
+A more accurate working description is an **interconnected set of processes**:
 
-The final step requires separate evidence. An effect on one recipient does not, by itself, prove that the colony has acquired a new higher-level property. To establish that, researchers must show how local responses alter interactions and how those interactions produce a measurable system-level outcome.
+- Chemical material may be produced, emitted, deposited, or transferred.
+- Receivers detect and process chemical features through species- and context-dependent sensory systems.
+- Behavioral, physiological, or developmental responses can alter subsequent interactions among the same organisms and their neighbors.
+- Environmental conditions and the state of the wider group can change both chemical availability and receiver response.
+- Repeated interactions may contribute to larger-scale coordination, but system-level effects require separate evidence.
 
-Chemical transfer can therefore be one mechanism by which distinct living units influence one another while retaining their organismal boundaries. It may contribute to integration without being sufficient, by itself, to explain every form of integration or individuality.
+These relationships may overlap, recur, branch, and feed back. The bullets identify distinguishable processes; they do not prescribe a fixed order or claim that every process occurs in every case.
+
+An effect on one recipient does not, by itself, prove that a colony has acquired a new higher-level property. Researchers must demonstrate how local interactions contribute to a measurable system-level outcome. Chemical transfer can contribute to integration while preserving organismal boundaries, but it is neither a universal explanation nor sufficient evidence of individuality.
 
 ### 11.10 Bounded recognition within the existing GUA-W
 
