@@ -202,3 +202,36 @@ A separate possible contact route is:
 The first is a demonstrated general mechanism in *Ophrys* chemical attraction; its precise behavioral importance must be tested for *O. apifera*. The second is a research question unless species-specific evidence is found. Pollen transfer is a reproductive-material pathway and should not automatically be called chemical communication.
 
 This distinction is central to the larger investigation: a chemical can be a carrier, a signal, a resource, or a transferred material. Its role depends on the molecule, route, receiver, and demonstrated effect.
+
+
+## 5. The reproductive puzzle: chemical mimicry alongside autonomous self-pollination
+
+This is not a contradiction to be explained away; it is a biological pattern that deserves investigation.
+
+*Ophrys apifera* retains a flower with features associated with insect attraction and chemical mimicry, yet it is predominantly capable of autonomous self-pollination. Its flexible pollinarium structures can allow pollinia to contact the stigma, with air movement playing a role. The species is not uniformly selfing in every population: mixed pollination and regional cross-pollination have been reported.
+
+This raises several distinct hypotheses, none of which should be treated as established merely because it sounds plausible:
+
+1. **Reproductive assurance:** autonomous self-pollination may provide reproduction when suitable pollinators are scarce or unreliable.
+2. **Retained or pre-existing floral traits:** some chemical or visual traits may persist from an ancestral or earlier pollination system, even if current reproduction is often autonomous.
+3. **Mixed reproductive strategy:** occasional insect-mediated pollination may still occur in some populations or conditions.
+4. **Evolutionary reversal or transition:** self-pollination may have become more important in parts of the species' range, potentially under pollinator limitation.
+5. **Multiple functions or no demonstrated current function:** a compound may have a role in attraction, another ecological interaction, or no currently established function. Chemical detection alone cannot decide among these possibilities.
+
+The 2024 species account in *Curtis's Botanical Magazine* explicitly notes the puzzle of a flower specialized for insect pollination combined with predominantly autonomous self-pollination, and discusses a possible reversal to self-pollination in association with low pollinator numbers. A 2025 study discusses the geographic variation and possible reproductive assurance associated with self-pollination. These are interpretations and hypotheses to test, not a final causal verdict.
+
+### Research tests
+
+- Compare floral volatile profiles across populations with differing pollinator abundance and selfing rates.
+- Determine whether the relevant bee species detect the measured *O. apifera* volatile blend using electrophysiological and behavioral assays.
+- Measure autonomous selfing, insect-mediated pollen transfer, fruit set, seed set, and offspring genetic diversity separately.
+- Test whether environmental conditions—including light, water availability, temperature, and season—alter volatile production or reproductive outcomes.
+- Distinguish compounds that are merely present from compounds shown to affect a receiver.
+
+**Key distinction:** reproductive independence from a pollinator does not prove the absence of chemical communication. It means that communication, pollination, and reproductive success must be measured as separate outcomes.
+
+
+Sources for this section:
+- [Fay, Taylor & Sayers (2024), *Ophrys apifera* species account, Curtis's Botanical Magazine](https://onlinelibrary.wiley.com/doi/full/10.1111/curt.12561)
+- [Scientific Reports (2025), Climate change-driven northward expansion of *Ophrys apifera*](https://www.nature.com/articles/s41598-025-15167-6)
+- [Claessens & Kleynen (2002), Investigations on the autogamy in *Ophrys apifera*](https://www.zobodat.at/pdf/Jber-Natwiss-Ver-Wuppertal_55_0062-0077.pdf)
