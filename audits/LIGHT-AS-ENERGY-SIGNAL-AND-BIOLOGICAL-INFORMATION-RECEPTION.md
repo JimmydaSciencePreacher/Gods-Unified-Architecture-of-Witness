@@ -156,3 +156,30 @@ Do not assume a bee receives nectar or water from the flower. *Ophrys* flowers a
 This biological witness therefore gives the paired light-and-water investigation a further interface to examine: the plant receives light, uses water, releases chemical compounds, and may interact physically with insects. Each transfer route must be identified and tested separately.
 
 **Related investigation:** [Water: Two-Journey Investigation with the Bee Orchid as Biological Witness](WATER-TWO-JOURNEY-INVESTIGATION-BEE-ORCHID-BIOLOGICAL-WITNESS.md)
+
+
+## 15. The Bee Orchid puzzle: chemical signaling without obligatory bee pollination
+
+The Bee Orchid (*Ophrys apifera*) makes the light investigation more revealing because it presents a biological puzzle: it produces floral chemicals associated with bee-pheromone mimicry, yet it is predominantly autonomously self-pollinating across much of its range. Its flexible pollinarium structures can allow pollinia to contact its own stigma, with air movement contributing to the process. Regional variation and occasional cross-pollination mean that this should not be simplified to “always self-pollinating.”
+
+This separates three questions that must not be conflated:
+
+1. **Chemical production:** which compounds does the flower produce, and in what quantities and mixtures?
+2. **Signal reception and behavior:** which insects detect those compounds, and what behavioral response—if any—do they produce?
+3. **Reproductive outcome:** what proportion of reproduction occurs through autonomous self-pollination versus insect-mediated cross-pollination?
+
+A chemical profile is not proof of a signal's behavioral function. A behavioral response is not proof that the response is necessary for reproduction. And autonomous self-pollination does not prove that the flower's chemical traits have no ecological or reproductive role.
+
+Possible explanations include reproductive assurance when pollinators are scarce, retention of traits from an earlier pollination strategy, a mixed reproductive system, or an evolutionary transition toward greater selfing. These remain hypotheses requiring comparative population, chemical, behavioral, and genetic evidence.
+
+For the two-journey study, this puzzle is particularly useful:
+- **Outward HOW:** chemistry identifies compounds; sensory ecology tests detection; behavioral ecology measures insect responses; reproductive biology measures pollination and seed outcomes; genetics tests selfing and outcrossing.
+- **Return WHY:** Theology examines the findings under Scripture without treating any evolutionary hypothesis as a theological conclusion or making the orchid prove a predetermined purpose.
+
+**Research principle:** distinguish what the organism produces, what another organism receives, what response follows, and what reproductive consequence results.
+
+
+Sources for this section:
+- [Fay, Taylor & Sayers (2024), *Ophrys apifera* species account, Curtis's Botanical Magazine](https://onlinelibrary.wiley.com/doi/full/10.1111/curt.12561)
+- [Scientific Reports (2025), Climate change-driven northward expansion of *Ophrys apifera*](https://www.nature.com/articles/s41598-025-15167-6)
+- [Claessens & Kleynen (2002), Investigations on the autogamy in *Ophrys apifera*](https://www.zobodat.at/pdf/Jber-Natwiss-Ver-Wuppertal_55_0062-0077.pdf)
