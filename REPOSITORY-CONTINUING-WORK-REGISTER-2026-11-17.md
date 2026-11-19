@@ -546,3 +546,12 @@ Extended the existing light cross-disciplinary audit with a bounded examination 
 The evidence supports a concrete engineered communication chain: data are encoded/modulated onto an optical carrier, propagated through a channel subject to loss and noise, detected, and decoded by a receiver. Shannon's framework addresses statistical communication and deliberately brackets semantic meaning. Biological photoreception and astronomical spectroscopy remain distinct cases requiring their own evidence and definitions.
 
 The section records bounded placements within existing GUA-W vocabulary and applies the Triple Constraint. No architecture component, Gear, runtime stage, State term, or universal law was added. The modified light audit was read back after writing; the remaining work is source-level verification of the Shannon and NASA/JPL references, plus a quantitative worked optical-link example if warranted.
+
+
+## 2026-11-19 — Light: NASA Deep Space Optical Communications case study
+
+Extended the existing light audit with a bounded case study of NASA/JPL's Deep Space Optical Communications (DSOC) demonstration. Recorded milestone-specific distances and data rates, the photon-counting receiver, data recovery, and the reported 13.6-terabit total at the demonstration's completion on September 2, 2025. Explicitly distinguished the 267 Mbps result at more than 19 million miles from later lower-rate demonstrations at greater distances; the highest rate is not assigned to the farthest distance. The case also distinguishes photon detection from the unsupported claim that one photon equals one bit or a complete semantic message.
+
+The investigation identifies the connected but differentiated contributions of physics, optical engineering, detector physics, measurement science, information theory, coding, and systems engineering. It records bounded placement within existing GUA-W vocabulary and applies the Triple Constraint. No architecture component, Gear, runtime stage, State term, or universal law was added.
+
+The light audit was read back after writing. Remaining work: if useful, trace the DSOC link budget and modulation/coding chain from the mission's technical papers, with special attention to received photon statistics, detector efficiency, error rates, and the relation between distance and data rate. Do not infer a universal distance-rate law from the milestone table.
