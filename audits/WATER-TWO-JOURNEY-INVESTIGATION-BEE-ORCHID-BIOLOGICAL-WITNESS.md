@@ -433,3 +433,119 @@ This is a placement of observed relationships within the already completed archi
 - [Speciation, pattern recognition and the maximization of pollination: general questions and answers given by the reproductive biology of the orchid genus Ophrys](https://pmc.ncbi.nlm.nih.gov/articles/PMC6579770/). Comparative genus-level context for receiver-specific orchid odor and pollinator behavior; not direct *O. apifera* proof.
 
 **Working conclusion:** The flower emits a chemical mixture, but the atmosphere is an active physical part of the journey. Wind and turbulence transport, dilute, and restructure the plume; the receiving insect encounters an intermittent, potentially altered mixture filtered by its own sensory system. The evidence supports this general mechanism, while the complete *O. apifera* → atmospheric plume → named insect → reproductive outcome chain remains to be demonstrated directly.
+
+
+## From insect antenna to behavior: how a chemical mixture becomes distinguishable
+
+**Question:** Once an insect encounters a transported floral odor mixture, how does its sensory system detect and distinguish the compounds, process their combined activity, and produce a measurable response?
+
+### 1. The antenna is a sensory surface, not a single detector
+
+In many insects, airborne odorants enter porous hair-like structures called **sensilla**, commonly located on the antennae and sometimes on other body parts. A sensillum can house one or more olfactory sensory neurons (OSNs). The neurons carry receptor proteins that respond to particular chemical features or ligands.
+
+Insect chemosensation is not built from one universal receptor family. Depending on the insect and sensory function, volatile chemicals can be detected through olfactory receptors (ORs), ionotropic receptors (IRs), and, in some contexts, gustatory receptors (GRs). The receptor families, their distribution, and their tuning differ across insect lineages. Do not assume that the receptor inventory of a fruit fly, moth, mosquito, bee, or a potential *Ophrys* pollinator is interchangeable.
+
+The receptor-neuron response depends on the chemical presented, its concentration, and the receptor's sensitivity. A compound's presence in air therefore does not guarantee a detectable response in every insect.
+
+### 2. Two complementary coding strategies: combinatorial codes and labeled lines
+
+Research describes two broad, compatible strategies for representing odors:
+
+- **Combinatorial coding:** multiple odorants activate overlapping subsets of sensory neurons and receptors. A compound may activate more than one receptor type, and a receptor may respond to more than one compound. The combined pattern across neurons provides a way to distinguish many possible odors.
+- **Labeled lines:** some sensory pathways are relatively specialized for a particular ecologically important cue or class of cues. Their activation can be strongly associated with a particular behavioral function, such as detecting a pheromone, a host cue, or a danger-associated compound.
+
+These are not mutually exclusive architectures. The same insect may use combinatorial coding for general environmental odors and more specialized pathways for particular cues. The balance differs by species and ecological task.
+
+Haverkamp, Hansson, and Knaden (2018) review examples from flies, moths, and mosquitoes. They emphasize that the insect's olfactory representation is shaped both by the chemical signal and by the receiver's peripheral and central coding. Their review also describes cases in which odor mixtures that are attractive when presented separately become ineffective or repellent when combined. The identity and context of the blend matter; simply adding more odor components does not guarantee a stronger signal.
+
+### 3. The first brain processing center: the antennal lobe
+
+Olfactory sensory neurons project to the insect brain's antennal lobe. In many studied insects, neurons expressing the same receptor type converge on a shared processing unit called a **glomerulus**. The antennal lobe also contains local interneurons and projection neurons.
+
+- Sensory neurons provide the incoming receptor activity.
+- Local interneurons connect activity within and between glomeruli, shaping the response.
+- Projection neurons carry processed activity to higher brain centers.
+
+This means the insect's central representation is not merely a passive copy of the molecules present at the antenna. It is transformed by neural circuitry.
+
+A 2011 experimental study in a moth recorded individual antennal-lobe neurons responding to mixtures containing two to seven components. It found nonlinear mixture responses—including suppression, hypoadditivity, and synergism—in many mixture-responsive neurons. Different neurons represented the same mixture through different spatial, frequency, latency, and temporal response properties. There is no single universal arithmetic rule by which the antennal lobe simply adds each component's response.
+
+This is a key evidence boundary: the experiment demonstrates complex mixture processing in the studied moth and tested mixtures. It does not establish the exact neural code of an insect visiting *Ophrys apifera*.
+
+### 4. Background odor and internal context matter
+
+An insect encounters a chemical environment, not an isolated laboratory molecule. Background odors can overlap with target compounds, mask or alter the effective mixture, or change how a blend is represented. The 2018 review describes hawkmoth experiments in which the same floral odor can be processed differently depending on the surrounding odor background. It also describes plant blends that attract when spatially separated but lose their attractive effect when combined into a novel mixture.
+
+Behavior is also influenced by the insect's species, life stage, sex, physiological state, prior experience, and ecological task. Hunger, mating state, and reproductive state can change the relevance of a chemical cue. A sensory response should therefore not be treated as a fixed, context-free command.
+
+### 5. Detection, neural representation, and behavior are separate measurements
+
+The evidence must be kept in distinct levels:
+
+1. **Chemical presence:** a compound is present in the air at the antenna.
+2. **Peripheral detection:** an antennal sensory neuron or receptor responds to the compound.
+3. **Neural representation:** activity across neurons and antennal-lobe circuits represents the compound or mixture.
+4. **Behavioral response:** the insect changes orientation, approach, landing, feeding, mating, or another measurable action.
+5. **Ecological consequence:** the action changes pollination, reproduction, host finding, or another outcome.
+
+A result at one level does not prove the next. Antennal detection does not prove attraction. A neural response does not by itself establish the behavioral meaning of that response. An approach to a flower does not prove pollinia transfer or successful reproduction.
+
+### 6. What would be required to establish the Bee Orchid receiver pathway?
+
+The current species-specific evidence for *O. apifera* includes measured floral VOCs and botanical descriptions of its floral chemistry and predominantly autonomous self-pollination across much of its range. The sources examined do not establish a named insect receiver's complete sensory pathway for the measured *O. apifera* blend.
+
+A direct investigation would need to:
+
+- Identify candidate insect visitors and establish whether they contact or visit *O. apifera* flowers in the population under study.
+- Measure the actual floral blend and its concentrations at the insect's position, including the changing plume and background odor.
+- Test antennal responses to individual compounds and reconstructed blends at ecologically realistic concentrations, using an appropriate method such as electroantennography or single-sensillum recording.
+- If a response is found, test whether neural activity distinguishes the complete blend from individual compounds, altered ratios, and background mixtures.
+- Conduct controlled behavioral tests that separate attraction, orientation, landing, and pseudocopulatory behavior.
+- Observe whether the behavior transfers pollinia and measure the reproductive outcome.
+- Repeat across relevant populations, seasons, and insect species rather than generalizing from one trial.
+
+The tests must use the actual candidate receiver. A positive response in a moth, fly, or honeybee model cannot be assigned to an *O. apifera* pollinator without direct evidence.
+
+### 7. Cross-disciplinary recognition
+
+| Discipline | What it establishes |
+|---|---|
+| Analytical chemistry | Identity and concentration of the odor mixture reaching the receiver |
+| Sensory physiology | Whether antennal receptors and neurons respond to specified compounds or blends |
+| Molecular biology / neurogenetics | Receptor identity, expression, and functional contribution where experimentally established |
+| Neurobiology | How antennal-lobe circuits transform sensory input and represent mixtures |
+| Behavioral ecology | Whether the insect changes behavior under controlled and natural conditions |
+| Reproductive biology | Whether behavior causes pollinia transfer and changes reproductive outcomes |
+| Measurement science | Calibration, controls, stimulus delivery, concentration, temporal resolution, and uncertainty |
+
+The disciplines examine connected parts of one interaction while retaining their distinct methods and evidentiary standards.
+
+### 8. Bounded placement within completed GUA-W
+
+The observed relationships can be recognized within existing GUA-W vocabulary:
+
+- **Propagation:** the atmospheric plume carries an altered and intermittent chemical mixture toward the insect.
+- **Reception:** odorants enter sensilla and interact with sensory receptor systems.
+- **Activation:** receptor-neuron activity changes in response to suitable chemical inputs.
+- **Differentiation:** receptor tuning, concentration, blend ratios, temporal pattern, and background conditions distinguish inputs.
+- **Integration:** antennal-lobe circuits and higher neural centers process sensory activity in context.
+- **Expression:** measurable behavior may follow.
+- **Witness-state:** instruments and observers register bounded sensory, neural, behavioral, and reproductive evidence.
+
+This is recognition within the completed architecture, not a new biological stage or an amendment to GUA-W. The insect remains a derivative receiver; neural processing does not make it the Author of the chemical source or the created order.
+
+### 9. Triple Constraint disposition
+
+- **Biblical compliance:** PASS within scope. Insect olfaction is not used to redefine Genesis or to impose modern neurobiology as the technical meaning of a Scriptural passage.
+- **Scientific coherence:** PASS for the general insect olfactory organization, the coexistence of combinatorial and specialized coding strategies, and experimentally observed nonlinear mixture processing in studied species. The specific *O. apifera* receiver, active blend, neural representation, and behavioral pathway remain unestablished by the sources examined.
+- **GUA-W consistency:** PASS as a bounded recognition of reception, activation, differentiation, integration, expression, and witness registration within existing terms. No component, Gear, runtime stage, State term, or universal law is added.
+
+### Sources
+
+- Haverkamp, A., Hansson, B. S. & Knaden, M. (2018), [Combinatorial Codes and Labeled Lines: How Insects Use Olfactory Cues to Find and Judge Food, Mates, and Oviposition Sites in Complex Environments](https://pmc.ncbi.nlm.nih.gov/articles/PMC5799900/), *Frontiers in Physiology* 9:49. Review of receptor families, combinatorial coding, specialized pathways, antennal-lobe processing, background odors, and behavior.
+- Riffell, J. A. and colleagues (2011), [Neuronal Processing of Complex Mixtures Establishes a Unique Odor Representation in the Moth Antennal Lobe](https://pmc.ncbi.nlm.nih.gov/articles/PMC3128929/), *Journal of Neuroscience*. Experimental recordings showing nonlinear, neuron-specific responses to multicomponent mixtures in a moth.
+- Clifford, M. R. & Riffell, J. A. (2013), [Mixture and odorant processing in the olfactory systems of insects: a comparative perspective](https://pubmed.ncbi.nlm.nih.gov/23660810/), *Journal of Comparative Physiology A* 199, 911–928. Comparative review of peripheral, antennal-lobe, and behavioral mixture processing.
+- [Evolution, developmental expression and function of odorant receptors in insects](https://pmc.ncbi.nlm.nih.gov/articles/PMC7790194/). Review of insect odorant receptor diversity, tuning, and concentration dependence.
+- [Evolution of olfactory circuits in insects](https://pmc.ncbi.nlm.nih.gov/articles/PMC7192870/). Review of sensory-neuron organization, antennal-lobe circuitry, and evolutionary variation.
+
+**Working conclusion:** An insect's chemical environment is converted into sensory activity through species-dependent receptors, then transformed by neural circuits. Both combinatorial and specialized coding strategies occur. Mixture responses can be nonlinear, and background odors and internal context can change the resulting behavior. This establishes a general receiver-side mechanism, but not yet the complete *Ophrys apifera*–insect pathway.
