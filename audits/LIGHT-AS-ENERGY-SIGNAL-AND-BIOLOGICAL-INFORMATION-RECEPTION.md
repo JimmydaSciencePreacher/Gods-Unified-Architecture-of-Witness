@@ -121,3 +121,19 @@ These are placements within existing terms, not claims that every biological pat
 Light provides a strong cross-disciplinary test case because one physical phenomenon participates in energy transfer, molecular interaction, biological signaling, measurement, and information transmission. The sciences investigate different aspects of these connected events through different methods.
 
 The evidence supports a disciplined statement: **light can be both an energy carrier and, in relation to a suitable receiver, an information-bearing signal.** The receiver's organization determines what it can detect and how it responds. Neither the physical signal nor the scientific description should be confused with the Author, and neither the measurement nor the model should be confused with the reality being investigated.
+
+
+## 13. Shared biological witness for the light and water investigations: Bee Orchid
+
+The Bee Orchid, *Ophrys apifera*, is the first biological witness used across both the light and water investigations. Its habitat and life cycle provide a species-specific opportunity to examine the interaction of light environment, soil-water conditions, calcareous substrate, seasonal development, and reproduction.
+
+The species must not be used as a generic stand-in for all plants. Direct evidence about *O. apifera* must be distinguished from broader plant-physiology findings. Its pollination biology also requires species-specific care: despite its bee-like flower and membership in the sexually deceptive *Ophrys* genus, *O. apifera* is predominantly self-pollinating across much of its range, with pollinia able to contact its own stigma. The pollination strategies of other *Ophrys* species must not be attributed to it automatically.
+
+In this paired investigation, the outward HOW-sciences examine:
+- **Light:** irradiance, spectral composition, photoreception, photosynthetic processes, and seasonal light environment.
+- **Water:** soil moisture, drainage, water uptake and transport, transpiration, and seasonal water availability.
+- **Cross-disciplinary interaction:** how light, water, temperature, soil chemistry, and habitat jointly relate to growth, flowering, and reproduction.
+
+The return journey brings the cross-verified findings to Theology, the Queen of the Sciences, for examination under Genesis 1–2 and the wider Scriptural witness. The orchid is a biological witness within Creation; it does not replace Scripture or prove a predetermined theological conclusion.
+
+**Related paired investigation:** [Water: Two-Journey Investigation with the Bee Orchid as Biological Witness](WATER-TWO-JOURNEY-INVESTIGATION-BEE-ORCHID-BIOLOGICAL-WITNESS.md)
