@@ -257,3 +257,10 @@ The repository already contains many investigations that touch the same One Crea
 The task now is to follow those connections carefully, document what the evidence supports, and let the reader see the unity without erasing the distinctions.
 
 **One Author. One originating Word. One Creation. Many witnesses.**
+
+
+## 8. Purpose, appointed function, Constraint, and Structure
+
+**Investigation opened 2026-11-19:** [Purpose, Appointed Function, Constraint, and Structure — Initial Internal Investigation](scriptural-reconstruction/PURPOSE-APPOINTED-FUNCTION-CONSTRAINT-STRUCTURE-GENESIS-1-2.md).
+
+This investigation follows the Genesis 1–2 synthesis question concerning the relationship of Author-stated purpose and appointed function to the existing Constraint → Structure relationship. It examines Genesis 1:14–18, 1:26–28, and 2:8–17, while preserving the distinction between explicit textual statements and architectural interpretation. Its initial Triple Constraint assessment is bounded; no architectural component or definition was changed. The next work is to examine the existing Constraint and Structure source definitions and compare the relevant canonical evidence before drawing a stronger conclusion.
