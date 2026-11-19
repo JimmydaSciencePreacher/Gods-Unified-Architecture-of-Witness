@@ -165,6 +165,7 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 - [Spiny Leaf Insect Case Study — *Extatosoma tiaratum*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md)
 - [Butterfly Metamorphosis Case Study — Lepidoptera](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md)
 - [Axolotl Limb Regeneration Case Study — *Ambystoma mexicanum*](audits/BIOLOGICAL-IDENTITY-REGENERATION-AND-CONTINUITY-AXOLOTL-LIMB.md)
+- [Zebrafish Embryonic Development Case Study — *Danio rerio*](audits/BIOLOGICAL-IDENTITY-EMBRYONIC-DEVELOPMENT-ZEBRAFISH.md)
 
 
 - [COMPARATIVE REVIEW HOLOGRAPHY BLACK HOLE INFORMATION AUDITS](audits/COMPARATIVE-REVIEW-HOLOGRAPHY-BLACK-HOLE-INFORMATION-AUDITS.md)
