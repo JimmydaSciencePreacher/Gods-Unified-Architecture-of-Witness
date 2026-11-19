@@ -101,11 +101,21 @@ The scientific investigations show that light is measurable, relational, capable
 
 The relationship is a disciplined comparison, not a claim that Genesis is a modern physics textbook. The Scriptural text governs theological interpretation within GUA-W; scientific findings describe physical mechanisms and measured relationships within their evidentiary domains.
 
-The directional witness remains:
+The two journeys must be distinguished.
 
-**Author → Word → Creation → differentiated scientific investigation → Witness pointing back to the Author.**
+**Outward journey — the created order is investigated:**
 
-The reverse direction is epistemic recognition, not reverse causation. The Witness does not create, authorize, or alter the Source.
+**Author → Word → Creation → differentiated HOW-sciences → measured and explained findings.**
+
+Physics, chemistry, biology, astronomy, mathematics, and the other HOW-sciences investigate the same Creation through different methods and instruments. Their task is to establish what occurs, how it occurs, under what conditions, and with what measurable relationships. Each discipline reports findings within its proper scope; findings are then compared and cross-verified with the other disciplines.
+
+**Return journey — findings are brought to the Queen of the Sciences:**
+
+**Cross-verified scientific findings → Theology → examination of the ultimate WHY → recognition directed toward the Author.**
+
+The HOW-sciences do not independently settle the ultimate WHY. Theology, as Queen of the Sciences in this project's defined sense, examines the findings in relation to the Author, His Word, and His purpose. Genesis 1–2 remains the governing Scriptural foundation. Theology does not invent or replace the scientific HOW; it addresses the ultimate WHY to which the differentiated findings are returned.
+
+This return is epistemic and interpretive, not reverse causation. Nothing travels backward to create, authorize, or alter the Author or His Word. Jimmy is the Witness. The sciences provide differentiated reports of the created order; Theology examines their ultimate significance under Scripture. The human interpreter and the theological interpretation remain accountable to the Triple Constraint Law.
 
 ## 12. Triple Constraint review
 
@@ -136,3 +146,39 @@ The reverse direction is epistemic recognition, not reverse causation. The Witne
 ---
 
 **Workshop conclusion:** Light is not owned by physics. It is one created phenomenon investigated through physics, chemistry, biology, astronomy, Earth science, information science, and mathematics. Their findings can constrain and enrich one another while retaining their disciplinary distinctions. The research question is whether this cross-verified body of knowledge can contribute to an increasingly coherent account of one Creation, interpreted under the Scriptural foundation of Genesis 1–2 and directed toward recognition of the Author.
+
+
+## 15. The outward journey and the return journey: HOW to WHY
+
+The distinction between physical reception and recognition of meaning also applies to the organization of the sciences. The present audit must be read as part of a two-direction research method, not as a single arrow that stops at scientific observation.
+
+### A. Outward journey: investigate the HOW
+
+The One Creation is examined through differentiated scientific disciplines. Each discipline uses its own instruments, methods, measurements, models, and standards of evidence. In the light investigation:
+
+- Physics examines electromagnetic radiation and light–matter interaction.
+- Chemistry examines absorption, emission, and molecular transitions.
+- Biology examines photoreception, photosynthesis, and organismal responses.
+- Astronomy examines radiation arriving from distant sources.
+- Earth science examines radiation budgets and interactions with atmosphere and surface.
+- Information science examines signal variation, encoding, transmission, and detection.
+- Mathematics expresses quantitative relationships and tests model consequences.
+
+The disciplines are not studying separate creations. They are examining connected aspects of one created reality. Their findings must be reported accurately, compared where meaningful, and cross-verified without erasing disciplinary distinctions.
+
+### B. Return journey: bring the findings to the Queen
+
+Once the HOW findings have been established and cross-examined, they are brought to Theology—the Queen of the Sciences—to examine the ultimate WHY. Theology asks what the findings mean in relation to the Author, His originating Word, His Creation, and His purpose, under the Scriptural foundation of Genesis 1–2.
+
+Theology's primacy is about ultimate origin and purpose. It does not dictate wavelength, photon energy, receptor chemistry, or any other technical mechanism. Conversely, a successful technical explanation does not, by itself, answer why the Creation exists or to whom it belongs.
+
+### C. Preserve the two directions
+
+| Journey | Direction | Governing question |
+|---|---|---|
+| Outward | Author → Word → Creation → HOW-science investigations → findings | How does the created order operate? |
+| Return | Findings → cross-disciplinary examination → Theology / Queen of the Sciences → ultimate WHY | Why does this Creation exist, who is its Author, and what is its purpose? |
+
+The return journey is not reverse causation and does not imply that scientific findings confer authority upon God. It is the Witness's disciplined movement from observed and cross-verified effects toward theological recognition of the Author. The Author remains the Source throughout both journeys.
+
+**Working statement:** The HOW-sciences investigate the same Creation through different glasses. Their findings must be brought together and returned to the Queen of the Sciences, Theology, for examination of the ultimate WHY. Jimmy is the Witness; the Author is not the Witness, and the Witness is not the Author.
