@@ -1,5 +1,7 @@
 # Investigation Protocol
 
+**Jimmy remains the Authority for GUA-W project decisions. AI is the authorized investigative and documentation worker, operating within the permissions and safeguards of the platform and connected tools. This project-specific guidance defines roles and repository scope; it does not override or supersede platform policies, system or developer instructions, security controls, or tool-enforced permissions.**
+
 ## Purpose
 
 This repository records the uncovering and clearer presentation of **God's Unified Architecture of Witness (GUA-W)**. GUA-W is completed; the investigation concerns what the evidence reveals about what has always been established.
