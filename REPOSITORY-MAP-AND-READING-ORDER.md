@@ -27,6 +27,7 @@ This map orders the written record; it does not establish a new authority hierar
 
 - [CROSS DISCIPLINARY INVESTIGATION PRINCIPLE](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md)
 - [CROSS DISCIPLINARY INVESTIGATION WORKSHEET](CROSS-DISCIPLINARY-INVESTIGATION-WORKSHEET.md)
+- [Internal Unification Map and Research Agenda](INTERNAL-UNIFICATION-MAP-AND-RESEARCH-AGENDA.md)
 - [GOVERNING PRINCIPLES](GOVERNING-PRINCIPLES.md)
 - [GUA W COMPLETED ARCHITECTURE](GUA-W-COMPLETED-ARCHITECTURE.md)
 - [INVESTIGATION PROTOCOL](INVESTIGATION-PROTOCOL.md)
@@ -158,8 +159,21 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 ## VI. Other canonical and theological reconstructions
 
 - [ROMANS 1 18 32 KNOWLEDGE SUPPRESSION AND THE CREATOR](scriptural-reconstruction/ROMANS-1-18-32-KNOWLEDGE-SUPPRESSION-AND-THE-CREATOR.md)
+- [Creation, Redemption, and Consummation — Internal Unification Synthesis](scriptural-reconstruction/CREATION-REDEMPTION-CONSUMMATION-INTERNAL-UNIFICATION-SYNTHESIS.md)
+- [Genesis 1–2 — Internal Unification Synthesis](scriptural-reconstruction/GENESIS-1-2-INTERNAL-UNIFICATION-SYNTHESIS.md)
+- [Human Will and Salvation — Internal Unification Synthesis](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-INTERNAL-UNIFICATION-SYNTHESIS.md)
+- [Identity, Change, and Persistence — Internal Unification Synthesis](scriptural-reconstruction/IDENTITY-CHANGE-AND-PERSISTENCE-INTERNAL-UNIFICATION-SYNTHESIS.md)
+- [Witness, Knowledge, Measurement, and Registration — Internal Unification Synthesis](scriptural-reconstruction/WITNESS-KNOWLEDGE-MEASUREMENT-AND-REGISTRATION-INTERNAL-UNIFICATION-SYNTHESIS.md)
+- [Works and Signs of Jesus — Internal Unification Synthesis](scriptural-reconstruction/WORKS-AND-SIGNS-OF-JESUS-INTERNAL-UNIFICATION-SYNTHESIS.md)
 
 ## VII. Cross-disciplinary evidence and scientific audits
+- [Spiny Leaf Insect — Identity, Development, and Continuity](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-SPINY-LEAF-INSECT-EXTATOSOMA-TIARATUM.md)
+- [Interdisciplinary Convergence — Different Sciences, One Created Order](audits/INTERDISCIPLINARY-CONVERGENCE-DIFFERENT-SCIENCES-ONE-CREATED-ORDER.md)
+- [Light as a Cross-Disciplinary Witness — Physics, Chemistry, Biology, and Astronomy](audits/LIGHT-AS-A-CROSS-DISCIPLINARY-WITNESS-PHYSICS-CHEMISTRY-BIOLOGY-ASTRONOMY.md)
+- [Light as Energy, Signal, and Biological Information Reception](audits/LIGHT-AS-ENERGY-SIGNAL-AND-BIOLOGICAL-INFORMATION-RECEPTION.md)
+- [Light Return Journey — Genesis 1:3, 1:9, and 1:19](audits/LIGHT-RETURN-JOURNEY-GENESIS-1-3-19-THEOLOGICAL-WHY.md)
+- [Repository Documentation — Provenance, Scope, and Governance Audit](audits/REPOSITORY-DOCUMENTATION-PROVENANCE-AND-SCOPE-AUDIT.md)
+- [Water’s Two-Journey Investigation — Bee Orchid Biological Witness](audits/WATER-TWO-JOURNEY-INVESTIGATION-BEE-ORCHID-BIOLOGICAL-WITNESS.md)
 - [Comparative Biological Synthesis — Identity, Development, Relationship, and Persistence](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md)
 - [The Sciences as Differentiated Witnesses to One Creation: Genesis 1–2, Chemistry, Information, and Mathematics](audits/SCIENCES-AS-DIFFERENTIATED-WITNESSES-TO-ONE-CREATION-GENESIS-1-2.md)
 - [Mathematics as a Witness to Created Order: Symmetry, Periodicity, and Measurement](audits/MATHEMATICS-AS-A-WITNESS-TO-CREATED-ORDER-SYMMETRY-PERIODICITY-AND-MEASUREMENT.md)
@@ -202,6 +216,6 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 
 ## Inventory note
 
-The recursive tree contained **102 entries**, of which **99 are files** and **3 are directories**. This map is generated from the tracked tree and is intended as navigation, not as a claim that every individual scientific, historical, linguistic, or Scriptural claim has received a fresh line-by-line audit.
+The recursive tree contains **155 entries**, of which **151 are files** and **4 are directories** (verified against the live `main` tree on 2026-11-19). This map is generated from the tracked tree and is intended as navigation, not as a claim that every individual scientific, historical, linguistic, or Scriptural claim has received a fresh line-by-line audit.
 
 A document's presence here does not make every statement in it canonical. The completed-architecture presentation and the governing principles control architectural terminology; source texts and domain-appropriate evidence control the claims made about their subjects.
