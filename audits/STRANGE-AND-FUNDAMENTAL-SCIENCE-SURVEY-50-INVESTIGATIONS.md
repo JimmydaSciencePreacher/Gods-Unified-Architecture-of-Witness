@@ -47,6 +47,8 @@ A candidate's strangeness is not evidence of a supernatural cause, a universal m
 
 ### Domain 2 — Chemistry
 
+**Completed Investigation I:** [Belousov–Zhabotinsky Reaction](CHEMISTRY-INVESTIGATION-I-BELOUSOV-ZHABOTINSKY-REACTION.md).
+
 1. **Belousov–Zhabotinsky reaction:** How can a chemical reaction produce repeating waves and oscillations?
 2. **Molecular self-assembly:** How do molecules organize into larger structures?
 3. **DNA origami:** How can DNA be used to construct designed nanoscale shapes?
