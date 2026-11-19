@@ -71,12 +71,13 @@ A candidate's strangeness is not evidence of a supernatural cause, a universal m
 
 **Completed Investigation II (cross-domain):** [Neutron Stars](PHYSICS-INVESTIGATION-IV-NEUTRON-STARS.md). The dedicated Physics investigation remains the detailed record; this entry is cross-listed, not duplicated.
 
-**Completed Investigation III:** [Cosmic Web](#13-astronomy-and-cosmology-investigation-i--the-cosmic-web) (full investigation recorded in Section 13 of this survey).
+**Completed Investigation III:** [Cosmic Web](#13-astronomy-and-cosmology-investigation-iii--the-cosmic-web) (full investigation recorded in Section 13).
 
-4. **Gravitational lensing:** How does gravity bend the path of light?
+**Completed Investigation IV:** [Gravitational Lensing](#14-astronomy-and-cosmology-investigation-iv--gravitational-lensing) (full investigation recorded in Section 14).
+
 5. **Dark matter:** What accounts for gravitational effects not explained by visible matter?
 
-**Domain progress:** Three of five listed subjects are now accounted for, including two cross-domain studies. Gravitational lensing is next in the uncompleted sequence; dark matter follows.
+**Domain progress:** Four of five listed subjects are now accounted for, including two cross-domain studies. Dark matter is next in the uncompleted sequence.
 
 ### Domain 4 — Earth Sciences and Geology
 
@@ -1708,3 +1709,278 @@ The broad morphology is well established. The precise identification of individu
 The central witness from this investigation is the distinction between **the physical matter distribution, the processes that shape it, the observational tracers used to map it, the models used to reconstruct it, and the limits of each representation**.
 
 This is the first uncompleted candidate in the Astronomy and Cosmology domain after recognizing that black holes and neutron stars already have dedicated Physics investigations. It records a cross-domain continuation, not a duplicate study and not a redesign of GUA-W.
+
+
+---
+
+## 14. Astronomy and Cosmology Investigation IV — Gravitational Lensing
+
+**Domain:** Astronomy and Cosmology  
+**Survey position:** Domain 3, fourth listed candidate  
+**Prepared:** 2026-11-18  
+**Primary question:** How does mass alter the paths and apparent images of light, and what can the resulting distortions reliably tell us about otherwise difficult-to-observe matter and distant objects?
+
+### 1. Purpose and scope
+
+Gravitational lensing is an observable consequence of gravity acting on the propagation of light. In general relativity, mass-energy curves spacetime; light follows paths through that curved spacetime. A foreground mass distribution can therefore change the apparent position, shape, brightness, and arrival time of light from a background source.
+
+The foreground object or mass distribution is the **lens**; the more distant emitting object is the **source**; and the observer receives one or more **images** of the source.
+
+This is not an ordinary glass lens. There is no requirement that light pass through transparent material. The effect is gravitational and geometric.
+
+This investigation distinguishes:
+- the foreground mass distribution from the background source;
+- the physical light path from the apparent image on a detector;
+- observed image distortions from model-based reconstruction of lens mass;
+- strong lensing, weak lensing, and microlensing;
+- robust gravitational evidence from uncertainties in inferred mass, geometry, and source properties.
+
+### 2. Core physical mechanism
+
+In general relativity, mass and energy influence spacetime geometry. Light propagating near a massive body follows null paths in that geometry. To an observer, the apparent direction of the source can be displaced and its image magnified or distorted.
+
+In the thin-lens approximation, a complicated three-dimensional mass distribution is often represented by a projected surface mass density on a lens plane. The observed image position, source position, and deflection are related by the lens equation. In one common notation:
+
+\[
+\boldsymbol{\beta}=\boldsymbol{\theta}-\boldsymbol{\alpha}(\boldsymbol{\theta}),
+\]
+
+where \(\boldsymbol{\beta}\) is the unlensed angular source position, \(\boldsymbol{\theta}\) is the observed image position, and \(\boldsymbol{\alpha}\) is the scaled deflection angle.
+
+This equation is a useful model representation. Real analyses may require multiple lens planes, extended sources, complex mass profiles, and cosmological distance factors.
+
+A lens can produce:
+- a shifted apparent position;
+- a stretched, compressed, or sheared image;
+- multiple images of one source;
+- arcs or, under near-perfect alignment and suitable symmetry, an Einstein ring;
+- magnification that makes a distant source detectable;
+- different light-travel arrival times for multiple images of a variable source.
+
+Lensing conserves surface brightness in ideal geometric optics, while changing apparent solid angle and therefore total observed flux. In practice, finite resolution, detector response, dust, source variability, and microlensing complicate observations.
+
+### 3. Three major regimes
+
+**Strong gravitational lensing.** Strong lensing occurs when the geometry and projected mass are sufficient to produce conspicuous distortions, multiple images, giant arcs, or Einstein rings. Common systems include a foreground galaxy lensing a distant galaxy, a galaxy cluster lensing background galaxies, and quasars appearing as multiple images. Compound or multi-plane systems can involve more than one source or lens plane.
+
+Strong lensing constrains projected mass near the lens, including dark matter, and can magnify distant sources. A visually striking ring does not mean the source itself is a ring: it is an image configuration created by lens geometry and source alignment.
+
+**Weak gravitational lensing.** Weak lensing generally produces small coherent distortions in the apparent shapes of many background galaxies. The signal is statistical: an individual galaxy's intrinsic shape is not known, but average distortion across many sources can reveal gravitational shear. Weak-lensing surveys estimate projected mass distributions and measure statistical growth and clustering of cosmic structure.
+
+Weak-lensing mass maps are reconstructions, not photographs of dark matter. Reliability depends on image quality, source selection, redshift estimates, shape measurement, calibration, and assumptions used to infer mass.
+
+**Gravitational microlensing.** Microlensing occurs when a compact foreground object—such as a star, stellar remnant, or planet—passes close to the line of sight to a background star or other compact source. The lens may not be separately resolved. Instead, the background source's brightness changes in a characteristic time-dependent way. A planet orbiting the lensing star can produce a short deviation in the light curve.
+
+Microlensing has detected or constrained planets and other objects difficult to observe directly. Unlike many strong-lensing galaxy systems, microlensing events often do not produce separately resolved images because their angular separations are extremely small.
+
+### 4. What is measured, and what is inferred?
+
+Astronomers record photons and detector data: image positions, shapes, brightnesses, spectra, and time-dependent light curves. They may also measure the redshifts of lens and source.
+
+From these measurements, researchers infer:
+- lens-source-observer geometry;
+- deflection and shear fields;
+- projected mass distribution;
+- mass profile of a lens under a chosen model;
+- magnification and intrinsic source properties;
+- time delays between multiple images;
+- cosmological distance information in suitable systems.
+
+The inference is not assumption-free. A lens model is selected and fitted to observations. Different mass distributions can sometimes reproduce similar image configurations. Independent information—stellar dynamics, X-ray gas, galaxy distributions, multiple source redshifts, or additional lensing data—can help break degeneracies.
+
+**Essential distinction:** the image is observed; the source's unlensed appearance and the lens's detailed mass distribution are generally reconstructed.
+
+### 5. What can lensing reveal about dark matter?
+
+Gravitational lensing responds to the total gravitating mass along the line of sight, not just stars that emit visible light. It therefore provides a powerful way to study mass that is not directly luminous.
+
+In galaxy clusters, lensing mass maps can be compared with the distribution of stars, galaxies, and hot X-ray-emitting gas. Offsets between these components can constrain how matter is distributed and how cluster components behave during collisions.
+
+In weak-lensing surveys, the statistical shear field can map projected matter over large regions and constrain growth of structure.
+
+However:
+- lensing measures gravitational effects, not a direct image of dark-matter particles;
+- reconstruction depends on redshifts, geometry, noise, and modeling;
+- line-of-sight structures can contribute to the signal;
+- a projected map does not by itself reveal the full three-dimensional arrangement;
+- lensing alone does not identify the microscopic nature of dark matter.
+
+Lensing is independent evidence for gravitating mass distributions, not a direct particle detector.
+
+### 6. Time delays and cosmological measurement
+
+When a variable source, such as a quasar, is multiply imaged, variations can arrive at different times in the separate images. The time delay depends on both the geometry of the paths and the gravitational potential of the lens.
+
+With a sufficiently constrained lens model and measured redshifts, time-delay lensing can provide information about cosmological distances and the expansion rate, including estimates of the Hubble constant.
+
+This method is powerful but sensitive to the lens mass model, mass along the line of sight, and treatment of the source and lens environment. Different analyses can obtain different results when assumptions or data differ. Time-delay cosmography is an active precision-measurement field, not a model-free measurement.
+
+### 7. Main uncertainties and failure modes
+
+A scientifically responsible lensing analysis must account for several sources of uncertainty.
+
+1. **Mass-model degeneracies:** distinct projected mass distributions can generate similar image configurations. The mass-sheet degeneracy is a well-known example in which a transformation of the lens model can preserve key image observables while changing inferred quantities such as magnification.
+2. **Source-redshift uncertainty:** imprecise source distances affect inferred lens geometry and mass.
+3. **Line-of-sight structure:** other mass concentrations between source and observer can contribute additional deflection and shear.
+4. **Baryonic physics:** stars, gas, and central compact objects affect the inner mass profile and cannot always be neglected.
+5. **Shape noise:** weak-lensing measurements are limited by the finite and intrinsically varied shapes of background galaxies.
+6. **Intrinsic alignments:** galaxies can have correlated intrinsic orientations that imitate or contaminate a weak-lensing signal.
+7. **Point-spread function and detector calibration:** telescope optics, atmospheric effects for ground-based surveys, and image processing can distort measured galaxy shapes.
+8. **Selection effects:** lens samples favor certain source brightnesses, lens masses, alignments, and image configurations.
+9. **Microlensing and variability:** stars in a lens galaxy can alter brightness of individual images and complicate source reconstruction or time-delay measurements.
+10. **Model choice:** a successful fit is not proof that the selected mass profile is uniquely correct.
+
+Independent cross-checks and transparent uncertainty budgets are essential.
+
+### 8. Recent observational development: Euclid
+
+The European Space Agency's Euclid mission is designed to map the geometry and growth of cosmic structure. Its observations provide a major new resource for strong-lensing discovery and future weak-lensing cosmology.
+
+On 12 November 2026, the Euclid Consortium and ESA released the DR1-Foundation data, the first part of Euclid's first major data release. The release covers approximately 1,900 square degrees and includes optical and near-infrared imaging, catalogues, and spectra.
+
+The release reported more than 15,000 strong-lens candidates. These were identified among roughly 900 million detected galaxies through a combination of artificial-intelligence screening, citizen-science inspection, and expert validation. The catalogue includes unusual configurations such as compound lenses, lensed quasars, and lenses involving spiral galaxies.
+
+Important qualification: these are **candidates and characterized systems**, not 15,000 equally certain, fully solved mass maps. Candidate discovery, expert validation, lens modeling, and scientific interpretation are distinct stages.
+
+The DR1-Foundation release is not the final Euclid weak-lensing cosmology analysis. The public archive describes additional higher-level galaxy-clustering and weak-lensing products as part of the later complete DR1 release, expected in mid-2027. The current strong-lens discoveries should not be represented as a completed weak-lensing measurement of the entire survey.
+
+### 9. Historical and methodological significance
+
+The 1919 solar-eclipse observations led by Arthur Eddington, Frank Dyson, and collaborators measured the apparent displacement of stars near the Sun during an eclipse. They became an early celebrated test of the gravitational deflection of starlight predicted by general relativity.
+
+Modern lensing has expanded far beyond that initial test:
+- galaxy and cluster lenses reveal arcs, multiple images, and magnified background galaxies;
+- weak lensing maps statistical distortions over large sky areas;
+- microlensing reveals otherwise unresolved foreground objects and exoplanets;
+- time-delay systems provide cosmological distance information.
+
+The scientific strength lies not in a single spectacular image but in the repeatable relationship between measured distortions and gravitational models, tested across many systems and methods.
+
+### 10. What gravitational lensing does and does not establish
+
+**Supported:**
+- Mass-energy affects spacetime geometry and therefore propagation of light.
+- Gravitational lensing is observed in solar-system, stellar, galactic, and cluster contexts.
+- Strong lensing produces measurable arcs, rings, and multiple images.
+- Weak lensing reveals coherent statistical distortions that constrain projected mass.
+- Microlensing can reveal compact objects and planets through time-varying brightness.
+- Lensing provides evidence about gravitating mass not accounted for by luminous matter alone.
+
+**Not established by lensing alone:**
+- the exact particle identity of dark matter;
+- a unique three-dimensional mass distribution from every projected lens map;
+- a unique mass model for every strong-lens system;
+- that every apparent arc or ring has been correctly classified without follow-up;
+- that every lensing anomaly necessarily signals new physics;
+- that an inferred reconstruction is identical to a direct observation;
+- that gravitational lensing by itself settles all cosmological parameter tensions.
+
+### 11. Evidence status
+
+| Claim | Evidence status |
+|---|---|
+| Gravity can deflect light | Strongly established observationally and theoretically |
+| Strong lensing can produce arcs, rings, and multiple images | Directly observed in many systems |
+| Weak lensing can statistically map projected gravitating mass | Established method; systematic uncertainties must be controlled |
+| Microlensing can reveal otherwise unresolved compact objects and planets | Established observational method |
+| Lensing responds to total gravitating mass, including non-luminous mass | Strongly supported |
+| A lensing mass map is a direct photograph of dark matter | Incorrect |
+| Every lens system has a unique mass reconstruction | Incorrect; degeneracies exist |
+| Lensing alone identifies the microscopic nature of dark matter | Not established |
+| Euclid DR1-Foundation has released a large strong-lens candidate catalogue | Reported by ESA and the Euclid Consortium in November 2026 |
+| Euclid DR1-Foundation is already the final weak-lensing cosmology analysis | Incorrect; higher-level weak-lensing products are planned for the complete DR1 release |
+
+### 12. Cross-disciplinary relationships
+
+**Physics:** General relativity, spacetime geometry, gravitational potentials, wave and geometric optics, and cosmological distances govern lensing.
+
+**Mathematics:** Differential geometry, nonlinear mappings, Jacobians, caustics, inverse problems, statistical inference, and parameter degeneracies are central to modeling.
+
+**Astronomy:** Lensing links foreground objects to background sources and helps study galaxies, clusters, quasars, stars, and exoplanets.
+
+**Information and computation:** Image processing, shape measurement, Bayesian inference, simulations, and machine learning help identify candidates and reconstruct mass distributions. Automated candidates still require validation and uncertainty analysis.
+
+**Cosmology:** Lensing constrains the distribution and growth of matter and, in suitable systems, cosmological distances and expansion parameters.
+
+### 13. Examination through GUA-W
+
+This is a bounded scientific recognition, not a proposal to add a GUA-W component.
+
+**Author → Word → Creation → Witness**
+
+The astronomical system exists independently of the astronomer's record of it. A foreground mass distribution affects light from a background source. Instruments register arriving photons. Researchers analyze the registered data and infer lens and source properties.
+
+Keep the distinctions explicit:
+
+- **Physical referent:** the mass distribution, source, spacetime geometry, and propagating light.
+- **Physical interaction:** gravitational influence on light propagation.
+- **Registration:** photons captured by the detector and measured as image data.
+- **Interpretation:** the lens equation, selected mass model, and inferred reconstruction.
+- **Witness record:** reported measurements, model, uncertainty, and conclusion.
+
+The data product is not the astronomical system. The reconstruction is not the same thing as the measured image. The instrument's capability to register a signal does not make it the Author or source of the physical order.
+
+**Constraint and realized configuration**
+
+The lensing pattern depends on mass distribution, source and observer geometry, spacetime curvature, and observational conditions. A realized image is registered; the underlying source and lens must be inferred with stated assumptions.
+
+No new GUA-W layer, runtime stage, State term, Gear, or universal law is introduced. The comparison is limited to distinguishing the referent, physical interaction, registration, interpretation, and witness record.
+
+### 14. Triple Constraint Law assessment
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Disposition |
+|---|---|---|---|---|
+| Mass-energy affects the path of light through curved spacetime | No conflict established within Genesis 1–2 foundation | Strongly supported by general relativity and observation | Describes a physical process, not Original Cause | PASS within scope |
+| Lensing can reveal projected gravitating mass beyond luminous matter | No conflict established within scope | Strong observational support; inference has limits | Distinguishes physical referent from registration | PASS within scope |
+| A lensing map is a direct photograph of dark matter | Not a conclusion supplied by Scripture | Scientifically inaccurate | Confuses reconstruction with referent | FAIL |
+| Every lens model uniquely determines the true mass distribution | Not a conclusion supplied by Scripture | Scientifically inaccurate because degeneracies exist | Treats interpretation as identical to physical system | FAIL |
+| Lensing alone proves the particle identity of dark matter | Not a conclusion supplied by Scripture | Unsupported | Exceeds what the witness record establishes | FAIL |
+| Lensing provides a bounded example of physical interaction, observable effects, and model-based reconstruction | No conflict established within scope | Supported with explicit limits | Compatible as recognition, not architectural equivalence | PARTIAL / RECOGNITION |
+
+### 15. Findings and unresolved questions
+
+**Findings supported within scope**
+
+1. Gravitational lensing is a real, measurable consequence of gravity's influence on light propagation.
+2. Strong, weak, and microlensing are distinct observational regimes of the same broad gravitational phenomenon.
+3. Lensing responds to the total gravitating mass along the line of sight, including mass that is not luminous.
+4. Lensing can magnify distant sources and reveal objects and structures that would otherwise be difficult to observe.
+5. Weak-lensing maps and strong-lens mass models are reconstructions from observations, not direct photographs of dark matter.
+6. Lens-model degeneracies and observational systematics limit the uniqueness and precision of inferred mass distributions.
+7. Time-delay lensing can provide cosmological distance information but depends on robust mass modeling.
+8. Euclid's November 2026 DR1-Foundation release substantially expands strong-lens candidate discovery; it must be distinguished from later full weak-lensing cosmology products.
+
+**Questions retained for further investigation**
+
+- How well can independent lens-modeling teams recover the same mass distribution from identical strong-lens data?
+- Which combinations of stellar dynamics, X-ray observations, galaxy distributions, and lensing best break mass-model degeneracies?
+- How much do line-of-sight structures bias cluster and galaxy lens mass estimates?
+- How reliably can weak-lensing surveys control intrinsic alignments and point-spread-function systematics?
+- How will the full Euclid weak-lensing data products change constraints on the growth of cosmic structure?
+- Can time-delay lensing measurements help clarify differences among estimates of the Hubble constant, and which modeling uncertainties dominate?
+- How can microlensing measurements distinguish low-mass planets, free-floating planets, and compact stellar remnants?
+- What fraction of the Euclid DR1-Foundation lens candidates will survive detailed expert validation and full lens modeling?
+- How do lensing constraints compare with independent dynamical and baryonic tracers in systems with complex mass distributions?
+
+These questions remain open or depend on methods and data quality. They should not be closed by analogy.
+
+### 16. Sources and further reading
+
+1. ESA, “Euclid reveals the largest-ever catalogue of strong cosmic lenses,” 12 November 2026. https://www.esa.int/media/about-us/directorates/science/euclid/euclid-reveals-the-largest-ever-catalogue-of-strong-cosmic-lenses
+2. Euclid Consortium, “Data Release 1 – Foundation: press release,” 12 November 2026. https://euclid-ec.net/dr1-f-press-release/
+3. NASA, “Gravitational Lensing.” https://www.nasa.gov/science-research/astrophysics/gravitational-lensing/
+4. NASA Science, “Microlensing 101.” https://science.nasa.gov/mission/roman-space-telescope/microlensing/
+5. Paul L. Schechter and Jeremy D. Schnittman, “Basic Elements of Strong Gravitational Lensing,” *Space Science Reviews* 221, 49 (2025). https://doi.org/10.1007/s11214-025-01171-9
+6. Euclid Collaboration, “The Strong Lensing Discovery Engine A – System overview and first lens sample,” *Astronomy & Astrophysics* 711, A26 (2026). https://doi.org/10.1051/0004-6361/202555141
+7. NASA, “Euclid Discovers Einstein Ring in Our Cosmic Backyard,” 10 February 2025. https://www.nasa.gov/missions/euclid/euclid-discovers-einstein-ring-in-our-cosmic-backyard/
+8. NASA, “Hubble Gravitational Lenses.” https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-gravitational-lenses/
+
+### 17. Final conclusion
+
+Gravitational lensing is a strongly established phenomenon in which mass-energy influences the propagation of light through curved spacetime. It gives astronomers a means to study distant sources, map projected gravitating mass, investigate dark matter, detect otherwise unresolved compact objects, and in selected systems measure cosmological distances.
+
+Its scientific power depends on keeping observation and inference separate. The measured image and light curve are registered data. The unlensed source, three-dimensional mass distribution, and selected physical parameters are reconstructed through models. Those reconstructions can be powerful and well constrained, but they are not assumption-free or always unique.
+
+The central witness from this investigation is the distinction between **the physical system, its gravitational effect on light, the detector's registration, and the model-based interpretation of the resulting evidence**.
+
+This completes the fourth listed Astronomy and Cosmology candidate. The next uncompleted candidate in the survey is **Dark Matter**.
