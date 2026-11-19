@@ -81,6 +81,7 @@ The cases examine plant germination and seasonal persistence, insect development
 
 - [Biological Organization, Individuality, and Integration — Fungal Networks, Eusocial Insects, Ant–Fungus Agriculture, and Chemical Information Transfer](audits/BIOLOGICAL-ORGANIZATION-INDIVIDUALITY-AND-INTEGRATION-FUNGI-BEES-ANTS.md)
 - [Lichen Symbiosis, Chemical Signaling, and Multipart Integration](audits/BIOLOGICAL-ORGANIZATION-LICHEN-SYMBIOSIS-AND-MULTIPARTNER-INTEGRATION.md)
+- [Cellular Recognition, Receptor Signaling, and Symbiotic Accommodation](audits/CELLULAR-RECOGNITION-RECEPTOR-SIGNALING-AND-SYMBIOTIC-ACCOMMODATION.md)
 
 These investigations examine distinct modes of physical continuity, chemical communication, partner dependence, composite organization, and persistence. They do not assume a common mechanism or erase constituent identities.
 
