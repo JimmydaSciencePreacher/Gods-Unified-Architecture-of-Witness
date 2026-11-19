@@ -200,7 +200,7 @@ These questions remain open. The comparison should be extended only when the rel
 4. Canciani, M., Arnellos, A., & Moreno, A. (2019). “Revising the Superorganism: An Organizational Approach to Complex Eusociality.” *Frontiers in Psychology* 10: 2653. https://doi.org/10.3389/fpsyg.2019.02653  
    Theoretical and organizational argument concerning higher-level individuality in complex eusocial colonies, with honeybees as a case study.
 
-5. Rose, C. J., et al. (2020). “Operationalizing evolutionary transitions in individuality.” *Proceedings of the Royal Society B* 287: 20192825. https://doi.org/10.1098/rspb.2019.2825  
+5. Carmel, Y., & Shavit, A. (2020). “Operationalizing evolutionary transitions in individuality.” *Proceedings of the Royal Society B* 287: 20192805. https://doi.org/10.1098/rspb.2019.2805  
    Proposes operational indicators for comparing evolutionary transitions in individuality; not a universal definition of organismal individuality.
 
 6. Dejean, A., Azémar, F., Naskrecki, P., Tindo, M., Rossi, V., Faucher, C., & Gryta, H. (2023). “Mutualistic interactions between ants and fungi: A review.” *Ecology and Evolution* 13(8): e10386. https://doi.org/10.1002/ece3.10386  
