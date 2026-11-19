@@ -51,11 +51,17 @@ A candidate's strangeness is not evidence of a supernatural cause, a universal m
 
 **Completed Investigation II:** Molecular Self-Assembly (full investigation recorded in Section 9 of this survey).
 
+**Completed Investigation III:** DNA Origami (full investigation recorded in Section 10 of this survey).
+
+**Completed Investigation IV:** Autocatalysis (full investigation recorded in Section 11 of this survey).
+
 1. **Belousov–Zhabotinsky reaction:** How can a chemical reaction produce repeating waves and oscillations?
 2. **Molecular self-assembly:** How do molecules organize into larger structures?
 3. **DNA origami:** How can DNA be used to construct designed nanoscale shapes?
 4. **Autocatalysis:** How can reaction products help generate more of themselves?
 5. **Metal-organic frameworks:** How can crystalline materials contain extensive internal pore networks?
+
+**Domain progress:** Four of the five Chemistry investigations are now recorded. Metal-organic frameworks remain the next and final candidate in this domain.
 
 ### Domain 3 — Astronomy and Cosmology
 
@@ -719,3 +725,294 @@ DNA origami demonstrates a striking form of designed molecular organization: res
 The design is not the molecule, the predicted structure is not the measured product, and a successful image is not proof of perfect yield. The physical result must be characterized, and the limits of each method must be preserved.
 
 The central witness from this investigation is the distinction between **specified sequence relationships, molecular interactions, environmental conditions, folding pathways, and experimentally realized structure**. This is a bounded scientific finding to examine through the completed GUA-W—not a new architectural component and not evidence of molecular agency.
+
+
+---
+
+## 11. Chemistry Investigation IV — Autocatalysis
+
+# Chemistry Investigation IV — Autocatalysis: When a Reaction Product Helps Produce More of Itself
+
+**Domain:** Chemistry / Chemical Kinetics / Systems Chemistry  
+**Survey position:** Chemistry Investigation IV  
+**Prepared:** 2026-11-18  
+**Primary question:** How can a chemical reaction product accelerate the production of more of that same product, and what kinds of behavior can emerge when this positive feedback is embedded in a larger reaction network?
+
+## 1. Purpose and scope
+
+**Autocatalysis** occurs when a product of a chemical reaction catalyzes that reaction's further progress. In a simple case, a product molecule helps convert additional reactant into more of the product. In more complex systems, a network of reactions can collectively produce and use catalysts that accelerate the network's own continued production.
+
+The phenomenon is important across chemistry, from synthetic reactions and industrial processes to biochemical metabolism and research into chemical systems that may help illuminate questions about life's emergence. It is not one universal molecular mechanism. Autocatalytic behavior can be realized through very different molecular structures and reaction pathways.
+
+This investigation distinguishes:
+
+- a product that catalyzes its own formation from a reaction that merely speeds up for another reason;
+- a single-step autocatalytic reaction from a multi-step autocatalytic network;
+- catalytic acceleration from a change in thermodynamic equilibrium;
+- autocatalysis from templated replication, self-assembly, and biological reproduction;
+- chemical self-amplification from life, consciousness, intention, or purpose;
+- experimental demonstrations from hypotheses about prebiotic chemistry and the origin of life.
+
+A reaction that accelerates is not automatically autocatalytic. The proposed product-to-catalyst relationship must be supported by kinetic and mechanistic evidence.
+
+## 2. The basic principle
+
+A simplified reaction can be written:
+
+\[
+A + X \longrightarrow 2X
+\]
+
+Here, **A** is a reactant and **X** is the product that also catalyzes the conversion of A into additional X. One X molecule participates in the reaction and another X molecule is produced. The notation is an idealized model, not a claim that every autocatalytic reaction follows this exact elementary step.
+
+If the concentration of A is approximately constant over a short interval, a simple rate expression is:
+
+\[
+\frac{d[X]}{dt} = k[A][X]
+\]
+
+where k is an effective rate constant. Under that restricted approximation, the amount of X can initially increase approximately exponentially because the existing X helps generate more X.
+
+As A is consumed, the rate no longer follows that simple exponential expression. In a closed batch system, reactant depletion, reverse reactions, side reactions, product inhibition, catalyst deactivation, or other limits can slow and eventually stop the increase.
+
+The key feature is **positive chemical feedback**: the presence of product contributes to the production of additional product.
+
+## 3. Why the growth curve can look unusual
+
+A common autocatalytic time course is sigmoidal, or S-shaped:
+
+1. **Initiation or seeding:** A small amount of autocatalyst is present, or an initial pathway produces it.
+2. **Acceleration:** More product is formed, and the growing product population increases the reaction rate.
+3. **Deceleration:** Reactants become depleted, products inhibit the process, or other constraints become important.
+4. **Plateau or termination:** Net product formation becomes small or stops under the conditions of the experiment.
+
+The early phase may be slow because little autocatalyst is present. Once enough product has accumulated, the rate can rise sharply. Later, the reaction slows as its available resources or favorable conditions change.
+
+This curve is a useful clue, but it is **not proof by itself**. Induction periods, catalyst activation, parallel reactions, nucleation, changes in solubility, and other mechanisms can also produce delayed or accelerating reaction profiles. Researchers must test whether the product actually catalyzes its own formation.
+
+Not every autocatalytic system has a clean S-shaped curve. The observed kinetics depend on the mechanism, initial conditions, reactor design, and competing reactions.
+
+## 4. Catalysis does not rewrite the thermodynamic destination
+
+A catalyst changes reaction kinetics: it provides a pathway that changes the rate at which a reaction proceeds. A catalyst does not, by its catalytic action alone, change the overall standard Gibbs free-energy change of the net reaction or move the equilibrium position.
+
+This distinction matters because autocatalysis can make product formation accelerate without creating energy or making an otherwise thermodynamically unfavorable net reaction favorable by catalytic action alone.
+
+The system still depends on its chemical environment and energy balance. In a closed reaction vessel, reactants are consumed and the system approaches a state in which net reaction progress is no longer sustained. In an open or flow reactor, fresh reactants may be supplied and products removed; sustained behavior then depends on the imposed material and energy flows.
+
+**Autocatalytic acceleration is a kinetic property, not a violation of thermodynamics.**
+
+## 5. Different ways autocatalysis can occur
+
+There is no single molecular design shared by all autocatalytic systems. Examples include:
+
+### 5.1 Direct product catalysis
+
+A product molecule directly catalyzes the reaction that produces more of that same product. The simple A + X → 2X scheme represents this broad pattern.
+
+### 5.2 Product-generated catalyst
+
+A reaction product may generate, release, or activate a catalyst that then accelerates further product formation. The detailed mechanism can involve several elementary steps; the net behavior is autocatalytic when the product contributes to its own continued production.
+
+### 5.3 Template-assisted amplification
+
+A product can provide a surface or molecular template that helps bring reactants together or favors formation of additional product. Template-directed systems can overlap conceptually with replication, but the exact chemistry and fidelity must be examined rather than assumed.
+
+### 5.4 Cross-catalytic networks
+
+In a cross-catalytic network, one product catalyzes the formation of another, while that second product may catalyze the first or support another pathway. The network can collectively amplify a set of components even when no single component catalyzes only its own direct formation.
+
+### 5.5 Autocatalytic sets
+
+An autocatalytic set is a network in which the members collectively catalyze the production of the members, using available food molecules or feedstock. The network-level property is more complex than a single autocatalytic reaction. Its existence depends on the network's reaction structure, available substrates, catalytic activity, and kinetic viability.
+
+A mathematical or stoichiometric description can identify a possible autocatalytic core. That does not, by itself, establish that the proposed network will operate at useful rates under actual experimental conditions.
+
+## 6. Important chemical examples
+
+### 6.1 The formose reaction
+
+The formose reaction is a complex network in which formaldehyde is converted into a mixture of sugars and related products under suitable alkaline conditions. Glycolaldehyde and other intermediates can participate in pathways that promote further carbon-carbon bond formation, producing autocatalytic features.
+
+The formose reaction is important in prebiotic chemistry because it demonstrates that relatively simple feedstock molecules can participate in reaction networks that generate more complex organic products.
+
+However, the formose reaction is not a clean, selective route that produces only ribose or a single biologically useful sugar. It can generate complex mixtures, branching pathways, and degradation products. Its relevance to possible prebiotic chemistry must therefore be assessed with the full reaction network and environmental constraints in view.
+
+### 6.2 The Soai reaction
+
+The Soai reaction is a well-known example of asymmetric autocatalysis. In this reaction, a chiral product participates in catalyzing its own formation, and small initial imbalances in chirality can be amplified under suitable conditions.
+
+It is scientifically important because it demonstrates that a chemical system can amplify a handedness bias through autocatalytic feedback. It does not establish that all biological homochirality arose by this mechanism, nor that the Soai reaction reproduces the full complexity of biological molecular selection.
+
+### 6.3 The Belousov–Zhabotinsky reaction
+
+The Belousov–Zhabotinsky reaction, examined in Chemistry Investigation I, contains autocatalytic steps within a larger nonlinear reaction network. The production of key intermediates can accelerate further production, while inhibitory pathways and changing concentrations help generate oscillatory behavior.
+
+The BZ reaction is revisited here only to identify autocatalysis as one ingredient in a larger chemical mechanism. Its oscillations are not a universal signature of autocatalysis: many autocatalytic reactions do not oscillate, and oscillations can arise in other nonlinear systems.
+
+### 6.4 Trypsinogen activation by trypsin
+
+Trypsinogen is an inactive precursor of the enzyme trypsin. Once trypsin is present, it can catalyze the activation of additional trypsinogen molecules into trypsin. The product enzyme therefore contributes to producing more of itself through a specific biochemical activation pathway.
+
+This is a clear biological example of autocatalytic amplification. It is regulated in living organisms and must not be treated as an isolated model of how an entire organism reproduces.
+
+## 7. A recent experimental example: autocatalysis in programmable reaction networks
+
+A 2024 study in *Nature Communications* examined a trypsin-catalyzed autocatalytic reaction network maintained under out-of-equilibrium conditions in a continuous stirred-tank reactor.
+
+The researchers used metal ions, including calcium, lanthanum, and neodymium ions, to tune the rate of the network. By changing the kinetics and strength of the positive feedback, they produced different temporal and history-dependent outputs that could be related to mathematical functions.
+
+The significance is not that the reaction became conscious or that it literally thought. The result shows that an autocatalytic chemical network can be experimentally controlled so that its time-dependent response changes with its inputs and prior chemical state.
+
+The study also illustrates why reactor conditions matter. A continuously stirred-tank reactor receives material and removes material; it is not equivalent to a sealed test tube. Its behavior depends on flow, residence time, concentrations, and the maintained non-equilibrium state.
+
+## 8. Autocatalysis, compartments, growth, and competition
+
+A 2024 *Nature Chemistry* study reported an artificial compartment system in which autocatalytic chemistry was coupled to growth of aqueous droplets. The researchers used the formose reaction in compartments within an emulsion.
+
+When autocatalytic reaction and the exchange of reactants and solvent outpaced the loss of products, osmotic and diffusive effects caused compartment volume to increase. In the reported experiments, droplet volume could more than double.
+
+Compartments also competed for a shared reactant, formaldehyde. Differences in composition and access to that resource produced differences in growth rates. The researchers further showed that selective division of larger droplets by shearing could transmit some growth-rate differences into differences in droplet frequency.
+
+This is a significant experimental result because it connects chemical reaction networks with compartment growth, resource competition, and a rudimentary form of differential persistence through repeated growth and division.
+
+The limits are equally important:
+- droplet growth is not by itself biological reproduction;
+- division by external shearing is not equivalent to a cell's complete division machinery;
+- frequency differences do not alone establish heredity;
+- the experiment does not demonstrate a living organism or resolve the origin of life.
+
+It is a laboratory demonstration of coupled chemical and physical processes, not a completed pathway from non-life to life.
+
+## 9. How researchers establish that a reaction is autocatalytic
+
+A reliable investigation requires more than observing that a reaction speeds up.
+
+Researchers may use:
+
+- **Time-course measurements:** follow reactant and product concentrations over time using spectroscopy, chromatography, or other suitable analytical methods.
+- **Seeding experiments:** add a controlled amount of the proposed autocatalyst and test whether the reaction accelerates in the predicted way.
+- **Concentration dependence:** determine whether the rate depends on the concentration of the proposed product-catalyst.
+- **Removal or inhibition:** selectively remove, bind, deactivate, or inhibit the proposed autocatalyst and test whether the predicted acceleration is reduced.
+- **Isotope labeling:** trace atoms through the reaction network to identify the source and pathway of newly formed product.
+- **Kinetic modeling:** compare candidate mechanisms against measured concentration-time data rather than relying on curve shape alone.
+- **Controls for alternative explanations:** test for catalyst activation, impurities, nucleation, changing pH, heat release, mixing effects, or other processes that can imitate autocatalytic acceleration.
+- **Flow-reactor studies:** vary feed rates, residence time, and product removal to determine how open-system conditions affect the network.
+
+The strongest evidence combines kinetic behavior with chemical identification and mechanistic tests.
+
+## 10. What autocatalysis does not establish
+
+Autocatalysis does not, by itself, establish that:
+
+- a reaction product is conscious or intends to make more of itself;
+- a chemical system is alive;
+- every autocatalytic network can reproduce indefinitely;
+- autocatalysis automatically produces heredity or Darwinian evolution;
+- a reaction network has a stable identity across environmental change;
+- a chemical system has the same organization as a cell;
+- a laboratory reaction demonstrates the actual historical pathway by which life originated;
+- all autocatalytic reactions share one mechanism;
+- an S-shaped concentration curve proves autocatalysis;
+- the product creates itself from nothing or supplies its own energy.
+
+Autocatalysis requires reactants, suitable conditions, and a physically available reaction pathway. It amplifies a process; it does not remove the constraints under which that process operates.
+
+## 11. Evidence status and limits
+
+| Claim | Evidence status |
+|---|---|
+| A reaction product can catalyze the formation of more of that product | Established chemical phenomenon |
+| Autocatalytic behavior can occur through different molecular mechanisms | Established |
+| Autocatalytic reaction networks can be analyzed through stoichiometry and reaction-network structure | Established theoretical framework; kinetic viability remains system-dependent |
+| Autocatalysis can produce nonlinear acceleration and sigmoidal time courses | Established in suitable systems; curve shape alone is not diagnostic |
+| The formose reaction contains autocatalytic features | Supported by experimental and mechanistic research; network complexity and product mixtures remain important |
+| The Soai reaction demonstrates asymmetric autocatalytic amplification | Experimentally demonstrated |
+| Autocatalytic systems can be tuned through external inputs | Demonstrated in specific engineered networks |
+| Autocatalysis coupled to compartments can produce droplet growth and competition | Experimentally demonstrated in a specific artificial system |
+| Every autocatalytic set can reproduce heritably and evolve | Not established |
+| Autocatalysis alone explains the origin of life | Not established |
+| Autocatalysis demonstrates intention or consciousness in matter | No scientific evidence establishes this |
+
+## 12. Cross-disciplinary relationships
+
+**Physics:** Reaction rates depend on temperature, molecular motion, diffusion, energy barriers, and transport. In compartment systems, osmotic pressure, diffusion, and fluid mechanics can couple chemical production to physical growth.
+
+**Biology:** Metabolic pathways, enzyme activation, and replication-related processes contain forms of catalytic amplification. Biological systems also require regulation, boundaries, energy management, and mechanisms for maintaining and transmitting organization; autocatalysis alone is not a complete account of these functions.
+
+**Mathematics:** Differential equations, nonlinear dynamics, stoichiometric matrices, network graphs, stability analysis, and stochastic models are used to examine autocatalytic systems. A mathematically possible network is not automatically a chemically realizable one.
+
+**Thermodynamics and complex systems:** Autocatalysis is a positive-feedback process that can contribute to nonlinear behavior, bistability, oscillations, or growth. These outcomes depend on the surrounding reaction network and whether the system is closed, open, or driven away from equilibrium.
+
+**Information science:** Some autocatalytic networks can exhibit history-dependent responses because their current chemical state depends on earlier inputs. Such chemical memory is a measurable physical state, not automatically symbolic information, semantic understanding, or conscious memory.
+
+## 13. Examination through the completed GUA-W
+
+This is a bounded recognition within the completed architecture, not a proposal to add a GUA-W component.
+
+**Author → Word → Creation → Witness**
+
+Autocatalysis is a chemical process within Creation. The product participates in accelerating the formation of more product through existing chemical properties and reaction pathways. The reaction does not author its own underlying laws, create its reactants from nothing, or independently determine the conditions under which it can proceed.
+
+**Constraint and realized configuration**
+
+The realized reaction profile depends on the chemical identities and concentrations of reactants and products, the available catalytic pathway, temperature, solvent, pH, transport, competing reactions, and the reactor's boundary conditions. These constraints influence whether autocatalytic amplification occurs, how quickly it proceeds, and where it stops.
+
+The measured concentration curve, spectroscopic signal, proposed reaction mechanism, and chemical interpretation are distinct forms of evidence and representation. A kinetic model is not the reaction itself; an observed acceleration is not sufficient to identify its mechanism.
+
+A limited correspondence can be examined between chemical constraints, positive feedback, and a realized reaction trajectory. This is not an identity between autocatalysis and a GUA-W operation. Nor does autocatalysis establish that every product is predetermined in a mechanistic sense or that matter possesses agency.
+
+No new GUA-W layer, Gear, runtime stage, State term, or universal law is introduced.
+
+## 14. Triple Constraint Law assessment
+
+| Claim | Biblical compliance | Scientific coherence | GUA-W consistency | Disposition |
+|---|---|---|---|---|
+| A chemical product can catalyze its own further production | No conflict with the Genesis 1–2 foundation; Scripture is not being used as a chemical mechanism | Established chemical phenomenon | Preserves the distinction between created process and Original Cause | PASS within scope |
+| Autocatalytic feedback can accelerate a reaction | No conflict when stated as a chemical observation | Supported by kinetics and experiment | A bounded description of process within Creation | PASS within scope |
+| Autocatalysis can occur in complex reaction networks and compartments | No conflict when claims remain limited to the experimental evidence | Supported in specific demonstrated systems | Does not make a network an author or independent source | PASS within scope |
+| Autocatalysis alone produces life or Darwinian evolution | Not a conclusion supplied by Genesis 1–2 | Not established; additional conditions and evidence are required | Overextends a partial process into a complete account | FAIL as an established claim |
+| Autocatalytic chemistry demonstrates consciousness or intention | Not established by Scripture | Unsupported | Confuses chemical feedback with agency | FAIL |
+| Autocatalysis offers a bounded example of positive feedback under chemical constraints | No conflict within the stated scope | Strongly supported | Potentially useful as a limited recognition, not an architectural identity | PARTIAL / RECOGNITION |
+
+## 15. Findings and unresolved questions
+
+**Findings supported within scope**
+
+1. Autocatalysis occurs when a reaction product catalyzes the formation of more of that product.
+2. Autocatalysis is a kinetic phenomenon with diverse molecular and network-level mechanisms.
+3. Positive feedback can produce nonlinear acceleration, but a sigmoidal curve alone does not prove autocatalysis.
+4. Catalysis changes reaction rates, not the net reaction's thermodynamic driving force or equilibrium position.
+5. Autocatalytic networks can be engineered and experimentally controlled under defined conditions.
+6. Specific artificial compartment systems demonstrate coupling among autocatalytic chemistry, growth, resource competition, and externally induced division.
+7. Autocatalysis is relevant to origin-of-life research but does not, by itself, establish a pathway to life.
+
+**Questions retained for further investigation**
+
+- Which network structures make autocatalysis kinetically viable under realistic concentrations and environmental conditions?
+- How can researchers distinguish a true autocatalytic core from an apparent feedback loop created by an unrecognized intermediate or side reaction?
+- Under what conditions can an autocatalytic chemical network maintain a stable compositional identity?
+- What mechanisms are required for chemical variation and heritable transmission across cycles of growth and division?
+- How do compartment boundaries alter reaction rates, transport, and competition for shared feedstocks?
+- Which experimental systems demonstrate more than chemical amplification—specifically, reproducible heredity and sustained evolution?
+- How do open-system energy and material flows change the persistence and stability of autocatalytic networks?
+
+These remain open scientific questions. They should not be filled by analogy or promoted to established conclusions without evidence.
+
+## 16. Sources and further reading
+
+1. A. I. Hanopolskyi, V. A. Smaliak, A. I. Novichkov, and S. N. Semenov, “Autocatalysis: Kinetics, Mechanisms and Design,” *ChemSystemsChem* 3 (2021), e2000026. https://doi.org/10.1002/syst.202000026
+2. A. Blokhuis, D. Lacoste, and P. Nghe, “Universal motifs and the diversity of autocatalytic systems,” *Proceedings of the National Academy of Sciences* 117 (2020), 25230–25236. https://doi.org/10.1073/pnas.2013527117
+3. R. Plasson, A. Brandenburg, L. Jullien, and H. Bersini, “Autocatalysis: at the root of self-replication,” *Artificial Life* 17 (2011), 219–236. https://doi.org/10.1162/artl_a_00033
+4. S. Ameta et al., “Self-Reproduction and Darwinian Evolution in Autocatalytic Chemical Reaction Systems,” *Life* 11 (2021), 308. https://doi.org/10.3390/life11040308
+5. D. V. Kriukov, J. Huskens, and A. S. Y. Wong, “Exploring the programmability of autocatalytic chemical reaction networks,” *Nature Communications* 15 (2024), 8289. https://doi.org/10.1038/s41467-024-52649-z
+6. “Small-molecule autocatalysis drives compartment growth, competition and reproduction,” *Nature Chemistry* 16 (2024), 70–78. https://doi.org/10.1038/s41557-023-01276-0
+7. M. G. Howlett and S. P. Fletcher, “From autocatalysis to survival of the fittest in self-reproducing lipid systems,” *Nature Reviews Chemistry* 7 (2023), 673–691. https://doi.org/10.1038/s41570-023-00524-8
+
+## 17. Final conclusion
+
+Autocatalysis demonstrates that a chemical product can participate in accelerating the formation of more of itself. Through positive feedback, such systems can display nonlinear growth, amplification, and—in more complex networks—oscillation, history-dependent responses, compartment growth, and competition.
+
+The mechanism is not universal, and acceleration alone is not sufficient evidence. The product-to-catalyst relationship must be tested through controlled kinetics, chemical analysis, and mechanistic evidence. The reaction remains dependent on reactants, conditions, and the thermodynamic and physical environment.
+
+The central witness from this investigation is the distinction between **product formation, catalytic feedback, network structure, environmental constraints, and experimentally realized chemical behavior**. Autocatalysis is a well-established chemical phenomenon and a valuable subject for further investigation. It is not, by itself, an explanation of life, a demonstration of agency, or a new component of GUA-W.
