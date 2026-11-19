@@ -477,3 +477,78 @@ These are placements within the completed vocabulary, not assertions that Shanno
 
 **Working conclusion:** Light can serve as a physical carrier for engineered signals, and its detected patterns can enable a receiver to recover encoded data. But energy, signal, Shannon information, evidence, recovered data, and semantic meaning are distinct. The distinction strengthens the light investigation by identifying exactly what the evidence establishes—and what it does not.
 
+
+
+## 19. Case study — NASA Deep Space Optical Communications (DSOC)
+
+**Question:** Does an operational demonstration show that light can carry recoverable data across interplanetary distances, and what exactly do the published results establish?
+
+### 19.1 System and evidence
+
+NASA's Deep Space Optical Communications experiment used a flight laser transceiver aboard the Psyche spacecraft, a ground laser transmitter, and a ground laser receiver. The system used modulated near-infrared laser signals and a sensitive photon-counting receiver. NASA/JPL report that the system demonstrated high-bandwidth optical communication beyond the Earth–Moon system and completed its technology demonstration on September 2, 2025.
+
+This is stronger evidence than a general statement that light could carry information: it is a documented engineered system with transmitted data, received optical signals, and recovered data at stated distances and data rates.
+
+### 19.2 Selected reported demonstrations
+
+| Date / milestone | Reported distance | Reported data result |
+|---|---:|---|
+| December 11, 2023 | More than 19 million miles (31 million km) | Ultra-high-definition video streamed at 267 megabits per second |
+| April 8, 2024 | 140 million miles (226 million km) | Engineering data transmitted at a maximum 25 megabits per second |
+| June 24, 2024 | 249 million miles (about 401 million km) | Flight-instrument telemetry transmitted at a maximum 8.3 megabits per second |
+| December 3, 2024 | 307 million miles (494 million km) | Deep-space data downlink record; do not assign a data rate from this distance statement alone |
+| September 2, 2025 | Demonstration concluded | JPL reports 13.6 terabits received from Psyche over the experiment |
+
+These are milestone-specific results under different link conditions. They are not a single fixed performance specification and must not be presented as though the same data rate was maintained at every distance. The changing rates are consistent with the engineering challenge of maintaining a link as range, received signal strength, pointing, and other conditions change; a precise quantitative link-budget explanation requires the mission's technical papers and operating parameters.
+
+### 19.3 What the photon-counting receiver establishes
+
+The receiver's photon-counting detector registers incoming optical events. Signal-processing methods use the detected events and their timing/pattern to recover the transmitted data. This supports the claim that extremely weak received optical signals can still be used in a designed communication system when the transmitter, pointing, detector, synchronization, coding, and receiver processing work together.
+
+It does **not** establish that one photon universally equals one bit, that every detected photon independently contains a complete message, or that a detector automatically understands the data. The communication system's modulation and coding scheme determines how data are represented; the receiver's processing reconstructs the data from the received signal.
+
+### 19.4 What this case establishes—and what it does not
+
+**Established within the reported demonstration:**
+- Modulated near-infrared laser signals were transmitted between a spacecraft and Earth.
+- Ground equipment detected the received optical signal using photon-counting technology.
+- Data were recovered over distances extending hundreds of millions of miles.
+- The achieved data rate varied across mission milestones.
+- The completed demonstration returned a reported total of 13.6 terabits of data.
+
+**Not established by this case alone:**
+- That optical communication is always superior to radio for every mission, distance, weather condition, or engineering constraint.
+- That the optical signal travels faster than radio waves in vacuum; the advantage is data rate and system characteristics, not a faster propagation speed.
+- That the highest reported data rate applied at the greatest reported distance.
+- That one photon equals one bit or one complete semantic message.
+- That all natural light patterns are intentionally encoded communications.
+- That the technology resolves the philosophical or theological question of meaning or ultimate purpose.
+
+### 19.5 Cross-disciplinary interfaces
+
+This single engineered case requires several distinct contributions:
+- **Physics:** electromagnetic propagation, optical frequency, photon interactions, beam divergence, and received power.
+- **Optical engineering:** laser generation, modulation, telescope optics, acquisition, tracking, and pointing.
+- **Detector physics and measurement science:** photon detection, timing, sensitivity, calibration, and noise.
+- **Information theory and coding:** representation of data, modulation, error control, synchronization, and decoding.
+- **Systems engineering:** integration of flight and ground terminals, operations, and link management.
+
+The common object is one optical link. The disciplines do not become interchangeable; their measured and designed interfaces make the communication system work.
+
+### 19.6 GUA-W placement and Triple Constraint
+
+The case may be examined through existing terms: encoded data are prepared at the transmitting system; optical reception occurs at the receiving terminal; detection activates signal processing; decoding differentiates and reconstructs the transmitted symbols; integration produces recoverable data; and the receiver expresses the recovered output for subsequent use. Instruments and operators register a bounded witness-state subject to error, calibration, and interpretation.
+
+This is an analytical placement within the completed architecture, not a claim that the DSOC hardware is identical to GUA-W runtime or that a technical communication chain explains all natural reception. No new component, Gear, runtime stage, State term, or universal law is added.
+
+- **Biblical compliance:** PASS within scope; the engineering result is not used to redefine Scripture.
+- **Scientific coherence:** PASS for the reported communication demonstration and its stated limits.
+- **GUA-W consistency:** PASS as a bounded recognition; the instrument and receiver remain derivative systems, not Original Cause.
+
+**Sources:**
+- NASA, [Deep Space Optical Communications (DSOC)](https://www.nasa.gov/mission/deep-space-optical-communications-dsoc/), mission milestones and reported data rates.
+- NASA/JPL, [Deep Space Optical Communications (DSOC)](https://www.jpl.nasa.gov/missions/deep-space-optical-communications-dsoc/), system description, completion date, 13.6-terabit total, and mission summary.
+- NASA/JPL, [NASA's Deep Space Optical Comm Demo Sends, Receives First Data](https://www.nasa.gov/missions/psyche-mission/nasas-deep-space-optical-comm-demo-sends-receives-first-data/), initial photon detection and signal processing.
+- NASA/JPL, [NASA's Optical Comms Demo Transmits Data Over 140 Million Miles](https://www.jpl.nasa.gov/news/nasas-optical-comms-demo-transmits-data-over-140-million-miles/), April 2024 milestone.
+
+**Working conclusion:** DSOC provides a concrete, measured example of light serving as a carrier for encoded data over interplanetary distances. The evidence is strongest when the claim is kept exact: a designed optical communication system encoded, transmitted, detected, and recovered data under specified conditions. It does not turn all light into communication or make information identical to energy or meaning.
