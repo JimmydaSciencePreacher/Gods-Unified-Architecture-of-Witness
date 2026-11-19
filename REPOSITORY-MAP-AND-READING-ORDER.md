@@ -160,6 +160,8 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 - [ROMANS 1 18 32 KNOWLEDGE SUPPRESSION AND THE CREATOR](scriptural-reconstruction/ROMANS-1-18-32-KNOWLEDGE-SUPPRESSION-AND-THE-CREATOR.md)
 
 ## VII. Cross-disciplinary evidence and scientific audits
+- [Comparative Biological Synthesis — Identity, Development, Relationship, and Persistence](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md)
+
 
 - [COMPARATIVE REVIEW HOLOGRAPHY BLACK HOLE INFORMATION AUDITS](audits/COMPARATIVE-REVIEW-HOLOGRAPHY-BLACK-HOLE-INFORMATION-AUDITS.md)
 - [EVIDENCE AUDIT Double Slit And Observer Anomaly](audits/EVIDENCE-AUDIT-Double-Slit-and-Observer-Anomaly.md)
