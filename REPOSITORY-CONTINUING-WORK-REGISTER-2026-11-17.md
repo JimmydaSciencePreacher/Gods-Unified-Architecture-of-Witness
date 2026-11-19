@@ -639,3 +639,14 @@ The recorded distinction is that a promised benefit, reward, warning, or consequ
 Genesis 2:1–5 is not represented as an explicit definition of the human will. Genesis 2:7 establishes received life; the connection to creaturely capacity is identified as theological synthesis with the wider canonical testimony, not as a faculty list stated by the verse. The result answers the function of reward/incentive at the Scriptural level while leaving the complete internal mechanics of every human decision unspecified.
 
 Triple Constraint: PASS within the stated scope. No new HW passage number, GUA-W layer, Gear, runtime stage, State term, or universal law was added. The section 40 addition was read back and verified; this register entry is now being recorded.
+
+
+## 2026-11-19 — Command, permission, influence, and divine operation
+
+Extended section 41 of `scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md` as an integrated canonical comparison of existing investigations HW-004 (Genesis 3:1–7), HW-009 (James 1:16–18), and HW-010 (Philippians 2:12–13), with Genesis 2:15–17 and Deuteronomy 30:6, 15–20.
+
+The comparison distinguishes God's appointed purpose, authority, permission, command, boundary, and stated consequence in Genesis 2; the serpent's rival testimony, promised outcome, and the humans' perception, desire, and action in Genesis 3; James's distinction between temptation through human lust and God's good gifts and begetting by His own will; and Paul's explicit statement that God works in believers both to will and to do while their commanded obedience remains real.
+
+The integrated finding is limited to what the passages establish. Authority is not the same as influence; influence is not authorship; desire is not authority; a command does not by itself establish autonomous originating ability; and divine operation does not make human response fictitious. Genesis, James, and Philippians retain their distinct contexts and are not treated as descriptions of one identical mechanism.
+
+Triple Constraint: PASS within stated scope. U-006 (full definition of human will) and the exhaustive chronology/mechanism of divine operation in relation to every human act remain open. No new HW passage number, GUA-W layer, Gear, runtime stage, State term, or universal law was created or changed. Section 41 was written; this register entry is now being recorded.
