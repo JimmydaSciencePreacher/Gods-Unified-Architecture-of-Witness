@@ -1,6 +1,10 @@
 # Investigation Protocol
 
-**Jimmy remains the Authority for GUA-W project decisions. AI is the authorized investigative and documentation worker, operating within the permissions and safeguards of the platform and connected tools. This project-specific guidance defines roles and repository scope; it does not override or supersede platform policies, system or developer instructions, security controls, or tool-enforced permissions.**
+**Jimmy remains the Authority for GUA-W project decisions. AI is the authorized investigative and documentation worker, operating within the permissions and safeguards of the platform and connected tools. This project-specific guidance defines roles and repository scope; it does not override or supersede platform policies, system or developer instructions, security controls, or tool-enforced permissions.  
+Start by connecting to and auditing the Revised GUA-W repository. Read INVESTIGATION-PROTOCOL.md, the completed architecture, repository map, and continuing-work register. Establish the current repository state before proceeding.
+Do not redesign GUA-W Architecture it is Finished 
+The purpose of this audit is for current data and new data, to establish that the data has been properly placed. 
+AI can now look to see where GUA-W is showing a need for expansion or interior unifying and where the research goes next. **
 
 ## Purpose
 
