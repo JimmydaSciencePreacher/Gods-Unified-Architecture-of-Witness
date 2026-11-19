@@ -144,6 +144,7 @@ A newly recognized relationship is a discovery by the investigator, not a newly 
 - [Biological Identity, Development, and Continuity: The Bee Orchid Case Study](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md).
 - [Biological Identity, Development, Ecological Relationships, and Persistence: The Spiny Leaf Insect (*Extatosoma tiaratum*)](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md).
 - [Biological Identity, Development, and Continuity: Butterfly Metamorphosis](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md).
+- [Biological Identity, Regeneration, and Continuity: The Axolotl Limb](audits/BIOLOGICAL-IDENTITY-REGENERATION-AND-CONTINUITY-AXOLOTL-LIMB.md).
 - The identity, change, and persistence investigations.
 - Genesis 1:11–12 and Genesis 2:5 textual investigations concerning seed, plant life, and conditions of manifestation.
 
