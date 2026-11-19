@@ -147,6 +147,7 @@ A newly recognized relationship is a discovery by the investigator, not a newly 
 - [Biological Identity, Regeneration, and Continuity: The Axolotl Limb](audits/BIOLOGICAL-IDENTITY-REGENERATION-AND-CONTINUITY-AXOLOTL-LIMB.md).
 - [Biological Identity, Embryonic Development, and Integration: The Zebrafish](audits/BIOLOGICAL-IDENTITY-EMBRYONIC-DEVELOPMENT-ZEBRAFISH.md).
 - The identity, change, and persistence investigations.
+- [Biological Organization, Individuality, and Integration: Fungal Networks, Eusocial Insects, and Ant–Fungus Agriculture](audits/BIOLOGICAL-ORGANIZATION-INDIVIDUALITY-AND-INTEGRATION-FUNGI-BEES-ANTS.md).
 - Genesis 1:11–12 and Genesis 2:5 textual investigations concerning seed, plant life, and conditions of manifestation.
 
 **Unifying investigation:** Compare biological evidence about seed and embryo, development, symbiosis, seasonal persistence, and reproduction with the existing questions about identity, change, and realized expression—without turning biological mechanisms into architectural stages or theological proof.
@@ -168,6 +169,7 @@ A newly recognized relationship is a discovery by the investigator, not a newly 
 - [Bee Orchid Case Study — *Ophrys apifera*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md).
 - [Spiny Leaf Insect Case Study — *Extatosoma tiaratum*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md).
 - [Comparative Biological Synthesis — Identity, Development, Relationship, and Persistence](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md).
+- [Biological Organization, Individuality, and Integration: Fungal Networks, Eusocial Insects, and Ant–Fungus Agriculture](audits/BIOLOGICAL-ORGANIZATION-INDIVIDUALITY-AND-INTEGRATION-FUNGI-BEES-ANTS.md).
 - Identity, change, and persistence investigations.
 
 **Unifying finding:** The two organisms do not share one developmental mechanism. Their comparison makes clearer the distinction between initial form and mature expression, identity and appearance, environmental relationship and organismal identity, and persistence and sameness of form.
@@ -220,7 +222,7 @@ A connection should be followed wherever it leads in the evidence. It should not
 3. **Completion–Christ–consummation synthesis:** examine the three completion witnesses alongside the Word, Resurrection, Ascension, and Revelation.
 4. **Christ's works and signs synthesis:** resolve event classification, parallel accounts, agency, and collective canonical testimony.
 5. **Scientific cross-audit synthesis:** compare the existing physics audits with identity, change, persistence, and carefully selected biological/ecological investigations.
-6. **Biological cross-investigation:** develop the bee orchid and spiny leaf insect cases together, incorporate the butterfly complete-metamorphosis, axolotl regeneration, and zebrafish embryogenesis cases, then extend the comparison to seed-to-plant, embryo-to-organism, differentiation, symbiosis, regeneration, and lineage studies.
+6. **Biological cross-investigation:** compare fungal network organization, eusocial insect colonies, and ant–fungus agriculture alongside the bee orchid and spiny leaf insect cases; incorporate butterfly complete-metamorphosis, axolotl regeneration, and zebrafish embryogenesis, then extend the comparison to seed-to-plant, embryo-to-organism, differentiation, symbiosis, regeneration, and lineage studies.
 7. **Witness and knowledge synthesis:** connect the source–witness distinction to measurement, interpretation, testimony, and AI's derivative role.
 8. **Book integration pass:** revise chapter transitions and research links so the reader can follow these relationships without confusing the book's explanatory sequence with the architecture itself.
 
