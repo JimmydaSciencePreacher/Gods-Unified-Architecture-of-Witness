@@ -161,6 +161,9 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 
 ## VII. Cross-disciplinary evidence and scientific audits
 - [Comparative Biological Synthesis — Identity, Development, Relationship, and Persistence](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md)
+- [Bee Orchid Case Study — *Ophrys apifera*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md)
+- [Spiny Leaf Insect Case Study — *Extatosoma tiaratum*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md)
+- [Butterfly Metamorphosis Case Study — Lepidoptera](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md)
 
 
 - [COMPARATIVE REVIEW HOLOGRAPHY BLACK HOLE INFORMATION AUDITS](audits/COMPARATIVE-REVIEW-HOLOGRAPHY-BLACK-HOLE-INFORMATION-AUDITS.md)
