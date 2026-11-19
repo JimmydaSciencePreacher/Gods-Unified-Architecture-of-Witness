@@ -29,6 +29,8 @@ A candidate's strangeness is not evidence of a supernatural cause, a universal m
 
 ### Domain 1 — Physics
 
+**Completed investigation:** [Physics Investigation I — Quantum Entanglement](PHYSICS-INVESTIGATION-I-QUANTUM-ENTANGLEMENT.md).
+
 1. **Quantum entanglement:** How do separated systems exhibit correlated measurement outcomes?
 2. **Superfluidity:** How can matter flow with effectively zero viscosity?
 3. **Superconductivity:** How can certain materials conduct electrical current with zero resistance?
