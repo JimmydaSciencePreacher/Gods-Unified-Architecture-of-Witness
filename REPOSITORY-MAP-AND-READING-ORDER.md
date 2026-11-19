@@ -170,6 +170,9 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 
 - [COMPARATIVE REVIEW HOLOGRAPHY BLACK HOLE INFORMATION AUDITS](audits/COMPARATIVE-REVIEW-HOLOGRAPHY-BLACK-HOLE-INFORMATION-AUDITS.md)
 - [EVIDENCE AUDIT Double Slit And Observer Anomaly](audits/EVIDENCE-AUDIT-Double-Slit-and-Observer-Anomaly.md)
+- [Strange and Fundamental Science Survey — Fifty Investigations](audits/STRANGE-AND-FUNDAMENTAL-SCIENCE-SURVEY-50-INVESTIGATIONS.md)
+- [Physics Investigation I — Quantum Entanglement](audits/PHYSICS-INVESTIGATION-I-QUANTUM-ENTANGLEMENT.md)
+- [Physics Investigation II — Superconductivity](audits/PHYSICS-INVESTIGATION-II-SUPERCONDUCTIVITY.md)
 - [EVIDENCE AUDIT ER EPR And Quantum Entanglement](audits/EVIDENCE-AUDIT-ER-EPR-and-Quantum-Entanglement.md)
 - [EVIDENCE AUDIT Genesis 2 Daniel 12 And Twelve Step Restore](audits/EVIDENCE-AUDIT-Genesis-2-Daniel-12-and-Twelve-Step-Restore.md)
 - [EVIDENCE AUDIT Holographic Principle And Black Hole Information](audits/EVIDENCE-AUDIT-Holographic-Principle-and-Black-Hole-Information.md)
