@@ -157,6 +157,20 @@ A newly recognized relationship is a discovery by the investigator, not a newly 
 
 **Required discipline:** Distinguish observation, mechanism, inference, and analogy. Preserve species-level qualifications; for example, the bee orchid *Ophrys apifera* is predominantly self-pollinating despite the broader sexual-deception pattern found in many *Ophrys* species. No biological case study proves Genesis or creates a new GUA-W component.
 
+### 7. Comparative biological synthesis: identity, development, relationship, and persistence
+
+**Why this is a major intersection:** The bee orchid and spiny leaf insect case studies examine different biological mechanisms while illuminating related questions about initial form, development, environmental relationship, changing expression, and individual persistence.
+
+**Existing evidence base:**
+- [Bee Orchid Case Study — *Ophrys apifera*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md).
+- [Spiny Leaf Insect Case Study — *Extatosoma tiaratum*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md).
+- [Comparative Biological Synthesis — Identity, Development, Relationship, and Persistence](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md).
+- Identity, change, and persistence investigations.
+
+**Unifying finding:** The two organisms do not share one developmental mechanism. Their comparison makes clearer the distinction between initial form and mature expression, identity and appearance, environmental relationship and organismal identity, and persistence and sameness of form.
+
+**Required discipline:** Keep plant and insect mechanisms distinct. Do not equate fungal nutrition with ant-mediated egg transport, do not overstate the exact natural ant-host relationship, and do not treat biological examples as proof of theology or as new architectural components.
+
 ### 7. Witness, knowledge, measurement, and the written record
 
 **Why this is a unifying intersection:** The source–witness distinction governs Scripture investigation, scientific observation, historical research, and AI-assisted analysis.
