@@ -147,7 +147,8 @@ A newly recognized relationship is a discovery by the investigator, not a newly 
 - [Biological Identity, Regeneration, and Continuity: The Axolotl Limb](audits/BIOLOGICAL-IDENTITY-REGENERATION-AND-CONTINUITY-AXOLOTL-LIMB.md).
 - [Biological Identity, Embryonic Development, and Integration: The Zebrafish](audits/BIOLOGICAL-IDENTITY-EMBRYONIC-DEVELOPMENT-ZEBRAFISH.md).
 - The identity, change, and persistence investigations.
-- [Biological Organization, Individuality, and Integration: Fungal Networks, Eusocial Insects, and Ant–Fungus Agriculture](audits/BIOLOGICAL-ORGANIZATION-INDIVIDUALITY-AND-INTEGRATION-FUNGI-BEES-ANTS.md).
+- [Biological Organization, Individuality, and Integration: Fungal Networks, Eusocial Insects, Ant–Fungus Agriculture, and Chemical Information Transfer](audits/BIOLOGICAL-ORGANIZATION-INDIVIDUALITY-AND-INTEGRATION-FUNGI-BEES-ANTS.md).
+- [Lichen Symbiosis, Chemical Signaling, and Multipart Integration](audits/BIOLOGICAL-ORGANIZATION-LICHEN-SYMBIOSIS-AND-MULTIPARTNER-INTEGRATION.md).
 - Genesis 1:11–12 and Genesis 2:5 textual investigations concerning seed, plant life, and conditions of manifestation.
 
 **Unifying investigation:** Compare biological evidence about seed and embryo, development, symbiosis, seasonal persistence, and reproduction with the existing questions about identity, change, and realized expression—without turning biological mechanisms into architectural stages or theological proof.
@@ -163,16 +164,17 @@ A newly recognized relationship is a discovery by the investigator, not a newly 
 
 ### 7. Comparative biological synthesis: identity, development, relationship, and persistence
 
-**Why this is a major intersection:** The bee orchid and spiny leaf insect case studies examine different biological mechanisms while illuminating related questions about initial form, development, environmental relationship, changing expression, and individual persistence.
+**Why this is a major intersection:** The five organism-specific developmental case studies and the comparative organization investigations examine different biological mechanisms while illuminating related questions about initial form, development, environmental relationship, chemical communication, symbiosis, changing expression, and individual persistence.
 
 **Existing evidence base:**
 - [Bee Orchid Case Study — *Ophrys apifera*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md).
 - [Spiny Leaf Insect Case Study — *Extatosoma tiaratum*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md).
 - [Comparative Biological Synthesis — Identity, Development, Relationship, and Persistence](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md).
-- [Biological Organization, Individuality, and Integration: Fungal Networks, Eusocial Insects, and Ant–Fungus Agriculture](audits/BIOLOGICAL-ORGANIZATION-INDIVIDUALITY-AND-INTEGRATION-FUNGI-BEES-ANTS.md).
+- [Biological Organization, Individuality, and Integration: Fungal Networks, Eusocial Insects, Ant–Fungus Agriculture, and Chemical Information Transfer](audits/BIOLOGICAL-ORGANIZATION-INDIVIDUALITY-AND-INTEGRATION-FUNGI-BEES-ANTS.md).
+- [Lichen Symbiosis, Chemical Signaling, and Multipart Integration](audits/BIOLOGICAL-ORGANIZATION-LICHEN-SYMBIOSIS-AND-MULTIPARTNER-INTEGRATION.md).
 - Identity, change, and persistence investigations.
 
-**Unifying finding:** The two organisms do not share one developmental mechanism. Their comparison makes clearer the distinction between initial form and mature expression, identity and appearance, environmental relationship and organismal identity, and persistence and sameness of form.
+**Unifying finding:** The five developmental case studies do not share one developmental mechanism. The organization audits add distinct examples of fungal network continuity, social-insect coordination, interspecies agriculture, chemical transfer, and lichenization. Together they make clearer the distinction between initial form and mature expression, identity and appearance, environmental relationship and organismal identity, and persistence and sameness of form.
 
 **Required discipline:** Keep plant and insect mechanisms distinct. Do not equate fungal nutrition with ant-mediated egg transport, do not overstate the exact natural ant-host relationship, and do not treat biological examples as proof of theology or as new architectural components.
 
