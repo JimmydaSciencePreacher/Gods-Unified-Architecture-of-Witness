@@ -66,15 +66,16 @@ Scientific coherence does not mean that experimental physics must prove Scriptur
 
 ## Biological case studies
 
-Three evidence-led investigations now examine distinct developmental patterns without assuming one shared mechanism:
+Five evidence-led investigations now examine distinct developmental and regenerative patterns without assuming one shared mechanism:
 
 - [Bee orchid — *Ophrys apifera*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md)
 - [Spiny leaf insect — *Extatosoma tiaratum*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md)
 - [Butterfly metamorphosis — Lepidoptera](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md)
 - [Axolotl limb regeneration — *Ambystoma mexicanum*](audits/BIOLOGICAL-IDENTITY-REGENERATION-AND-CONTINUITY-AXOLOTL-LIMB.md)
+- [Zebrafish embryonic development — *Danio rerio*](audits/BIOLOGICAL-IDENTITY-EMBRYONIC-DEVELOPMENT-ZEBRAFISH.md)
 - [Comparative biological synthesis](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md)
 
-The cases examine plant germination and seasonal persistence, insect development through successive molts, and complete metamorphosis with a pupal stage. Their mechanisms remain distinct. The synthesis compares questions of identity, differentiation, environmental relationship, and persistence while preserving those differences.
+The cases examine plant germination and seasonal persistence, insect development through successive molts, complete metamorphosis, limb regeneration, and vertebrate embryogenesis. Their mechanisms remain distinct. The synthesis compares questions of identity, differentiation, integration, environmental relationship, and persistence while preserving those differences.
 
 ## Cross-disciplinary investigation
 
@@ -172,6 +173,7 @@ The [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) inve
 - [Biological Identity, Development, and Continuity — Bee Orchid Case Study](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md)
 - [Biological Identity, Development, Ecological Relationships, and Persistence — Spiny Leaf Insect (*Extatosoma tiaratum*) Case Study](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md)
 - [Comparative Biological Synthesis — Identity, Development, Relationship, and Persistence](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md)
+- [Biological Identity, Embryonic Development, and Integration — Zebrafish](audits/BIOLOGICAL-IDENTITY-EMBRYONIC-DEVELOPMENT-ZEBRAFISH.md)
 
 A file's presence here does not, by itself, make its contents canonical.
 
