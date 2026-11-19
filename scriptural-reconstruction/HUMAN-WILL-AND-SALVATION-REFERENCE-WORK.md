@@ -3739,3 +3739,122 @@ The evidence supports the following distinctions:
 - **GUA-W consistency — PASS:** God remains the originating Author and source of purpose; the Father gives; the Son receives, keeps, and raises; the Book of Life belongs to the Lamb; and witnesses report what Scripture reveals without adding an undocumented mechanism.
 
 **Disposition:** Section 35 is strengthened, not overturned. No new GUA-W layer, Gear, runtime stage, or HW passage number is created. The exact inscription timestamp remains unspecified by the passages examined.
+
+
+---
+
+## 40. Reward, incentive, and the exercise of creaturely will — Genesis 2–3, Deuteronomy 30, Matthew 5–6, Hebrews 11, and Philippians 1–2 (2026-11-19)
+
+This section extends the existing Human Will synthesis. It does not create another numbered passage investigation or change the completed GUA-W architecture. The question is specific:
+
+**When a reward, promised benefit, warning, or consequence is presented, can it influence what a person desires and is willing to do—without becoming the originating source of the person's capacity to will?**
+
+The Scriptural evidence supports that distinction. A promised outcome can function as an incentive or motive. It can direct attention, shape an evaluation, appeal to desire, and influence a response. That influence does not, by itself, create the underlying creaturely capacity to perceive, desire, choose, or act. Nor does an incentive guarantee the response.
+
+### A. Begin with the Creation foundation — received life before the exercise of will
+
+Genesis 2:1–5 records God's completed creative work and the order preceding the account of man's formation and placement. It does not use *will* as a technical term or give an abstract definition of a human faculty called the will.
+
+Genesis 2:7 then says that the LORD God formed man of the dust of the ground and breathed into his nostrils the breath of life; man became a living soul. Man's life is received from God, not self-originated. Genesis 2:15–17 records man's placement, appointed work, God's generous permission, the specific prohibition, and the stated consequence of disobedience.
+
+The careful conclusion is therefore twofold:
+
+1. The Creator is the source of man's life and created existence; the creature does not author his own being.
+2. The claim that human willing is a creaturely capacity, not an independent Original Cause, is a theological inference from this Creator–creature foundation and the wider canonical testimony. Genesis 2:1–5 alone does not explicitly define the will or describe its full mechanism.
+
+This distinction prevents the investigation from placing a later philosophical definition into the beginning text.
+
+### B. Genesis 2–3 — command, consequence, competing promise, and desire
+
+In Genesis 2:16–17, God gives permission concerning the trees of the Garden and establishes a boundary concerning the tree of the knowledge of good and evil. The command includes a stated consequence: “for in the day that thou eatest thereof thou shalt surely die.”
+
+Genesis 3:1–6 then records a competing word. The serpent contradicts the stated consequence and presents a promised outcome: “ye shall be as gods, knowing good and evil” (3:5). Verse 6 records the woman's perception and evaluation: she sees that the tree is good for food, pleasant to the eyes, and desirable to make one wise; she takes and eats.
+
+The text therefore distinguishes:
+
+- God's command and stated consequence;
+- the serpent's contradictory assertion and promised outcome;
+- the woman's perception and evaluation;
+- her desire and action.
+
+The serpent's promised outcome functions as an inducement within the temptation. It presents the forbidden act as desirable by offering a claimed benefit and contradicting God's warning. The inducement influences the evaluation and desire narrated in verse 6; it does not create the human capacity to perceive, desire, or act.
+
+The passage does not call the serpent's promise a genuine reward delivered by God. It is a false promise used to entice. Do not collapse God's command, God's stated consequence, and the serpent's inducement into one category.
+
+### C. Deuteronomy 30 — a real covenant choice framed by outcomes and divine heart-work
+
+Deuteronomy 30:15–20 places before Israel life and good, death and evil, blessing and cursing. Moses commands Israel to choose life, love the LORD, obey His voice, and cleave unto Him.
+
+The promised outcomes are part of the appeal. Life, blessing, continued days, and the good of the people are presented as reasons to heed the covenant word. The warning of death and cursing likewise gives weight to the choice. The text does not conceal that consequences and promised benefits are intended to matter to the hearer's response.
+
+But the same chapter must be read as a whole. Deuteronomy 30:6 says that the LORD thy God will circumcise the heart of Israel and the heart of their seed, “to love the LORD thy God with all thine heart, and with all thy soul.” The chapter therefore places the covenant summons and its outcomes alongside God's promised work upon the heart.
+
+The result is not an unreal command or an unreal human response. Israel is genuinely addressed, commanded, and held accountable. The promised blessing can influence willingness; the LORD's promised heart-work is also explicit. The command to choose must not be isolated to prove autonomous spiritual ability, and the divine heart-work must not be used to erase the command and response.
+
+This is consistent with the existing HW-002 finding. No new entry for Deuteronomy 30 is needed.
+
+### D. Hebrews 11 — an explicit example of reward influencing a person's evaluation
+
+Hebrews 11:24–26 gives a particularly clear example. Moses refuses to be called the son of Pharaoh's daughter, chooses rather to suffer affliction with the people of God than to enjoy the pleasures of sin for a season, and esteems the reproach of Christ greater riches than the treasures in Egypt. Verse 26 gives the stated reason: “for he had respect unto the recompence of the reward.”
+
+The passage explicitly connects the anticipated recompense with Moses' evaluation and choice. The promised reward is not incidental to the account; it is part of what Moses regards when he esteems one course above another.
+
+This establishes that a promised reward can function as a motive influencing willingness and choice. It does not say that the reward created Moses' human capacity to evaluate or choose. Nor does it say that the promise mechanically compelled his response. The passage describes his faith, his regard for the reward, his evaluation of the alternatives, and his chosen course.
+
+The text's own order and language should be preserved: Moses' action is described as an act of faith, and his regard for the recompense is expressly stated. Do not reduce faith to a calculation for personal gain; do not remove the stated motivational role of the reward.
+
+### E. Matthew 5–6 — promised reward and the question of whose approval is sought
+
+In Matthew 5:11–12, Jesus tells His disciples that when they are reviled and persecuted for His sake, they are to rejoice and be exceeding glad, “for great is your reward in heaven.” The promised reward is given as a reason for the instructed response amid persecution.
+
+Matthew 6:1–6 supplies an important qualification. Jesus warns against doing alms or praying in order to be seen and praised by men. Those who act for human recognition “have their reward.” By contrast, the Father who sees in secret is the one who rewards.
+
+These passages show that the prospect of reward can be related to conduct, but they also examine the object and quality of the motive. A person may seek the praise of people, or act before the Father. The existence of a reward does not make every motive righteous. The promised reward must be read with the command, the object of devotion, and the context of the action.
+
+Thus, reward is not automatically manipulation, and it is not automatically proof of a pure motive. Scripture can present the Father's reward as an encouragement while warning against making human applause the governing desire.
+
+### F. Philippians — divine operation in willing, real human action, and graciously granted believing
+
+The existing HW-010 and HW-020 entries are central controls for this question:
+
+- **Philippians 2:12–13 (HW-010):** believers are commanded to work out their salvation with fear and trembling, “for it is God which worketh in you both to will and to do of his good pleasure.” The “for” connects God's operation to the preceding command. God is explicitly said to work in believers both to will and to do; the believers' commanded working remains real.
+- **Philippians 1:27–30, especially 1:29 (HW-020):** believing in Christ and suffering for His sake are described as graciously granted. The verb translated “it is given” is passive; the infinitive “to believe” is active. The Philippians truly believe, while believing is included in what has been granted. The contextual source is God, as the preceding verse says that the matter is “of God.”
+
+These passages must not be collapsed into one statement about every human decision in every circumstance. Philippians 2:12–13 addresses the life and obedience of believers; Philippians 1:29 addresses the granted privilege of believing and suffering for Christ. Together they directly reject the false choice between divine operation and real human response.
+
+They also sharpen the reward question: an incentive may influence a person's evaluation and willingness, while Scripture can separately identify God as the One who works in believers to will and to do. The existence of motivation does not displace divine operation; divine operation does not make the human response fictitious.
+
+### G. The distinctions established
+
+The combined passages require at least these distinctions:
+
+1. **Origin of created capacity:** man's life and existence are received from the Creator (Genesis 2:7); Genesis 2:1–5 establishes the prior completion of God's creative work but does not itself define a technical faculty called the will.
+2. **Command and boundary:** God gives permission, command, and stated consequence (Genesis 2:16–17).
+3. **Influence or inducement:** a word, warning, promised benefit, or anticipated consequence can affect what a person attends to and evaluates (Genesis 3:1–6; Deuteronomy 30:15–20).
+4. **Willingness and evaluation:** the person may regard one outcome as desirable and another as costly (Genesis 3:6; Hebrews 11:24–26).
+5. **Choice and action:** the person really responds and acts, and Scripture can hold that person accountable (Deuteronomy 30; Genesis 3).
+6. **Divine operation:** God is expressly said to work in believers both to will and to do (Philippians 2:13); believing is expressly included in what is graciously granted (Philippians 1:29).
+7. **Reward and motive:** the promised outcome may be a stated reason or incentive for a response, but the quality and object of the motive remain subject to Scriptural evaluation (Matthew 5:11–12; 6:1–6; Hebrews 11:26).
+
+**Central finding:** A reward or promised benefit can be intended to sway willingness by influencing desire, evaluation, and the choice of action. It is not thereby the source of the capacity to will. The source of creaturely life remains God; the human response remains real; and in the saving life of believers Scripture expressly attributes willing and doing to God's operation.
+
+### H. Boundaries and unresolved matters
+
+- Genesis 2:1–5 does not use the word *will* or provide a formal definition of human volition.
+- Genesis 2:7 establishes received life; the connection from created life to the creaturely capacity to will is a theological inference, not a separate faculty list stated in the verse.
+- Genesis 3:5 records the serpent's inducement, not a genuine divine reward.
+- Deuteronomy 30 is a covenant address to Israel; its command and promised outcomes must retain that context.
+- Hebrews 11:24–26 explicitly connects Moses' regard for recompense with his choice, but does not provide a universal psychological mechanism for every human decision.
+- Matthew 5–6 distinguishes the Father's reward from human praise and warns that the desire for reward can itself be wrongly ordered.
+- Philippians 2:13 speaks directly of God's operation in believers; it must not be extended beyond its context to claim that the verse by itself explains every ordinary human act of willing.
+- The passages establish motivational influence and divine initiative, but do not provide a complete abstract mechanism explaining every relation among capacity, influence, desire, choice, and action.
+
+### I. Triple Constraint assessment
+
+**Biblical compliance — PASS within scope.** The analysis preserves Genesis 2's explicit wording and distinguishes it from canonical synthesis. It reads Genesis 3's false inducement separately from God's command, reads Deuteronomy 30 in its covenant context including verse 6, and allows Hebrews 11, Matthew 5–6, and Philippians 1–2 to contribute only what their own contexts establish.
+
+**Scientific coherence — PASS within scope.** The categories of capacity, influence, motivation, willingness, choice, action, and consequence are distinguished. No universal psychological law or biological mechanism is inferred from the Scriptural examples.
+
+**GUA-W consistency — PASS within scope.** God remains Original Cause and Creator; creaturely life and response remain derivative; influence does not become authorship; and no human witness or incentive is made the Source. No layer, Gear, runtime stage, State term, or universal law is added or changed.
+
+**Disposition:** The role of reward/incentive is ANSWERED at the level of Scriptural function: promised outcomes can influence willingness and choice. The exact internal mechanics of every human decision remain outside what these passages specify. This section extends the existing synthesis and creates no new HW passage number.
