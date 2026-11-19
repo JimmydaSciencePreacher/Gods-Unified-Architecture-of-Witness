@@ -64,6 +64,17 @@ Failure of any one constraint prevents admission as an accepted claim. A useful 
 
 Scientific coherence does not mean that experimental physics must prove Scripture. It means every claim—including theological claims—must be coherent with the evidence and disciplined method appropriate to its domain, and that cross-domain relationships must preserve the distinctions between those domains.
 
+## Biological case studies
+
+Three evidence-led investigations now examine distinct developmental patterns without assuming one shared mechanism:
+
+- [Bee orchid — *Ophrys apifera*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BEE-ORCHID.md)
+- [Spiny leaf insect — *Extatosoma tiaratum*](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-ECOLOGICAL-RELATIONSHIPS-AND-PERSISTENCE-SPINY-LEAF-INSECT.md)
+- [Butterfly metamorphosis — Lepidoptera](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-BUTTERFLY-METAMORPHOSIS.md)
+- [Comparative biological synthesis](audits/COMPARATIVE-BIOLOGICAL-SYNTHESIS-IDENTITY-DEVELOPMENT-RELATIONSHIP-PERSISTENCE.md)
+
+The cases examine plant germination and seasonal persistence, insect development through successive molts, and complete metamorphosis with a pupal stage. Their mechanisms remain distinct. The synthesis compares questions of identity, differentiation, environmental relationship, and persistence while preserving those differences.
+
 ## Cross-disciplinary investigation
 
 We do not attempt to persuade the sciences to adopt GUA-W before they can participate. We investigate each discipline's findings through its own evidence and methods, then use GUA-W as the governing map to examine whether those findings reveal relationships, common order, or mistaken interpretations. GUA-W does not need to make the sciences agree with it; the investigation asks whether their findings, properly understood, reveal the unified order of the One Creation. This is not permission to force a match: preserve domain boundaries, counterevidence, and unresolved questions. See the [Cross-Disciplinary Investigation Principle](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md) and the [Cross-Disciplinary Investigation Worksheet](CROSS-DISCIPLINARY-INVESTIGATION-WORKSHEET.md) for the governing method and its practical record format.
