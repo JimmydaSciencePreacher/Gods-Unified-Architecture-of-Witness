@@ -189,7 +189,7 @@ The phrase *points to the Author* is the theological interpretation of the witne
 1. Koonin, E. V. (2016). “The meaning of biological information.” *Philosophical Transactions of the Royal Society B* 374: 20150065. https://doi.org/10.1098/rstb.2015.0065  
    Distinguishes biologically meaningful information from Shannon entropy.
 
-2. Adriaans, P. (2024). “Information.” *The Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/information-biological/  
+2. Artiga, M. (2024). “Biological Information.” *The Stanford Encyclopedia of Philosophy*, Fall 2024 edition. https://plato.stanford.edu/archives/fall2024/entries/information-biological/  
    Surveys informational concepts in molecular biology, neuroscience, and animal communication.
 
 3. van Hemmen, J. L. (2021). “Mathematization of nature: how it is done.” *Biological Cybernetics* 115: 655–664. https://doi.org/10.1007/s00422-021-00914-5  
