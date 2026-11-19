@@ -3,7 +3,42 @@
 **Status:** Cross-disciplinary orientation and evidence map; not a new architectural component  
 **Foundation:** Literal KJV Genesis 1–2 as the governing Scriptural starting point  
 **Governing order:** Author → Word → Creation → Witness  
-**Central proposition under investigation:** The sciences examine different aspects and regularities of one created order. Their findings may be read as differentiated witnesses that point beyond themselves to the One Author, without treating any scientific discipline as an independent source or authority over Creation.
+**Central question (expanded November 19, 2026):** Why is the created order so often investigable, describable, explainable, measurable, and—in bounded domains—predictable through the Sciences, and what does this reveal about the relationship between Creation, order, measurement, the Witness, and the Author?
+
+**Central proposition under investigation:** The sciences are human disciplines and methods for investigating different aspects and regularities of one created order. Their findings may be read as differentiated witnesses that point beyond themselves to the One Author, without treating any scientific discipline as an independent source or authority over Creation. The investigability of Creation is the subject; the sciences are the means of inquiry.
+
+## 0. Expanded question: why is Creation scientifically investigable?
+
+The earlier question asked why created order is so often describable through mathematical relationships. That question remains important, but mathematics is one means within a much broader scientific enterprise.
+
+The expanded question is:
+
+> **Why is the created order so often investigable, describable, explainable, measurable, and—in bounded domains—predictable through the Sciences, and what does this reveal about the relationship between Creation, order, measurement, the Witness, and the Author?**
+
+This expansion changes the scope in five ways:
+
+1. **Investigability:** Why can human observers detect repeatable features, distinguish variables, formulate questions, and design tests?
+2. **Describability:** Why can observations be organized into concepts, classifications, models, and explanations?
+3. **Measurability:** Why do some properties admit stable comparisons, quantities, scales, and reproducible measurements?
+4. **Explainability:** Why can causal mechanisms and relationships be discovered in many domains rather than merely recording isolated events?
+5. **Predictability:** Why do some tested relationships support successful predictions, while other systems—especially complex, open, or historically contingent ones—remain only partly predictable?
+
+The qualifier **often** is essential. The question does not assume that all of Creation is fully accessible to science, that every phenomenon is mathematically reducible, or that every scientific model can predict every outcome. Scientific limitations, uncertainty, model failure, and unresolved questions are part of the evidence record.
+
+The sciences are not themselves features or causes of Creation. They are human disciplines, practices, instruments, and methods for investigating it. The created order is what is investigated; scientific knowledge is a derivative human witness to selected aspects of that order.
+
+The expanded inquiry therefore includes more than mathematics:
+- physics investigates physical interactions, fields, energy, matter, and spacetime;
+- chemistry investigates substances, molecular structure, and reactions;
+- biology investigates living organization, development, heredity, and ecological relationships;
+- astronomy investigates celestial objects, cycles, and large-scale structure;
+- geology investigates Earth's materials, processes, and history;
+- information sciences investigate coding, signals, uncertainty, and information processing;
+- mathematics provides formal languages for expressing quantities, structures, and relationships across many of these domains.
+
+These disciplines do not all use the same methods, nor do they establish the same kinds of conclusions. Their findings must be evaluated according to their own evidence and limits before any cross-disciplinary synthesis is attempted.
+
+**GUA-W direction:** the causal order remains Author → Word → Creation. Scientific investigation begins with observations of Creation. The resulting human witness may interpret the intelligibility, regularity, and order encountered as pointing back to the Author. This is a theological interpretation under the Genesis 1–2 foundation, not a laboratory measurement or scientific proof of God.
 
 ## 1. Jimmy's direction: every scientific arrow points to the Author
 
