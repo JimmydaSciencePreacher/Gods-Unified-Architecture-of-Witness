@@ -149,6 +149,7 @@ A newly recognized relationship is a discovery by the investigator, not a newly 
 - The identity, change, and persistence investigations.
 - [Biological Organization, Individuality, and Integration: Fungal Networks, Eusocial Insects, Ant–Fungus Agriculture, and Chemical Information Transfer](audits/BIOLOGICAL-ORGANIZATION-INDIVIDUALITY-AND-INTEGRATION-FUNGI-BEES-ANTS.md).
 - [Lichen Symbiosis, Chemical Signaling, and Multipart Integration](audits/BIOLOGICAL-ORGANIZATION-LICHEN-SYMBIOSIS-AND-MULTIPARTNER-INTEGRATION.md).
+- [Cellular Recognition, Receptor Signaling, and Symbiotic Accommodation](audits/CELLULAR-RECOGNITION-RECEPTOR-SIGNALING-AND-SYMBIOTIC-ACCOMMODATION.md).
 - Genesis 1:11–12 and Genesis 2:5 textual investigations concerning seed, plant life, and conditions of manifestation.
 
 **Unifying investigation:** Compare biological evidence about seed and embryo, development, symbiosis, seasonal persistence, and reproduction with the existing questions about identity, change, and realized expression—without turning biological mechanisms into architectural stages or theological proof.
