@@ -1462,12 +1462,12 @@ This completes the five selected Chemistry investigations in the initial fifty-i
 
 ---
 
-## 13. Astronomy and Cosmology Investigation I — The Cosmic Web
+## 13. Astronomy and Cosmology Investigation III — The Cosmic Web
 
-# Astronomy and Cosmology Investigation I — The Cosmic Web
+# Astronomy and Cosmology Investigation III — The Cosmic Web
 
 **Domain:** Astronomy / Cosmology / Large-Scale Structure  
-**Survey position:** Domain 3, first uncompleted investigation after cross-domain deduplication  
+**Survey position:** Domain 3, third listed candidate; first new standalone investigation after cross-domain deduplication  
 **Prepared:** 2026-11-18  
 **Primary question:** How did the matter distribution of the expanding Universe develop into a multiscale network of galaxy clusters, filaments, walls, and cosmic voids, and how do researchers observe and reconstruct that network?
 
@@ -1586,6 +1586,8 @@ A reliable claim about a particular filament or void should identify the data, m
 **2025 filament structure and simulation dependence.** A study of simulated cosmic filaments using EAGLE and TNG100 examined filament identification and internal properties. It found substantial variation in filament widths, lengths, and densities. It also reported differences between simulated gas-property maps, cautioning against treating one simulation's detailed baryonic predictions as settled.
 
 **2026 dynamics of web components.** A study in *Monthly Notices of the Royal Astronomical Society* examined gravitational forces and tidal fields associated with filaments, walls, cluster nodes, and voids using a large dark-matter-only simulation. It treats the web as a dynamical system whose components contribute to the local gravitational environment. This is simulation-based, not a direct measurement of every force in the observed Universe.
+
+**2026 high-redshift filament catalogue.** A 2026 *Astronomy & Astrophysics* study used COSMOS-Web Data Release 1 to construct a catalogue of 12,523 filaments (136,210 segments) over redshifts 0.5–3.5. Its method propagated photometric-redshift probability distributions into filament-probability maps and validated extraction against mock catalogues from TNG simulations. This is a catalogue and reconstruction, not a direct inventory of every filament; its authors specifically note that high-redshift filament observations remain challenging. DOI: https://doi.org/10.1051/0004-6361/202659407.
 
 **2026 high-resolution weak-lensing mass mapping.** A *Nature Astronomy* study reported a high-resolution weak-lensing map of dark matter over a field observed with the James Webb Space Telescope as part of COSMOS-Web. The analysis used shapes of background galaxies to infer projected mass and examine the relationship between dark and luminous matter across filaments, clusters, and underdensities. This is a projected mass reconstruction with uncertainties, not a direct photograph of dark matter particles.
 
