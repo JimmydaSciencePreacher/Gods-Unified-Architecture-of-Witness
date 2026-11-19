@@ -628,3 +628,14 @@ The section connects this biological question to the existing Human Will and Sal
 The section also records that an offered reward or benefit may influence willingness without being the source of the capacity to will or guaranteeing a response. Genesis 3:5–6 is used to distinguish inducement from the origin of human capacity. Biological nutrients and signals are not called rewards intended to sway a will unless evidence supports the relevant behavioral meaning.
 
 Triple Constraint is recorded as PASS within this bounded scope. No GUA-W component, Gear, runtime stage, State term, or universal law was added or changed. Read-back verification of the investigation file was completed; this register entry is now being recorded.
+
+
+## 2026-11-19 — Human Will: reward, incentive, and the exercise of creaturely will
+
+Extended section 40 of `scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md`. The investigation compares Genesis 2:1–5, 2:7, 2:15–17 and 3:1–6 with Deuteronomy 30:6, 15–20; Hebrews 11:24–26; Matthew 5:11–12 and 6:1–6; and the existing HW-010/HW-020 findings in Philippians 2:12–13 and 1:27–30.
+
+The recorded distinction is that a promised benefit, reward, warning, or consequence can influence attention, evaluation, desire, willingness, and choice without being the originating source of the capacity to will. Genesis 3 records the serpent's false inducement, not a genuine divine reward. Deuteronomy 30 places the covenant command and promised outcomes alongside the LORD's promised heart-circumcision (v. 6). Hebrews 11:24–26 explicitly connects Moses' regard for recompense with his evaluation and choice. Matthew 5–6 distinguishes the Father's reward from the pursuit of human praise. Philippians 2:12–13 preserves the believers' real obedience and God's operation in them both to will and to do; Philippians 1:29 includes believing within what is graciously granted while retaining the active human act of believing.
+
+Genesis 2:1–5 is not represented as an explicit definition of the human will. Genesis 2:7 establishes received life; the connection to creaturely capacity is identified as theological synthesis with the wider canonical testimony, not as a faculty list stated by the verse. The result answers the function of reward/incentive at the Scriptural level while leaving the complete internal mechanics of every human decision unspecified.
+
+Triple Constraint: PASS within the stated scope. No new HW passage number, GUA-W layer, Gear, runtime stage, State term, or universal law was added. The section 40 addition was read back and verified; this register entry is now being recorded.
