@@ -177,3 +177,59 @@ Therefore, the word *constraint* must not be treated as synonymous only with res
 5. Does the wider canonical record clarify the relation of God's purpose to created order and appointed creaturely activity?
 
 **Second-pass disposition:** The investigation has clarified four distinct questions and rejected two premature formulations: Purpose as a new architectural stage, and Constraint as prohibition alone. The exact relationship between the established Constraint and Structure definitions remains open. No architectural component, sequence, or definition has been changed.
+
+
+## 8. Repository source audit — what is defined, and what still needs explanation
+
+A comparison was made among the governing principles, completed-architecture presentation, Genesis 1–2 consolidated findings, and Genesis 1–2 internal synthesis.
+
+### 8.1 What the governing records explicitly establish
+
+- The completed architecture places Constraint at the end of the Foundational layer.
+- Structure is the first derived realization and the hinge between foundational distinctions and derived arrangement.
+- Framework and Pattern follow Structure.
+- The Triple Constraint Law is a discipline for admitting claims and explanations; it is not the same thing as the architectural node named Constraint.
+- The Genesis syntheses identify textual material relevant to purpose/function (Genesis 1:14–15; 1:26–28; 2:15) and permission/boundary (Genesis 2:16–17).
+
+### 8.2 What the principal records do not yet spell out in sufficient operational detail
+
+The completed-architecture presentation states the position and role of Constraint and Structure, but does not yet give a sufficiently detailed account of:
+
+1. what specifically qualifies as a Constraint within the architectural layer;
+2. how Constraint is distinguished from Admissibility and from the Triple Constraint Law;
+3. what is meant by Structure as a “first derived realization” beyond its position and hinge role;
+4. what relationship, if any, is meant by Constraint → Structure beyond their ordered placement;
+5. how Framework and Pattern are distinguished from Structure in operational terms.
+
+This is a documentation and explanatory limit in the principal records examined. It is **not** evidence that GUA-W is incomplete, and it does not authorize AI to invent definitions. The correct next move is to retrieve the original approved source explanations and historical provenance for these terms, compare them with the current recovered presentation, and present any proposed clarification to Jimmy for authority.
+
+### 8.3 Important distinction: two uses of “constraint”
+
+The repository uses “Triple Constraint Law” for the threefold admissibility review: Biblical compliance, Scientific coherence, and GUA-W consistency. That review must not be conflated with the architectural node “Constraint” in the foundational sequence.
+
+Genesis 2:16–17 is a clear example of a Creator-given command boundary. It is not, by itself, a complete definition of the architectural node. Genesis 1 also contains distinctions, conditions, and appointed functions that must be considered before the term can be given a general definition.
+
+### 8.4 Strongest current recognition
+
+The present evidence supports this much:
+
+- The Author's purpose and appointed function are stated in the Scriptural account.
+- The Creator establishes the order and its boundaries; creatures receive their place and activity within it.
+- Structure is already defined in GUA-W as the first derived realization.
+- The exact explanatory relation among purpose, Constraint, and Structure is not fully articulated in the principal source documents examined.
+
+This locates the next research need precisely: **recover and compare the authoritative source definitions of Constraint, Structure, Framework, and Pattern before attempting a fuller architectural explanation.**
+
+### 8.5 Next evidence-gathering task
+
+Search the original GUA-W repository and the historical development records for the earliest approved definitions and examples of:
+
+- Constraint;
+- Structure;
+- Framework;
+- Pattern;
+- the transition or relationship from Constraint to Structure.
+
+Preserve source dates and provenance. Do not treat later AI-generated wording as an original definition. If the source history does not contain an approved operational definition, report that absence plainly and ask Jimmy to determine the intended meaning rather than supplying one.
+
+**Disposition:** This pass identifies a precise source-recovery task. No architectural term, sequence, or definition is changed.
