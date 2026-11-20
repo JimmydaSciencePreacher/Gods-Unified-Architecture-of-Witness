@@ -266,3 +266,90 @@ The original repository supplies provenance for the Author/Word/Creation/Witness
 The source audit therefore remains open. Any useful historical explanation must be identified by its author, date, and status before it is used. In particular, an AI-generated explanation is a derivative witness and cannot silently become the authoritative definition of GUA-W.
 
 **Disposition:** Historical material reviewed; no original file modified. The current repository's completed architecture remains governing for this investigation. The next step is to recover any Jimmy-authored or explicitly approved source wording that predates the AI analysis, or to report that such wording has not yet been located.
+
+
+## 10. Recovered earlier GUA-W investigation — Identity, Change, and Persistence
+
+A direct examination of the original repository located a relevant earlier investigation:
+
+[Identity, Change, and Persistence.md](https://github.com/JimmydaSciencePreacher/The-Grand-Unified-Architecture-of-Witness-GUA-W-/blob/main/audits/Identity%2C%20Change%2C%20and%20Persistence.md)
+
+This is materially more useful than the older AI-generated architecture diagram because it records a research path through existing GUA-W layers and explains how the questions arose.
+
+### 10.1 The earlier pathway actually recorded
+
+The document states that its investigation began with:
+
+**Constraint → Structure**
+
+It then describes the following research movement:
+
+- Geometry and Topology;
+- invariants;
+- Persistence;
+- Identity;
+- Scriptural differentiation and propagation.
+
+It presents the resulting research pathway as:
+
+**Constraint ↔ Structure ↔ Pattern ↔ Runtime ↔ State ↔ Witness**
+
+The double arrows matter: the document presents a pathway of relationships for investigation, not a newly authorized one-way execution sequence. It does not give a formal operational definition of each term, and it does not explicitly include Framework in this particular pathway.
+
+### 10.2 What this earlier work contributes
+
+The document gives concrete examples of what the earlier investigation was trying to recognize:
+
+- A circle and an ellipse differ geometrically while sharing a topological type under homeomorphism.
+- Noether's theorem connects continuous symmetries with specified conserved quantities under its assumptions.
+- Topological phases can preserve selected classifications under stated conditions.
+- Genesis 1:11–12, 1:21, and 1:24–25 describe seed, kind, differentiation, and propagation.
+
+Its own proposed placement is:
+
+- Structure → Pattern;
+- Runtime → Differentiation → Propagation;
+- State → Identity → Persistence;
+- Witness → Registration of realized state.
+
+The separate Evidence Audit in the original repository explicitly narrows several of these claims: the mathematics and physics examples do not independently establish GUA-W's metaphysical or biological definitions, and the Scriptural-to-architectural mapping remains provisional. These limits must travel with the recovered material.
+
+### 10.3 Where Purpose belongs in the recovered pathway
+
+The earlier investigation does not explicitly name Purpose in its displayed pathway. That is a gap in the recorded explanation, not evidence that Purpose is absent from the underlying inquiry.
+
+A second historical source, [Thomistic Synthesis, Logocentric Physics, and GUA-W](https://github.com/JimmydaSciencePreacher/The-Grand-Unified-Architecture-of-Witness-GUA-W-/blob/main/audits/Thomistic%20Synthesis%2C%20Logocentric%20Physics%2C%20and%20GUA-W.md), discusses teleological purpose and describes theology as providing an ultimate framework of purpose into which empirical discoveries are gathered. This is a useful historical pointer to the Purpose question. However, the document is an audit/synthesis commentary and is not, on the evidence presently recovered, an approved definition of Purpose's formal placement in the architecture.
+
+The Genesis evidence already under examination adds a direct textual reason to keep Purpose visible:
+- Genesis 1:14–15 states appointed functions in God's command concerning the lights.
+- Genesis 2:15 states the purpose of man's placement in the Garden.
+- Genesis 2:16–17 distinguishes permission and command boundary.
+
+Accordingly, Purpose must be carried alongside the recovered pathway as an Authorial question: what intention or appointed end is expressed in the source evidence, and how does that illuminate the relationships among Constraint, Structure, Framework, Pattern, Runtime, State, and Witness?
+
+This does **not** establish Purpose as a new layer, nor does it settle whether it is a governing context, a relation, or an already-implicit feature of the existing architecture. Those possibilities must be tested against Jimmy-approved source records and Genesis before any placement is stated as settled.
+
+### 10.4 Provenance and approval status
+
+The current Git history identifies Jimmy as the author of the 2026-11-13 rename that placed this document under audits/. The earlier file-creation history was not recovered in this pass. The content is therefore a genuine historical repository record, but the available commit metadata does not independently establish who originally drafted every passage or whether each proposed mapping was explicitly approved as canonical.
+
+The document must be preserved as historical investigative evidence. Its candidate mappings must not be promoted to authoritative definitions without confirmation from an approved source.
+
+### 10.5 What the recovery changes in the research question
+
+The earlier work changes the next question from “What might Constraint → Structure mean?” to a more faithful question:
+
+**How does the earlier documented pathway—Constraint ↔ Structure ↔ Pattern ↔ Runtime ↔ State ↔ Witness—relate to the completed architecture, and where does Author-stated Purpose illuminate that pathway in Genesis 1–2?**
+
+Framework must be recovered separately because it is present in the older AI-generated layer diagram but absent from the earlier Identity/Change/Persistence pathway. We must determine whether Framework was an established distinct term, a descriptive grouping, or a later explanatory gloss. No conclusion is authorized yet.
+
+### 10.6 Next source-recovery sequence
+
+1. Locate Jimmy-authored or explicitly approved source wording for Constraint and Structure predating the AI diagram.
+2. Locate the first approved use and intended meaning of Framework.
+3. Locate the first approved use and intended meaning of Pattern, distinguishing it from Structure.
+4. Compare those records with the Identity, Change, and Persistence pathway and its evidence audit.
+5. Carry Purpose through every comparison using Genesis 1:14–18 and 2:8–17, while keeping Authorial Purpose distinct from creaturely function and command boundary.
+6. Only after provenance and definitions are established, map the relationships into the completed architecture for Jimmy's review.
+
+**Disposition:** An earlier internal research pathway has been recovered. It strengthens the evidence base and reveals a specific documentation gap concerning Framework and Purpose. It does not yet supply approved operational definitions for the four terms or authorize an architectural change.
