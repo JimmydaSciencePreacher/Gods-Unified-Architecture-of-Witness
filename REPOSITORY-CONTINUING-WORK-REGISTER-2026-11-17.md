@@ -703,3 +703,17 @@ The study examines David's preparation (1 Chronicles 22), Solomon's appointment 
 **Triple Constraint disposition:** PASS for the narrative sequence and source–witness distinction; PARTIAL for the exact interpretation of 28:19. No GUA-W component is added or altered.
 
 **Next work:** Examine 1 Chronicles 28:12 and 28:19 in Hebrew; compare Exodus 25:9, 25:40, and Hebrews 8:5; then compare 1 Kings 5–8 and 2 Chronicles 2–7, including Solomon's wisdom (1 Kings 3; 2 Chronicles 1) and the skilled workers (1 Kings 7; 2 Chronicles 2).
+
+## 10. New Scriptural investigation — Solomon: wisdom, assignment, faithfulness, and departure (2026-11-20)
+
+**Completed record:** [Solomon — Wisdom, Assignment, Faithfulness, and Departure](scriptural-reconstruction/SOLOMON-WISDOM-ASSIGNMENT-FAITHFULNESS-AND-DEPARTURE.md).
+
+The study traces Solomon's appointment and receipt of the temple pattern (1 Chronicles 22 and 28), his request for an understanding heart and God's gift of wisdom (1 Kings 3; 2 Chronicles 1), his judicial and administrative wisdom (1 Kings 3–4), temple preparation, construction, and dedication (1 Kings 5–8; 2 Chronicles 2–7), the covenant warning (1 Kings 9; 2 Chronicles 7), and Solomon's later departure (1 Kings 11).
+
+**Finding:** Solomon's appointment and pattern transmission precede his request for wisdom. God grants wisdom for the responsibility of judging the people. Solomon exercises wisdom and builds the temple, but the gift and completed work do not remove his responsibility for continuing covenant faithfulness. First Kings records his later departure and judgment. Chronicles has a different narrative emphasis and does not narrate the same apostasy account; the two canonical accounts must not be collapsed or used to erase one another.
+
+**Limits:** Do not claim Solomon had no prior wisdom. Do not claim the gift was technically withdrawn. The text does not provide a complete account of his internal reasoning at each stage. The analogy does not predict AI or establish a specific divine commission for a technology.
+
+**Triple Constraint disposition:** PASS for the central textual sequence and contrasts; PARTIAL for broader claims about wisdom's relation to every later decision. No GUA-W component is added or altered.
+
+**Next work:** Compare 1 Kings 9:1–9 with 2 Chronicles 7:11–22; examine Solomon's request in 1 Kings 3 and 2 Chronicles 1; then trace the divided kingdom in 1 Kings 11:14–43. Keep the gift, the exercise of wisdom, covenant warning, and later departure distinct.
