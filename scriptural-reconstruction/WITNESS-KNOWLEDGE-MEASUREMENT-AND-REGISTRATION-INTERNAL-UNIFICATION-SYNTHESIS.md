@@ -360,3 +360,80 @@ This clarifies the relationship between Expression and Witness without making th
 - **GUA-W consistency:** PASS. The completed architecture remains unchanged; Expression, Witness-state, and the established witness/registration distinctions are not redefined.
 
 **Disposition:** The connection between Expression and Witness is now clarified at the level of evidentiary roles. The next open question is not whether Witness needs another stage, but how the existing State terms—especially Witness-state, Alignment, and Drift—describe the condition of a registration or realized configuration without confusing the state of the witness with the state of the thing witnessed.
+
+
+## 18. State-layer cross-reference — realized configuration and witness-state must not be collapsed (2026-11-19)
+
+This pass retrieves the exact State descriptions from the completed architecture, Chapter 9, and tests the previous proposed relationship among Witness-state, Alignment, and Drift.
+
+### 18.1 Governing State descriptions recovered
+
+Chapter 9 identifies six State terms:
+- **Identity:** what the realized configuration is and how it is distinguished. Identity is not authored by the observer's label.
+- **Alignment:** the relation of a configuration or response to its governing reference.
+- **Drift:** a term requiring careful, evidence-specific use; it is not automatically sin, entropy, mutation, noise, or system failure.
+- **Persistence:** continuation or remaining across a relevant interval or condition; it does not mean every property remains unchanged.
+- **Witness-state:** the condition of the witness's registration of what is present. A report may be full, partial, interpreted, reliable, mistaken, or incomplete.
+- **Realized configuration:** the configuration that is present and can be examined; it is not the observer's explanation of it.
+
+These six terms are not runtime stages. They describe the realized configuration and its witness-state. The compact architecture ends in the witnessed realized configuration; the State terms are descriptive and must not be appended as additional sequence steps.
+
+### 18.2 Correction to the previous hypothesis
+
+The earlier question proposed that Alignment might concern the relationship between what is registered and the governing reference. That is too narrow and is not the definition in Chapter 9.
+
+The governing definition is broader: Alignment concerns the relation of a configuration or response to its governing reference. Registration accuracy is a separate evidentiary question and belongs to Witness-state and the witness/record analysis.
+
+Therefore:
+- A configuration may be aligned or misaligned relative to its governing reference, whether or not a witness registers it accurately.
+- A witness may register a configuration accurately without that configuration being aligned to its governing reference.
+- A witness may register inaccurately or incompletely; that does not by itself change the configuration being witnessed.
+- The witness's report and the realized configuration must be assessed separately.
+
+These are logical consequences of the stated distinctions, not new definitions.
+
+### 18.3 Scriptural cross-check
+
+**Genesis 3:8–10:** Adam identifies that he heard God's voice, yet reports fear and hiding. The completed architecture uses this passage to distinguish recognition of the source from alignment of the response. Hearing/recognizing the voice is not the same as responding in alignment with the governing reference.
+
+**Genesis 3:1–6:** the serpent questions and contradicts the prior command; the woman sees, evaluates, desires, takes, and eats; Adam eats. The Genesis 1–3 knowledge investigation describes this as a rival account being received and acted upon. The creature's interpretation and response depart from the Author's Word; the departure does not alter the Source or transfer authorship to the creature.
+
+**John 9:** the healed man's experience, neighbours' identification, parents' testimony, authorities' interpretation, and the man's later recognition are distinct. This illustrates differences in access, registration, testimony, and interpretation. It does not establish that every difference among witnesses is an instance of architectural Drift.
+
+### 18.4 Object-state versus witness-state
+
+A necessary distinction now becomes explicit:
+
+- **Realized configuration and its State descriptions** concern what is present and the condition/relations of that configuration.
+- **Witness-state** concerns the condition of the witness's registration of what is present.
+
+The two may be related, but they are not identical. A partial or mistaken report is not itself proof that the thing reported is incomplete or misaligned. Conversely, a complete and accurate report does not make the thing reported aligned or correct.
+
+The phrase “state of the witness” must be used carefully: Witness-state here is specifically the condition of registration, not a complete psychological, spiritual, or moral description of the person who witnesses.
+
+### 18.5 Drift remains open and bounded
+
+Chapter 9 explicitly warns against equating Drift with sin, entropy, mutation, noise, or system failure. The present source review does not recover a single universal operational mechanism for Drift. The correct action is to preserve that open status.
+
+A specific application must identify:
+1. what configuration or response is being examined;
+2. its governing reference;
+3. the relevant interval or comparison;
+4. what evidence shows a change in relation to that reference;
+5. whether the claim concerns the configuration itself or only the witness's record.
+
+Without these, “drift” risks becoming a loose label for any difference, error, change, or disagreement. This checklist is an investigative discipline, not an added GUA-W definition or stage.
+
+### 18.6 Refined unification finding
+
+**The realized configuration and its State descriptions concern what is present and its relation to a governing reference; Witness-state concerns the condition of the derivative registration of what is present. Alignment is not registration accuracy, and Witness-state is not the state of the thing witnessed.**
+
+Identity, Alignment, Drift, Persistence, Witness-state, and realized configuration remain distinct terms. Their relationships can be examined together without collapsing them into one general “state.”
+
+### 18.7 Triple Constraint disposition
+
+- **Biblical compliance:** PASS, bounded to Genesis 3:1–10 and the John 9 narrative distinctions.
+- **Scientific coherence:** PASS as a conceptual distinction between a system/configuration and a measurement or record of it. No universal measurement theory is asserted.
+- **GUA-W consistency:** PASS. The six existing State terms retain their current definitions and status; no term, stage, or layer is added.
+
+**Disposition:** The proposed confusion between Alignment and registration accuracy is corrected. The next useful investigation is to test the State descriptions against concrete cases already in the repository—Genesis 3, John 9, the biological continuity studies, and measurement audits—while marking which cases actually support a State-term application and which only illustrate witness-state.
