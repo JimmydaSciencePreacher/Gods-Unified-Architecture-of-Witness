@@ -785,3 +785,68 @@ This question links the existing investigations of Pattern, Propagation, Identit
 - **GUA-W consistency:** PASS, bounded. No architecture term is added or redefined.
 
 **Disposition:** The seed investigation sharpens a key distinction: continuity across generations is not numerical identity of the individual organism. The next scientific pass, if pursued, should test this distinction using specific botanical developmental and inheritance evidence, not a generalized “seed contains its future” slogan.
+
+
+## 17. Sixth-pass cross-check against the existing biological case studies (2026-11-19)
+
+A further repository search located the existing comparative biological synthesis and the bee orchid, butterfly, spiny leaf insect, axolotl, and zebrafish case studies. This changes the next research step: the seed/identity question is not starting from an empty scientific record. Relevant biological distinctions have already been investigated.
+
+### 17.1 The repository already distinguishes individual, structure, and lineage continuity
+
+The comparative biological synthesis identifies:
+- individual continuity;
+- structural continuity;
+- cellular continuity;
+- developmental continuity;
+- reproductive continuity;
+- lineage continuity.
+
+It explicitly distinguishes an organism persisting while structures are shed, remodeled, lost, or replaced from a lineage persisting across generations. Offspring are new individuals; lineage continuity is not the indefinite persistence of one individual.
+
+This supports the conceptual distinction developed in the fifth pass. It does not require a new GUA-W term.
+
+### 17.2 The bee orchid is not a direct model of seed-to-adult continuity
+
+The bee orchid case begins with a seed containing an embryo, followed by germination and protocorm development. The seed is not a miniature flowering plant. The orchid's natural establishment commonly involves compatible mycorrhizal fungi, while asymbiotic cultivation shows that fungal assistance is not an absolute requirement under every laboratory condition. The perennial plant can persist through seasonal changes in visible above-ground growth and underground structures.
+
+Therefore three different questions must remain separate:
+1. What is present in the seed?
+2. What conditions support germination and development?
+3. How does the established perennial individual persist through seasonal change?
+
+The bee orchid is useful because it links seed, developmental conditions, differentiated form, fungal relationship, and seasonal persistence. It does not establish that the seed contains a fully realized adult structure or that seed continuity and individual persistence are the same phenomenon.
+
+### 17.3 The other biological cases test different forms of continuity
+
+- **Spiny leaf insect:** one individual proceeds through molts and changing outward form; its temporary ant-like first instar and later leaf-like presentation are stage-specific. The case must retain the repository's qualified natural-history evidence and must not be treated as plant-like seed propagation.
+- **Butterfly:** one individual continues through larval, pupal, and adult stages despite extensive tissue remodeling. This is developmental continuity, not reproduction or lineage continuity.
+- **Axolotl:** an existing individual persists through loss and regeneration of a limb. The replacement structure is newly organized tissue, not the original material returning unchanged.
+- **Zebrafish:** one embryo develops as cells divide, move, and differentiate. Cellular lineage and whole-organism continuity are related but distinct.
+
+These cases are not one mechanism. Their value is that they test different meanings of change and persistence.
+
+### 17.4 Refined finding
+
+The earlier question, “What persists across generations?” should now be divided into two independent investigations:
+
+**A. Within-individual persistence:** What makes the same organism continuous through development, seasonal change, metamorphosis, or regeneration?
+
+**B. Across-generation continuity:** What is transmitted or recurrent across reproduction and lineage, while each offspring remains a distinct individual?
+
+The seed/“after his kind” wording in Genesis 1:11–12 is relevant to B. The bee orchid's seasonal life history, butterfly metamorphosis, spiny leaf insect molts, axolotl regeneration, and zebrafish embryogenesis chiefly illuminate A, each in its own domain. No one case should be used to answer both questions without qualification.
+
+### 17.5 Consequence for the Pattern–Propagation question
+
+The repository evidence makes it plausible to investigate a distinction between:
+- recurring or recognizable features across successive realizations; and
+- the biological processes by which organisms reproduce and lineages continue.
+
+But the scientific examples do not define GUA-W Pattern or Propagation. The exact architectural relationship remains open. A pattern can recur without being a reproductive mechanism; propagation can occur without proving that every feature remains invariant.
+
+### 17.6 Triple Constraint disposition
+
+- **Biblical compliance:** PASS, bounded. Genesis 1:11–12 is retained as the Scriptural source for seed, fruit, and “after his kind”; no modern biological taxonomy is read back into the phrase.
+- **Scientific coherence:** PASS, bounded to the distinctions already established in the repository's biological case studies. Their different mechanisms are not collapsed.
+- **GUA-W consistency:** PASS, bounded. Existing terms are used; no new state term, layer, runtime stage, or universal mechanism is proposed.
+
+**Disposition:** The seed investigation now has a clearer research structure. Separate within-individual persistence from across-generation continuity. The next unification task is to compare these two questions with the existing Pattern and Propagation definitions and determine whether the repository's current definitions already distinguish them adequately.
