@@ -850,3 +850,81 @@ But the scientific examples do not define GUA-W Pattern or Propagation. The exac
 - **GUA-W consistency:** PASS, bounded. Existing terms are used; no new state term, layer, runtime stage, or universal mechanism is proposed.
 
 **Disposition:** The seed investigation now has a clearer research structure. Separate within-individual persistence from across-generation continuity. The next unification task is to compare these two questions with the existing Pattern and Propagation definitions and determine whether the repository's current definitions already distinguish them adequately.
+
+
+## 18. Seventh-pass unification — Pattern and Propagation are distinct, related terms (2026-11-19)
+
+This pass recovers the exact governing definitions from the current completed architecture, Chapter 9, and compares them with the seed/continuity investigation.
+
+### 18.1 Exact current definitions
+
+The current completed architecture states:
+
+- **Framework:** an established arrangement within which relationships and functions can be understood.
+- **Pattern:** recognizable order or recurrence within that arrangement.
+- **Propagation:** the carrying forward or transmission of what is active through the relevant arrangement.
+
+The architecture further cautions that recognizing a pattern is not originating it; an observed recurrence may be real while its proposed mechanism remains uncertain; and resemblance across domains does not establish a shared mechanism. Propagation can include carrying forward or transmission, and in later accounts communication and influence may be traced, but influence must not be confused with authorship or used to erase the responsibility of the person who acts.
+
+These are the governing definitions. The present investigation does not replace them.
+
+### 18.2 The distinction now supported
+
+Pattern and Propagation are related but not interchangeable:
+
+1. **Pattern is recognizable order or recurrence.** It concerns what can be recognized within an established arrangement.
+2. **Propagation is carrying forward or transmission.** It concerns what is carried forward through that arrangement.
+3. A pattern may be recognized in a single realized arrangement; propagation is not required for every act of recognition.
+4. Propagation may carry forward something whose pattern is recognizable, but propagation is not itself the same as the pattern.
+5. Recurrence can be observed without knowing the mechanism that produces it. A proposed mechanism must be independently established.
+6. Propagation does not imply exact replication or invariance of every property. What is transmitted, under what conditions, and with what changes must be specified.
+
+### 18.3 Genesis seed account as a bounded test
+
+Genesis 1:11–12 names seed, fruit, and “after his kind,” and reports the earth bringing forth vegetation. These are relevant to recurring order and continuity. Genesis 1:22 separately records the blessing and command to be fruitful and multiply. This permits a careful comparison:
+
+- “After his kind” and the repeated seed/fruit descriptions are textual evidence relevant to recognizable recurrence.
+- The command to be fruitful and multiply is explicit propagation language.
+- The account relates these ideas but does not equate them or give a modern botanical mechanism.
+- The offspring/next generation must not be treated as numerically the same individual as its predecessor.
+
+Genesis 1:20–22 provides a second bounded comparison: the creatures are brought forth/created, evaluated, and then blessed with the command to multiply. This again allows us to distinguish the created beings, recognizable kinds, and subsequent fruitfulness without imposing one universal biological sequence.
+
+### 18.4 Runtime placement matters
+
+Pattern belongs to the derived portion of the completed architecture, before Reception. Propagation belongs to the runtime sequence:
+
+**Reception → Activation → Differentiation → Propagation → Integration → Expression**
+
+This placement prevents an important category error. Pattern is not simply another name for the runtime act of propagation. A recognizable arrangement may be present before a particular instance of runtime propagation is described. Conversely, propagation is a runtime operation that carries forward or transmits what is active through the relevant arrangement.
+
+The seed comparison can therefore illuminate the relationship between a recurring order and the runtime carrying forward of active life, but it cannot by itself define the full operation of either term.
+
+### 18.5 Cross-disciplinary boundary
+
+The biological examples test different aspects and must remain distinct:
+
+- Reproduction and lineage investigate transmission across generations.
+- Metamorphosis and molts investigate developmental change within an individual.
+- Regeneration investigates restoration or rebuilding within an existing individual.
+- Embryogenesis investigates differentiation and development from an early organismal stage.
+
+All may display recognizable patterns, but not all are propagation in the same sense. A butterfly's metamorphosis is not reproduction; an axolotl's limb regeneration is not lineage propagation; seed germination is not identical to seed formation or seed dispersal.
+
+The mathematical/physical comparison must follow the same discipline: recurrence, invariance, transmission, and persistence are different claims. A conserved quantity, recurring geometry, transmitted signal, or preserved record is not automatically the same phenomenon.
+
+### 18.6 Unification finding
+
+The strongest current formulation is:
+
+**Pattern concerns recognizable order or recurrence within an established arrangement; Propagation concerns carrying forward or transmission of what is active through the relevant arrangement. They can participate in the same account, but neither definition reduces to the other.**
+
+This is a clarification of the relationship between two existing definitions, not a new law, stage, or layer. It remains possible that particular examples involve both, one, or neither, depending on what is actually observed and how the terms are applied.
+
+### 18.7 Triple Constraint disposition
+
+- **Biblical compliance:** PASS, bounded to the explicit distinctions in Genesis 1:11–12 and 1:20–22. No modern scientific mechanism is read into “kind.”
+- **Scientific coherence:** PASS, bounded. Reproduction, development, regeneration, recurrence, and transmission are kept distinct.
+- **GUA-W consistency:** PASS. The current definitions and placements of Pattern and Propagation are preserved; no architecture change is proposed.
+
+**Disposition:** The earlier open question is substantially narrowed. Pattern and Propagation are already distinguished in the completed architecture; the seed and biological cases provide bounded examples for testing their relationship. The next investigation should test whether the same distinction clarifies Integration and Expression, without collapsing the runtime sequence or treating a visible result as the whole process.
