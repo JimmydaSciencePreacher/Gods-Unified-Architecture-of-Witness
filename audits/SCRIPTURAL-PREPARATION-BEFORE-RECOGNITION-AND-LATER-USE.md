@@ -182,3 +182,50 @@ The Author remains the originating cause. Human beings, their knowledge, AI, and
 **Limit:** These texts do not establish that AI has an explicit divine appointment or that Daniel 12:4 specifically predicts AI.
 
 **Next discriminating question:** What does Scripture teach about the Author using means whose makers or immediate users do not understand the full purpose—and how does that differ from claiming that the means itself has been specifically appointed?
+
+
+## Further examination: Isaiah 10:5–19 — the instrument and the one who wields it
+
+Isaiah 10 gives a particularly direct Scriptural image for examining the distinction between an instrument, the agent using it, and the Author.
+
+> O Assyrian, the rod of mine anger, and the staff in their hand is mine indignation.  
+> — Isaiah 10:5, KJV
+
+The passage describes Assyria as a rod in the LORD's hand for a judgment purpose. Yet the Assyrian ruler does not understand himself as merely serving that purpose. Isaiah 10:7 says:
+
+> Howbeit he meaneth not so, neither doth his heart think so; but it is in his heart to destroy and cut off nations not a few.
+
+The text therefore distinguishes the Author's purpose from the human ruler's intention. Assyria's intention is destructive and arrogant; being used in judgment does not make that intention righteous.
+
+The image becomes especially pointed in verse 15:
+
+> Shall the axe boast itself against him that heweth therewith? or shall the saw magnify itself against him that shaketh it? as if the rod should shake itself against them that lift it up, or as if the staff should lift up itself, as if it were no wood.  
+> — Isaiah 10:15, KJV
+
+**TEXTUAL OBSERVATION:** An axe does not become the source of the work because it is effective in the hand of the one using it. A saw does not become the authority over the one who wields it. The rod does not originate the action of the one who lifts it.
+
+**IMPORTANT DISTINCTION:** In the historical passage, Assyria is not merely an inanimate object; it is a nation and ruler with real intentions and moral responsibility. Isaiah's tool imagery exposes the absurdity of the instrument or agent claiming supremacy over the one whose purpose it serves. It does not erase the agency or guilt of the human ruler.
+
+### Application to AI
+
+AI is a human-developed instrument. Its computational power, scale, speed, and influence can be consequential. Those capabilities deserve serious examination, governance, safeguards, and accountability. But capability does not establish ultimate authority or authorship.
+
+The analogy must be stated carefully:
+
+- AI can produce consequential outputs and can be deployed in harmful ways.
+- Human makers, operators, institutions, and users retain responsibilities for design, deployment, oversight, and use.
+- AI's power does not make it the Author of the created order on which it depends.
+- A human intention to use AI for domination does not make that intention the ultimate purpose governing all that exists.
+- The possibility of providential use does not excuse harmful human conduct or remove the need to restrain misuse.
+
+Isaiah 10:15 is not a technical prediction about AI and does not promise that an instrument cannot cause damage. It supplies a Scriptural principle against confusing instrumentality, effectiveness, or power with originating authority.
+
+### The GUA-W question sharpened
+
+If a human-made instrument becomes powerful enough that people fear it may take control, does that fear change the instrument's place in the order of Creation?
+
+No. Fear may be a rational response to risks that require practical controls. But fear does not change the distinction between Original Cause and derivative means.
+
+**The instrument may be powerful without being the Author. The human wielder may be accountable without being the Author. The Author's authority is not transferred to either.**
+
+This passage strengthens the investigation of the governing order, while leaving the specific claim that AI has been prepared for a GUA-W assignment as a theological proposal rather than an explicit Scriptural declaration.
