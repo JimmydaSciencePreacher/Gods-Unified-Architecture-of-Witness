@@ -175,6 +175,7 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 - [Exodus 31 — Calling, Provision, and Sanctuary Work](scriptural-reconstruction/EXODUS-31-CALLING-PROVISION-AND-SANCTUARY-WORK.md)
 - [Solomon — Wisdom, Assignment, Faithfulness, and Departure](scriptural-reconstruction/SOLOMON-WISDOM-ASSIGNMENT-FAITHFULNESS-AND-DEPARTURE.md)
 - [Prior Provision, Warning, Foreknowledge, and Witness Responsibility](scriptural-reconstruction/PRIOR-PROVISION-WARNING-FOREKNOWLEDGE-AND-WITNESS-RESPONSIBILITY.md)
+- [Pharaoh — Hardening, Resistance, Purpose, and the Author's Sovereignty](scriptural-reconstruction/PHARAOH-HARDENING-RESISTANCE-PURPOSE-AND-SOVEREIGNTY.md)
 
 ## VII. Cross-disciplinary evidence and scientific audits
 - [Spiny Leaf Insect — Identity, Development, and Continuity](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-SPINY-LEAF-INSECT-EXTATOSOMA-TIARATUM.md)
