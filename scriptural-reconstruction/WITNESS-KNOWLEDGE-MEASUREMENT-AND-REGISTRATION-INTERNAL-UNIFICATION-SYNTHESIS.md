@@ -437,3 +437,73 @@ Identity, Alignment, Drift, Persistence, Witness-state, and realized configurati
 - **GUA-W consistency:** PASS. The six existing State terms retain their current definitions and status; no term, stage, or layer is added.
 
 **Disposition:** The proposed confusion between Alignment and registration accuracy is corrected. The next useful investigation is to test the State descriptions against concrete cases already in the repository—Genesis 3, John 9, the biological continuity studies, and measurement audits—while marking which cases actually support a State-term application and which only illustrate witness-state.
+
+
+## 19. Comparative State test — Genesis 3, John 9, and biological continuity (2026-11-19)
+
+This pass tests the State descriptions against three existing repository case groups. The purpose is to identify which terms each case actually supports, not to force every State term into every example.
+
+### 19.1 Genesis 3:8–10 — recognition and alignment
+
+The completed architecture identifies a specific distinction in this passage: Adam recognizes the LORD's voice, yet his reported response is fear and hiding. The passage therefore supports distinguishing recognition of a source from alignment of a response to that source.
+
+- **Identity:** Adam remains the person addressed in the narrative.
+- **Alignment:** the response can be evaluated in relation to the governing reference already given in Genesis 2:16–17.
+- **Witness-state:** Adam's words are a recorded report of his condition and response; the text does not give a complete inventory of his knowledge or internal state.
+- **Persistence:** the same human participant continues through the changed circumstances.
+- **Drift:** do not apply automatically. The passage supports departure/disobedience in its theological context, but the architecture explicitly warns against making Drift a synonym for sin.
+
+The Genesis 1–3 knowledge synthesis further identifies the serpent's rival testimony in Genesis 3:1–5 and the sequence of seeing, evaluating, desiring, and acting in 3:6. This is a strong Scriptural case for the distinction between the Author's Word, a creature's reception and interpretation, and the creature's response. It is not a transfer of authorship or authority.
+
+### 19.2 John 9 — identity through changed condition and differentiated witness access
+
+The existing John 9 investigation records that the man was blind from birth and returns seeing after Jesus' action and the man's washing. His parents confirm the birth condition. The healed man's witness develops through the narrative, from identifying Jesus as “a man that is called Jesus” to belief and worship after Jesus reveals Himself.
+
+- **Identity:** the man remains the same individual through the restoration; the neighbours' question about whether he is the same person makes identity explicit in the narrative.
+- **Realized configuration:** his condition changes from blindness to sight.
+- **Witness-state:** the man, neighbours, parents, and authorities have different access, knowledge, reports, and interpretations. Their registration and understanding are not identical.
+- **Persistence:** the individual continues through the changed condition.
+- **Alignment:** the text does contain questions of response to Jesus and His authority, but not every disagreement or incomplete report should be labelled an Alignment state without a precise governing reference and claim.
+- **Drift:** not established as a general label for the disagreement. The narrative describes differing testimony and opposition; the State term requires a separate, bounded application.
+
+This case strongly supports the distinction between a change in the realized condition and continuity of the individual, alongside differences in witness-state. It does not imply that every observer's account is equally accurate or that the event depends on their agreement.
+
+### 19.3 Biological continuity — persistence amid material and structural change
+
+The existing comparative biological synthesis explicitly distinguishes individual, structural, cellular, developmental, reproductive, and lineage continuity. It reports that an organism may persist while particular structures are shed, remodeled, lost, or replaced. It also warns that germination, molting, metamorphosis, regeneration, and embryogenesis are different processes.
+
+- **Identity:** the biological case must specify the level of identity being discussed—individual organism, organ, cell lineage, or population.
+- **Persistence:** individual continuity may coexist with substantial change in outward form, tissue organization, or component structures.
+- **Realized configuration:** the actual developmental or regenerative condition changes and must be described at the relevant time.
+- **Witness-state:** observation and scientific records may be partial or method-dependent; the relevant case study must state what was observed and what is inferred.
+- **Alignment:** not automatically applicable. A biological change is not aligned or misaligned unless a governing reference is independently specified and the use of the term is justified.
+- **Drift:** not inferred from mutation, remodeling, or developmental variation. The architecture expressly prohibits such automatic equivalence.
+
+The butterfly, axolotl, spiny leaf insect, bee orchid, and zebrafish are distinct tests. No common developmental mechanism is inferred from their shared usefulness as examples of continuity through change.
+
+### 19.4 Comparative disposition
+
+| Case | Supported State emphasis | What remains bounded or unresolved |
+|---|---|---|
+| Genesis 3:8–10 | Alignment, identity, persistence; witness report | Drift is not automatically equivalent to sin |
+| John 9 | Identity, changed realized condition, persistence, witness-state | Alignment requires a specific claim and reference; disagreement is not automatically Drift |
+| Biological cases | Identity, persistence, realized configuration; witness record | Alignment and Drift are not inferred from biological change |
+
+### 19.5 Unification finding
+
+**A realized configuration may change while the identity of the relevant continuing subject persists. The subject's relation to a governing reference is a separate question from the accuracy or completeness of a witness's registration.**
+
+This is the strongest cross-case conclusion supported by the current repository evidence. It does not mean that every entity persists through every change, that identity is always preserved, or that the State terms are all applicable in each case.
+
+The cases show different things:
+- Genesis 3: a continuing human participant whose response is not aligned with the prior command.
+- John 9: a continuing individual whose condition changes, while witness access and interpretation differ.
+- Biological studies: individuals that persist through specific developmental or structural changes, with mechanisms varying by organism.
+
+### 19.6 Triple Constraint disposition
+
+- **Biblical compliance:** PASS, bounded to the cited narrative details and the architecture's own Scriptural readings.
+- **Scientific coherence:** PASS, bounded to the comparative biological synthesis; no shared mechanism or universal identity criterion is claimed.
+- **GUA-W consistency:** PASS. State definitions remain unchanged; Drift remains carefully bounded; no new layer, state, runtime stage, or law is added.
+
+**Disposition:** The question from the previous pass is answered with qualification: yes, a realized configuration can change while the relevant individual persists; alignment and witness-state are distinct questions. The next investigation should examine Persistence itself: what kind of continuity is required for a particular entity, and which changes are compatible with that continuity? The answer must remain domain- and entity-specific.
