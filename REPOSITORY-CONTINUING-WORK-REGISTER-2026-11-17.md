@@ -731,3 +731,17 @@ The study compares 1 Kings 9:1–9 with 2 Chronicles 7:11–22, then examines Ge
 **Triple Constraint disposition:** PASS for the explicit Scriptural distinctions; PARTIAL for a complete metaphysical account. No GUA-W component is added or altered.
 
 **Next work:** Examine Pharaoh in Exodus 4–14, continue Romans 9 through Romans 11, and compare Ephesians 1:3–14, 1 Peter 1:18–21, Deuteronomy 30:11–20, and Joshua 24:14–28. Preserve distinctions among God's purpose, command, warning, hardening, human intention, and judgment.
+
+## 12. New Scriptural investigation — Pharaoh: hardening, resistance, purpose, and sovereignty (2026-11-20)
+
+**Completed record:** [Pharaoh — Hardening, Resistance, Purpose, and the Author's Sovereignty](scriptural-reconstruction/PHARAOH-HARDENING-RESISTANCE-PURPOSE-AND-SOVEREIGNTY.md).
+
+The study follows Exodus 1–15, with focused examination of Exodus 3:7–20; 4:21; 5:2; 7:1–5; 7–11; 14, and Paul's use of Pharaoh in Romans 9:14–18. It distinguishes the Hebrew roots chazaq, kabed, and qashah, while recording that lexical meaning and causal interpretation are disputed.
+
+**Finding:** God announces His purpose and hardening before Moses confronts Pharaoh. Pharaoh refuses and repeatedly hardens his own heart. The LORD is later explicitly named as hardening Pharaoh's heart. The stated purpose includes displaying God's power, making His name known, and delivering Israel. Pharaoh's resistance does not defeat the Author's purpose; God's sovereignty does not erase the narrative's attribution of actions to Pharaoh.
+
+**Qualification:** The precise relation between divine hardening and Pharaoh's willing remains disputed. The study records both direct divine causation and strengthening-Pharaoh's-resolve interpretations without presenting either as uncontested. Romans 9 is retained in its wider argument and is not used to erase Exodus's narrative details.
+
+**Triple Constraint disposition:** PASS for the narrative facts; PARTIAL for causal mechanics. No GUA-W component is added or altered.
+
+**Next work:** Continue Romans 9:19–24 through Romans 11; compare Deuteronomy 2:30, Joshua 11:18–20, Psalm 105:23–25, and Psalm 106:7–12. Preserve distinctions among God's purpose, prior announcement, divine hardening, Pharaoh's own resistance, and judgment.
