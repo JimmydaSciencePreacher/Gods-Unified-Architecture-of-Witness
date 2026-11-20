@@ -116,3 +116,72 @@ It does **not** yet establish the full architecture, the meaning of every propos
 ## Source
 
 - King James Version, Genesis 1:1–5. Public-domain text; compare the passage directly in the KJV rather than relying on this analysis as a substitute for Scripture.
+
+
+## 6. Further comparison — Authoritative command, reported result, and subsequent ordering
+
+This pass revisits the first unresolved question carried forward above: the relationship between the condition described in Genesis 1:2 and the command/result in Genesis 1:3. It also tests whether Genesis 1:3 itself supplies a direct definition of Constraint or Structure.
+
+### 6.1 Keep the narrated relations distinct
+
+The KJV text gives three adjacent but distinguishable statements:
+
+- **Genesis 1:1:** God created the heaven and the earth. God is the acting subject and Creator.
+- **Genesis 1:2:** The earth is described as “without form, and void”; darkness is upon the face of the deep; the Spirit of God moves upon the face of the waters.
+- **Genesis 1:3:** God speaks the command, “Let there be light,” and the text reports, “and there was light.”
+
+The sequence is not a report of an observer generating the event by noticing it. The Author acts and speaks; the text reports the result. The verse does not describe the physical mechanism by which the light appears.
+
+### 6.2 Command is not the same as boundary
+
+“Let there be light” is an authoritative creative command. In this immediate passage it is not phrased as a prohibition, restriction, or limit imposed upon a creature. Therefore it must not be used as though Genesis 1:3 directly defines the GUA-W term **Constraint**.
+
+This is an important correction to a too-quick mapping: not every divine command is necessarily an example of Constraint in the same sense as the permission and prohibition of Genesis 2:16–17. The source and authority are the same Author, but the immediate functions of the statements differ.
+
+### 6.3 Reported result is not the command itself
+
+The text distinguishes God's utterance from the reported existence of light. The command is not identical to the result it commands. This provides a direct Scriptural basis for examining the relation between the Author's Word and the realized Creation while preserving the Author → Word → Creation distinction.
+
+John 1:1–3 is the canonical witness that identifies the Word in relation to God and the making of all things. It may be read alongside Genesis 1:3, but Genesis 1:3 itself does not use the title “the Word” or provide a complete account of the eternal relation of the Father and Son. The two passages must inform one another without being made interchangeable.
+
+### 6.4 The result precedes the narrated division and naming
+
+Genesis 1:4 reports that God sees the light, judges it good, and divides the light from the darkness. Genesis 1:5 reports the naming of Day and Night and the first-day closure.
+
+The narrated order is therefore:
+
+**Authorial creative command → reported result → divine evaluation → division → naming → day-unit closure.**
+
+The result is already reported in verse 3 before the division is narrated in verse 4. Division and naming are not the same action, and neither should be silently folded into the command/result statement.
+
+### 6.5 What this contributes to the completed GUA-W
+
+The passage provides a clear Scriptural witness to the relation between the Author's command and the reported realized result. It also preserves subsequent acts of evaluation, division, and naming.
+
+It does **not** provide a one-to-one mapping of Genesis 1:1–5 onto the full architectural sequence. In particular:
+
+- The creative command in verse 3 is not established as the technical definition of Constraint.
+- The appearance of light is not, by this verse alone, a complete technical definition of Structure.
+- The division in verse 4 must not be equated automatically with the foundational Distinction node or the runtime stage Differentiation.
+- The naming in verse 5 is a distinct narrated act and is not automatically identical to a State term.
+- The sequence in the passage is textual order; it does not prove that every GUA-W layer is a separate temporal event in the Creation account.
+
+### 6.6 Refined recognition
+
+The strongest admissible finding at this point is:
+
+**The Author speaks; the commanded result is reported as present; the Author then evaluates, divides, and names. The command, result, division, and naming are distinguishable relations within the Scriptural account.**
+
+This strengthens the Author → Word → Creation investigation and helps prevent the misuse of “Constraint” as a synonym for every command. It does not yet resolve the technical relationship between Constraint and Structure. That question must be pursued through the wider Genesis 1–2 evidence and the authoritative provenance of the architectural terms.
+
+### 6.7 Triple Constraint disposition
+
+| Candidate claim | Biblical compliance | Scientific coherence | GUA-W consistency | Disposition |
+|---|---|---|---|---|
+| Genesis 1:3 reports God's command followed by the existence of light. | Directly stated. | No physical mechanism asserted. | Preserves Authorial primacy. | PASS, textual scope |
+| The creative command is itself the technical definition of Constraint. | Not established by this text. | Not established. | Would collapse distinct functions. | NOT ADMISSIBLE |
+| The reported light is the complete technical definition of Structure. | Not established by this text. | Not established. | Would over-map one verse to one node. | NOT ADMISSIBLE |
+| Command, result, division, and naming are distinct in the narrated order. | Directly supported by Genesis 1:3–5. | No mechanism asserted. | Preserves distinctions. | PASS, textual scope |
+| Genesis 1:1–5 maps one-to-one onto the complete GUA-W sequence. | Not stated. | Not established. | Conflicts with the governing method. | REJECT |
+
+**Disposition:** The first command/result relationship is clarified. The Constraint → Structure relationship remains open; the evidence has narrowed what it cannot mean, without pretending to have supplied a complete technical definition.
