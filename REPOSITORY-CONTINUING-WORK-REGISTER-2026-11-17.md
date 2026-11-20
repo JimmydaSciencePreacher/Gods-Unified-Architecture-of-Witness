@@ -689,3 +689,17 @@ The study reads Exodus 31 with Exodus 25–30 and 35–40. It examines the sanct
 **Triple Constraint disposition:** PASS for the textual sequence and source–witness relationship; PARTIAL for the precise timing of Bezalel's personal recognition, which is unstated. No GUA-W layer, stage, gear, or component is added or altered.
 
 **Next investigation:** 1 Chronicles 28:11–19 — David receives and transmits the temple pattern to Solomon. Examine the relationship between prior pattern, intergenerational transmission, appointed workmanship, and later execution. Preserve differences from Moses/Bezalel and do not assume Solomon's knowledge or timing beyond the text.
+
+## 9. New Scriptural investigation — 1 Chronicles 28–29 (2026-11-20)
+
+**Completed record:** [1 Chronicles 28 — Pattern, Transmission, and Succession](scriptural-reconstruction/1-CHRONICLES-28-PATTERN-TRANSMISSION-AND-SUCCESSION.md).
+
+The study examines David's preparation (1 Chronicles 22), Solomon's appointment (28:1–10), transmission of the temple pattern (28:11–19), the successor's charge and supporting workforce (28:20–21), and material provision and willing contributions (29:1–19).
+
+**Finding:** David prepares and transmits; Solomon receives the assignment and must act; the people and workers contribute. The purpose and pattern precede the recorded execution. This adds intergenerational transmission to the prior-provision comparisons in Genesis 2, Daniel 12, and Exodus 25–40.
+
+**Critical qualification:** 1 Chronicles 28:19 is difficult Hebrew. Translation/commentary sources disagree about the precise relation of the writing, the LORD's hand, and David's understanding. The study records the uncertainty rather than treating one English rendering as decisive.
+
+**Triple Constraint disposition:** PASS for the narrative sequence and source–witness distinction; PARTIAL for the exact interpretation of 28:19. No GUA-W component is added or altered.
+
+**Next work:** Examine 1 Chronicles 28:12 and 28:19 in Hebrew; compare Exodus 25:9, 25:40, and Hebrews 8:5; then compare 1 Kings 5–8 and 2 Chronicles 2–7, including Solomon's wisdom (1 Kings 3; 2 Chronicles 1) and the skilled workers (1 Kings 7; 2 Chronicles 2).
