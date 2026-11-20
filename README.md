@@ -23,6 +23,12 @@ Start with the [Book Structure and Reading Edition](BOOK-STRUCTURE-AND-READING-E
 
 ## What this repository records
 
+### Current linked investigations
+
+- [Daniel 12:1–13 — Text-First Canonical Reconstruction](scriptural-reconstruction/DANIEL-12-1-13-TEXT-FIRST-RECONSTRUCTION.md)
+- [Exodus 31 — Calling, Provision, and Sanctuary Work](scriptural-reconstruction/EXODUS-31-CALLING-PROVISION-AND-SANCTUARY-WORK.md)
+
+
 1. **The completed GUA-W** — its established architecture, governing relationships, distinctions, and operations, presented as a coherent whole rather than as a collection of disconnected proposals.
 2. **Its Scriptural evidence** — the relevant passages across Scripture, read in context, with references that allow readers to examine the evidence directly.
 3. **The relationship between the two** — explanations of how the Scriptural evidence supports and illuminates the architecture, while distinguishing what the text states from what is inferred or interpreted.
