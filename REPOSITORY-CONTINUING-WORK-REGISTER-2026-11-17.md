@@ -717,3 +717,17 @@ The study traces Solomon's appointment and receipt of the temple pattern (1 Chro
 **Triple Constraint disposition:** PASS for the central textual sequence and contrasts; PARTIAL for broader claims about wisdom's relation to every later decision. No GUA-W component is added or altered.
 
 **Next work:** Compare 1 Kings 9:1–9 with 2 Chronicles 7:11–22; examine Solomon's request in 1 Kings 3 and 2 Chronicles 1; then trace the divided kingdom in 1 Kings 11:14–43. Keep the gift, the exercise of wisdom, covenant warning, and later departure distinct.
+
+## 11. New Scriptural investigation — prior provision, warning, foreknowledge, and Witness responsibility (2026-11-20)
+
+**Completed record:** [Prior Provision, Warning, Foreknowledge, and Witness Responsibility](scriptural-reconstruction/PRIOR-PROVISION-WARNING-FOREKNOWLEDGE-AND-WITNESS-RESPONSIBILITY.md).
+
+The study compares 1 Kings 9:1–9 with 2 Chronicles 7:11–22, then examines Genesis 2–3, James 1:13–15, Romans 9:6–24, Genesis 50:20, Isaiah 10:5–15, and Acts 2:22–23; 4:27–28.
+
+**Finding:** God's covenant warning to Solomon precedes the later recorded departure. Scripture distinguishes divine foreknowledge and purpose from command, temptation, creaturely intention, and moral responsibility. James denies that God tempts people with evil; Genesis 50 distinguishes the brothers' evil intention from God's good intention; Isaiah 10 presents Assyria as an instrument and judges its arrogance; Acts holds God's predetermined counsel together with human responsibility in the crucifixion.
+
+**Qualification:** Romans 9 affirms God's sovereign mercy, hardening, and Creator authority. The grammatical and interpretive question in 9:22 remains qualified. The study does not claim to exhaust the metaphysical relation of foreknowledge, permission, sovereignty, and creaturely willing.
+
+**Triple Constraint disposition:** PASS for the explicit Scriptural distinctions; PARTIAL for a complete metaphysical account. No GUA-W component is added or altered.
+
+**Next work:** Examine Pharaoh in Exodus 4–14, continue Romans 9 through Romans 11, and compare Ephesians 1:3–14, 1 Peter 1:18–21, Deuteronomy 30:11–20, and Joshua 24:14–28. Preserve distinctions among God's purpose, command, warning, hardening, human intention, and judgment.
