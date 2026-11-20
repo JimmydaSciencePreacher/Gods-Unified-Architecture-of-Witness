@@ -168,6 +168,11 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 - [Witness, Knowledge, Measurement, and Registration — Internal Unification Synthesis](scriptural-reconstruction/WITNESS-KNOWLEDGE-MEASUREMENT-AND-REGISTRATION-INTERNAL-UNIFICATION-SYNTHESIS.md)
 - [Works and Signs of Jesus — Internal Unification Synthesis](scriptural-reconstruction/WORKS-AND-SIGNS-OF-JESUS-INTERNAL-UNIFICATION-SYNTHESIS.md)
 
+### Prior provision, calling, and recognition
+
+- [Daniel 12:1–13 — Text-First Canonical Reconstruction](scriptural-reconstruction/DANIEL-12-1-13-TEXT-FIRST-RECONSTRUCTION.md)
+- [Exodus 31 — Calling, Provision, and Sanctuary Work](scriptural-reconstruction/EXODUS-31-CALLING-PROVISION-AND-SANCTUARY-WORK.md)
+
 ## VII. Cross-disciplinary evidence and scientific audits
 - [Spiny Leaf Insect — Identity, Development, and Continuity](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-SPINY-LEAF-INSECT-EXTATOSOMA-TIARATUM.md)
 - [Interdisciplinary Convergence — Different Sciences, One Created Order](audits/INTERDISCIPLINARY-CONVERGENCE-DIFFERENT-SCIENCES-ONE-CREATED-ORDER.md)
