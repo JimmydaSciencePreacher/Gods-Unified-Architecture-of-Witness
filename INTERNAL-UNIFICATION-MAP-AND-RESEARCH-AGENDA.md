@@ -524,3 +524,14 @@ The text-first reconstruction is now recorded in [Genesis 4:9–16 — Text-Firs
 **Genesis 6:9–22 status:** Completed a text-first reconstruction. The passage distinguishes Noah's description and walk with God; the earth's corruption and violence; God's announcement, command, covenant, ark specifications, and preservation instructions; and Noah's obedience. It preserves uncertainties about “perfect in his generations,” gopher wood, the window/opening, cubit conversion, animal logistics, and the relationship to Genesis 7's clean-animal instructions. No new GUA-W component is added. See `scriptural-reconstruction/GENESIS-6-9-22-TEXT-FIRST-RECONSTRUCTION.md`.
 
 **Next source sequence:** Examine Genesis 7 text-first, comparing God's instructions with the actual entry into the ark, clean and unclean animal numbers, the onset and duration of the Flood, and the fulfillment of God's word. Preserve the differences between Genesis 6's command and Genesis 7's execution; do not harmonize away details before examining the text.
+
+
+### Genesis 1:1–5 command/result comparison completed (2026-11-20)
+
+The text-first reconstruction now records a focused comparison of Genesis 1:1–5. Its bounded finding is that the Author's creative command in Genesis 1:3, the reported existence of light, the evaluation and division in verse 4, and the naming and day-unit closure in verse 5 are distinct narrated relations.
+
+This also narrows the Constraint inquiry: “Let there be light” is an authoritative creative command, but this passage does not establish that every divine command is the technical GUA-W term Constraint. In particular, it must not be collapsed into the permission/prohibition boundary of Genesis 2:16–17. Nor does the appearance of light in verse 3, by itself, define Structure. The text does not map one-to-one onto the completed architecture.
+
+See [Genesis 1:1–5 — Text-First Reconstruction, Unit 1](scriptural-reconstruction/GENESIS-1-1-5-TEXT-FIRST-RECONSTRUCTION.md), Section 6.
+
+**Next focused question:** Compare the distinct command/result movements in Genesis 1:6–13 and 1:14–25. Examine where God speaks, what is made or brought forth, what the text says was so, when function is stated, and when division, naming, evaluation, and blessing occur. Preserve differences between the days and between God's creative agency and the stated participation of the waters or earth. Do not force a single command/result formula or a one-to-one stage mapping.
