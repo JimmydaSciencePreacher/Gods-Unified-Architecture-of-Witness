@@ -87,6 +87,8 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 - [HEBREW AUDIT GENESIS 2 7 15 17](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-7-15-17.md)
 - [HEBREW AUDIT GENESIS 2 8 14](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-8-14.md)
 
+- [Daniel 12:1–13 — Text-First Canonical Reconstruction](scriptural-reconstruction/DANIEL-12-1-13-TEXT-FIRST-RECONSTRUCTION.md)
+
 ## III. Human Will and Salvation — integrated reference work
 
 - [HUMAN WILL AND SALVATION REFERENCE WORK](scriptural-reconstruction/HUMAN-WILL-AND-SALVATION-REFERENCE-WORK.md)
