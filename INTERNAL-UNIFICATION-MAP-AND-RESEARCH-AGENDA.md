@@ -275,7 +275,9 @@ The purpose investigation now compares Ephesians 1:3–14, John 1:1–3, Hebrews
 
 The investigation preserves **Author → Word → Creation → Witness** and the completed created-order architecture. No new layer, stage, or technical Constraint → Structure definition is introduced. See Section 20 of the purpose/constraint/structure investigation.
 
-**Next comparison:** Read this canonical synthesis alongside the repository's existing Chapter 15 treatment of God's Purpose and the Saving Work of Christ. Identify what is already established there, what this pass clarifies, and whether any unresolved question remains specifically about the created-order relationship Constraint → Structure.
+**Chapter 15 cross-check completed:** The existing chapter already connects God's Will and the Word in James 1:18 (“Of his own will begat he us with the word of truth”), and compares this with 1 Peter 1:3, 23 and John 1:12–13. This is a relevant canonical witness to Will/Word in God's saving work, not a description of the original physical Creation and not a technical sequence. The new pass records the connection and preserves the distinction between Creation and new birth. See Section 20.9 of the purpose investigation.
+
+**Next comparison:** Return to the created-order question separately: recover the strongest existing Genesis 1–2 evidence and approved definitions for Constraint and Structure, and determine whether the present uncertainty is a documentation issue, an unresolved relationship, or both. Do not use the Will/Word synthesis to supply a missing technical definition.
 
 
 
