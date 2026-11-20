@@ -418,3 +418,72 @@ This also clarifies why “will” must not be confused with “authority.” A 
 ### Next connection to test
 
 Compare this Genesis pattern with Scriptural passages where God Himself gives promises, commands, invitations, or rewards. Determine whether the promise of good can rightly encourage creaturely willingness while remaining subordinate to God's Word and purpose. Keep distinct (a) truthful divine promise, (b) appointed reward, (c) deceptive or rival promise, and (d) the creature's response. Do not assume they operate identically merely because each may influence desire.
+
+
+## Divine promise, appointed reward, and creaturely willingness — comparison with the rival promise in Genesis 3
+
+This comparison follows the prior Genesis 2:16–17 / 3:1–6 investigation and the existing Human Will and Salvation synthesis. It tests whether a promise or reward from God may influence creaturely willingness while remaining an expression of God's own Will and Purpose.
+
+### 1. Four distinct Scriptural cases
+
+- **Genesis 15:1 — divine assurance:** God speaks to Abram in a vision: “Fear not, Abram: I am thy shield, and thy exceeding great reward.” The promise is grounded in God's own identity and assurance. It is not a rival account contradicting a prior divine command.
+- **Exodus 20:12 — command with stated benefit:** the command to honour father and mother is accompanied by the promise that one's days may be long upon the land the LORD gives. The promise is attached to an authoritative command; it does not create the authority of the command.
+- **Matthew 5:11–12 — reward amid persecution:** Jesus tells the persecuted and reviled to rejoice, “for great is your reward in heaven.” The promised reward gives a reason for hope and endurance under persecution. It does not make the persecutors' false accusations true or establish the righteousness of the response.
+- **John 6:37–40 — saving assurance and the Father's Will:** Jesus says that those the Father gives Him will come; He will receive the one who comes, lose none of those given, and raise them up at the last day. He identifies this as the Father's Will. This is not merely an incentive offered to induce an independently originating saving will. The same discourse says that coming depends upon the Father's drawing and giving (6:44, 65), while still speaking plainly of coming and believing.
+
+### 2. Contrast with Genesis 3:1–6
+
+The serpent's promise in Genesis 3:4–5 must be distinguished from God's promises:
+- It contradicts the consequence God had stated (2:17; 3:4).
+- It presents an alternative anticipated benefit (3:5).
+- The woman's subsequent perception, evaluation, desire, and action are narrated in 3:6.
+
+The contrast is therefore not simply “one promise motivates and another motivates.” The crucial distinction is whether the testimony is faithful to the Author's Word or challenges it. A promise's power to attract does not authenticate its source or content.
+
+### 3. What can be recognized about willingness
+
+The texts support a careful, bounded statement:
+
+**A promise or promised reward may encourage, strengthen, or sway creaturely willingness; it does not originate the creature's capacity to will, and it does not become the authority that establishes what is true or good.**
+
+God's promises are not an external authority competing with His Will. They express what He has chosen to declare and faithfully accomplish. A creature's trustful response is real, but it remains response to the Author.
+
+The examples have different emphases and must not be flattened:
+- Genesis 15 emphasizes God's assurance and Abram's relation to it.
+- Exodus 20 attaches a stated benefit to a command.
+- Matthew 5 gives promised future reward as grounds for rejoicing amid suffering.
+- John 6 emphasizes the Father's Will, giving, drawing, the Son's reception and preservation, and the real coming and believing of people.
+
+Thus “reward” is not a universal explanation for all willingness. In John 6, the central point is not that a reward persuades someone to initiate salvation; it is the Father's saving Will and the Son's keeping of those given to Him.
+
+### 4. Connection to the existing Human Will and Salvation synthesis
+
+The current synthesis already records:
+- receiving and believing are real responses, while John 1:13 identifies God as the source of birth;
+- the Father gives and draws, and people come (John 6);
+- the Lord opens Lydia's heart (Acts 16:14);
+- God grants repentance (Acts 11:18);
+- Philippians 1:29 includes believing among what is graciously given;
+- James 1:18 attributes begetting to God's own Will through the Word of truth.
+
+The promise/reward comparison belongs alongside these findings. It must not replace or simplify them. It adds a distinction concerning how declared outcomes may function in relation to willingness; it does not settle the unresolved chronology of regeneration and faith.
+
+### 5. Internal unification and Triple Constraint disposition
+
+**Authorial Purpose:** God's Will is not produced by a promised outcome. His promises proceed from His own purpose and authority.
+
+**Word and testimony:** the truthful divine promise agrees with the Author's Word; the serpent's promise challenges and contradicts it.
+
+**Creaturely willingness:** a person may be encouraged, warned, comforted, or enticed by what is presented as an outcome. The person remains a genuine responding and accountable creature.
+
+**Witness:** the promise must be evaluated by its source and truth, not merely by the desirability of its apparent benefit.
+
+- **Biblical:** the distinctions are grounded in the cited passages; the statement about influence on willingness is a bounded synthesis, not a verbatim biblical definition.
+- **Scientific:** no general motivational mechanism is claimed. Any comparison with incentive psychology must be separately evidenced and limited to its domain.
+- **GUA-W:** reinforces Author → Word → Creation → Witness and the existing Authorial Purpose / creaturely will / witness distinctions. No new component, layer, stage, or mechanism is introduced.
+
+**Recognition:** Divine promise and promised reward can serve as encouragement within the Author's declared purpose. They do not become the source of the will or the authority behind the good. The rival promise in Genesis 3 demonstrates why source, truth, and authority must be distinguished from attractiveness and influence.
+
+### Next relationship to examine
+
+Compare God's command and promise to Cain in Genesis 4:6–7 with the Genesis 2–3 account. God speaks before Cain's act, addresses his countenance, warns about sin, and declares Cain's responsibility in relation to it. Examine the exact wording and the Hebrew phrase commonly rendered “unto thee shall be his desire,” without prematurely deciding its referent. This may further illuminate warning, desire, mastery, willingness, and responsibility.
