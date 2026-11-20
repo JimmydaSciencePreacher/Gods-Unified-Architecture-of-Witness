@@ -154,3 +154,76 @@ The passage does not yet provide a technical GUA-W runtime or a scientific mecha
 ## Source
 
 - King James Version, Genesis 1:14–25. Consult the KJV text directly; this analysis is an aid to examination, not a replacement for Scripture.
+
+
+## 7. Cross-unit synthesis — command, appointed function, created participation, and propagation
+
+This section compares Genesis 1:6–13 with Genesis 1:14–25. Its purpose is to preserve the recurring distinctions while allowing the narrated operations to differ. It does not claim that every passage follows one identical formula.
+
+### 7.1 The text presents more than one relation between command and realization
+
+**A. God directly makes and orders what He commands**
+
+In Genesis 1:6–10, God commands the firmament and the gathering of waters; the text then reports God's making, dividing, gathering, and the appearance of dry land. The text attributes the making and ordering directly to God.
+
+**B. God commands the earth or waters to bring forth**
+
+- Genesis 1:11–12: God commands the earth to bring forth vegetation; the earth brings it forth.
+- Genesis 1:20–21: God commands the waters to bring forth living creatures; verse 21 says God created them and also says the waters brought them forth abundantly.
+- Genesis 1:24–25: God commands the earth to bring forth land creatures; verse 25 says God made them.
+
+The text retains both divine agency and the named participation of the earth or waters. Neither statement should be deleted or forced into an unprovided physical mechanism. The earth and waters are not presented as independent Original Causes; they are created domains acting within God's command. “Instrument,” “medium,” or “secondary cause” may be useful explanatory terms only if carefully qualified; the verses themselves do not provide a complete metaphysical theory of causation.
+
+### 7.2 Appointed function may be stated before making and placement are narrated
+
+Genesis 1:14–15 states functions for the lights in the command: dividing day from night, serving as signs, marking seasons, days and years, and giving light upon the earth. Genesis 1:16 then reports that God made the lights; verse 17 reports that He set them in the firmament; verse 18 again describes their ruling and dividing functions.
+
+This is a significant textual order. Function is not merely inferred after the lights appear; it is stated in the command before making and placement are narrated. The passage therefore supports investigating Authorial Purpose/appointed function in relation to realization, without inserting Purpose as a new GUA-W layer or asserting that every created thing follows this exact narrated order.
+
+### 7.3 Existence and subsequent propagation are distinguishable
+
+Genesis 1:21 reports the creatures and God's evaluation. Genesis 1:22 then records God's blessing and command: “Be fruitful, and multiply, and fill…”
+
+The order matters. The text distinguishes the creation/bringing forth of living creatures from the subsequent blessing and command concerning multiplication. This is a strong textual basis for examining Propagation as distinct from initial realization. It does not, by itself, define every technical feature of the GUA-W runtime or prove that every organism is animated by one identical process.
+
+### 7.4 A bounded comparison of the recurring relations
+
+| Textual relation | Examples | What can safely be said |
+|---|---|---|
+| Divine command followed by divine making/ordering | Genesis 1:6–10 | God commands and the text attributes making and ordering to Him. |
+| Divine command with stated function | Genesis 1:14–15 | Appointed functions are included in the command before making and placement are narrated. |
+| Divine command with earth/waters bringing forth | Genesis 1:11–12; 1:20–21; 1:24–25 | The text retains God's agency and the created domain's stated participation. |
+| Blessing and multiplication after creature realization | Genesis 1:21–22 | The account distinguishes creatures' creation/bringing forth from the command to multiply. |
+
+These are observed textual relations, not a universal taxonomy of all divine operations.
+
+### 7.5 What this contributes to internal unification
+
+The comparison gives stronger grounds for keeping four questions distinct:
+
+1. **Authorial source:** Who originates and authorizes the command? The text identifies God.
+2. **Appointed function:** What is the commanded thing for? Genesis 1:14–15 makes this explicit for the lights.
+3. **Created participation:** What created domain is named as bringing forth, and what does the text also attribute to God? The earth and waters are explicitly named in these passages.
+4. **Propagation:** What is commanded after the creatures have been brought forth? Genesis 1:22 records blessing and multiplication.
+
+This helps prevent four collapses: command into Constraint, function into Structure, created participation into independent authorship, and multiplication into initial creation.
+
+### 7.6 Triple Constraint disposition
+
+| Candidate claim | Biblical compliance | Scientific coherence | GUA-W consistency | Disposition |
+|---|---|---|---|---|
+| Genesis 1:11–12, 1:20–21, and 1:24–25 retain both God's agency and earth/waters bringing forth. | Both statements are explicit. | No mechanism inferred. | Preserves Authorial primacy and textual distinctions. | PASS, textual scope |
+| Genesis 1:14–15 states functions before making and placement are narrated. | Directly stated in sequence. | No astrophysical mechanism inferred. | Supports investigation of Purpose/function. | PASS, textual scope |
+| Genesis 1:21–22 distinguishes creature realization from the subsequent blessing/command to multiply. | Directly stated in sequence. | No reproductive mechanism inferred. | Supports distinguishing realization and Propagation. | PASS, textual scope |
+| The earth or waters are independent Original Causes. | Not stated; conflicts with God's explicit creative agency. | Not established. | Violates Author-Node Primacy. | REJECT |
+| “Bring forth” supplies a complete physical mechanism or a universal secondary-cause theory. | Not specified by the text. | Not established. | Overstates the evidence. | NOT ADMISSIBLE |
+| Every command in Genesis 1 is the same technical operation or is identical to Constraint. | The commands have differing stated functions. | Not applicable. | Collapses distinct relations. | REJECT |
+| Purpose, created participation, and propagation are new GUA-W stages. | Not stated. | Not applicable. | Would alter the completed architecture. | REJECT |
+
+### 7.7 Refined recognition
+
+**God remains the Original Cause and Author. Within His command, the text can identify functions for created things, describe the earth or waters bringing forth, and then record blessing and propagation. These relations are connected, but they are not interchangeable.**
+
+This is a stronger internal unification of Genesis 1:6–25. It does not yet define the technical hinge between Constraint and Structure. It does clarify that the investigation must distinguish Authorial command, appointed function, created participation, and subsequent propagation rather than compressing them into one operation.
+
+**Disposition:** Record this as a cross-unit textual finding. Keep the completed architecture unchanged. Continue into Genesis 1:26–31 to examine whether humanity's image, blessing, dominion, and multiplication extend or differ from the animal account.
