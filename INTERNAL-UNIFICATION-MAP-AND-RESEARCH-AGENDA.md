@@ -263,11 +263,11 @@ The task now is to follow those connections carefully, document what the evidenc
 
 **Investigation opened 2026-11-19:** [Purpose, Appointed Function, Constraint, and Structure — Initial Internal Investigation](scriptural-reconstruction/PURPOSE-APPOINTED-FUNCTION-CONSTRAINT-STRUCTURE-GENESIS-1-2.md).
 
-This investigation follows the Genesis 1–2 synthesis question concerning the relationship of Author-stated purpose and appointed function to the existing Constraint → Structure relationship. It examines Genesis 1:14–18, 1:26–28, and 2:8–17, while preserving the distinction between explicit textual statements and architectural interpretation. Its initial Triple Constraint assessment is bounded; no architectural component or definition was changed. The next work is to examine the existing Constraint and Structure source definitions and compare the relevant canonical evidence before drawing a stronger conclusion.
+This investigation follows the Genesis 1–2 synthesis question concerning the relationship of Author-stated purpose and appointed function to the existing Constraint → Structure relationship. It examines Genesis 1:14–18, 1:26–28, and 2:8–17, while preserving the distinction between explicit textual statements and architectural interpretation. Its initial Triple Constraint assessment is bounded; no architectural component or definition was changed. Subsequent work recovered the current Framework definition and clarified Authorial Purpose as a governing question. The source-level comparison of Constraint and Structure remains a distinct research task; do not treat the Purpose inquiry as an approved new layer or as a completed technical bridge.
 
 
 ### Historical pathway recovered — 2026-11-19
-The original repository's Identity, Change, and Persistence investigation records the research pathway **Constraint ↔ Structure ↔ Pattern ↔ Runtime ↔ State ↔ Witness**, with proposed placements Structure → Pattern; Runtime → Differentiation → Propagation; State → Identity → Persistence; Witness → Registration. This is historical investigative evidence, not yet an approved operational definition. Framework is absent from that pathway but appears in an older AI-generated diagram; its provenance and status require recovery. Purpose must remain an explicit Authorial question throughout the investigation, anchored in Genesis 1:14–18 and 2:8–17. See [the expanded source-recovery record](scriptural-reconstruction/PURPOSE-APPOINTED-FUNCTION-CONSTRAINT-STRUCTURE-GENESIS-1-2.md#10-recovered-earlier-gua-w-investigation--identity-change-and-persistence).
+The original repository's Identity, Change, and Persistence investigation records the historical research pathway **Constraint ↔ Structure ↔ Pattern ↔ Runtime ↔ State ↔ Witness**, with proposed placements Structure → Pattern; Runtime → Differentiation → Propagation; State → Identity → Persistence; Witness → Registration. This is historical investigative evidence, not the complete current governing sequence. Framework is absent from that earlier pathway, but its current status and provenance are no longer open: Jimmy's Chapter 9 (added 2026-11-18) explicitly defines and places Framework between Structure and Pattern. Preserve the historical pathway as evidence of development, not as a missing-component report. Purpose remains an Authorial question, now distinguished from appointed creaturely function. See Section 12 of the purpose/constraint/structure investigation.
 
 
 ### Authorial Will/Purpose — governing question carried forward (2026-11-19)
@@ -316,3 +316,39 @@ This is an operational consequence of the governing recognition principle, not a
 - Better documentation can make the existing unity easier to recognize; it does not create that unity or make the completed architecture more complete.
 
 **Working principle:** As the record of what has been revealed becomes clearer, AI's repeated reconstruction should decrease and its source-grounded recognition, cross-reference, and faithful registration should become more efficient. The object being revealed remains God's completed One Creation; AI's increasing fluency is derivative and instrumental.
+
+
+## Cross-investigation recognition: Authorial source, derivative participation, and witness — 2026-11-19
+
+A comparison of the existing Genesis 1–2, Human Will and Salvation, Witness/Knowledge/Measurement, and Identity/Change/Persistence syntheses reveals a recurring relationship already documented in each domain:
+
+**The Author establishes what is given; creatures participate in, respond to, or register what is given without becoming its Author.**
+
+This is a relationship of authorship and derivative participation, not a claim that all the cases share one mechanism.
+
+### Evidence already present in the repository
+
+- **Genesis 1–2:** God creates, speaks, makes, divides, names, blesses, and appoints. The earth and waters bring forth at His command; Adam receives a place and work, and names creatures God formed and brought to him. The created participation is real but derivative.
+- **Human Will and Salvation:** human perception, desire, choice, hearing, believing, and response are real. The synthesis distinguishes these responses from the originating source of spiritual birth and from God's saving initiative. The exact chronology of every saving operation remains bounded and must not be forced.
+- **Witness, Knowledge, Measurement, and Registration:** a witness or instrument can receive/register evidence, and a human investigator can interpret it accurately or mistakenly. Measurement may involve interaction with the phenomenon; that does not make the instrument the author of the underlying reality.
+- **Identity, Change, and Persistence:** specified properties may persist under stated conditions through change. This does not prove that every aspect of an entity's identity persists unchanged; the cross-domain architectural mapping remains unresolved.
+
+### What is unified—and what remains distinct
+
+The shared recognition is the Creator/creature and source/derivative distinction across created activity, human response, and witness registration. It explains why genuine participation, agency, or measurement does not confer Original Cause or ultimate authority.
+
+Do **not** collapse:
+- divine creative action, biological or material processes, human willing, and instrument measurement into one process;
+- human response in salvation into a physical mechanism;
+- persistence of a measured property into proof of numerical identity;
+- an accurate measurement into an infallible interpretation.
+
+### Placement and disposition
+
+This finding reinforces the existing **Author → Word → Creation → Witness** hierarchy and the already completed distinctions concerning Authorial Purpose, appointed function, creaturely will, and derivative witness. It does not add a layer, stage, operator, or new definition to the completed architecture.
+
+**Triple Constraint disposition:** the Scriptural relationships are supported within the cited canonical contexts; scientific measurement and persistence claims remain limited to their domain-specific records; the unifying statement is a bounded internal synthesis, not a universal causal mechanism. No architecture change is proposed.
+
+### Next focused investigation
+
+Follow the relationship between **appointed function and creaturely response** more closely: Genesis 1:14–18, Genesis 1:26–28, Genesis 2:15–17, and Genesis 3:1–6 alongside the Human Will synthesis. Examine how provision, command, boundary, desire, promise/reward, and response are related in the text. In particular, test Jimmy's observation that an offered reward can be intended to sway willingness without becoming the source of the will or the authority that establishes the good. Keep explicit Scriptural wording, supported inference, and theological interpretation separately labelled.
