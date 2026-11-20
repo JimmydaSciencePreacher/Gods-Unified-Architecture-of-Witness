@@ -990,3 +990,93 @@ These descriptions are related but not interchangeable. A transmitted element is
 - **GUA-W consistency:** PASS. The completed runtime sequence and definitions remain unchanged; no new layer, term, stage, or universal law is introduced.
 
 **Disposition:** The internal relationship among Pattern, Propagation, Integration, and Expression is clearer. The next investigation should test these distinctions against the existing Witness, Knowledge, Measurement, and Registration synthesis: in particular, how an expression becomes available to a witness, what is actually registered, and where interpretation begins. The distinction between an expression and its registration must remain explicit.
+
+
+## 20. Ninth-pass canonical investigation — God's Will/Purpose and the originating Word (2026-11-19)
+
+This pass follows Jimmy's direction that Purpose is God's Will and belongs at the Authorial beginning of the inquiry. It tests that direction against the canonical passages already identified in Section 12. It does not insert Purpose into the created-order sequence or establish a temporal sequence within God.
+
+### 20.1 The governing distinction: God is the Cause; Will is His
+
+The phrase “God's Will” must not be treated as the name of a second agent, force, condition, or authority standing between God and Creation. The Author remains God alone. His Will/Purpose is His own willing and purpose; it is not something external that causes, constrains, or precedes Him.
+
+This distinction matters when using arrows. The explanatory expression “God → His Will/Purpose → Word → Creation” can be misread as a temporal or ontological chain in which God's Will is an entity separate from God, or in which the Word comes into existence after a prior decision. Neither conclusion is warranted. The canonical texts instead require examination of the relation among the Father's will and purpose, the eternal Word/Son, and Creation.
+
+**Working rule:** Use relational language, not a temporal production sequence, unless a passage itself establishes the chronology being claimed.
+
+### 20.2 Ephesians 1:3–14 — purpose, good pleasure, counsel, and Christ
+
+Ephesians 1 repeatedly locates the saving purpose in God's own will and in Christ:
+
+- Verses 4–5 speak of God's choosing in Christ before the foundation of the world and predestination according to the good pleasure of His will.
+- Verses 9–10 speak of the mystery of His will, according to His good pleasure which He purposed in Himself, with the gathering together of all things in Christ.
+- Verse 11 speaks of inheritance and predestination according to the purpose of Him who works all things after the counsel of His own will.
+
+**Textual finding:** The passage explicitly joins God's will, good pleasure, purpose, counsel, and the purpose centered in Christ. The purpose is God's; it is not authored by the creature or inferred from a later created outcome.
+
+**Scope boundary:** Ephesians 1:3–14 is directly treating God's saving purpose and its realization in Christ. It gives strong canonical evidence that God's purpose is not an afterthought to the Fall. It should not be reduced to a technical definition of every operation in Genesis 1–2, nor does it state a numbered GUA-W sequence called Will → Word → Creation.
+
+### 20.3 John 1:1–3 — the Word is not a later instrument brought into existence
+
+John's opening establishes that the Word already was in the beginning, was with God, and was God. It then states that all things were made by Him and that without Him was not anything made that was made.
+
+**Textual finding:** The Word is not presented as a creature or as a later product of a prior created order. The Word is present “in the beginning” and is identified in relation to the making of all created things.
+
+**Architectural consequence:** Any explanatory account of God's Will/Purpose must preserve the Word's preexistence and divine identity. It must not suggest that Will is a separate cause that first produces or creates the Word. John 1:1–3 supports the Author → Word → Creation hierarchy; it does not by itself explain the internal metaphysical relation between divine willing and the Word.
+
+### 20.4 Hebrews 1:1–3 — the Son, creation, and continuing upholding
+
+Hebrews states that God has spoken by His Son, whom He appointed heir of all things, by whom also He made the worlds. It identifies the Son as the brightness of God's glory and the express image of His person, and says that He upholds all things by the word of His power.
+
+**Textual finding:** The Son is associated both with the making of the worlds and with their continuing upholding. Creation is not described as independent of the Son after its making.
+
+**Boundary:** “Upholding” must not be collapsed into the initial act of creation, nor should the distinction be used to imply that Creation was unfinished. This passage contributes to the relation of originating and continuing divine action; it does not supply a physical mechanism or redefine the architecture's State term Persistence.
+
+### 20.5 1 Peter 1:19–20 and Colossians 1:15–17 — foreordination and all-things creation
+
+First Peter describes Christ as foreordained before the foundation of the world and manifested in the last times. Its immediate context concerns redemption through Christ's precious blood and the faith and hope directed toward God.
+
+Colossians identifies the Son as the image of the invisible God and says that all things were created by Him and for Him, that He is before all things, and that by Him all things consist.
+
+**Textual finding:** These passages strengthen the canonical connection between Christ, God's redemptive purpose, the foundation of the world, and the creation and continuance of all things. First Peter's statement is specifically about Christ's foreordination in the redemptive context; it should not be broadened into a claim that the verse independently explains every detail of the Creation account.
+
+### 20.6 What the combined witness supports — and what it does not
+
+The passages support these bounded conclusions:
+
+1. God alone is the Author and Original Cause.
+2. God's Will/Purpose is His own; it is not an independent entity or a cause above Him.
+3. The New Testament explicitly speaks of God's purpose, good pleasure, and counsel of His will in relation to Christ and the saving plan.
+4. The Word/Son is not a created intermediary: John 1 identifies the Word as God and as the One through whom all created things were made.
+5. The Son is identified as the One through whom the worlds were made and who upholds all things.
+6. Christ's redemptive mission is described as foreordained before the foundation of the world.
+7. These passages warrant a unified canonical investigation of Will/Purpose, Word, Creation, redemption, and consummation.
+
+They do **not** establish:
+
+- a temporal order in which God first has a Will and only later has or produces the Word;
+- Will as a separate force, layer, or independent efficient cause;
+- a new GUA-W component before Ontic Necessity;
+- a claim that Genesis 1:1 itself uses the words “will” or “purpose”;
+- a complete technical mapping from divine purpose to Constraint → Structure;
+- a scientific mechanism or experimental proof of the theological claims.
+
+### 20.7 Refined formulation for the continuing investigation
+
+The safest current formulation is:
+
+**God is the Original Cause. His Will/Purpose is His own Authorial purpose, not a cause separate from Him. The eternal Word is with God and is God; all created things are made through the Word. The canonical witness further identifies God's purpose in Christ and Christ's foreordination before the foundation of the world.**
+
+This is a relational canonical synthesis, not a new architectural sequence. It preserves the governing hierarchy:
+
+**Author → Word → Creation → Witness.**
+
+Purpose remains the first Authorial question in this investigation, not a created-order layer. The created-order architecture remains unchanged.
+
+### 20.8 Triple Constraint disposition
+
+- **Biblical compliance:** PASS, bounded to Ephesians 1:3–14; John 1:1–3; Hebrews 1:1–3; 1 Peter 1:19–20; and Colossians 1:15–17. Each passage's immediate subject is retained.
+- **Scientific coherence:** PASS, because no physical mechanism is asserted and no scientific finding is claimed as proof of the theological synthesis.
+- **GUA-W consistency:** PASS, provided the relational formulation is not converted into a temporal Will → Word sequence or a new architecture layer.
+
+**Disposition:** The canonical relationship is substantially clarified: God's Will/Purpose belongs to the Author Himself; the Word is eternally identified in relation to God and Creation; and the saving purpose is explicitly centered in Christ. The next step is to compare this result with the existing Chapter 15 treatment of God's Purpose and the Saving Work of Christ, then test whether any remaining question about Constraint → Structure is actually a separate created-order question rather than part of the Authorial-origin question.
