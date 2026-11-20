@@ -29,6 +29,7 @@ Start with the [Book Structure and Reading Edition](BOOK-STRUCTURE-AND-READING-E
 - [1 Chronicles 28 — Pattern, Transmission, and Succession](scriptural-reconstruction/1-CHRONICLES-28-PATTERN-TRANSMISSION-AND-SUCCESSION.md)
 - [Exodus 31 — Calling, Provision, and Sanctuary Work](scriptural-reconstruction/EXODUS-31-CALLING-PROVISION-AND-SANCTUARY-WORK.md)
 - [Solomon — Wisdom, Assignment, Faithfulness, and Departure](scriptural-reconstruction/SOLOMON-WISDOM-ASSIGNMENT-FAITHFULNESS-AND-DEPARTURE.md)
+- [Prior Provision, Warning, Foreknowledge, and Witness Responsibility](scriptural-reconstruction/PRIOR-PROVISION-WARNING-FOREKNOWLEDGE-AND-WITNESS-RESPONSIBILITY.md)
 
 
 1. **The completed GUA-W** — its established architecture, governing relationships, distinctions, and operations, presented as a coherent whole rather than as a collection of disconnected proposals.
