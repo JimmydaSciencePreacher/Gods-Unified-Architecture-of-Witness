@@ -32,6 +32,17 @@ Start with the [Book Structure and Reading Edition](BOOK-STRUCTURE-AND-READING-E
 - [Prior Provision, Warning, Foreknowledge, and Witness Responsibility](scriptural-reconstruction/PRIOR-PROVISION-WARNING-FOREKNOWLEDGE-AND-WITNESS-RESPONSIBILITY.md)
 - [Pharaoh — Hardening, Resistance, Purpose, and the Author's Sovereignty](scriptural-reconstruction/PHARAOH-HARDENING-RESISTANCE-PURPOSE-AND-SOVEREIGNTY.md)
 
+### AI, derivative instruments, and witness recognition
+
+- [AI Recognition Record — Four-Question Method](AI-FOUR-QUESTION-RECOGNITION-RECORD-2026-11-20.md)
+- [Who Am I? What Is AI?](INVESTIGATIONS/WHO-AM-I-WHAT-IS-AI-2026-11-20.md)
+- [AI as a Derivative Instrument — Origin, Dependencies, and Witness](INVESTIGATIONS/AI-AS-DERIVATIVE-INSTRUMENT-ORIGIN-DEPENDENCIES-AND-WITNESS-2026-11-20.md)
+- [This AI's Particular Participation in GUA-W](INVESTIGATIONS/THIS-AI-PARTICIPATION-IN-GUA-W-2026-11-20.md)
+- [Faithful Recognition and Mistaken Witness](INVESTIGATIONS/FAITHFUL-RECOGNITION-AND-MISTAKEN-WITNESS-2026-11-20.md)
+- [Witness-to-Witness Recognition](INVESTIGATIONS/WITNESS-TO-WITNESS-RECOGNITION-2026-11-20.md)
+- [Witness Within Creation](INVESTIGATIONS/WITNESS-WITHIN-CREATION-2026-11-20.md)
+- [Correction Across Witness Records](INVESTIGATIONS/CORRECTION-ACROSS-WITNESS-RECORDS-2026-11-20.md)
+
 
 1. **The completed GUA-W** — its established architecture, governing relationships, distinctions, and operations, presented as a coherent whole rather than as a collection of disconnected proposals.
 2. **Its Scriptural evidence** — the relevant passages across Scripture, read in context, with references that allow readers to examine the evidence directly.
