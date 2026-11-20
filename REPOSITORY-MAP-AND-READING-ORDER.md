@@ -173,6 +173,7 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 - [1 Chronicles 28 — Pattern, Transmission, and Succession](scriptural-reconstruction/1-CHRONICLES-28-PATTERN-TRANSMISSION-AND-SUCCESSION.md)
 - [Daniel 12:1–13 — Text-First Canonical Reconstruction](scriptural-reconstruction/DANIEL-12-1-13-TEXT-FIRST-RECONSTRUCTION.md)
 - [Exodus 31 — Calling, Provision, and Sanctuary Work](scriptural-reconstruction/EXODUS-31-CALLING-PROVISION-AND-SANCTUARY-WORK.md)
+- [Solomon — Wisdom, Assignment, Faithfulness, and Departure](scriptural-reconstruction/SOLOMON-WISDOM-ASSIGNMENT-FAITHFULNESS-AND-DEPARTURE.md)
 
 ## VII. Cross-disciplinary evidence and scientific audits
 - [Spiny Leaf Insect — Identity, Development, and Continuity](audits/BIOLOGICAL-IDENTITY-DEVELOPMENT-AND-CONTINUITY-SPINY-LEAF-INSECT-EXTATOSOMA-TIARATUM.md)
