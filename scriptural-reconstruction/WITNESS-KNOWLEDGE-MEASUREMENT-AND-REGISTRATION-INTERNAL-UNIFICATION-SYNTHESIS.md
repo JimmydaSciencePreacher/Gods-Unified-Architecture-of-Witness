@@ -283,3 +283,80 @@ The Author establishes. Creation exists. A witness receives evidence, observes, 
 **Witness is not Author. Measurement is not authorship. Registration is not interpretation. A record is not its Source.**
 
 **One Author. One originating Word. One Creation. Many witnesses.**
+
+
+## 17. Internal unification pass — Expression, access, measurement, registration, and interpretation (2026-11-19)
+
+This pass connects the current completed architecture's Expression definition with the existing distinctions in this synthesis. It does not add a runtime stage or redefine Witness-state.
+
+### 17.1 The relationship to Expression
+
+Chapter 9 of the completed architecture defines **Expression** as the realized manifestation or outward result within the runtime description. It explicitly distinguishes Expression from an act of creation by the witness: the witness may register and describe an expression but does not become its Original Cause.
+
+The present synthesis adds precision to the evidentiary side of that distinction:
+
+- **Expression** concerns the manifested result.
+- **Access** concerns how evidence of that result becomes available to a witness.
+- **Observation** concerns attending to and noting an occurrence or feature.
+- **Measurement** concerns a defined process relating an indication to a specified quantity and reference.
+- **Registration** concerns recording an indication, observation, testimony, or result.
+- **Interpretation** concerns reasoning about what the evidence means.
+- **Testimony** concerns a witness's report.
+
+These are related distinctions, not a new mandatory sequence. Not every expression is measured; not every witness directly observes the event; not every record is a measurement record; and not every interpretation becomes testimony.
+
+### 17.2 A useful distinction: manifestation versus availability
+
+An event or expression may occur without being available to every possible witness. Access depends on position, timing, sensory capacity, testimony, instrument design, data preservation, and other conditions relevant to the case.
+
+Therefore:
+- lack of access by a particular witness does not establish that the event did not occur;
+- access to some evidence does not guarantee complete knowledge of the event;
+- a measurement may register a specified quantity without capturing every feature of the measured system;
+- a record may preserve a result while omitting relevant context or uncertainty.
+
+This is an evidentiary distinction, not a claim that every unobserved event is scientifically established. A particular existence claim still requires evidence appropriate to its domain.
+
+### 17.3 The John 9 case tests the distinctions
+
+John 9 remains a particularly clear Scriptural case because the same event is encountered through different forms of access. The healed man directly experiences the restoration; neighbours dispute identity; parents testify to prior condition but not to the healing itself; authorities examine and interpret; Jesus later reveals His identity to the man.
+
+The event is not identical with any one report. The different reports do not create different healings. Their evidentiary scope differs according to what each witness encountered or knew.
+
+The text also prevents a simplistic “more observation always means more understanding” rule: the authorities examine the case but remain opposed to its significance, while the healed man's recognition develops through the narrative and Jesus' self-revelation.
+
+### 17.4 Scientific measurement adds a bounded example
+
+Metrology demonstrates why a measurement result must be tied to a defined measurand, procedure, reference, calibration, and uncertainty. The instrument's indication is not automatically the final interpreted result. A documented traceability chain supports a measurement result's relation to a stated reference; it does not make the instrument an author of the phenomenon.
+
+This example must remain bounded to measurement science. Historical testimony, Scriptural witness, biological observation, and AI text analysis have different methods and standards. They must not be collapsed into one universal measurement model.
+
+### 17.5 AI and the repository as derivative records
+
+The repository itself contains quotations, extracted evidence, scientific sources, summaries, interpretations, and conclusions. These are not all the same kind of record. A later investigator should be able to trace each conclusion to the underlying source and identify whether a statement is:
+- direct source wording;
+- extracted or transcribed data;
+- a summary;
+- an inference;
+- a cross-domain comparison;
+- an unresolved question.
+
+AI-generated prose is derivative investigative output. It must not claim direct observation when it processed a report or record; repetition across AI summaries is not independent corroboration; and a fluent explanation does not establish that its interpretation is correct.
+
+A repository edit is likewise a record of an investigative decision, not a change to the reality being investigated or to the completed architecture.
+
+### 17.6 Unification finding
+
+The existing GUA-W distinction can now be stated more precisely:
+
+**Expression is what is manifested; Witness concerns the derivative reception and registration of evidence of what is manifested. Measurement, registration, interpretation, and testimony are distinct ways in which a witness may engage with evidence, each with its own conditions and limits.**
+
+This clarifies the relationship between Expression and Witness without making the witness the source of Expression, adding an architectural layer, or asserting that all witnessing is measurement.
+
+### 17.7 Triple Constraint disposition
+
+- **Biblical compliance:** PASS, bounded to the Creator/creature distinction and the narrative distinctions in John 9 and the other cited Scriptural witnesses.
+- **Scientific coherence:** PASS, bounded to metrological definitions and the distinction between a phenomenon, an indication, a measurement result, and its interpretation.
+- **GUA-W consistency:** PASS. The completed architecture remains unchanged; Expression, Witness-state, and the established witness/registration distinctions are not redefined.
+
+**Disposition:** The connection between Expression and Witness is now clarified at the level of evidentiary roles. The next open question is not whether Witness needs another stage, but how the existing State terms—especially Witness-state, Alignment, and Drift—describe the condition of a registration or realized configuration without confusing the state of the witness with the state of the thing witnessed.
