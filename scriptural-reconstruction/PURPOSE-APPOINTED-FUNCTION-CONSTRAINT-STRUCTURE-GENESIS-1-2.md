@@ -1080,3 +1080,22 @@ Purpose remains the first Authorial question in this investigation, not a create
 - **GUA-W consistency:** PASS, provided the relational formulation is not converted into a temporal Will → Word sequence or a new architecture layer.
 
 **Disposition:** The canonical relationship is substantially clarified: God's Will/Purpose belongs to the Author Himself; the Word is eternally identified in relation to God and Creation; and the saving purpose is explicitly centered in Christ. The next step is to compare this result with the existing Chapter 15 treatment of God's Purpose and the Saving Work of Christ, then test whether any remaining question about Constraint → Structure is actually a separate created-order question rather than part of the Authorial-origin question.
+
+
+### 20.9 Chapter 15 cross-check — an existing Will/Word relation in the new-birth witness
+
+The comparison with [Chapter 15 — God's Purpose and the Saving Work of Christ](../book/15-GODS-PURPOSE-AND-THE-SAVING-WORK-OF-CHRIST.md) reveals an important connection already present in the repository and therefore not to be presented as a new discovery of this pass.
+
+Chapter 15's treatment of James 1:18 states:
+
+> Of his own will begat he us with the word of truth. (KJV)
+
+It correctly observes that God is the subject, His own Will is named, and the Word of Truth is identified in relation to the begetting. Chapter 15 then compares 1 Peter 1:3 and 1:23: new birth is attributed to God's abundant mercy through the resurrection of Jesus Christ, and believers are born again by the incorruptible seed of the Word of God. John 1:12–13 is also treated together: receiving and believing are real, while birth is expressly not of human will but of God.
+
+**What this adds to the present canonical comparison:** The repository already contains an explicit Scriptural relation between God's Will and the Word in the context of spiritual begetting. This strengthens the need to investigate Will and Word together, rather than placing them in a speculative temporal sequence.
+
+**What must remain distinct:** James 1:18 concerns God's begetting of believers through the Word of Truth. First Peter 1:3, 23 concerns new birth, resurrection, and the living Word. These are not the same subject as the original creation of the heaven and earth in Genesis 1:1. They provide canonical testimony about God's saving action and the relation of His Will and Word; they must not be substituted for the Creation texts or treated as a technical mechanism of physical creation.
+
+The Chapter 15 cross-check therefore confirms and deepens the canonical investigation, while also showing that some of the relevant unification was already recorded elsewhere in the repository. The proper action is cross-reference and synthesis, not duplicate authorship or a claim that the relationship has just been invented.
+
+**Refined disposition:** The canonical witness connects God's Will/Purpose and Word in both the saving purpose before the foundation of the world and the begetting/new-birth testimony. The exact theological relation of divine Will and the eternal Word remains expressed relationally, not as a temporal sequence. The original Creation and the new-birth witness remain distinct acts and contexts.
