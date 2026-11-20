@@ -489,3 +489,19 @@ The promise/reward comparison belongs alongside these findings. It must not repl
 The comparison requested above has now been recorded in Section 13 of [Purpose, Appointed Function, Constraint, and Structure — Initial Internal Investigation](scriptural-reconstruction/PURPOSE-APPOINTED-FUNCTION-CONSTRAINT-STRUCTURE-GENESIS-1-2.md). It connects the existing Genesis 4:6–7 and 4:8 text-first reconstructions with the Genesis 2–3, James 1, and Philippians 2 findings. The bounded recognition is that divine warning, creaturely desire or opposition, responsibility, and subsequent action are distinguishable; none makes the creature the Author. The disputed referent and grammatical force in Genesis 4:7 remain unresolved, and U-006 remains open. No architecture component or definition was changed.
 
 **Next source sequence:** Examine Genesis 4:9–16 against the already-recorded confrontation, Cain's answer, judgment, and protection. Then reassess the exact contribution to U-006 without forcing a complete definition or chronology of human willing.
+
+### Follow-up status — Genesis 4:9–16 examined (2026-11-19)
+
+The text-first reconstruction is now recorded in [Genesis 4:9–16 — Text-First Reconstruction, Unit 11](scriptural-reconstruction/GENESIS-4-9-16-TEXT-FIRST-RECONSTRUCTION.md).
+
+**Internal connections recognized:**
+
+1. **Keeping / guarding:** Genesis 2:15, 3:24, and 4:9 use the Hebrew root שָׁמַר (*shamar*). The lexical connection is real, while the objects and narrative functions differ. Genesis 2:15 does not explicitly appoint Adam to guard Abel.
+2. **Divine confrontation:** Genesis 3:9 and 4:9 begin with God's question after human disobedience; Genesis 3:11 and 4:10 continue with questions concerning what has been done.
+3. **Witness / registration:** Abel's blood is personified as crying to God from the ground. This is a textual image of the act being known and answered; it is not a physical measurement mechanism.
+4. **Judgment and protection:** Cain's relation to the ground and his dwelling are judged, while God also appoints a sign that prevents another person from killing him. These are distinguishable outcomes, not cancellation of one another.
+5. **Identity and persistence:** Cain remains identified as Cain while his work, location, and condition change. This is a bounded case for comparison with existing identity/persistence work, not a new universal theory.
+
+**Triple Constraint disposition:** The text-first observations pass within their stated scope; interpretive questions about Genesis 4:11, 4:13, and 4:15 remain open. No scientific mechanism is claimed. No architecture component, layer, Gear, runtime stage, State term, or universal law is added.
+
+**Next source sequence:** Examine Genesis 4:17–26, preserving the distinction between Cain's line and the account of Seth. Investigate the named activities, city-building, livestock, music, metalworking, violence, and the contrast between Lamech's declaration and the beginning of calling upon the name of the LORD. Ask whether this passage reveals further internal differentiation and shared origin without imposing a modern science taxonomy upon the text.
