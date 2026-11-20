@@ -82,6 +82,33 @@ The immediate textual finding is clear: the man is placed in a Garden planted by
 
 **Boundary:** The precise formula “Purpose bridges Constraint to Structure” is an architectural interpretation, not the translation of Genesis 2:15. It should be presented as a relationship inferred from the broader whole, with the verse's explicit statement kept distinct from the technical formulation.
 
+## 5A. Authorial Purpose and appointed creaturely function — one purpose, distinct references
+
+Jimmy's clarification directs the investigation to Purpose as God's own Will, at the Authorial beginning: the question raised by “In the beginning God created.” This is not a proposal to insert a new component before Ontic Necessity or to make Will an independent cause alongside God.
+
+The existing completed architecture already identifies Theology as addressing the ultimate WHY of the One Creation: its Author, originating Word, purpose, and end (Chapter 9, “The Completed GUA-W Architecture,” section on Theology and the differentiated sciences). The canonical comparison must therefore begin with the Author's own purpose, not begin by treating Genesis 2:15's human assignment as the whole meaning of Purpose.
+
+Keep these Scriptural witnesses distinct and connected:
+
+- **Genesis 1:1:** God is the acting Creator. The verse does not itself use the words *will* or *purpose*.
+- **John 1:1–3:** the Word is in the beginning, is with God and is God; all things are made by Him.
+- **Ephesians 1:9–11:** God's good pleasure, purpose in Christ, and the counsel of His own will are explicitly named.
+- **Hebrews 1:1–3:** God made the worlds by the Son, who is the brightness of His glory and upholds all things by the word of His power.
+
+These passages warrant investigating God's Will/Purpose in relation to His Word and creative act. They do not warrant treating God, His Will, and His Word as three independent causes or asserting that Genesis 1:1 itself spells out a technical “Will → Word → Creation” formula. God remains the one Author and Original Cause; His Will is His own, not a force or authority outside Him.
+
+Now distinguish this Authorial reference from the appointed purposes and functions described within Creation:
+
+- Genesis 1:14–18 gives the lights appointed functions.
+- Genesis 1:26–28 records mankind's identity, blessing, and commission.
+- Genesis 2:15 explicitly states the man's appointed work in the Garden: to dress it and keep it.
+
+These are not competing meanings. The creature's appointed function is downstream of the Author's purpose; it does not originate or define that purpose. The Genesis 1–2 synthesis already recognizes both the Author's primacy and the purposes/functions assigned within the created order. The distinction now makes their relationship clearer.
+
+**Recognized internal relationship:** Authorial Purpose belongs to the ultimate WHY addressed by Theology; appointed creaturely function is one way that purpose is expressed within the created order. The existing Constraint → Structure → Framework → Pattern sequence remains the completed architecture. The investigation is to recognize how its relationships witness to the Author's purpose, not to insert Purpose as a new layer or force a technical placement unsupported by the sources.
+
+**Triple Constraint status:** Biblical texts cited above support the distinctions as stated; the architectural relationship is an internal synthesis of existing records, not a verbatim definition in Genesis. No independent scientific mechanism is being asserted. No architecture change is proposed.
+
 ## 6. Completion, cessation, blessing, and sanctification
 
 Genesis 2:1–3 must be read as a connected unit and with its distinct verbs preserved.
