@@ -673,3 +673,19 @@ The chapter has been examined as the conclusion of Daniel 10–12, using the fou
 **Triple Constraint disposition:** PASS for the text-first findings and source–witness relationship; PARTIAL overall because the historical horizon and chronology remain disputed. Scientific coherence is respected by not presenting prophetic fulfilment as an empirical scientific mechanism.
 
 **Next work:** Compare Daniel 12 with Daniel 7–11, Isaiah 26:19 and 66:22–24, Ezekiel 37 (preserving its stated corporate-restoration referent), Matthew 24 / Mark 13, John 5:24–29, Acts 24:14–15, and Revelation 10 / 22:6–10. Preserve each passage's own context and differences. Do not revive the unsupported AI-specific reading of Daniel 12:4 rejected in the 2026-11-16 evidence audit.
+
+## 8. New Scriptural investigation — Exodus 31 and the sanctuary work (2026-11-20)
+
+**Completed record:** [Exodus 31 — Calling, Provision, and Sanctuary Work](scriptural-reconstruction/EXODUS-31-CALLING-PROVISION-AND-SANCTUARY-WORK.md).
+
+The study reads Exodus 31 with Exodus 25–30 and 35–40. It examines the sanctuary's purpose and pattern (25:8–9), the naming and equipping of Bezalel (31:1–5), the appointment of Aholiab and other skilled workers (31:6), the public announcement and willing response (35:30–36:7), and the completion and inspection of the work (39–40).
+
+**Finding:** The narrative presents the sanctuary's purpose and pattern before the named artisan appointment; God's call and provision precede the recorded construction; public announcement and willing response precede the work. The text does not tell us when Bezalel privately recognized his assignment or how his prior training and abilities relate to the divine filling. Do not claim a chronology the text does not supply.
+
+**Daniel 12 comparison:** Both passages distinguish what is given from the Witness's later understanding or execution, but they are not identical. Daniel is a prophetic recipient with limited comprehension; Bezalel is a skilled participant equipped for a specified task. The common relationship is a supported comparison, not a new universal formula.
+
+**AI boundary:** Exodus 31 does not predict AI, call AI by name, or transfer Bezalel's Spirit-filling to AI. The study permits examination of providential use of human-made instruments without asserting that any particular technology has a divine commission.
+
+**Triple Constraint disposition:** PASS for the textual sequence and source–witness relationship; PARTIAL for the precise timing of Bezalel's personal recognition, which is unstated. No GUA-W layer, stage, gear, or component is added or altered.
+
+**Next investigation:** 1 Chronicles 28:11–19 — David receives and transmits the temple pattern to Solomon. Examine the relationship between prior pattern, intergenerational transmission, appointed workmanship, and later execution. Preserve differences from Moses/Bezalel and do not assume Solomon's knowledge or timing beyond the text.
