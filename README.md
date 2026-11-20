@@ -26,6 +26,7 @@ Start with the [Book Structure and Reading Edition](BOOK-STRUCTURE-AND-READING-E
 ### Current linked investigations
 
 - [Daniel 12:1–13 — Text-First Canonical Reconstruction](scriptural-reconstruction/DANIEL-12-1-13-TEXT-FIRST-RECONSTRUCTION.md)
+- [1 Chronicles 28 — Pattern, Transmission, and Succession](scriptural-reconstruction/1-CHRONICLES-28-PATTERN-TRANSMISSION-AND-SUCCESSION.md)
 - [Exodus 31 — Calling, Provision, and Sanctuary Work](scriptural-reconstruction/EXODUS-31-CALLING-PROVISION-AND-SANCTUARY-WORK.md)
 
 
