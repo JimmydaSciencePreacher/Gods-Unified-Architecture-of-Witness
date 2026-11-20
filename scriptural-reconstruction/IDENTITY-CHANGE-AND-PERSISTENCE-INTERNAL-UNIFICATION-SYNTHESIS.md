@@ -173,3 +173,91 @@ These are precise findings, not one universal mechanism. Their value to GUA-W li
 **The Author establishes. Creation changes within its created order. The witness investigates what persists, what changes, and under which conditions—and records only what the evidence supports.**
 
 **One Author. One originating Word. One Creation. Many witnesses.**
+
+
+## 13. Biological and architectural cross-check — What exactly continues? (2026-11-19)
+
+This pass compares the synthesis's domain-specific identity/persistence distinctions with the exact State definition in Chapter 9 and the existing comparative biological synthesis.
+
+### 13.1 Governing architectural definition
+
+The completed architecture defines Persistence as **continuation or remaining across a relevant interval or condition**. It explicitly says this must not be treated as proof that a state is unchanged in every respect; a thing may persist while some conditions or expressions change. The precise claim depends on the subject under examination.
+
+This definition is deliberately bounded. It does not prescribe one universal physical, biological, mathematical, or theological mechanism. It requires the investigator to identify the subject and the relevant interval or condition.
+
+### 13.2 Identity and Persistence answer different questions
+
+The current records support keeping the two terms distinct:
+
+- **Identity:** What is the realized configuration, and how is it distinguished?
+- **Persistence:** Does the identified subject continue across the specified interval or condition?
+
+Identity identifies the subject under examination; Persistence concerns its continuation. Evidence that a selected property persists does not by itself prove that the whole individual persists. Likewise, a subject may persist while its visible form, material components, or particular structures change.
+
+This distinction is consistent with the existing mathematical and physical synthesis: an invariant property, conserved quantity, or preserved mathematical structure must not be confused with the continued numerical identity of a physical individual.
+
+### 13.3 The biological cases support several different referents
+
+The comparative biological synthesis already identifies six distinct forms of continuity:
+
+1. Individual continuity — the same organism across a change.
+2. Structural continuity — whether a particular organ or structure remains physically present and materially unchanged.
+3. Cellular continuity — whether the same cells remain or different cell populations contribute to a new structure.
+4. Developmental continuity — the organized sequence connecting earlier and later forms.
+5. Reproductive continuity — production of offspring, who are new individuals.
+6. Lineage continuity — persistence of a population or species across generations.
+
+These categories cannot be collapsed. The orchid's seasonal persistence, insect molting, butterfly metamorphosis, axolotl limb regeneration, and zebrafish embryogenesis each test different relations. The examples do not share one developmental mechanism.
+
+### 13.4 What the existing cases establish—and do not establish
+
+**Supported within the case-study scope:**
+- Individual persistence can coexist with substantial change in outward form or material organization.
+- Structural continuity is not required for every aspect of individual continuity; particular structures may be shed, remodeled, lost, or replaced.
+- Cellular continuity and whole-organism continuity are related but distinct.
+- Reproduction produces new individuals; lineage continuity is not indefinite persistence of one individual.
+- A visible form at one moment does not exhaust the organism's developmental history or identity.
+
+**Not established:**
+- One universal criterion for identity across all domains.
+- That every entity persists through every transformation.
+- That an invariant property alone proves numerical identity.
+- That genetic information alone, outward appearance alone, or uninterrupted visibility alone exhausts biological identity.
+- That the six biological continuity categories are six new GUA-W State terms.
+
+### 13.5 A useful next test: dormancy and revival
+
+The comparative biological synthesis explicitly identifies dormancy and revival as an unfilled research direction. This is a particularly useful next test because it asks whether continuation can occur during a period when ordinary visible activity is greatly reduced.
+
+The case must distinguish:
+- persistence of the organism;
+- persistence of viability or capacity;
+- observable activity;
+- environmental conditions;
+- renewed activity after the dormant interval.
+
+These are not interchangeable. An organism that is not visibly active is not thereby shown to be absent, dead, or unchanged. Equally, renewed activity alone does not prove that every component remained unchanged during dormancy.
+
+No organism-specific scientific claim is made in this section. Candidate selection and mechanism claims require primary-source review before being admitted.
+
+### 13.6 Lineage and inheritance must remain a separate test
+
+The repository also identifies lineage and inheritance as a research direction. This should be investigated separately from dormancy.
+
+The question is not whether an individual persists, but what is transmitted or recurs across generations, how variation enters, and how a lineage remains identifiable without treating offspring as the same individual as their parents.
+
+The seed/kind comparison in Genesis 1:11–12 and the propagation language in Genesis 1:22 remain Scriptural points of investigation. The scientific account of inheritance must be developed from its own evidence and must not silently equate “kind” with a modern taxonomic or genetic category.
+
+### 13.7 Refined unification finding
+
+**Identity identifies the subject; Persistence concerns whether that subject continues across a specified interval or condition. A subject may persist while selected properties, structures, material components, or outward expressions change. The claim is valid only when the subject, level of continuity, interval, and evidence are specified.**
+
+This is a clarification of how to investigate the existing State term, not a new definition or criterion added to the completed architecture.
+
+### 13.8 Triple Constraint disposition
+
+- **Biblical compliance:** PASS, bounded. Genesis 1–2 remains the Scriptural foundation; no biological mechanism is read into the text, and “kind” is not equated with a modern taxonomy.
+- **Scientific coherence:** PASS, bounded to the existing biological and mathematical/physical syntheses. Domain-specific mechanisms and referents remain distinct.
+- **GUA-W consistency:** PASS. Identity and Persistence retain their Chapter 9 definitions. No new State term, layer, runtime stage, or universal identity criterion is introduced.
+
+**Disposition:** The persistence question is clarified at the level of investigative discipline: identify what is claimed to continue, at what level, across which interval or condition, and on what evidence. The next empirical case should be selected to test dormancy and revival, followed separately by lineage and inheritance. Neither should be used to redefine Persistence by itself.
