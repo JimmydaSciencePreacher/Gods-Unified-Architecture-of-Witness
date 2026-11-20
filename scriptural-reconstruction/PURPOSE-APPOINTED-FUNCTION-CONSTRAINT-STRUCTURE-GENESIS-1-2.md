@@ -928,3 +928,65 @@ This is a clarification of the relationship between two existing definitions, no
 - **GUA-W consistency:** PASS. The current definitions and placements of Pattern and Propagation are preserved; no architecture change is proposed.
 
 **Disposition:** The earlier open question is substantially narrowed. Pattern and Propagation are already distinguished in the completed architecture; the seed and biological cases provide bounded examples for testing their relationship. The next investigation should test whether the same distinction clarifies Integration and Expression, without collapsing the runtime sequence or treating a visible result as the whole process.
+
+
+## 19. Eighth-pass runtime comparison — Integration and Expression (2026-11-19)
+
+This pass follows the completed architecture's explicit instruction that runtime terms must be read together, in order, and not carelessly collapsed.
+
+### 19.1 Governing definitions recovered
+
+The current Chapter 9 defines:
+
+- **Integration:** the relation of differentiated elements within an established whole. Distinct elements may be related without losing every distinction between them.
+- **Expression:** the realized manifestation or outward result within the runtime description. It is not an act of creation by the witness; the witness may register and describe an expression but does not become its Original Cause.
+
+The runtime sequence remains:
+
+**Reception → Activation → Differentiation → Propagation → Integration → Expression**
+
+These are explanatory runtime terms. They are not six technical words explicitly listed by Scripture, nor six additional foundational layers.
+
+### 19.2 Scriptural anchor and boundary for Integration
+
+Chapter 9 identifies Genesis 2:24 as a specific Scriptural account of joining: leaving, cleaving, and becoming one flesh. It supports the claim that distinct persons enter a joined relationship. The passage must not be generalized into a universal mathematical law or a claim that every integration process operates identically.
+
+This gives a useful contrast:
+- Differentiation preserves distinctions of functions, operations, or outcomes.
+- Integration relates differentiated elements within an established whole.
+- Integration is not erasure of all distinction or mere aggregation.
+
+The exact nature of integration must be specified in each case; the marital text is a specific Scriptural witness, not a complete mechanism for every domain.
+
+### 19.3 Expression and the Witness distinction
+
+Expression concerns realized manifestation or outward result within the runtime account. It must be distinguished from:
+- Original creation by God;
+- the process or conditions that precede the result;
+- the witness's later registration or interpretation of the result.
+
+The Witness can register an expression without originating it. This preserves the governing Author → Word → Creation → Witness hierarchy and avoids treating observation or description as causal authorship.
+
+### 19.4 Why the order matters
+
+The existing runtime sequence places Propagation before Integration and Integration before Expression. This order is part of the completed architecture and should not be rearranged to fit a convenient example.
+
+A given event or system may not provide equally clear evidence for every runtime term. Do not force all six terms into every Scriptural passage or biological case. A correspondence is admissible only where the evidence supports it, and a missing or ambiguous operation must remain unresolved rather than being supplied by analogy.
+
+### 19.5 Refined unification finding
+
+Pattern and Propagation are distinct: recognizable recurrence is not the same as carrying forward or transmission. The next runtime terms sharpen the distinction further:
+
+- Propagation concerns what is carried forward or transmitted.
+- Integration concerns how differentiated elements are related within an established whole.
+- Expression concerns the realized manifestation or outward result.
+
+These descriptions are related but not interchangeable. A transmitted element is not automatically integrated; an integrated arrangement is not identical to its outward expression; an expression does not reveal every preceding operation or prove a particular mechanism.
+
+### 19.6 Triple Constraint disposition
+
+- **Biblical compliance:** PASS, bounded to the explicit marital joining in Genesis 2:24 and the broader Creator/Witness distinction. No universal mechanism is inferred from one passage.
+- **Scientific coherence:** PASS as conceptual distinctions only. No physical, biological, or mathematical mechanism is asserted without domain-specific evidence.
+- **GUA-W consistency:** PASS. The completed runtime sequence and definitions remain unchanged; no new layer, term, stage, or universal law is introduced.
+
+**Disposition:** The internal relationship among Pattern, Propagation, Integration, and Expression is clearer. The next investigation should test these distinctions against the existing Witness, Knowledge, Measurement, and Registration synthesis: in particular, how an expression becomes available to a witness, what is actually registered, and where interpretation begins. The distinction between an expression and its registration must remain explicit.
