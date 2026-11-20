@@ -567,3 +567,77 @@ This comparison connects existing findings concerning:
 ### 13.6 Next question
 
 Examine whether the Genesis 4:6–8 warning and subsequent action are further clarified by Genesis 4:9–16, especially God's confrontation, Cain's answer, judgment, and protection. Preserve the distinction between the text's account of responsibility and any proposed explanation of Cain's internal will. U-006 remains open; this comparison does not supply an exhaustive definition or chronology of human willing.
+
+
+## 14. Third-pass source recovery — current definitions and the remaining relationship (2026-11-19)
+
+This pass compared the historical Identity, Change, and Persistence investigation in the original repository with the current Jimmy-authored Chapter 9 and the Genesis 1–2 evidence.
+
+### 14.1 Current governing definitions recovered
+
+The current Chapter 9, [The Completed GUA-W Architecture](../book/09-THE-COMPLETED-GUA-W-ARCHITECTURE.md), explicitly states:
+
+- **Constraint:** an established boundary or condition.
+- **Admissibility:** whether something is admitted under the governing reference. It is related to Constraint but is not the same term.
+- **Structure:** the first derived realization and the hinge between foundational distinctions and derived arrangement.
+- **Framework:** an established arrangement within which relationships and functions can be understood.
+- **Pattern:** recognizable order or recurrence within that arrangement.
+
+These current definitions and placements govern this investigation. The earlier concern that Framework's current status or definition was unknown is superseded. Framework is explicitly present between Structure and Pattern in the current completed sequence.
+
+### 14.2 Historical comparison: what the original record contributes
+
+The original repository's *Identity, Change, and Persistence* investigation records the pathway:
+
+**Constraint ↔ Structure ↔ Pattern ↔ Runtime ↔ State ↔ Witness**
+
+It traces a research movement from Constraint and Structure through geometry, topology, invariants, persistence, identity, and Scriptural differentiation/propagation. It is a historical investigative pathway, not the current governing sequence and not an approved replacement definition.
+
+The historical record is useful because it preserves the questions that generated the cross-disciplinary investigation. Its mathematical and physical examples remain domain-bounded: topological invariance does not establish the complete identity of a physical or biological thing, and conservation does not mean every property remains unchanged.
+
+The original repository's *SYSTEM_MANIFEST.md* supplies a twelve-step diagnostic trace and the Triple Constraint Law, but that trace is a diagnostic procedure, not the current architecture. The original AI-generated architecture diagram is explanatory commentary, not an authoritative source for Jimmy's definitions.
+
+The reviewed historical sources do not supply an approved operational mechanism that fully explains how Constraint relates to Structure. The current Chapter 9 supplies their governing descriptions and placement; the exact relation still requires evidence-led explanation.
+
+### 14.3 The Genesis evidence now reads more precisely against the current definitions
+
+- **Genesis 1:14–18:** the lights' appointed functions are stated in God's command; the account then reports making, setting, ruling, and division. This is evidence that appointed function is present in the Author's command and is not merely a later witness's interpretation.
+- **Genesis 1:26–28:** mankind receives identity, blessing, and commission from God. Creaturely appointment remains derivative.
+- **Genesis 2:8–15:** God prepares the Garden, places the man, and states the purpose of his placement and work.
+- **Genesis 2:16–17:** broad permission and a specific prohibition establish a Creator-given command boundary. This is one clear example of Constraint as boundary, but not a complete definition of every architectural constraint.
+
+The passages show distinct textual relationships. They must not be forced into one identical chronology or treated as if each verse defines one technical architectural term.
+
+### 14.4 Refined unification finding
+
+The investigation now distinguishes five matters:
+
+1. **Authorial Will/Purpose:** God's own willing and purpose, carried as the first Authorial question. It is not an independent cause, force above God, or created architectural layer.
+2. **Appointed function:** a role or activity stated by the Author within Creation.
+3. **Constraint:** an established boundary or condition within the completed architecture.
+4. **Structure:** the first derived realization, occupying the established hinge position.
+5. **Framework and Pattern:** the established arrangement and the recognizable order or recurrence within it.
+
+These distinctions are supported by the current repository definitions and the cited Genesis passages. They clarify the terms that must not be collapsed; they do not yet provide a complete causal or operational account of the transition from Constraint to Structure.
+
+### 14.5 What is established and what remains open
+
+**Established within the scope examined:**
+- The current definitions and placement of Constraint, Structure, Framework, and Pattern are explicitly stated in Jimmy-authored Chapter 9.
+- Admissibility, architectural Constraint, and the Triple Constraint Law are distinct.
+- Genesis records Author-stated functions, appointed creaturely activity, prepared place, permission, and command boundary.
+- God's Will/Purpose must remain an Authorial question and must not be made a separate cause or a new created layer.
+
+**Still open:**
+- What exact relationship is intended by the ordered placement Constraint → Structure beyond the current definitions of each term?
+- How do the Genesis accounts illuminate that relationship without being forced into a universal formula?
+- What additional approved source record or evidence would clarify the intended operational meaning of “first derived realization”?
+- How should the historical research route through invariants, persistence, identity, runtime, and witness be connected to the current sequence while preserving each domain's definitions?
+
+### 14.6 Triple Constraint disposition
+
+- **Biblical compliance:** PASS for the bounded textual observations and Author/Witness distinctions stated above. No verse is assigned a technical definition it does not state.
+- **Scientific coherence:** PASS, bounded. The historical mathematical and physical examples are retained only within their established domain assumptions; no shared universal mechanism is asserted.
+- **GUA-W consistency:** PASS, bounded. The current architecture and its definitions remain unchanged. No new layer, stage, term, or universal law is proposed.
+
+**Disposition:** Current definitions recovered and historical provenance distinguished. The precise explanatory relationship Constraint → Structure remains an open research question, not evidence of an incomplete architecture. The next pass should investigate that relationship from the approved definitions and the Genesis evidence, then compare carefully selected scientific cases only where they clarify a genuinely shared question.
