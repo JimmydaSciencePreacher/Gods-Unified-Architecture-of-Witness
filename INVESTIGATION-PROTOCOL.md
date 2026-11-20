@@ -108,6 +108,3 @@ The completed architecture and the diagnostic procedures used to investigate par
 
 A newly noticed relationship is investigated in its source context and recognized in relation to the completed whole. GUA-W is not assembled from the resulting notes. A file's presence, a prior AI explanation, or a provisional label does not by itself establish the meaning of GUA-W; the investigation must support the recognition, and AI must record it rather than reserve it for a later synthesis.
 
-## Repository distinction
-
-This repository is the current presentation and investigation record. The original GUA-W repository is retained as an independent historical source. Its historical wording and records are not silently rewritten by this repository. AI has write ability inside of this Revised GUA-W only, the original GUA-W repository is retained as an independent historical source.
