@@ -535,3 +535,19 @@ This also narrows the Constraint inquiry: “Let there be light” is an authori
 See [Genesis 1:1–5 — Text-First Reconstruction, Unit 1](scriptural-reconstruction/GENESIS-1-1-5-TEXT-FIRST-RECONSTRUCTION.md), Section 6.
 
 **Next focused question:** Compare the distinct command/result movements in Genesis 1:6–13 and 1:14–25. Examine where God speaks, what is made or brought forth, what the text says was so, when function is stated, and when division, naming, evaluation, and blessing occur. Preserve differences between the days and between God's creative agency and the stated participation of the waters or earth. Do not force a single command/result formula or a one-to-one stage mapping.
+
+
+### Genesis 1:6–25 cross-unit synthesis completed (2026-11-20)
+
+The comparison across the Genesis 1:6–13 and 1:14–25 text-first reconstructions now records four distinct relations:
+
+1. **Authorial source:** God originates and authorizes the command.
+2. **Appointed function:** Genesis 1:14–15 states functions for the lights within the command, before making and placement are narrated.
+3. **Created participation:** Genesis 1:11–12, 1:20–21, and 1:24–25 preserve both God's creative agency and the earth/waters bringing forth.
+4. **Propagation:** Genesis 1:21–22 distinguishes the creatures' creation/bringing forth from the subsequent blessing and command to multiply.
+
+This is a cross-unit textual synthesis, not a new GUA-W sequence or a complete metaphysical/physical theory of secondary causation. It prevents command from being collapsed into Constraint, function into Structure, created participation into independent authorship, and multiplication into initial creation.
+
+See [Genesis 1:14–25 — Text-First Reconstruction, Unit 3](scriptural-reconstruction/GENESIS-1-14-25-TEXT-FIRST-RECONSTRUCTION.md), Section 7.
+
+**Next investigation:** Genesis 1:26–31. Compare humanity's image, likeness, blessing, dominion, provision, and multiplication with the preceding animal accounts. Determine what is continuous, what is distinct, and what the text explicitly attributes to humanity versus God. Preserve the difference between dominion and authorship; do not treat the image of God as permission to become the Source.
