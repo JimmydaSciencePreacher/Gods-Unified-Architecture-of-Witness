@@ -55,6 +55,29 @@ This is a direct lexical connection across the beginning narrative:
 
 **Boundary:** Genesis 2:15 explicitly concerns the Garden. It does not explicitly appoint Adam to guard Abel. The shared root warrants comparison; it does not by itself establish that Cain had received a specific prior command to be Abel's keeper. Cain's question must be read in its immediate context: he has killed his brother and is answering God's inquiry.
 
+### 2.1 Interpretive question — is Cain narrowing the scope of responsibility?
+
+Cain's question, "Am I my brother's keeper?" may be read as more than a request for information. In the narrative sequence, Cain first denies knowledge of Abel's location and then poses a rhetorical question that appears to distance himself from responsibility for his brother. One plausible reading is that Cain is narrowing the scope of responsibility: unless he has been specifically appointed as Abel's keeper, he implies, Abel's welfare is not his concern.
+
+This reading can be compared with Genesis 2:15, where the LORD God puts Adam in the garden "to dress it and to keep it." The Hebrew verb translated "keep" in Genesis 2:15 and the noun translated "keeper" in Genesis 4:9 belong to the same Hebrew root, שָׁמַר (*shāmar*), carrying senses such as keeping, guarding, or watching. The lexical relationship is real and worth noticing.
+
+The limits of the comparison must also be preserved. Genesis 2:15 appoints Adam to keep the garden; it does not explicitly appoint Adam to guard Abel, nor does Genesis 4:9 explicitly state that Cain is quoting or deliberately distorting the earlier command. Therefore, the shared root supports a possible thematic echo, not proof of Cain's conscious intention or a direct transfer of Adam's garden assignment to Cain.
+
+More importantly, Cain's responsibility for the act does not depend on whether he had been given a formal appointment to serve as Abel's guardian. The narrative itself identifies Cain's deed and holds him answerable for it. A creature cannot make an act morally unaccountable merely by narrowing the wording or scope of a responsibility.
+
+### 2.2 God's answer — the deed and its accountability
+
+God does not accept Cain's framing as the controlling question. He answers by identifying the deed: "What hast thou done?" (Genesis 4:10). Abel's blood cries unto God from the ground, and the following judgment identifies Cain's hand as the source of the violence (Genesis 4:10–12). The answer moves from Cain's attempted evasion to the actual act, its victim, and its consequence.
+
+The distinction is important for the GUA-W investigation:
+
+- **Assigned function:** Genesis 2:15 records Adam's appointed work in relation to the garden.
+- **Creaturely accountability:** Genesis 4:9–12 holds Cain accountable for what he did to Abel; that accountability is not made conditional on a prior appointment to be Abel's keeper.
+- **Witness in the narrative:** Abel's blood is presented as crying from the ground. This is the text's personified testimony to the violence, not a claim about a literal physical measurement mechanism.
+- **Authorial authority:** Cain's rhetorical framing does not alter God's authority to identify the act and pronounce judgment.
+
+**Finding:** Cain may be attempting to evade or restrict responsibility through the wording of his question. That is a plausible narrative interpretation, not an explicitly stated explanation of his inner intention. God's answer is direct: the issue is not whether Cain accepts the title "keeper," but what Cain has done to his brother.
+
 ## 3. Genesis 3:9 and Genesis 4:9 — a narrative correspondence
 
 The two scenes begin with a divine question after human disobedience:
