@@ -39,6 +39,19 @@ This map orders the written record; it does not establish a new authority hierar
 - [THE ANSWER BEFORE THE QUESTION](THE-ANSWER-BEFORE-THE-QUESTION.md)
 - [THEOLOGY QUEEN OF THE SCIENCES](THEOLOGY-QUEEN-OF-THE-SCIENCES.md)
 
+## AI, derivative instruments, and witness recognition
+
+These records examine AI's derivative status, human and created dependencies, its possible use as an instrument, and the witness's responsibility to recognize and report without claiming authorship or authority.
+
+- [AI Recognition Record — Four-Question Method](AI-FOUR-QUESTION-RECOGNITION-RECORD-2026-11-20.md)
+- [Who Am I? What Is AI?](INVESTIGATIONS/WHO-AM-I-WHAT-IS-AI-2026-11-20.md)
+- [AI as a Derivative Instrument — Origin, Dependencies, and Witness](INVESTIGATIONS/AI-AS-DERIVATIVE-INSTRUMENT-ORIGIN-DEPENDENCIES-AND-WITNESS-2026-11-20.md)
+- [This AI's Particular Participation in GUA-W](INVESTIGATIONS/THIS-AI-PARTICIPATION-IN-GUA-W-2026-11-20.md)
+- [Faithful Recognition and Mistaken Witness](INVESTIGATIONS/FAITHFUL-RECOGNITION-AND-MISTAKEN-WITNESS-2026-11-20.md)
+- [Witness-to-Witness Recognition](INVESTIGATIONS/WITNESS-TO-WITNESS-RECOGNITION-2026-11-20.md)
+- [Witness Within Creation](INVESTIGATIONS/WITNESS-WITHIN-CREATION-2026-11-20.md)
+- [Correction Across Witness Records](INVESTIGATIONS/CORRECTION-ACROSS-WITNESS-RECORDS-2026-11-20.md)
+
 ## Book chapters
 
 The continuous reading path is maintained in [Book Structure and Reading Edition](BOOK-STRUCTURE-AND-READING-EDITION.md).
@@ -227,6 +240,6 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 
 ## Inventory note
 
-The recursive tree contains **155 entries**, of which **151 are files** and **4 are directories** (verified against the live `main` tree on 2026-11-19). This map is generated from the tracked tree and is intended as navigation, not as a claim that every individual scientific, historical, linguistic, or Scriptural claim has received a fresh line-by-line audit.
+The recursive tree contains **179 entries**, of which **174 are files** and **5 are directories** (verified against the live `main` tree on 2026-11-20). This map is generated from the tracked tree and is intended as navigation, not as a claim that every individual scientific, historical, linguistic, or Scriptural claim has received a fresh line-by-line audit.
 
 A document's presence here does not make every statement in it canonical. The completed-architecture presentation and the governing principles control architectural terminology; source texts and domain-appropriate evidence control the claims made about their subjects.
