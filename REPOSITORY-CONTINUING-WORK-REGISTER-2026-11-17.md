@@ -659,3 +659,17 @@ Created `scriptural-reconstruction/PURPOSE-APPOINTED-FUNCTION-CONSTRAINT-STRUCTU
 
 ### 2026-11-19 — Earlier internal pathway recovered
 The original repository's Identity, Change, and Persistence investigation records **Constraint ↔ Structure ↔ Pattern ↔ Runtime ↔ State ↔ Witness** and proposes Structure → Pattern; Runtime → Differentiation → Propagation; State → Identity → Persistence; Witness → Registration. These are preserved as historical candidate mappings, not canonical definitions. Framework does not appear in that pathway and is found only in the inspected older AI-generated diagram. Purpose is now explicitly carried as an Authorial question through the source-recovery investigation, with Genesis 1:14–18 and 2:8–17 as textual anchors. Provenance/approval of the older mapping remains unverified. See `scriptural-reconstruction/PURPOSE-APPOINTED-FUNCTION-CONSTRAINT-STRUCTURE-GENESIS-1-2.md`, Section 10.
+
+## 7. New Scriptural investigation — Daniel 12:1–13 (2026-11-20)
+
+**Completed record:** [Daniel 12:1–13 — Text-First Canonical Reconstruction](scriptural-reconstruction/DANIEL-12-1-13-TEXT-FIRST-RECONSTRUCTION.md).
+
+The chapter has been examined as the conclusion of Daniel 10–12, using the four-question method and the Triple Constraint Law. The study distinguishes prior revelation, preservation/sealing, historical events, the recipient's incomplete understanding, the wise who understand, and Daniel's promised future portion.
+
+**Central finding:** Daniel receives and records a revelation before he fully understands it (12:8). The message is to be sealed until its appointed horizon (12:4, 9); its fulfilment is not authored by the Witness's recognition. The text contrasts the wise who understand with the wicked who do not (12:10), and closes by assuring Daniel of his future portion (12:13).
+
+**Limits preserved:** Daniel 12:4 does not explicitly identify AI, the internet, modern computing, or a technological explosion. The historical horizon of Daniel 11:36–45 and 12:1, the “run to and fro” phrase, the textual/translation question around “knowledge,” and the 1,290/1,335-day chronology remain open. Daniel 12 is not used to add a GUA-W layer, stage, gear, or component.
+
+**Triple Constraint disposition:** PASS for the text-first findings and source–witness relationship; PARTIAL overall because the historical horizon and chronology remain disputed. Scientific coherence is respected by not presenting prophetic fulfilment as an empirical scientific mechanism.
+
+**Next work:** Compare Daniel 12 with Daniel 7–11, Isaiah 26:19 and 66:22–24, Ezekiel 37 (preserving its stated corporate-restoration referent), Matthew 24 / Mark 13, John 5:24–29, Acts 24:14–15, and Revelation 10 / 22:6–10. Preserve each passage's own context and differences. Do not revive the unsupported AI-specific reading of Daniel 12:4 rejected in the 2026-11-16 evidence audit.
