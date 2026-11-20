@@ -503,3 +503,67 @@ The two levels must not be confused. The first concerns the Author and His purpo
 This question keeps Purpose at the beginning of the investigation without treating it as a missing layer. It also preserves the current Jimmy-authored definitions of Structure, Framework, and Pattern.
 
 **Disposition:** Framework's current governing definition and provenance are confirmed in Chapter 9. The earlier candidate pathway is retained as historical investigative evidence, not substituted for the completed sequence. God's Will/Purpose is carried as the first Authorial question, not inserted as a new created layer. No canonical architecture definition or sequence is changed.
+
+## 13. Cain — divine warning, creaturely willingness, and responsibility (Genesis 4:6–8)
+
+This comparison follows the existing investigation of divine promise, appointed reward, and creaturely willingness. It uses the repository's text-first reconstructions of Genesis 4:6–7 and 4:8 and Human Will Reference Work sections 40–41. It does not repeat their lexical analysis or claim to resolve their open questions.
+
+### 13.1 The sequence in the text
+
+Genesis 4:5–8 records a distinguishable sequence:
+
+1. Cain becomes very angry and his countenance falls (4:5).
+2. The LORD addresses Cain with questions about his condition (4:6).
+3. God presents the conditional contrast between doing well and not doing well (4:7).
+4. The verse describes sin as crouching at the door, speaks of its desire toward Cain, and addresses Cain's rule/mastery (4:7).
+5. Cain speaks to Abel; the Masoretic text does not preserve the content of that speech.
+6. Cain rises against Abel and kills him (4:8).
+
+**Textual observation:** God's address and warning occur before the action narrated in verse 8. Cain is then explicitly the acting subject of the hostile rising and killing.
+
+### 13.2 Connection with Genesis 2–3
+
+The comparison with Genesis 2:15–17 and 3:1–6 clarifies both continuity and difference:
+
+- In Genesis 2, God gives the man a prepared place and appointed work, grants broad permission, and establishes a specific boundary and consequence.
+- In Genesis 3, the serpent challenges the prior Word and offers a rival promised outcome; the woman perceives, evaluates, desires, and acts.
+- In Genesis 4, God addresses Cain before his later action, presents the alternatives of doing well or not doing well, and warns of the danger at the door.
+
+Across these passages, the Creator's Word and authority precede the creature's response. Human desire, influence, and action are real, but none becomes the source of the Creator's authority or the standard of what is good.
+
+### 13.3 What Cain's case adds to the question of will
+
+Genesis 4:6–8 adds a case in which divine warning, described desire or opposition, responsibility, and subsequent human action occur in close narrative sequence.
+
+This supports a bounded recognition: the presence of desire or an opposing influence does not make the human response fictitious, and the reality of human action does not make the creature its own Original Cause. God's warning does not become the source of Cain's anger or murder; the text identifies Cain as the one who acts.
+
+The comparison with Philippians 2:12–13 must remain distinct. Paul explicitly says that God works in believers both to will and to do. Genesis 4:6–8 does not describe that same inward operation in Cain, and it must not be made to do so. James 1:13–18 likewise distinguishes temptation through human lust from God's good gifts and begetting by His own Will; it does not authorize attributing Cain's temptation or action to God.
+
+### 13.4 Grammatical and interpretive limits retained
+
+The Genesis 4:6–7 reconstruction identifies unresolved questions concerning the meaning of שְׂאֵת (*śəʾēt*), the masculine participle and suffixes in relation to feminine חַטָּאת (*ḥaṭṭāʾt*), the referent of the crouching/desiring figure or entity, the range of תְּשׁוּקָה (*təšûqāh*), and the force of תִּמְשָׁל (*timšāl*).
+
+Genesis 4:8 does not disclose Cain's words in the Masoretic reading. The longer reading in ancient witnesses remains a textual variant and must not be silently inserted into the KJV.
+
+Therefore, do not claim that the referent of “rule over him” is certainly Abel, that the verse unambiguously identifies a separate being, or that Cain's murder explicitly states that he failed to rule sin. The narrative adjacency is significant; the exact grammatical referent remains disputed.
+
+### 13.5 Internal unification and placement
+
+This comparison connects existing findings concerning:
+
+- **Authorial Purpose and authority:** God speaks and establishes the evaluative frame; the creature does not originate the standard.
+- **Appointed function and responsibility:** the Garden assignment in Genesis 2:15 is a stated creaturely function; Cain's warning in Genesis 4:6–7 is a distinct address concerning his conduct and responsibility. These must not be treated as identical assignments.
+- **Creaturely will:** anger, desire, response, and action are real, but do not confer Original Cause or ultimate authority.
+- **Influence and temptation:** an opposing desire or promised outcome may bear on the creature's response without becoming the source of the creature's capacity to will.
+- **Witness and interpretation:** the reader must distinguish what the text states from what remains uncertain in its grammar and narrative implications.
+
+**Triple Constraint disposition:**
+- **Biblical compliance:** PASS for the bounded narrative observations; the grammatical and referential questions remain unresolved as recorded in the Genesis 4:6–7 reconstruction.
+- **Scientific coherence:** no psychological, neurological, or other physical mechanism is asserted.
+- **GUA-W consistency:** PASS within this scope. The comparison preserves Author → Word → Creation → Witness and the completed architecture. No layer, Gear, runtime stage, State term, or universal mechanism is added.
+
+**Recognition:** Genesis 2–4 gives related but distinct cases of appointed work, command and boundary, rival testimony, divine warning, creaturely desire, and accountable action. These cases illuminate the relationship between the Author's authority and derivative creaturely response without reducing them to one mechanism or one identical sequence.
+
+### 13.6 Next question
+
+Examine whether the Genesis 4:6–8 warning and subsequent action are further clarified by Genesis 4:9–16, especially God's confrontation, Cain's answer, judgment, and protection. Preserve the distinction between the text's account of responsibility and any proposed explanation of Cain's internal will. U-006 remains open; this comparison does not supply an exhaustive definition or chronology of human willing.
