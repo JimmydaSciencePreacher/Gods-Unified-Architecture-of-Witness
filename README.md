@@ -130,6 +130,7 @@ The [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) inve
 - [Governing Principles](GOVERNING-PRINCIPLES.md)
 - [Repository-Wide Triple Constraint Audit — 2026-11-17](REPOSITORY-WIDE-TRIPLE-CONSTRAINT-AUDIT-2026-11-17.md)
 - [Repository Audit and Continuing-Work Register — 2026-11-17 (updated 2026-11-18)](REPOSITORY-CONTINUING-WORK-REGISTER-2026-11-17.md)
+- [Daniel 12:1–13 — Text-First Canonical Reconstruction](scriptural-reconstruction/DANIEL-12-1-13-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 1:1–5 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-1-5-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 1:6–13 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-6-13-TEXT-FIRST-RECONSTRUCTION.md)
 - [Genesis 1:14–25 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-1-14-25-TEXT-FIRST-RECONSTRUCTION.md)
