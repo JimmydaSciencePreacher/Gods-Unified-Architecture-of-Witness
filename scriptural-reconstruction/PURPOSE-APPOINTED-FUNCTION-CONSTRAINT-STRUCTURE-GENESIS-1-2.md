@@ -430,3 +430,76 @@ The next question is not whether Framework exists in GUA-W. It does. The questio
 This question keeps God's Will at the beginning of the inquiry while preserving the completed architecture's existing order and distinctions.
 
 **Disposition:** Jimmy's direction is incorporated as an explicit governing question for this investigation. God's Will/Purpose is not added as a new layer or substituted for the Author. Genesis 1:1 remains quoted accurately; the wider canonical relationship among Will, Word, and Creation remains the subject of examination.
+
+
+## 12. Framework provenance correction and Authorial Will/Purpose placement
+
+This pass checked the current Chapter 9 commit history and the original repository's actual occurrences of Framework, Pattern, and Will.
+
+### 12.1 Framework is an established current definition
+
+The current Chapter 9, *The Completed GUA-W Architecture*, explicitly defines:
+
+> “Framework names an established arrangement within which relationships and functions can be understood.”
+
+It also states that Framework is not an independent author or authority and remains derivative of the Author's Creation. Chapter 9 separately defines Pattern as recognizable order or recurrence within that arrangement.
+
+The Git history shows that Jimmy added Chapter 9 on 2026-11-18 in commit f9e8fd2cd8fb989311c16a5bc992c502cbca549e (“Add Chapter 9: The Completed GUA-W Architecture”). The chapter was subsequently edited by Jimmy on 2026-11-18 to remove an editorial directive note. The Framework and Pattern definitions are present in the added chapter.
+
+**Correction to the earlier historical finding:** Framework is not merely an AI-generated addition to the current architecture. It is explicitly defined in a Jimmy-authored current governing chapter. The older original repository's AI analysis also displayed Framework, but that older AI diagram is not the authority for the current definition.
+
+### 12.2 What the original historical pathway does and does not contain
+
+The original Identity, Change, and Persistence document records the candidate pathway:
+
+**Constraint ↔ Structure ↔ Pattern ↔ Runtime ↔ State ↔ Witness**
+
+It does not include Framework in that pathway. The original AI analysis displays Framework and Pattern together in a derived layer. The current Chapter 9 now supplies the governing definition and placement:
+
+**Constraint → Structure → Framework → Pattern**
+
+The source history therefore reveals a documentation-development distinction:
+- The earlier investigative pathway links Structure directly with Pattern.
+- The older AI diagram places Framework and Pattern in the derived layer after Structure.
+- The current Jimmy-authored Chapter 9 explicitly distinguishes Structure, Framework, and Pattern and gives their current ordered placement.
+
+This is not evidence of a contradiction in the completed architecture. It shows that the older investigative pathway was a candidate research map, not a complete statement of every component in the current sequence.
+
+### 12.3 Purpose as God's Will: the first Authorial question
+
+Jimmy's direction is to investigate Purpose as God's Will: the Authorial question at the very beginning, concerning “In the beginning God created.”
+
+The governing hierarchy remains:
+
+**Author → Word → Creation → Witness.**
+
+The distinction to preserve is that God's Will is not a force or agent separate from God, nor a cause above God. God remains the Author and Original Cause. “Will/Purpose” is being examined as an expression of the Author's own willing and purpose, not as an additional entity or created architectural component.
+
+The Scriptural evidence must be stated with exact scope:
+- Genesis 1:1 explicitly states that God created the heaven and the earth. It does not itself use the words “will” or “purpose.”
+- Genesis 1:3 records God's speech and the reported result: “And God said, Let there be light: and there was light.”
+- John 1:1–3 identifies the Word as existing in the beginning and states that all things were made by Him.
+- Ephesians 1:9–11 speaks of the mystery of God's will, His good pleasure, His purpose in Christ, and His working all things after the counsel of His own will.
+- Hebrews 1:1–3 identifies the Son as the One through whom God made the worlds and who upholds all things by the word of His power.
+
+Together these passages warrant investigating the relationship among God's own Will/Purpose, the Word, and Creation. They must not be collapsed into a claim that Genesis 1:1 explicitly states a technical sequence “Will → Word → Creation.” That sequence is a proposed explanatory expression to be tested against the whole canonical witness.
+
+### 12.4 The first-in-pathway distinction
+
+For this investigation, Purpose is being carried as the first Authorial question, prior to examining the created architecture's foundational and derived distinctions. This does **not** insert Purpose as a new stage before Ontic Necessity or alter the completed architecture's internal sequence.
+
+Keep two levels visible:
+
+**Authorial origin:** God the Author, whose own Will/Purpose is under investigation in relation to His Word and creative act.
+
+**Created-order architecture:** Ontic Necessity → Distinction → Admissibility → Constraint → Structure → Framework → Pattern → Runtime → State/Witnessed realized configuration.
+
+The two levels must not be confused. The first concerns the Author and His purpose; the second describes the established explanatory architecture of the Creation. The Author is not a component inside His Creation, and the Author's Will is not a creaturely constraint.
+
+### 12.5 The next question is now more exact
+
+**How does God's own Will/Purpose, as the Authorial origin of His creative intention, relate to the originating Word and the act of Creation; and how does the completed created-order architecture—Constraint → Structure → Framework → Pattern—describe the order and arrangements of what He created?**
+
+This question keeps Purpose at the beginning of the investigation without treating it as a missing layer. It also preserves the current Jimmy-authored definitions of Structure, Framework, and Pattern.
+
+**Disposition:** Framework's current governing definition and provenance are confirmed in Chapter 9. The earlier candidate pathway is retained as historical investigative evidence, not substituted for the completed sequence. God's Will/Purpose is carried as the first Authorial question, not inserted as a new created layer. No canonical architecture definition or sequence is changed.
