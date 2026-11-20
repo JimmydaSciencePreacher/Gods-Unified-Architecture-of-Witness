@@ -352,3 +352,69 @@ This finding reinforces the existing **Author → Word → Creation → Witness*
 ### Next focused investigation
 
 Follow the relationship between **appointed function and creaturely response** more closely: Genesis 1:14–18, Genesis 1:26–28, Genesis 2:15–17, and Genesis 3:1–6 alongside the Human Will synthesis. Examine how provision, command, boundary, desire, promise/reward, and response are related in the text. In particular, test Jimmy's observation that an offered reward can be intended to sway willingness without becoming the source of the will or the authority that establishes the good. Keep explicit Scriptural wording, supported inference, and theological interpretation separately labelled.
+
+
+## Genesis 2:16–17 and 3:1–6 — provision, command, rival promise, desire, and action
+
+This focused comparison was made against the current text-first reconstructions and governing Chapters 7 and 14. It recovers a relationship already present in those records; it does not introduce a new will model or modify the completed architecture.
+
+### 1. The order already given (Genesis 2:15–17)
+
+The text records:
+- God places the man in the Garden for the stated work of dressing and keeping it (2:15).
+- God commands the man and grants broad permission: “Of every tree of the garden thou mayest freely eat” (2:16).
+- God identifies one prohibited tree and states the consequence of eating from it (2:17).
+
+The permission is broad and real; the boundary is specific and real. The command is not merely deprivation. It comes within an environment God planted and provisioned, and alongside work God appointed.
+
+### 2. The rival account (Genesis 3:1–5)
+
+The serpent's speech proceeds in distinguishable moves:
+- **Reframing:** the opening question foregrounds the restriction and obscures the broad permission (3:1).
+- **Engagement with the command:** the woman reports the permission and prohibition, with wording that differs in details from Genesis 2:16–17 (3:2–3).
+- **Contradiction:** the serpent denies the stated consequence: “Ye shall not surely die” (3:4).
+- **Alternative promise:** the serpent says their eyes will be opened and they will be as gods, knowing good and evil (3:5).
+
+The serpent's statement is a promise of an attractive outcome, but the text does not call it a reward. Use “promised benefit,” “enticement,” or “appeal” when describing this passage; reserve “reward” for contexts where the source actually uses or warrants that category.
+
+### 3. The human response (Genesis 3:6)
+
+The text then reports the woman's perception and evaluation: the tree is seen as good for food, pleasant to the eyes, and desirable to make one wise. She takes and eats; she gives to her husband, who also eats.
+
+The narrated order supports a careful distinction:
+**rival testimony → perception/evaluation → desire or attraction → taking/eating.**
+
+This is the order of the narrated account, not proof of a universal psychological algorithm or a measured causal mechanism. The text presents the woman's evaluation and action as real; it does not say that the serpent physically compelled her. Genesis 3:17 later identifies Adam's hearkening to his wife's voice in connection with his eating.
+
+### 4. What this reveals about willingness
+
+The competing promise is relevant to willingness because it presents an anticipated benefit that corresponds to the stated desire for wisdom in verse 6. It is reasonable to say the promise functions as an appeal that may sway or influence willingness. Keep the claim bounded: the text narrates the speech, evaluation, desire, and action; it does not provide an abstract theory or quantitative measure of influence.
+
+The distinction Jimmy has emphasized is therefore useful here:
+
+**An offered or promised benefit may influence what a creature wants to do; it does not become the originating source of the creature's capacity to will, nor does it become the authority that establishes what is good.**
+
+In this particular passage, the appeal comes from the serpent and contradicts God's prior Word. It is not a reward offered by God. The woman's desire is described as her response; the serpent's promise supplies the rival account under which the tree is evaluated. The Creator's command remains the governing Word, regardless of the attractiveness of the alternative claim.
+
+### 5. Internal unification already visible
+
+This comparison connects existing findings without collapsing them:
+- **Authorial Purpose and authority:** God provides the Garden, appoints work, grants permission, and establishes the command and consequence.
+- **Creaturely capacity:** the human being hears, remembers/reports, perceives, evaluates, desires, chooses, and acts.
+- **Influence:** another speaker's testimony can present an anticipated benefit and shape the context in which the creature evaluates.
+- **Witness and truth:** the competing account must be judged against the prior Word; a claim's attractiveness does not make it true.
+- **Responsibility:** the narrative preserves the humans' own actions and God's subsequent judgment; influence does not erase agency, and agency does not make the rival testimony true.
+
+This also clarifies why “will” must not be confused with “authority.” A creature can genuinely desire and choose without becoming the source of the standard by which the choice is judged.
+
+### 6. Triple Constraint disposition and boundaries
+
+- **Biblical:** the sequence and distinctions above are directly grounded in Genesis 2:15–17 and 3:1–6, with Genesis 3:17 clarifying Adam's hearkening. The claim that the serpent's promised benefit functions as an influence on willingness is a bounded inference from the narrative, not a quoted technical definition.
+- **Scientific:** no general psychological or neurological mechanism is asserted. If later compared with motivation, incentives, or decision science, those are domain-specific comparisons and must be independently evidenced.
+- **GUA-W:** reinforces Author → Word → Creation → Witness and the existing distinctions among Authorial authority, appointed function, creaturely will, and witness. No new layer, stage, operator, or architecture revision is proposed.
+
+**Recognition:** The will is not shown as an isolated or self-authorizing faculty. Its operation in this account is situated: the creature receives a command, encounters a competing testimony and promised benefit, evaluates, desires, and acts. The promised benefit may sway willingness, but neither the appeal nor the creature's response becomes Original Cause or ultimate authority.
+
+### Next connection to test
+
+Compare this Genesis pattern with Scriptural passages where God Himself gives promises, commands, invitations, or rewards. Determine whether the promise of good can rightly encourage creaturely willingness while remaining subordinate to God's Word and purpose. Keep distinct (a) truthful divine promise, (b) appointed reward, (c) deceptive or rival promise, and (d) the creature's response. Do not assume they operate identically merely because each may influence desire.
