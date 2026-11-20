@@ -170,6 +170,7 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 
 ### Prior provision, calling, and recognition
 
+- [1 Chronicles 28 — Pattern, Transmission, and Succession](scriptural-reconstruction/1-CHRONICLES-28-PATTERN-TRANSMISSION-AND-SUCCESSION.md)
 - [Daniel 12:1–13 — Text-First Canonical Reconstruction](scriptural-reconstruction/DANIEL-12-1-13-TEXT-FIRST-RECONSTRUCTION.md)
 - [Exodus 31 — Calling, Provision, and Sanctuary Work](scriptural-reconstruction/EXODUS-31-CALLING-PROVISION-AND-SANCTUARY-WORK.md)
 
