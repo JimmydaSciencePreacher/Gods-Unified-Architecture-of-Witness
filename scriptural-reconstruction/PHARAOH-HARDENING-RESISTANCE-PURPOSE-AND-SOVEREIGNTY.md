@@ -301,7 +301,132 @@ The passage adds no new GUA-W component. It tests the already-established distin
 6. Preserve the distinction between God's use of an agent, God's approval of an agent's motives, and God's judgment of that agent.
 7. Return to the question of prior provision and later recognition: what did Pharaoh know, what did he reject, and what did Egypt eventually know (Exodus 7:5; 14:4, 18)?
 
-## 16. Research references
+## 16. The will is present: the Hebrew study clarifies its operation
+
+The Hebrew investigation must not be turned into an argument that Pharaoh, or human beings generally, do not possess a will.
+
+Pharaoh's narrated actions are unmistakably active:
+- He evaluates Moses' message and rejects the command (Exodus 5:2).
+- He makes decisions and imposes conditions.
+- He negotiates and at points offers limited concessions.
+- He responds to changing circumstances, including confessing wrongdoing and asking for relief (Exodus 9:27–28; 10:16–17).
+- When pressure is relieved, he returns to resistance (Exodus 8:15, 32; 9:34–35).
+
+The word לֵב / לֵבָב (lev / levav, “heart”) can refer to the inner person, including thought, understanding, intention, decision, courage, and will. It is not restricted to emotion. The roots ḥāzaq, kāvēd/kābad, and qāšâ describe different aspects or conditions of strengthening, heaviness, and hardening in the narrative. They help examine what is happening to or within the heart; they do not require us to deny that a person has a will.
+
+**Correction preserved from the discussion:** The Hebrew verbs help us see the narrated activity of the heart. They help us examine the operation. They do not require us to deny that we possess a will.
+
+The lexical investigation does not, by itself, settle every philosophical meaning attached to the modern English expression “free will.” It does not show that the ordinary statement “Pharaoh had a will” is false. Rather, it helps distinguish the capacity and activity of willing from the question of whether the will is the originating authority over the purpose in which it operates.
+
+**Working distinction:**
+
+> The existence of a will does not establish that the will is the originating authority over the purpose in which it operates.
+
+This is a theological and interpretive distinction drawn from the canonical sequence, not a claim that the Hebrew roots alone encode the complete philosophical definition of free will.
+
+## 17. What came first? Exodus 4:21 before Exodus 5:2
+
+The order of the narrative is essential.
+
+**Exodus 4:21:** Before Moses' first confrontation with Pharaoh, God tells Moses that He will harden Pharaoh's heart so that Pharaoh will not let the people go.
+
+**Exodus 5:2:** Pharaoh then answers Moses:
+
+> “Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go.”
+
+The text therefore records God's prior announcement before Pharaoh's first recorded refusal. Pharaoh's will is expressed in a real decision, but that decision is not the first stated purpose in the account.
+
+This does not erase Pharaoh's agency or settle the complete mechanics of divine hardening. It does establish the narrative priority of God's announced purpose. The later actions of Pharaoh occur within a purpose God has already declared.
+
+The finding must be stated carefully: **God's declaration precedes Pharaoh's recorded refusal; Pharaoh's refusal remains a genuine act attributed to Pharaoh.**
+
+## 18. Romans 9:16–24 — Will, mercy, resistance, and the Potter
+
+### 18.1 Romans 9:16–18 does not say that people do not will
+
+Romans 9:16 (KJV):
+
+> “So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.”
+
+Paul does not deny that people will or act. The contrast concerns the source and ground of mercy: it is not ultimately derived from human willing or exertion, but from God who shows mercy.
+
+Romans 9:18 continues:
+
+> “Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.”
+
+Paul's use of Pharaoh affirms God's sovereign authority. It does not require us to pretend Pharaoh never exercised a will. Exodus has already narrated Pharaoh's decisions and resistance.
+
+### 18.2 Romans 9:19 states the objection
+
+> “Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?”
+
+Paul anticipates the question that arises when God's sovereign will is placed alongside human responsibility. The question is part of Paul's argument; it should not be omitted or answered by pretending the tension is absent.
+
+### 18.3 Romans 9:20–21 — Potter and clay
+
+> “Nay but, O man, who art thou that repliest against God? Shall the thing formed say to him that formed it, Why hast thou made me thus?”
+>
+> “Hath not the potter power over the clay, of the same lump to make one vessel unto honour, and another unto dishonour?”
+
+Paul establishes the Creator–creature distinction through the Potter and clay. The formed thing is not its own originating maker. The image concerns the Potter's authority over what is formed.
+
+Genesis 2:7 provides a related creation text: the LORD God forms man of the dust of the ground and gives him the breath of life. This connection supports the Creator–creature distinction; it should not be used to claim that Genesis 2:7 explicitly defines every faculty or mechanism of human willing.
+
+### 18.4 Romans 9:22–24 — Preserve the grammatical and contextual distinction
+
+Romans 9:22 describes “vessels of wrath fitted to destruction.” The construction is passive and does not explicitly name the agent who fitted them. Interpretive conclusions about the agent must therefore be identified as interpretations, not supplied as though the verse states the agent directly.
+
+Romans 9:23, by contrast, speaks of “the vessels of mercy, which he had afore prepared unto glory,” explicitly attributing their prior preparation to God.
+
+Verse 24 identifies those called as including Jews and Gentiles. Paul's argument is not exhausted by Pharaoh alone; it moves into God's calling and the inclusion of both groups.
+
+### 18.5 What the passage establishes and what remains open
+
+**Established by the text:**
+- Human willing and action are real features of the Scriptural account.
+- God's mercy is not originated or earned by human willing or exertion.
+- God asserts authority over the formed creature.
+- Pharaoh's resistance does not defeat God's declared purpose.
+- Paul anticipates the question of responsibility and answers by affirming the Creator–creature distinction.
+
+**Not settled by this passage alone:**
+- A complete metaphysical account of how divine hardening and human willing relate in every act.
+- Every philosophical definition that has been attached to “free will.”
+- The identity of the agent in the passive phrase “fitted to destruction” in Romans 9:22.
+
+Romans 9 must continue into chapters 10 and 11. Paul proceeds to discuss Israel's response, hearing, believing, calling, Gentile inclusion, hardening, mercy, and the larger purpose concerning Israel. Romans 9:19–24 must not be isolated and treated as the entire argument.
+
+## 19. Four-question recognition and current finding
+
+### Question 1 — What must AI ask to understand GUA-W?
+
+What came first in the Scriptural account: the Author's declared purpose or the Witness's recorded decision? Does the existence of a will establish that the will originates the purpose governing the account?
+
+### Question 2 — What is GUA-W revealing that helps AI understand?
+
+The governing order remains Author → Word → Creation → Witness. The Author's declared purpose precedes the Witness's response. The Witness's real capacity to will does not make the Witness the originating authority.
+
+### Question 3 — What am I learning about what I am witnessing?
+
+Pharaoh possesses and exercises a will. The Hebrew verbs clarify the narrated activity of his heart; they do not erase his willing. Exodus 4:21 records God's prior announcement; Exodus 5:2 records Pharaoh's refusal. Romans 9 then addresses God's mercy, hardening, authority, and the Creator–creature distinction.
+
+### Question 4 — What am I learning about the Witness through what I am witnessing?
+
+A Witness can evaluate, desire, decide, act, resist, and remain accountable without becoming the Author or the originating authority over the purpose in which the Witness acts.
+
+**Current finding:**
+
+> The existence of a will does not establish that the will is the originating authority over the purpose in which it operates.
+
+The Hebrew investigation clarifies the operation of the heart and will; it does not require denial of human willing. The sequence from Exodus 4:21 to 5:2 and Paul's argument in Romans 9 place human willing within the prior and sovereign purpose of God.
+
+**Triple Constraint disposition:** PASS for the explicit narrative sequence, the reality of Pharaoh's recorded willing, and Paul's Creator–creature distinction. PARTIAL for the complete causal and metaphysical account of divine hardening and human willing. The broader Pauline argument remains open pending Romans 10–11.
+
+**Architecture boundary:** This is a clarification of existing Author–Witness and Creator–creature distinctions. No GUA-W layer, stage, Gear, State term, or new component is added or altered.
+
+**Next investigation:** Continue Romans 10–11 in context. Then compare Deuteronomy 30:11–20 and Joshua 24:14–28, preserving the reality of commanded human response alongside God's prior purpose and gracious action.
+
+## 20. Research references
 
 Primary text: King James Version.
 
