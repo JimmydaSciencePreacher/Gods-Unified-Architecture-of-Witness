@@ -745,3 +745,24 @@ The study follows Exodus 1–15, with focused examination of Exodus 3:7–20; 4:
 **Triple Constraint disposition:** PASS for the narrative facts; PARTIAL for causal mechanics. No GUA-W component is added or altered.
 
 **Next work:** Continue Romans 9:19–24 through Romans 11; compare Deuteronomy 2:30, Joshua 11:18–20, Psalm 105:23–25, and Psalm 106:7–12. Preserve distinctions among God's purpose, prior announcement, divine hardening, Pharaoh's own resistance, and judgment.
+
+## 13. Pharaoh continuation — the reality of the will, prior purpose, and Romans 9:19–24 (2026-11-20)
+
+Extended `scriptural-reconstruction/PHARAOH-HARDENING-RESISTANCE-PURPOSE-AND-SOVEREIGNTY.md` with Sections 16–19.
+
+This continuation records an important correction from the discussion: the Hebrew investigation does **not** deny that Pharaoh or human beings possess a will. Pharaoh evaluates Moses' message, refuses the command (Exodus 5:2), makes decisions, negotiates, changes position under pressure, and repeatedly returns to resistance. The Hebrew roots ḥāzaq, kāvēd/kābad, and qāšâ clarify the narrated activity and condition of the heart; they do not erase the reality of willing. The Hebrew word lev/levav includes the inner person and can encompass thought, understanding, intention, decision, courage, and will.
+
+The key chronological observation is preserved: **Exodus 4:21 records God's announcement before Exodus 5:2 records Pharaoh's first refusal.** Pharaoh's will is genuinely expressed, but his recorded decision is not the first stated purpose in the narrative. This establishes narrative priority without pretending to settle every causal or metaphysical question about divine hardening.
+
+The study then continues Paul's argument through Romans 9:19–24. Romans 9:16–18 is not presented as saying that humans do not will; rather, Paul locates the decisive source of mercy in God, not in human willing or exertion. Romans 9:19 raises the responsibility objection; 9:20–21 uses the Potter and clay to establish the Creator–creature distinction; 9:22's passive “fitted to destruction” is not assigned an agent the verse does not explicitly name; 9:23 explicitly attributes the prior preparation of the vessels of mercy to God; and 9:24 moves beyond Pharaoh to the calling of Jews and Gentiles.
+
+**Current working distinction:**
+
+> The existence of a will does not establish that the will is the originating authority over the purpose in which it operates.
+
+This is a theological distinction drawn from the canonical sequence, not a claim that Hebrew roots alone settle every philosophical meaning of “free will.” The Hebrew investigation clarifies the operation of the heart and will; it does not require denial of human willing.
+
+**Four-question method:** Applied to the question of prior purpose, human willing, the Creator–creature relationship, and the Witness's position. **Triple Constraint:** PASS for the explicit narrative sequence, the reality of Pharaoh's recorded willing, and Paul's Creator–creature distinction; PARTIAL for the complete causal/metaphysical account of divine hardening and human willing. No GUA-W layer, stage, Gear, State term, or new component was added or altered.
+
+**Next work:** Continue Romans 10–11 in context; then compare Deuteronomy 30:11–20 and Joshua 24:14–28. Preserve the reality of commanded human response alongside God's prior purpose and gracious action.
+
