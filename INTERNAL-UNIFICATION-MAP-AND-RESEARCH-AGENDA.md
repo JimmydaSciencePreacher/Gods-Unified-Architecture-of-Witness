@@ -484,6 +484,8 @@ The promise/reward comparison belongs alongside these findings. It must not repl
 
 **Recognition:** Divine promise and promised reward can serve as encouragement within the Author's declared purpose. They do not become the source of the will or the authority behind the good. The rival promise in Genesis 3 demonstrates why source, truth, and authority must be distinguished from attractiveness and influence.
 
-### Next relationship to examine
+### Follow-up status — Genesis 4:6–8 examined (2026-11-19)
 
-Compare God's command and promise to Cain in Genesis 4:6–7 with the Genesis 2–3 account. God speaks before Cain's act, addresses his countenance, warns about sin, and declares Cain's responsibility in relation to it. Examine the exact wording and the Hebrew phrase commonly rendered “unto thee shall be his desire,” without prematurely deciding its referent. This may further illuminate warning, desire, mastery, willingness, and responsibility.
+The comparison requested above has now been recorded in Section 13 of [Purpose, Appointed Function, Constraint, and Structure — Initial Internal Investigation](scriptural-reconstruction/PURPOSE-APPOINTED-FUNCTION-CONSTRAINT-STRUCTURE-GENESIS-1-2.md). It connects the existing Genesis 4:6–7 and 4:8 text-first reconstructions with the Genesis 2–3, James 1, and Philippians 2 findings. The bounded recognition is that divine warning, creaturely desire or opposition, responsibility, and subsequent action are distinguishable; none makes the creature the Author. The disputed referent and grammatical force in Genesis 4:7 remain unresolved, and U-006 remains open. No architecture component or definition was changed.
+
+**Next source sequence:** Examine Genesis 4:9–16 against the already-recorded confrontation, Cain's answer, judgment, and protection. Then reassess the exact contribution to U-006 without forcing a complete definition or chronology of human willing.
