@@ -353,3 +353,80 @@ Framework must be recovered separately because it is present in the older AI-gen
 6. Only after provenance and definitions are established, map the relationships into the completed architecture for Jimmy's review.
 
 **Disposition:** An earlier internal research pathway has been recovered. It strengthens the evidence base and reveals a specific documentation gap concerning Framework and Purpose. It does not yet supply approved operational definitions for the four terms or authorize an architectural change.
+
+
+## 11. Jimmy's side note — Purpose as God's Will and the originating cause of Creation
+
+**User-provided investigative direction (2026-11-19):**
+
+> “I see ‘purpose’ here as God's ‘Will’ — the cause of ‘In the beginning God...’ — the very first in our pathway.”
+
+This direction must be carried into the investigation. It clarifies that the present question is not limited to the purpose assigned to a created thing, such as the man's appointed work in Genesis 2:15. The prior question is the Author's own Will and purpose in relation to the act of Creation.
+
+### 11.1 Preserve the hierarchy
+
+The completed GUA-W hierarchy remains:
+
+**Author → Word → Creation → Witness**
+
+The side note asks us to investigate God's Will/Purpose at the Authorial origin of this relationship. It must not be treated as a created component, a force above God, a condition that constrains God, or an independent cause alongside God.
+
+A careful provisional expression for investigation is:
+
+**God (the Author; Original Cause) → His Will/Purpose → the originating Word → Creation → Witness.**
+
+This is a proposed explanatory unpacking of the existing hierarchy, not a replacement sequence or an approved architectural amendment. The theological relation among God's Will, His Word, and His creative act must be examined from Scripture rather than assumed from the arrows.
+
+### 11.2 Genesis 1:1 — what is explicit and what is being investigated
+
+> In the beginning God created the heaven and the earth. (KJV)
+
+The verse explicitly identifies God as the acting subject and Creator. It does not itself use the words *will* or *purpose*, nor does it provide a technical description of the relation between God's Will and His Word.
+
+Therefore:
+- **Textual statement:** God created the heaven and the earth.
+- **GUA-W governing recognition:** God alone is Original Cause.
+- **Investigative theological question:** How does the wider Scriptural witness identify God's Will, counsel, and purpose in relation to Creation and the Word through whom all things are made?
+
+Do not insert the word *Will* into the wording of Genesis 1:1 as though it were printed there. Investigate the relationship through the whole canonical witness.
+
+### 11.3 Existing canonical material to bring together
+
+The current Chapter 15, *God's Purpose and the Saving Work of Christ*, already records that:
+- Ephesians 1:3–14 speaks of the Father's good pleasure, the counsel of His will, and His purpose in Christ.
+- 1 Peter 1:19–20 speaks of Christ as foreordained before the foundation of the world and manifested in these last times.
+- John 1:1–14 identifies the Word as existing in the beginning and as the One through whom all things were made.
+- Hebrews 1:1–3 identifies the Son as the One through whom God made the worlds and who upholds all things by the word of His power.
+
+These passages provide a strong canonical investigation set. Their distinct wording and subjects must be retained; they must not be collapsed into a single verse or made to say more than they state.
+
+### 11.4 Distinguish Authorial Will from creaturely will and appointed function
+
+The investigation must keep three different matters separate:
+
+1. **God's Will/Purpose:** the Author's own will and purpose; not derived from Creation and not subject to creaturely authority.
+2. **Creaturely will:** a real but derivative capacity operating within the created order; not Original Cause and not the authority that establishes God's purpose.
+3. **Appointed function:** a role or activity God gives within Creation, such as the man's work in Genesis 2:15 or the lights' stated functions in Genesis 1:14–18.
+
+The human-will chapters already emphasize that creaturely willingness and response do not originate God's purpose. Chapter 14 distinguishes creaturely capacity from Creator authority; Chapter 15 identifies the Father as the source and initiator of the saving purpose while preserving genuine human responses.
+
+### 11.5 How this changes the Framework investigation
+
+Framework must now be investigated downstream of the Authorial question, without being made the source of Purpose.
+
+The current completed architecture already defines:
+- **Structure:** the first derived realization and hinge between foundational distinctions and derived arrangement.
+- **Framework:** an established arrangement within which relationships and functions can be understood; not an independent author or authority.
+- **Pattern:** recognizable order or recurrence within that arrangement; recognizing a pattern does not originate it.
+
+These are the recovered definitions in Chapter 9, *The Completed GUA-W Architecture*. They are the current governing definitions for this comparison.
+
+The next question is not whether Framework exists in GUA-W. It does. The question is how the historical development and Scriptural evidence illuminate the relationship among Structure, Framework, and Pattern, with God's Will/Purpose understood as an Authorial question prior to creaturely function.
+
+### 11.6 Revised central research question
+
+**How does the One Author's Will/Purpose relate to the originating Word and the act of Creation, and how is the order established by the Author recognized through Constraint, Structure, Framework, Pattern, Runtime, State, and Witness?**
+
+This question keeps God's Will at the beginning of the inquiry while preserving the completed architecture's existing order and distinctions.
+
+**Disposition:** Jimmy's direction is incorporated as an explicit governing question for this investigation. God's Will/Purpose is not added as a new layer or substituted for the Author. Genesis 1:1 remains quoted accurately; the wider canonical relationship among Will, Word, and Creation remains the subject of examination.
