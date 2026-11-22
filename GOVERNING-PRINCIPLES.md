@@ -30,13 +30,15 @@ The established architecture is presented as a whole:
 
 **Runtime:** Reception → Activation → Differentiation → Propagation → Integration → Expression.
 
-**State:** Identity, Alignment, Drift, Persistence, Witness-state, and realized configuration.
+**State:** Identity, Alignment, Persistence, Witness-state, and realized configuration. Drift is not an admissible State condition.
 
 The compact sequence is:
 
 **Ontic Necessity → Distinction → Admissibility → Constraint → Structure → Framework → Pattern → Reception → Activation → Differentiation → Propagation → Integration → Expression → Witnessed realized configuration.**
 
 The State terms describe the realized configuration and its witness-state; they are not additional sequential runtime stages.
+
+**Alignment and Drift:** Alignment means 100% Alignment with the Author. **Drift means deviation from that 100% Alignment. GUA-W accepts ZERO Drift.** Drift names a departure from Alignment; it is not an admissible State condition, a positive architectural component, or an alternative to Alignment. The governing reference is the Author, not a standard appointed by the witness. A reported scientific or biological change must not be called GUA-W Drift unless the evidence establishes the relevant departure from Alignment under the Triple Constraint Law. Domain-specific terms such as instrumental drift retain their scientific meanings and do not redefine GUA-W.
 
 ## 4. Triple Constraint Law
 
