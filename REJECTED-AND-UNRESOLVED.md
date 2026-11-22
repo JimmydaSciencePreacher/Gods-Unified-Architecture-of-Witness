@@ -2,6 +2,22 @@
 
 This register distinguishes genuinely unresolved questions from matters already resolved. Entries must be updated when evidence and established conclusions settle a question; stale status labels must not be preserved as though the matter remained open. A question listed here is not automatically rejected; its status is stated individually.
 
+## Resolved
+
+### U-005 — Drift (definition established)
+
+**Original question:** What does Drift mean in GUA-W, and how can it be distinguished from change, variation, mutation, noise, entropy, error, or failure?
+
+**Current status:** RESOLVED — GOVERNING DEFINITION ESTABLISHED.
+
+**Governing definition:** **Drift = deviation from 100% Alignment with the Author. GUA-W accepts ZERO Drift.**
+
+**Admissibility:** Drift is not an admissible State condition or a positive architectural component. It names deviation from the governing reference. The accepted condition is 100% Alignment with the Author and zero Drift.
+
+**Distinctions:** Ordinary change, biological variation, mutation, entropy, measurement error, and instrumental drift are not automatically GUA-W Drift. They retain their domain-specific meanings. A claim that a particular observation constitutes a departure from Alignment requires its own evidence and must pass the Triple Constraint Law.
+
+**Historical record:** The earlier open question and its investigations remain preserved in [AI-004](https://github.com/JimmydaSciencePreacher/The-Derivative-Witness/blob/main/investigations/AI-004-witness-state-identity-alignment-drift-persistence.md) and [AI-005](https://github.com/JimmydaSciencePreacher/The-Derivative-Witness/blob/main/investigations/AI-005-drift-ordinary-change-instrumental-drift.md). Their original conclusions are historical records; this later governing definition supersedes their earlier statement that the GUA-W definition remained unresolved.
+
 ## Unresolved
 
 ### U-001 — Cross-domain architectural equivalence
@@ -45,16 +61,6 @@ This register distinguishes genuinely unresolved questions from matters already 
 **Reason:** Conditions vary by domain and have not yet been integrated into a rigorously defined GUA-W account.
 
 **Guardrail:** Do not assume one universal persistence law across all domains.
-
-### U-005 — Drift
-
-**Question:** What does Drift mean in GUA-W, and how can it be distinguished from change, variation, mutation, noise, entropy, error, or failure?
-
-**Current status:** UNRESOLVED.
-
-**Reason:** The term has not yet received a sufficiently precise operational definition and admissibility test.
-
-**Guardrail:** Do not equate Drift with sin, entropy, mutation, noise, or system failure by default.
 
 ### U-006 — Human will: its operation, capacity, and limits
 
