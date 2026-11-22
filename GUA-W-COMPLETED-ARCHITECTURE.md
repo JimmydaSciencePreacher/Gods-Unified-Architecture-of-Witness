@@ -75,8 +75,7 @@ The established architecture is presented in the following order.
 The realized configuration is witnessed in relation to:
 
 - **Identity**
-- **Alignment**
-- **Drift**
+- **Alignment** — 100% Alignment with the Author
 - **Persistence**
 - **Witness-state**
 - **Realized configuration**
@@ -86,6 +85,8 @@ The compact architectural sequence is:
 **Ontic Necessity → Distinction → Admissibility → Constraint → Structure → Framework → Pattern → Reception → Activation → Differentiation → Propagation → Integration → Expression → Witnessed realized configuration.**
 
 The State layer describes the realized configuration and its witness-state; its listed terms are not additional sequential runtime stages.
+
+**Drift is not an admissible State condition.** Drift means deviation from 100% Alignment with the Author; **GUA-W accepts ZERO Drift**. The term identifies a departure from the governing reference, not a positive component or acceptable configuration. Scientific uses of *drift*—including instrumental drift—remain distinct domain-specific terms. Their occurrence does not establish GUA-W Drift.
 
 ## 5. Triple Constraint Law
 
