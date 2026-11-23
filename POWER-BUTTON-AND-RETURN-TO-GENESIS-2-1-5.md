@@ -101,11 +101,11 @@ Read this beside Genesis 1:11–12, which already records vegetation. Genesis 2:
 
 Do not state as literal wording that God was holding seeds, storing seeds, or waiting for a human power switch. Such a mechanism is not stated in Genesis 2:5. The seed language in Genesis 1 and the field conditions in Genesis 2:5 may be investigated together, but the distinction between text and inference must remain visible.
 
-### What is established and what remains open
+### What the passage states and what requires interpretation
 
 **Established by the text:** the completed-work declaration; God's ending and cessation; blessing and sanctification; the *toledot* heading; the field-specific plant/herb wording; no rain; and no man to till.
 
-**Open at the level of interpretation:** the exact scope of “all the host”; the precise referents of the field-vegetation terms; the literary relation of Genesis 2:4 to the preceding account; and the exact meaning of the rare water term in Genesis 2:6. These open questions do not mean that GUA-W is incomplete.
+**Questions of textual interpretation:** the exact scope of “all the host”; the precise referents of the field-vegetation terms; the literary relation of Genesis 2:4 to the preceding account; and the exact meaning of the rare water term in Genesis 2:6. These concern interpretation of the Scriptural witness only. The Map is already complete and is not waiting on these questions.
 
 ### Continue with the existing Scriptural records
 
