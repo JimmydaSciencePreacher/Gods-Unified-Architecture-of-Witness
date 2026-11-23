@@ -2,7 +2,7 @@
 
 **Record opened:** 2026-11-17  
 **Status:** OPEN — initial Scriptural framing recorded; event-by-event examination and full Triple Constraint review remain in progress.  
-**Governing repository:** Revised-GUA-W  
+**Governing repository:** God's Unified Architecture of Witness  
 **Primary Scriptural text:** King James Version (KJV)
 
 ## 1. Purpose
