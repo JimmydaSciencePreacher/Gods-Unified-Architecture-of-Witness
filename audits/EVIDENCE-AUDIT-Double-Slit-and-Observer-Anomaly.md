@@ -1,8 +1,8 @@
 # Evidence Audit — Diagnostic Case Trace 004: Double-Slit Experiment and Observer Anomaly
 
 **Review date:** 2026-11-16  
-**Source document:** [Original Diagnostic Case Trace 004](https://github.com/JimmydaSciencePreacher/The-Grand-Unified-Architecture-of-Witness-GUA-W-/blob/main/traces/Diagnostic%20Case%20Trace%20004.md)  
-**Purpose:** Examine the source trace's claims about superposition, which-path measurement, decoherence, observation, and the proposed GUA-W data-handoff analogy. The original trace is not modified.
+**Source basis:** Claims examined in this audit are assessed against the quantum-mechanical sources cited below.  
+**Purpose:** Examine the source trace's claims about superposition, which-path measurement, decoherence, observation, and the proposed GUA-W data-handoff analogy. This audit is self-contained and evaluates the claims against the cited scientific literature.
 
 ## 1. Executive assessment
 
@@ -113,8 +113,8 @@ The following wording is supportable:
 
 ## 11. Provenance and source integrity
 
-This is an independent evidence audit in Revised-GUA-W. It does not overwrite the original trace or authorize a change to the original repository.
+This is the evidence audit maintained in the current repository. Its conclusions are based on the scientific sources cited in this document.
 
-The original trace's status labels are historical source labels, not independent scientific verdicts. This audit narrows the claims to what the cited quantum-mechanical literature supports and records what remains interpretive.
+Any earlier status labels associated with these claims are not independent scientific verdicts. This audit evaluates the claims against the cited quantum-mechanical literature and records what remains interpretive.
 
 **Final status:** PARTIAL — interference and decoherence are supported; the proposed GUA-W data-handoff mechanism and several explanatory claims are not established.
