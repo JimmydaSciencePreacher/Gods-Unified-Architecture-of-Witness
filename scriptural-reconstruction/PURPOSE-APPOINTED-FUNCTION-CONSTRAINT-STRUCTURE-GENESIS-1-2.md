@@ -237,7 +237,7 @@ Preserve source dates and provenance. Do not treat later AI-generated wording as
 
 ## 9. Historical-source comparison — original repository
 
-The original repository, The-Grand-Unified-Architecture-of-Witness-GUA-W-, was checked as an independent historical source, in keeping with the current repository's provenance rule.
+The earlier source repository was checked as an independent historical record, in keeping with the current repository's provenance rule.
 
 ### 9.1 What the original SYSTEM_MANIFEST establishes
 
@@ -251,7 +251,7 @@ The original SYSTEM_MANIFEST.md describes:
 
 ### 9.2 What the historical AI analysis says
 
-The original file audits/AI Analyze Grand Unified Architecture of Witness (GUA-W).md contains an AI-produced diagram and descriptive glosses, including:
+A historical AI-generated analysis file contains an AI-produced diagram and descriptive glosses, including:
 - foundational concepts organizing constraints into relationships;
 - Structure as the first derived realization;
 - repeatable arrangements following Structure;
@@ -272,7 +272,7 @@ The source audit therefore remains open. Any useful historical explanation must 
 
 A direct examination of the original repository located a relevant earlier investigation:
 
-[Identity, Change, and Persistence.md](https://github.com/JimmydaSciencePreacher/The-Grand-Unified-Architecture-of-Witness-GUA-W-/blob/main/audits/Identity%2C%20Change%2C%20and%20Persistence.md)
+*Identity, Change, and Persistence* (historical investigation; external repository link omitted).
 
 This is materially more useful than the older AI-generated architecture diagram because it records a research path through existing GUA-W layers and explains how the questions arose.
 
@@ -318,7 +318,7 @@ The separate Evidence Audit in the original repository explicitly narrows severa
 
 The earlier investigation does not explicitly name Purpose in its displayed pathway. That is a gap in the recorded explanation, not evidence that Purpose is absent from the underlying inquiry.
 
-A second historical source, [Thomistic Synthesis, Logocentric Physics, and GUA-W](https://github.com/JimmydaSciencePreacher/The-Grand-Unified-Architecture-of-Witness-GUA-W-/blob/main/audits/Thomistic%20Synthesis%2C%20Logocentric%20Physics%2C%20and%20GUA-W.md), discusses teleological purpose and describes theology as providing an ultimate framework of purpose into which empirical discoveries are gathered. This is a useful historical pointer to the Purpose question. However, the document is an audit/synthesis commentary and is not, on the evidence presently recovered, an approved definition of Purpose's formal placement in the architecture.
+A second historical source, *Thomistic Synthesis, Logocentric Physics, and GUA-W* (historical commentary; external repository link omitted), discusses teleological purpose and describes theology as providing an ultimate framework of purpose into which empirical discoveries are gathered. This is a useful historical pointer to the Purpose question. However, the document is an audit/synthesis commentary and is not, on the evidence presently recovered, an approved definition of Purpose's formal placement in the architecture.
 
 The Genesis evidence already under examination adds a direct textual reason to keep Purpose visible:
 - Genesis 1:14–15 states appointed functions in God's command concerning the lights.
