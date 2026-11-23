@@ -2,11 +2,11 @@
 
 **GUA-W relationship:** This language audit is a witness to the completed GUA-W, not a proposal to construct or revise it. Record the Hebrew wording and its relationship to established GUA-W distinctions where supported; keep genuine lexical, grammatical, and technical uncertainties specific to the claim under examination.
 
-**Status:** PHASE 2 LANGUAGE AUDIT — INITIAL FINDINGS  
+**Status:** Hebrew-language witness audit within the completed GUA-W  
 **Text base:** KJV, compared with the Masoretic Hebrew and selected translation/commentary notes  
 **Scope:** The declaration that man should not be alone; *‘ezer kenegdo*; the animals and naming; the woman's formation and presentation; the man's recognition; cleaving and one flesh; nakedness and absence of shame.
 
-**Governing rule:** Establish what the Hebrew wording and literary sequence support before proposing an architectural mapping. Do not convert a lexical gloss into a technical GUA-W definition.
+**Governing rule:** Record what the Hebrew wording and literary sequence witness to within the completed GUA-W. Do not convert a lexical gloss into a technical definition or confuse interpretation of a verse with the completeness of the Map.
 
 ## 1. Genesis 2:18 — The stated condition and God's declared action
 
@@ -34,11 +34,11 @@ The noun עֵזֶר (*‘ezer*) means help or helper. It is also used of God as 
 
 This expression combines the preposition כְּ (*ke*, like/as), נֶגֶד (*neged*, in front of/opposite), and the suffix וֹ (*-o*, him). The NET note glosses the expression as “according to the opposite of him” and understands it as correspondence, matching, or suitability.
 
-**Provisional lexical finding:** “A help corresponding to him” captures the relational sense more transparently than a modern reading of “helpmeet” as a job title.
+**Lexical reading:** “A help corresponding to him” captures the relational sense more transparently than a modern reading of “helpmeet” as a job title.
 
 **Important caution:** The phrase should not be reduced to “opposite” in the sense of adversarial conflict, nor should it be expanded into a complete theory of male/female roles from the phrase alone.
 
-**Architectural question:** Does the phrase describe a counterpart who corresponds to the man rather than a duplicate or an unrelated being? That is a reasonable contextual reading. It is not a technical definition of “joining” or “symmetry” in GUA-W.
+**GUA-W recognition:** The phrase describes a corresponding counterpart, not a duplicate or an unrelated being. This witnesses to relationship and correspondence within the completed Map; it is not a lexical definition of “joining” or “symmetry.”
 
 ## 2. Genesis 2:19–20 — Animals brought to the man and named
 
@@ -74,13 +74,13 @@ The passive construction says that no corresponding help was found for the man a
 
 **Finding:** The animals do not supply the correspondence declared necessary in verse 18. The passage does not say they are worthless; it says none corresponds to the man as the needed counterpart.
 
-**Architectural question:** Is there a textual distinction between the presentation of possible companions, the man's naming/recognition, and the absence of a corresponding counterpart? Yes, as narrated actions. Whether this yields a general selection or matching principle requires further testing.
+**GUA-W recognition:** The narrative distinguishes the creatures' presentation, Adam's naming/recognition, and the absence of a corresponding help among them. Naming does not create correspondence or fulfill the need. This is a specific Scriptural distinction, not a proposed universal matching algorithm.
 
 ### 2.5 Narrative order and Genesis 1
 
 Genesis 2:19 narrates the forming of animals after the formation of the man in the literary sequence of this chapter. Genesis 1 places the creation of land animals before humankind. Some translations and commentators understand the verb in Genesis 2:19 as “had formed,” treating the action as prior to the man's formation; others retain the narrative sequence as written.
 
-**Status:** The precise chronological relation between Genesis 1 and the literary order of Genesis 2:19 must remain a live interpretive question in this audit. Do not silently insert “had” into the KJV, and do not claim that the chapter division or narrative order alone resolves the chronology.
+**Textual boundary:** Preserve the KJV wording and the literary sequence of Genesis 2:19. The precise chronological relation to Genesis 1 is an interpretive question involving grammar and discourse; do not silently insert “had,” and do not make this question a condition of the completed Map.
 
 ## 3. Genesis 2:21–22 — The woman formed and brought
 
@@ -157,7 +157,7 @@ The man responds after God brings the woman to him. The speech identifies corres
 
 **Textual distinction:** God performs the formation and presentation; the man speaks and names. These are distinct agents and actions.
 
-**Architectural question:** Does the man's naming register recognition of what God has brought, rather than authoring what God made? That is a strong reading of the sequence. It should be described as an interpretation of the narrative, not a lexical definition of “witness.”
+**GUA-W recognition:** The man's naming registers recognition of what God has brought; it does not author what God made. This is a narrative witness to the Author/Witness distinction, not a lexical definition of the word “witness.”
 
 ## 5. Genesis 2:24 — Leaving, cleaving, and one flesh
 
@@ -239,7 +239,7 @@ The verb is from בּוֹשׁ (*bosh*), be ashamed. The text says they were not 
 
 ## 8. Triple Constraint assessment
 
-| Candidate claim | Biblical compliance | Language/context support | GUA-W status |
+| Textual claim or interpretation | Biblical compliance | Language/context support | GUA-W status |
 |---|---|---|---|
 | The man's aloneness is declared “not good.” | Directly stated in 2:18. | *Lo-tov* is explicit. | PASS, textual observation |
 | *‘Ezer* necessarily means a subordinate assistant. | Not supported by biblical usage. | The noun is also used of God as help. | REJECT as lexical claim |
@@ -256,9 +256,9 @@ The verb is from בּוֹשׁ (*bosh*), be ashamed. The text says they were not 
 | “One flesh” means only sexual union. | Too narrow for the passage. | Kinship language in v. 23 and wider usage matter. | REJECT as exhaustive definition |
 | “One flesh” means two persons cease to be distinct. | Not stated. | Union is described without erasing man/woman distinction. | REJECT |
 | Genesis 2:18–25 establishes a general marriage pattern. | Verse 24 explicitly generalizes from the first union. | *‘Al-ken* and the generic “a man” support the link. | PASS, textual/literary finding |
-| The sequence can be mapped directly onto universal GUA-W stages. | Not stated. | Any such mapping is an abstraction. | PROPOSED; requires separate audit |
+| God's making and bringing, Adam's naming and recognition, and the stated joining remain distinct actions in the account. | Directly narrated in Genesis 2:18–25. | Their relations are recognized within the established Author/Witness and Joining Primacy distinctions; no universal scientific law is inferred. | ALIGNED with the completed Map |
 
-## 9. Open questions
+## 9. Further Hebrew and contextual questions
 
 1. How should *‘ezer* be interpreted across all its biblical occurrences, especially where God is the helper?
 2. What is the precise force of *kenegdo*: corresponding, opposite, matching, or suitable? Which English phrase best preserves the relation?
@@ -269,9 +269,9 @@ The verb is from בּוֹשׁ (*bosh*), be ashamed. The text says they were not 
 7. What is the significance and limit of the *’ish/’ishshah* wordplay?
 8. How does verse 24's “one flesh” relate to the “bone and flesh” recognition in verse 23 and the kinship uses elsewhere?
 9. How does the unashamed condition in 2:25 contrast with Genesis 3:7–10?
-10. What, if anything, can be abstracted from this sequence for GUA-W without converting a marriage text into a universal technical system?
+10. How does the specific marriage pattern remain faithful to its Scriptural context while witnessing to the established Joining Primacy relationship?
 
-## 10. Provisional conclusion
+## 10. Hebrew-language witness summary
 
 Genesis 2:18–25 distinguishes God's declaration, God's forming and bringing, the man's naming and recognition, and the narrator's description of marriage as a lasting union. The Hebrew terms are not interchangeable:
 
@@ -287,9 +287,9 @@ Genesis 2:18–25 distinguishes God's declaration, God's forming and bringing, t
 - *Basar ’echad*: one flesh.
 - *Bosh*: be ashamed.
 
-The strongest textual distinction for the GUA-W inquiry is one of **agency and registration**: God forms and brings; the man names and recognizes; the narrator describes the joining. This is compatible with the project's Author/Word/Creation/Witness hierarchy as a possible comparison, but Genesis 2:18–25 does not itself define that full architecture. Any mapping remains a proposal subject to the Triple Constraint Law.
+The central Scriptural distinction is one of **agency and registration**: God forms and brings; the man names and recognizes; the narrator describes the joining. These actions witness to the established Author/Word/Creation/Witness hierarchy and Joining Primacy relationship within the completed GUA-W. Genesis 2:18–25 is a witness to the Map, not a source from which the Map is constructed.
 
-No canonical GUA-W node or relationship is changed by this audit.
+The completed GUA-W remains unchanged. This audit records its Scriptural witness and preserves the Hebrew distinctions.
 
 ## Sources consulted
 
