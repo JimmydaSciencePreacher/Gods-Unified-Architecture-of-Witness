@@ -273,7 +273,7 @@ Primary reading:
 - **Appendix E — Scientific evidence audits:** [Audits directory](audits/).
 - **Appendix F — Cross-disciplinary investigation method:** [Principle](CROSS-DISCIPLINARY-INVESTIGATION-PRINCIPLE.md) and [Worksheet](CROSS-DISCIPLINARY-INVESTIGATION-WORKSHEET.md).
 
-## Editorial rules for developing the continuous book
+## Editorial standards for the continuous book
 
 1. **Do not rewrite the evidence into a simplified claim that changes its meaning.** The chapter explains; the source investigation remains available for verification.
 2. **Keep Scripture first.** Present the passage and its context before the architectural relationship or theological interpretation.
