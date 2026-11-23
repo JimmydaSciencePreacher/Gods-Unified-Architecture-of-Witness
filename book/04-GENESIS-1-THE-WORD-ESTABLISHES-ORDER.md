@@ -28,9 +28,9 @@ Chapter 2 distinguished the reality from the later question and the investigator
 
 Chapter 3 established why many disciplines can investigate the One Creation without becoming interchangeable. Theology addresses the ultimate WHY; the sciences investigate HOW and legitimate proximate WHY questions within their domains.
 
-Now the book returns to the opening of Scripture. We do not begin by asking Genesis to repeat our terminology. We begin by reading the account.
+Now the book returns to the opening of Scripture. We read Genesis as the Author's own account of His Word and creative ordering in action. We do not impose terminology on the text; neither do we hold the completed Map at a distance from the very account in which the Author expresses His Creation.
 
-The governing method is simple: **text first, observation second, interpretation third.** Record what the passage says. Preserve the order in which it says it. Distinguish explicit statements from inference. Only then examine how the findings relate to the completed GUA-W.
+The governing method is simple: **text first, observation second, interpretation third.** Record what the passage says. Preserve the order in which it says it. Distinguish explicit statements from inference. Then recognize how the Author's own account expresses and operates within the completed GUA-W.
 
 This order protects both the Scripture and the investigation. We do not need to force an architectural label into a verse to recognize a meaningful relationship. Nor should we overlook a relationship merely because the vocabulary of a later explanation differs from the words of the text.
 
