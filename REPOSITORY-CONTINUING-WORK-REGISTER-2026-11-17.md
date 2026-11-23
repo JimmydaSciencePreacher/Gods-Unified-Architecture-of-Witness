@@ -141,7 +141,7 @@ A new governing methodological principle has been recorded in [Cross-Disciplinar
 
 ## 7. Terminology and editorial notes
 
-- Current root documents explicitly define the name as **God's Unified Architecture of Witness**, and explicitly say the word is “God's,” not “Grand.” This is internally consistent across the current README, Governing Principles, and completed-architecture presentation. It is recorded here as the repository's current governing terminology; do not silently change it.
+- Current root documents consistently identify the architecture as **God's Unified Architecture of Witness** across the README, Governing Principles, and completed-architecture presentation. This is the repository's governing name and should be preserved consistently.
 - The filename `GUA-W-CANDIDATE-GEARS-FROM-GENESIS-2-3.md` retains the historical word “CANDIDATE,” but its current document title and body say it is a recognition record, not a construction queue. The body governs its current purpose; a filename cleanup is optional editorial work, not an architecture change.
 - Two holography/black-hole-information audits remain in the tree. Their relationship has been compared: they are overlapping but complementary and are retained pending any future consolidation justified by source-level work. A separate primary-source verification now records the foundational literature check.
 
