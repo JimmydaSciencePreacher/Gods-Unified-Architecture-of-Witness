@@ -2,7 +2,7 @@
 
 **GUA-W relationship:** This language audit is a witness to the completed GUA-W, not a proposal to construct or revise it. Record the Hebrew wording and its relationship to established GUA-W distinctions where supported; keep genuine lexical, grammatical, and technical uncertainties specific to the claim under examination.
 
-**Status:** PHASE 2 LANGUAGE AUDIT — INITIAL FINDINGS  
+**Status:** Hebrew-language witness audit within the completed GUA-W  
 **Text base:** Masoretic Hebrew text, compared with the KJV and selected translation/lexical notes  
 **Governing rule:** Lexical meaning informs interpretation; it does not authorize importing a complete GUA-W architecture into a word. Strong's numbers are identifiers, not definitions. Each claim must be checked in context.
 
@@ -20,7 +20,7 @@ The verb translated “formed” is יָצַר (*yatsar*). It can mean to form, 
 
 **What this supports:** The verse distinguishes the material named (“dust of the ground”) and the action attributed to God (“formed”).
 
-**What it does not establish by itself:** A modern biological process, a literal potter's wheel, a complete model of the human body, or the full technical definition of a GUA-W Formation stage.
+**Textual scope:** The verb describes God's forming action. A modern biological process, literal potter's wheel, or complete physiological model is not supplied by this lexical form. The established GUA-W Formation relationship is not dependent on this word serving as a complete technical definition.
 
 ### 1.2 נָפַח — nāphaḥ, “breathed”
 
@@ -61,7 +61,7 @@ Genesis 2:7 presents three clauses:
 
 **Textual conclusion:** These clauses are distinguishable and must not be collapsed. The last clause states the resulting condition.
 
-**Limit:** Clause order alone does not prove a measurable time interval, a detachable soul-substance, or a complete metaphysical anatomy. “Formation → divine breathing → living man” is a defensible description of the narrated sequence. Calling it a fully specified universal “Animation mechanism” would go beyond the evidence.
+**GUA-W recognition:** The narrated sequence distinguishes formation, divine breathing, and the resulting living man. It is read within the established Completion → Animation → Integration runtime relationship. The verse does not supply a measurable time interval, detachable soul-substance, or complete physiological/metaphysical anatomy.
 
 ## 2. Genesis 2:15 — Placement, work, and keeping
 
@@ -81,7 +81,7 @@ The first purpose infinitive is לְעָבְדָהּ (*lə‘ovdāh*), from עָ
 
 **Finding:** “Dress it” in the KJV means to work/cultivate the Garden, not to clothe it. The word's broader range includes service, but the Garden context points to work upon or care of the Garden.
 
-**Limit:** Do not infer from the root alone that Adam's task was specifically priestly worship. That proposal requires examination of usage and context elsewhere in Scripture.
+**Textual boundary:** Do not infer from the root alone that Adam's task was exclusively priestly worship. That narrower interpretation requires examination of usage and context elsewhere in Scripture.
 
 ### 2.3 שָׁמַר — šāmar, “keep/guard/watch”
 
@@ -89,7 +89,7 @@ The second purpose infinitive is וּלְשָׁמְרָהּ (*ulešomrāh*), fro
 
 **Finding:** The KJV “keep” carries a guarding/keeping sense. Alongside *abad*, the wording supports work and keeping/guarding as the man's appointed tasks.
 
-**Limit:** A proposed connection with later priestly or sanctuary service may be worth investigating, but it is not established merely by noting the two roots here.
+**Textual boundary:** A connection with later priestly or sanctuary service is not established merely by noting the two roots here; wider Scriptural usage governs that particular interpretation.
 
 ### 2.4 The grammatical purpose construction
 
@@ -99,7 +99,7 @@ The verse therefore gives the reason/purpose for placing the man there: **to wor
 
 **Strong textual result:** Purpose is explicit in Genesis 2:15. It is not an architectural term imported into the verse.
 
-**Architectural proposal:** A prepared place and an appointed human task are directly related in this passage. This is a sound basis for investigating Purpose as a relationship between the Creator's prepared environment and the creature's assigned activity. The formula “Purpose bridges Constraint to Structure” remains a GUA-W proposal, not a translation of the Hebrew.
+**GUA-W recognition:** A prepared place and an appointed human task are directly related in this passage. Genesis 2:15 witnesses to the established Authorial Purpose relationship: the Creator prepares and appoints; the creature receives a place, boundary, and assigned activity. This is not a literal translation of the Hebrew into technical GUA-W terminology; it is the Scriptural witness to the completed Map's recognized relationship.
 
 ## 3. Genesis 2:16–17 — Command, permission, prohibition, consequence
 
@@ -135,7 +135,7 @@ Genesis 2:16–17 gives:
 
 ## 4. Triple Constraint assessment
 
-| Candidate claim | Biblical compliance | Lexical/contextual support | GUA-W status |
+| Textual claim or interpretation | Biblical compliance | Lexical/contextual support | GUA-W status |
 |---|---|---|---|
 | Genesis 2:7 distinguishes forming, divine breathing, and the man becoming a living being. | Directly stated in clause sequence. | Supported by Hebrew verbs and result clause. | PASS, textual observation |
 | *Neshamah* is used only of humans and never animals. | Genesis 7:22 creates a direct complication. | Not secure as an absolute lexical rule. | REJECT as stated |
@@ -145,7 +145,7 @@ Genesis 2:16–17 gives:
 | Genesis 2:15 proves that the man's work is exclusively priestly worship. | Not established by this verse alone. | Requires broader usage/context. | UNRESOLVED |
 | Genesis 2:16 grants broad permission, then 2:17 states a prohibition and consequence. | Directly stated. | Hebrew verbal intensification supports emphatic permission/consequence. | PASS, textual observation |
 | *Mot tamut* means two distinct deaths. | Not supported by the idiom alone. | Infinitive absolute + finite verb is emphatic. | REJECT as lexical conclusion |
-| Purpose in 2:15 is a bridge from Constraint to Structure. | The verse supplies appointed purpose, not that technical formula. | Architectural inference, not lexical meaning. | PROPOSED |
+| Genesis 2:15 witnesses to the relationship among Authorial Purpose, appointed place/boundary, and assigned activity. | The verse directly states the man's appointed work; the architectural relationship is read within the completed Map. | This is the established Purpose relationship in GUA-W, not a lexical definition. | ALIGNED |
 
 ## 5. Open questions
 
@@ -157,13 +157,13 @@ Genesis 2:16–17 gives:
 6. What does “in the day” mean in Genesis 2:17 in the context of Genesis 3 and the wider canon?
 7. What exactly is the referent and scope of “all the host” in Genesis 2:1? A separate language audit is needed.
 
-## 6. Provisional conclusion
+## 6. Hebrew-language witness summary
 
 The Hebrew examination strengthens several textual distinctions while correcting two possible overstatements.
 
 First, Genesis 2:7 does distinguish God's forming, God's breathing, and the man's becoming a living *nephesh*. However, neither *neshamah* nor *nephesh ḥayyah* can safely be used to claim an absolute human/animal lexical separation. Genesis 7:22 and the shared *nephesh ḥayyah* usage must remain in the evidence record.
 
-Second, Genesis 2:15 explicitly gives the man's purpose in the Garden: to work/cultivate it and to keep/guard it. This is strong textual grounding for appointed work, stewardship, and a prepared-place/assigned-task relationship. The further GUA-W mapping remains an architectural proposal.
+Second, Genesis 2:15 explicitly gives the man's purpose in the Garden: to work/cultivate it and to keep/guard it. This is strong textual grounding for appointed work, stewardship, and a prepared-place/assigned-task relationship. This is a witness to the established Authorial Purpose relationship in the completed GUA-W; it is not a new architectural proposal.
 
 Third, Genesis 2:16–17 presents both permission and boundary, with emphatic Hebrew constructions. The command belongs to the Creator's authority; it must not be reduced to an impersonal scientific constraint.
 
