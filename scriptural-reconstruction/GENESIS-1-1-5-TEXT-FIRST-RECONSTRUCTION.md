@@ -85,7 +85,7 @@ The narrated order in Genesis 1:1–5 is:
 4. God sees that the light is good and divides light from darkness (v. 4).
 5. God names light and darkness; the first-day formula closes the unit (v. 5).
 
-This is a record of textual order, not yet a claim that each item corresponds one-to-one with a GUA-W node.
+This is a record of the Author's narrated creative order. Read within the completed GUA-W, it witnesses to the Author's operative Word and the ordered realization of Creation. It does not require every narrated clause to correspond one-to-one with a separate GUA-W node.
 
 ## Preliminary Triple Constraint review
 
@@ -94,7 +94,7 @@ This is a record of textual order, not yet a claim that each item corresponds on
 | The account presents God as the initiating Creator. | Directly stated in v. 1. | Not a scientific proposition; no scientific claim is being made. | Consistent with Author primacy. | PASS, narrowly as a textual/governing statement |
 | Divine speech precedes the reported appearance of light in the narrative. | Directly stated in v. 3. | No physical mechanism inferred. | Consistent with investigating Word → result. | PASS, narrowly as textual sequence |
 | Division and naming follow the appearance of light in the narrated sequence. | Directly stated in vv. 4–5. | No scientific mechanism inferred. | Potentially relevant to Differentiation and naming, but mapping remains open. | PASS, narrowly as textual sequence |
-| Genesis 1:1–5 already defines the complete GUA-W runtime. | Not stated by these verses. | Not applicable as written. | Would overstate the evidence and impose a complete model prematurely. | FAIL as an established claim |
+| Genesis 1:1–5 is the opening account of the Author's operative Word and creative ordering within GUA-W. | Genesis 1:1–5 directly records the Author's creative action and the Word/command-result relationship; it does not state every detail in the full chapter or Genesis 2. | Consistent with the completed Map and the Author/Word hierarchy. | PASS, bounded to the opening unit; read with the whole Creation account |
 
 **Important:** “Scientific coherence” here means not making unsupported scientific assertions. It does not mean that science verifies or disproves the Scriptural account.
 
@@ -107,7 +107,7 @@ This is a record of textual order, not yet a claim that each item corresponds on
 5. Where, precisely, do purpose and appointed work enter the account—especially Genesis 1:26–28 and 2:5, 2:15?
 6. What does Genesis 2 add to, clarify, or retell about the sequence in Genesis 1?
 
-## Provisional conclusion
+## Textual and architectural recognition
 
 Genesis 1:1–5 supplies a clear narrated order: Creator, described condition, divine speech, reported result, seeing/evaluation, division, naming, and the first-day closure. This is a sound starting record for further reconstruction.
 
