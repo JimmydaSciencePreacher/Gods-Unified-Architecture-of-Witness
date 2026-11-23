@@ -2,7 +2,7 @@
 
 **Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
 **Scope:** KJV Genesis 2:1–7  
-**Method:** Record the wording and narrated order, then recognize how the passage relates to the completed architecture. Do not force Completion, Animation, or Integration labels onto a clause where the text does not support the relationship.
+**Method:** Record the wording and narrated order, then read the passage in relation to the completed GUA-W. Preserve the distinctions in the text; do not force a one-to-one technical label onto an individual clause where the wording does not establish one.
 
 ## Genesis 2:1 — The heavens and earth finished
 
@@ -17,7 +17,7 @@
 - Does “finished” describe the completed work of Creation, the full ordered arrangement, or both?
 - How does this statement relate to the six-day account and the seventh-day rest?
 
-**Architectural observation:** This is the first explicit “finished” statement in the passage. It is not yet a definition of a GUA-W Completion state. The phrase “all the host of them” must be examined in its Scriptural context rather than automatically translated into a technical inventory or runtime.
+**GUA-W recognition:** This is the passage's explicit declaration that the heavens, earth, and all their host are finished. It witnesses to the completed whole already mapped in GUA-W. The phrase “all the host of them” must be examined in its Scriptural context rather than automatically translated into a technical inventory or runtime.
 
 ## Genesis 2:2 — Work finished; rest on the seventh day
 
@@ -44,7 +44,7 @@ The KJV wording says “on the seventh day” God ended His work. The relation b
 
 **Important distinction:** Blessing and sanctifying are separately stated actions. Rest is given as the reason. The verse does not merely repeat Genesis 2:1; it adds the blessing and sanctification of the seventh day.
 
-**Architectural observation:** The completed work is followed by a day that God blesses and sanctifies. Whether this supplies a pattern for completion followed by consecrated state is a possible theological/architectural question, not yet a demonstrated universal law.
+**GUA-W recognition:** The completed work is followed by God's blessing and sanctification of the seventh day. These are distinct Authorial acts in the passage. Preserve their relationship to the finished work and rest without turning the wording into an unsupported universal technical law.
 
 ## Genesis 2:4 — Generations and the LORD God
 
@@ -103,7 +103,7 @@ This supplies a further condition in the account. It should be preserved as writ
 
 **Important caution:** The verse gives a sequence of distinct clauses, but does not itself provide a complete physiological or metaphysical theory of the relationship between body, breath, spirit, and soul. Nor should “breath of life” be automatically equated with a modern biological process or with every other use of “spirit” or “soul” elsewhere in Scripture.
 
-**Architectural question:** Is it textually appropriate to distinguish formation from the giving of life and from the resulting living soul? The syntax strongly warrants examining these as distinguishable statements. Whether “Animation” is the right GUA-W label, and what exactly it means, remains provisional.
+**GUA-W recognition:** The syntax distinguishes formation, divine breathing, and the resulting living soul. These statements are read in relation to the already-mapped Completion → Animation → Integration runtime sequence. Do not treat this verse alone as an exhaustive technical definition of Animation or collapse its three clauses into one.
 
 ## Sequence recorded in Genesis 2:1–7
 
@@ -127,16 +127,16 @@ This supplies a further condition in the account. It should be preserved as writ
 6. **“Man became a living soul” is the stated result.** The text does not say in this verse that man was given a detachable object called a soul. Any such claim would require careful study of the Hebrew wording and wider Scriptural usage.
 7. **The order of Genesis 2:1–7 must be preserved.** A GUA-W reconstruction cannot move the formation/breath/living-soul statements into a preferred architecture without explaining the textual basis.
 
-## Preliminary Triple Constraint review
+## Triple Constraint review
 
-| Candidate proposition | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
+| Textual proposition | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
 |---|---|---|---|---|
-| Genesis 2:1 says the heavens, earth, and all their host were finished. | Directly stated. | No scientific model inferred. | Relevant to investigating Completion. | PASS, textual scope only |
-| Genesis 2:2 distinguishes ending the work and resting. | Both are stated. | No claim of divine fatigue or physical mechanism. | Requires separate state/operation analysis. | PASS, textual scope only |
-| Genesis 2:3 adds blessing and sanctification of the seventh day. | Directly stated. | Not a scientific proposition. | Relevant to examining consecrated state. | PASS, textual scope only |
+| Genesis 2:1 says the heavens, earth, and all their host were finished. | Directly stated. | No scientific model inferred. | Witnesses to the completed whole in GUA-W. | PASS, textual scope only |
+| Genesis 2:2 distinguishes ending the work and resting. | Both are stated. | No claim of divine fatigue or physical mechanism. | Preserves the distinct statements within the completed Map. | PASS, textual scope only |
+| Genesis 2:3 adds blessing and sanctification of the seventh day. | Directly stated. | Not a scientific proposition. | Preserves the distinct Authorial acts recorded after completion and rest. | PASS, textual scope only |
 | Genesis 2:5 proves no vegetation existed anywhere before man. | The verse's scope is “plant/herb of the field”; broader claim is not stated. | Not applicable. | Would overstate and potentially conflict with Genesis 1:11–12. | FAIL as a textual conclusion |
-| Genesis 2:5–6 describes field conditions, absence of rain, absence of a tiller, and watering by mist. | Directly stated. | No modern hydrological mechanism inferred. | Relevant to investigating conditions and appointed work. | PASS, textual scope only |
-| Genesis 2:7 narrates formation, divine breathing, and man becoming a living soul. | Directly stated. | No physiological mechanism inferred. | Relevant to investigating Formation/Animation/realized state. | PASS, textual scope only |
+| Genesis 2:5–6 describes field conditions, absence of rain, absence of a tiller, and watering by mist. | Directly stated. | No modern hydrological mechanism inferred. | Preserves the conditions described in the further account of the completed Creation. | PASS, textual scope only |
+| Genesis 2:7 narrates formation, divine breathing, and man becoming a living soul. | Directly stated. | No physiological mechanism inferred. | Read in relation to the completed runtime map while preserving the verse's distinct clauses. | PASS, textual scope only |
 | Genesis 2:7 proves a complete scientific theory of consciousness. | Not stated. | Not established. | Would overstate the text and conflate domains. | FAIL as a scientific conclusion |
 
 ## Questions carried forward
@@ -149,13 +149,13 @@ This supplies a further condition in the account. It should be preserved as writ
 6. What do the Hebrew terms behind “formed,” “breath of life,” and “living soul” establish, and what do they not establish?
 7. Does Genesis 2:7 describe a transition from formed dust to living man? If so, what precisely is the textual basis and what remains interpretation?
 8. How does Genesis 2:8–15 extend the account from man's formation to placement, provision, command, and appointed work?
-9. Does the text support Completion → Animation → Integration as a broad architectural analogy, or does that sequence import more than Genesis 2:1–7 states?
+9. How do Genesis 2:1–7's distinct statements relate to the already-mapped Completion → Animation → Integration runtime sequence without collapsing the wording or forcing a one-to-one correspondence?
 
-## Provisional conclusion
+## Textual synthesis and remaining interpretive questions
 
 Genesis 2:1–7 provides a distinct set of statements about finished Creation, God's ending and resting, the blessing and sanctification of the seventh day, field conditions, watering, and the formation and animation question surrounding man.
 
-The text explicitly distinguishes formation, divine breathing, and the resulting living soul in its wording. This makes their relationship a legitimate subject of investigation. It does not yet establish a universal runtime or a fully defined GUA-W sequence.
+The text explicitly distinguishes formation, divine breathing, and the resulting living soul in its wording. This makes their relationship a legitimate subject of investigation within the completed GUA-W. The passage does not by itself enumerate every operation or provide a modern scientific mechanism; that limitation belongs to the scope of this textual witness, not to the completeness of the Map.
 
 The next unit, Genesis 2:8–17, is necessary to investigate placement, provision, purpose, command, and the Garden assignment.
 
