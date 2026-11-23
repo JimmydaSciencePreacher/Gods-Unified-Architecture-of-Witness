@@ -1,7 +1,7 @@
 # Repository-Wide Audit — Triple Constraint Law
 
 **Audit date:** 2026-11-17  
-**Repository:** `JimmydaSciencePreacher/Revised-GUA-W`  
+**Repository:** God's Unified Architecture of Witness — current repository  
 **Scope:** Root governance and architecture files; all directories and tracked Markdown files present on `main`; cross-file consistency, status language, provenance, and the relationship between Scriptural, theological, scientific, and architectural claims.
 
 ## 1. Audit purpose and governing premise
@@ -157,12 +157,6 @@ The repository contains two substantially overlapping files:
 They cover the same broad subject with overlapping conclusions. The first has more claim-level treatment of area scaling, dimensional reduction, information preservation, entropy, Page curve, and horizon encoding. The second provides a more concise technical framing of AdS/CFT, bulk/boundary encoding, Ryu–Takayanagi, and Page-curve scope.
 
 **Required editorial action:** Keep both until their provenance and unique claims are compared line by line. Then either consolidate into one authoritative audit with a provenance note, or label one as a superseded companion. Do not silently delete historical material.
-
-### 4.7 Original repository inventory is explicitly preliminary
-
-`audits/ORIGINAL-REPOSITORY-INVENTORY.md` says it is a first-pass structural and content triage and does not independently verify every citation, Scriptural interpretation, or scientific proposition in the original repository. It also notes that the ER=EPR trace and Diagnostic Case Trace 004 were not fully reviewed in that initial pass.
-
-That disclosure is appropriate. It must not be represented elsewhere as a completed scientific audit of the original repository. The newer evidence audits address some of those gaps, but the inventory itself remains an initial triage record.
 
 ### 4.8 The completed-architecture file should remain the authority for architectural vocabulary
 
