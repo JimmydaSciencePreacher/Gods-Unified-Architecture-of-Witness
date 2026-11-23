@@ -1,4 +1,4 @@
-# Genesis 2–3 — Recognized Relationships and Operational Distinctions
+# Genesis 2–3 — Recognized GUA-W Relationships and Operational Distinctions
 
 **Status:** Investigation record of Scriptural relationships and operational distinctions already examined against the completed GUA-W. This is not a queue for constructing, adding, or completing Gears.  
 **Source scope:** Genesis 2:18–25 and Genesis 3:1–13, read with Genesis 2:16–17 and the later accountability statement in Genesis 3:17.  
@@ -26,9 +26,9 @@ This record does not create new revelation, doctrine, or architecture. It identi
 
 **Recognized formulation:** Desirability is not admissibility. Apparent benefit does not override an established constraint.
 
-**Architecture relationship:** Recognized in relation to Admissibility and Constraint. It may be a gate or audit operation rather than a new layer.
+**GUA-W relationship:** This is recognized within the established Admissibility and Constraint relationships; it is not a new layer or a pending Gear.
 
-**Limits:** The passage supports the distinction in this narrated event. It does not yet establish a universal algorithm or complete decision procedure for all domains.
+**Scope:** The passage witnesses to this distinction in the narrated event. A universal decision procedure for every domain is a separate claim and is not required for the Map to be complete.
 
 **Finding:** The narrated event distinguishes apparent desirability from admissibility under the Author's prior command. This is recognized in relation to the existing Admissibility and Constraint elements. The event does not by itself define a universal decision algorithm.
 
@@ -130,7 +130,7 @@ This record does not create new revelation, doctrine, or architecture. It identi
 
 **Observed operation/distinction:** Distinguish recognition of a source from alignment or response to that source. Knowing who is speaking does not by itself establish that the recipient is aligned with the speaker.
 
-**Architecture relationship:** A distinction within existing Witness-state / Alignment concepts rather than a new Gear.
+**GUA-W relationship:** This is a distinction within the established Witness-state and Alignment concepts, not a new Gear.
 
 **Limits:** This is a textual and theological observation about the narrated response, not a complete theory of alignment.
 
@@ -149,7 +149,7 @@ This record does not create new revelation, doctrine, or architecture. It identi
 
 **Observed operation/distinction:** Distinguish classification/naming from correspondence and joining. Naming creatures does not fulfill the relational need; the corresponding partner is made and brought by God, recognized by Adam, and the marital joining is stated.
 
-**Architecture relationship:** Related to the existing Joining Primacy investigation. It may provide a specific relational example, but must not be generalized prematurely into a universal integration law.
+**GUA-W relationship:** This is a Scriptural witness to the established Joining Primacy relationship. It is not a proposal for a new Gear or a claim that marriage language is a universal mathematical law.
 
 **Limits:** Genesis 2:24 explicitly concerns the marital relation. “One flesh” must not be reduced to a mathematical identity or used by itself to prove a universal law of integration. The persons remain distinguishable in the text.
 
@@ -157,13 +157,13 @@ This record does not create new revelation, doctrine, or architecture. It identi
 
 ## 8. Relationship among the observations
 
-These seven observations need not represent seven independent Gears. They may describe interacting sub-operations or audit dimensions within existing architectural relationships:
+These observations are recognized as interacting distinctions within existing architectural relationships, not as seven new Gears:
 
-- Reference–Admissibility may govern the evaluation-to-action sequence.
-- Information Provenance may be part of Reception and Witness-state auditing.
-- Influence–Action–Responsibility may be an accountability distinction.
-- Recognition–Alignment may refine an existing state variable.
-- Correspondence–Joining may belong to the existing Joining Primacy investigation.
+- Reference–Admissibility governs the evaluation-to-action distinction under the Author's Word.
+- Information Provenance is recognized within Reception and Witness-state.
+- Influence–Action–Responsibility preserves the distinctions among influence, action, and accountability.
+- Recognition–Alignment is recognized within the existing Alignment and Witness-state relationships.
+- Correspondence–Joining is recognized within the established Joining Primacy relationship.
 
 These observations may describe interacting aspects of the existing Admissibility, Constraint, Reception, Runtime, Alignment, Witness-state, and Joining relationships. Similarity of wording is not enough to collapse distinct operations; difference of wording is not enough to invent additional Gears. The completed architecture remains the reference for recognizing their relationships.
 
@@ -187,7 +187,7 @@ The text-grounded observations are not being held as a construction queue. They 
 2. Compare Information Provenance with later Scriptural examples of faithful and unfaithful witnesses, false testimony, and preservation of the Word.
 3. Compare Influence–Action–Responsibility with other passages where deception, command, knowledge, and action are distinguished.
 4. Test Correspondence–Joining against Jesus' use of Genesis 2:24 in Matthew 19:4–6 and Mark 10:6–9, without turning the marriage passage into a universal mathematical formula.
-5. Compare Recognition–Alignment with the existing GUA-W Witness-state and Alignment definitions before adding any new term.
+5. Read Recognition–Alignment within the existing GUA-W Witness-state and Alignment definitions; no new term is required.
 6. Compare these observed distinctions with the existing Runtime and State descriptions; do not infer a missing architectural element merely because a passage reveals a previously unrecorded relationship.
 
 ## Source documents
