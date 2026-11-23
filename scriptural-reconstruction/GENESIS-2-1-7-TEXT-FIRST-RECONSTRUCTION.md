@@ -1,6 +1,6 @@
 # Genesis 2:1–7 — Text-First Reconstruction, Unit 5
 
-**Status:** Scriptural reconstruction within the completed GUA-W; the Author's operative account is read from the Author/Word hierarchy. Scientific mechanisms and genuinely unresolved textual questions remain qualified individually.  
+**Status:** Witness record within the completed GUA-W. The Map is complete; this document records the wording and distinctions of Genesis 2:1–7 as the Author's account continues after the completion declaration. Questions of textual interpretation remain questions about the passage, never conditions on the completeness of the Map.  
 **Scope:** KJV Genesis 2:1–7  
 **Method:** Preserve the wording and narrated order, recognizing this passage as the continuation of the Author's account after the Creation is declared finished. Read its distinctions within the completed GUA-W; do not force a one-to-one technical label onto an individual clause.
 
@@ -31,7 +31,7 @@
 
 The KJV wording says “on the seventh day” God ended His work. The relation between this wording and the six days of making must be handled carefully; do not quietly change the verse's wording to avoid the interpretive question.
 
-**Architectural observation:** The text presents an ending of the work and rest. Whether “rest” means cessation from the work of making, enthronement, presence, or another theological dimension requires broader Scriptural investigation. It must not be reduced to human fatigue.
+**Witnessed distinction:** The Author's ending of His work and His rest are separately stated. The Hebrew wording and wider Scriptural use clarify the meaning of rest; it must not be reduced to human fatigue or made synonymous with finishing.
 
 ## Genesis 2:3 — Blessing and sanctification of the day
 
@@ -85,7 +85,7 @@ The verse does not say that no vegetation of any kind existed anywhere. It speci
 
 This supplies a further condition in the account. It should be preserved as written. The verse does not specify a modern meteorological mechanism or establish a complete hydrological model.
 
-**Architectural observation:** Genesis 2:5–6 describes conditions involving rain, tilling, mist, and watering. These are not to be collapsed into a generic “activation” label without demonstrating what role each statement plays.
+**Witnessed distinction:** Genesis 2:5–6 records distinct conditions involving rain, tilling, mist, and watering. They remain distinct statements within the Author's account and are not interchangeable with one another.
 
 ## Genesis 2:7 — Formation, breath, and living soul
 
@@ -117,15 +117,15 @@ This supplies a further condition in the account. It should be preserved as writ
 | 2:6 | Mist goes up from the earth and waters the ground |
 | 2:7 | God forms man from dust, breathes the breath of life, and man becomes a living soul |
 
-## Observations for architectural reconstruction
+## Distinctions witnessed within the completed Map
 
-1. **Finished work is stated before the account turns to the field conditions and man's formation.** This is a textual order. It raises a question about the relation between the finished Creation and later described conditions, but does not by itself settle the chronology or mechanics of every event.
+1. **Finished work is stated before the account turns to the field conditions and man's formation.** This is the order in the Author's account. It preserves the distinction between the completed whole and the particular field conditions subsequently described; questions about the scope and timing of those conditions concern interpretation of the passage, not whether the Map is complete.
 2. **Ending work, resting, blessing, and sanctifying are distinguishable statements.** Do not compress them into one generic “completion” event.
 3. **Genesis 2:5 is specific in its wording.** It speaks of plants and herbs “of the field,” rain, and a man to till the ground. It does not explicitly negate Genesis 1's vegetation account.
 4. **The mist and rain statements must both be retained.** Verse 5 says God had not caused it to rain; verse 6 describes a mist watering the ground. Do not equate mist with rain without textual or linguistic evidence.
 5. **Formation and the giving of breath are separately narrated in Genesis 2:7.** This warrants investigation of their relationship; it does not license an invented technical mechanism.
 6. **“Man became a living soul” is the stated result.** The text does not say in this verse that man was given a detachable object called a soul. Any such claim would require careful study of the Hebrew wording and wider Scriptural usage.
-7. **The order of Genesis 2:1–7 must be preserved.** A GUA-W reconstruction cannot move the formation/breath/living-soul statements into a preferred architecture without explaining the textual basis.
+7. **The order of Genesis 2:1–7 must be preserved.** The completed GUA-W is not reconstructed from these clauses. The witness preserves their narrated order and recognizes their relationship to the established Completion → Animation → Integration sequence.
 
 ## Triple Constraint review
 
@@ -139,7 +139,7 @@ This supplies a further condition in the account. It should be preserved as writ
 | Genesis 2:7 narrates formation, divine breathing, and man becoming a living soul. | Directly stated. | No physiological mechanism inferred. | Read in relation to the completed runtime map while preserving the verse's distinct clauses. | PASS, textual scope only |
 | Genesis 2:7 proves a complete scientific theory of consciousness. | Not stated. | Not established. | Would overstate the text and conflate domains. | FAIL as a scientific conclusion |
 
-## Questions carried forward
+## Further textual questions
 
 1. What does “all the host of them” mean in Genesis 2:1, in light of the wider KJV?
 2. How do “finished,” “ended,” “rested,” “blessed,” and “sanctified” differ in Genesis 2:1–3?
@@ -151,13 +151,13 @@ This supplies a further condition in the account. It should be preserved as writ
 8. How does Genesis 2:8–15 extend the account from man's formation to placement, provision, command, and appointed work?
 9. How do Genesis 2:1–7's distinct statements relate to the already-mapped Completion → Animation → Integration runtime sequence without collapsing the wording or forcing a one-to-one correspondence?
 
-## Textual synthesis and remaining interpretive questions
+## Textual synthesis within the completed Map
 
 Genesis 2:1–7 provides a distinct set of statements about finished Creation, God's ending and resting, the blessing and sanctification of the seventh day, field conditions, watering, and the formation and animation question surrounding man.
 
-The text explicitly distinguishes formation, divine breathing, and the resulting living soul in its wording. This makes their relationship a legitimate subject of investigation within the completed GUA-W. The passage does not by itself enumerate every operation or provide a modern scientific mechanism; that limitation belongs to the scope of this textual witness, not to the completeness of the Map.
+The text explicitly distinguishes formation, divine breathing, and the resulting living soul in its wording. This makes their relationship a legitimate subject of investigation within the completed GUA-W. This witness does not enumerate every detail of the architecture or provide a modern scientific mechanism. Neither is required for the Map to be complete.
 
-The next unit, Genesis 2:8–17, is necessary to investigate placement, provision, purpose, command, and the Garden assignment.
+The next unit, Genesis 2:8–17, continues the Author's account of placement, provision, purpose, command, and the Garden assignment. Its testimony is read within the completed Map.
 
 ## Source
 
