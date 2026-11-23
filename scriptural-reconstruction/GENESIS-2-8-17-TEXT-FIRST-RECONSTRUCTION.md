@@ -1,8 +1,8 @@
 # Genesis 2:8–17 — Text-First Reconstruction, Unit 6
 
-**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
+**Status:** Witness record within the completed GUA-W. The Map is complete; this document records the Author's words and actions in Genesis 2:8–17 and recognizes their place within the established architecture. Questions about particular historical, lexical, or scientific details do not qualify the completeness of the Map.  
 **Scope:** KJV Genesis 2:8–17  
-**Method:** Record what the passage states and its narrated order, then recognize its supported relationship to the completed GUA-W. This investigation does not create or revise the architecture.
+**Method:** Witness what the passage states and preserve its narrated order. Recognize the established GUA-W relationships already present; do not construct, revise, test, or validate the Map.
 
 ## Genesis 2:8 — The Garden planted and man placed
 
@@ -14,7 +14,7 @@
 
 **Sequence:** The man is described as already formed (2:7); God plants the Garden and puts the man there (2:8).
 
-**Architectural question:** The text distinguishes forming man from placing him in the Garden. Placement is not the same statement as formation. This is a sound basis for examining assignment, environment, and appointed location, without presuming a technical meaning for “Integration.”
+**GUA-W recognition:** The Author distinguishes man's formation from His subsequent planting of the Garden and placement of the man there. Formation and placement are distinct actions within the completed account; the prepared place and appointed activity are read within the established architecture.
 
 ## Genesis 2:9 — Trees, provision, and two named trees
 
@@ -41,7 +41,7 @@ The verse identifies provision and also distinguishes two particular trees by na
 
 This describes water provision and a division into four heads. The verse does not identify a modern geographical location or supply enough information by itself to reconstruct a verified map of the rivers.
 
-**Architectural question:** The text gives a source, a watering function, and a subsequent division. This may be relevant to questions about provision and propagation, but a direct GUA-W mapping remains proposed.
+**GUA-W recognition:** The Author's account identifies a river, its watering function, and its division into four heads. Source, provision, and division remain distinct relations within the completed Map. The river is not reduced to a modern network or physical branching analogy.
 
 ## Genesis 2:11–14 — Four river names and geographical descriptions
 
@@ -68,7 +68,7 @@ This verse is central to the investigation of Purpose and appointed work. The pu
 
 **Important distinction:** The verse does not say that man authored the Garden, created its order, or had authority to redefine the Creator's command. The stated work is within a Garden planted by God and a place into which God put the man.
 
-**Architectural question:** Does this supply a bridge between a prepared environment and an appointed function within it? The text supports investigating that relationship. Whether the GUA-W term should be Purpose, Assignment, Stewardship, or a more precise distinction requires further study.
+**GUA-W recognition:** Genesis 2:15 directly witnesses to Authorial Purpose expressed through a prepared place and appointed activity. Within the completed architecture, Purpose is the recognized relationship connecting the Author's appointed conditions and boundaries with the realization of the assigned function. The man receives his work; he does not author the Garden or its order.
 
 ## Genesis 2:16 — Permission and command
 
@@ -80,7 +80,7 @@ This verse is central to the investigation of Purpose and appointed work. The pu
 
 The verse is both a command and a broad grant of permission. The permission is not unlimited in the sense of having no boundary, because verse 17 immediately states a specific prohibition.
 
-**Architectural question:** The passage places provision and permission before the explicit boundary. Record both; do not describe the command only as restriction.
+**GUA-W recognition:** The Author gives provision and broad permission, then states a specific boundary and consequence. Permission and prohibition are distinct parts of the same Author-given command; neither is the source of the other.
 
 ## Genesis 2:17 — A specific prohibition and stated consequence
 
@@ -106,7 +106,7 @@ The verse gives a boundary and a stated consequence. It does not say that Adam w
 | 2:16 | God commands; broad permission to eat of the Garden's trees |
 | 2:17 | Specific prohibition and stated consequence |
 
-## Observations for architectural reconstruction
+## Relationships witnessed within the completed Map
 
 1. **Formation precedes placement in the narrated account.** Genesis 2:7 describes man's formation and becoming a living soul; verse 8 describes God putting him in the Garden.
 2. **The environment is prepared by God.** The Garden is planted by God; trees grow; a river waters it. Man is not described as the author of this environment.
@@ -115,21 +115,21 @@ The verse gives a boundary and a stated consequence. It does not say that Adam w
 5. **Permission comes with a boundary.** The man may freely eat of every tree except the specifically prohibited tree. A faithful reconstruction must preserve both the breadth of permission and the limit.
 6. **The Creator/creature hierarchy is explicit in the narrative.** God plants, places, commands, and defines the boundary; man receives the place, work, permission, and command.
 7. **The text does not say man is passive or without meaningful action.** Dressing and keeping are real appointed work. Derivative agency does not make man the Author.
-8. **The river description includes both watering and division.** These are two statements in the text; do not force them into a universal propagation mechanism.
+8. **The river description includes both watering and division.** These are distinct statements in the Author's account and retain their established relationship within the completed architecture; do not replace them with a modern physical analogy.
 9. **The named trees must not be prematurely reduced to abstractions.** Their meanings and role in the later narrative require continued Scriptural investigation.
 
-## Preliminary Triple Constraint review
+## Triple Constraint review
 
-| Candidate proposition | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
+| Textual statement or interpretation | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
 |---|---|---|---|---|
 | God plants the Garden and places the formed man there. | Directly stated in 2:8. | No scientific claim inferred. | Preserves Creator/creature distinction. | PASS, textual scope only |
-| Genesis 2:15 explicitly states man's appointed work in the Garden. | Directly stated. | No ecological mechanism inferred. | Relevant to Purpose/Assignment. | PASS, textual scope only |
+| Genesis 2:15 explicitly states man's appointed work in the Garden. | Directly stated. | No ecological mechanism inferred. | Witnesses to the established Authorial Purpose and appointed-function relationship. | PASS, architectural recognition |
 | Genesis 2:16–17 gives broad permission with a specific prohibition and consequence. | Directly stated. | Not a scientific proposition. | Relevant to authority, boundary, and obedience. | PASS, textual scope only |
 | Man created or authored the Garden's order. | Contradicted by the text's attribution of planting to God. | Not applicable. | Violates Author primacy. | FAIL |
-| Purpose is a bridge from Constraint to Structure in the complete GUA-W architecture. | Genesis 2:15 provides relevant textual material, but does not state this technical formula. | No scientific bridge established here. | Potential mapping; needs broader derivation. | PROPOSED / UNRESOLVED |
+| Genesis 2:15 witnesses to Authorial Purpose expressed through prepared place, appointed boundary, and assigned activity. | The verse states the man's appointed work; the architectural relationship is read within the completed Map, not offered as a literal translation. | This is the established Purpose relationship in GUA-W. | ALIGNED with the completed Map |
 | The rivers can be mapped with certainty to modern river courses from these verses alone. | Not established by the text alone. | Requires independent historical/geographical evidence. | Would overstate the source. | UNRESOLVED |
 
-## Questions carried forward
+## Further textual and disciplinary questions
 
 1. How do “dress” and “keep” function in the KJV and underlying Hebrew, and how are these terms used elsewhere in Scripture?
 2. Is Genesis 2:15 describing stewardship, service, cultivation, guardianship, or a combination? What does the wider Scriptural usage establish?
@@ -140,11 +140,11 @@ The verse gives a boundary and a stated consequence. It does not say that Adam w
 7. Does the text support a sequence of formation → placement → appointed work → command/boundary? If so, what is the proper scope of that sequence?
 8. How should this passage be compared with scientific concepts of ecological niche, stewardship, and system constraints without equating theological command with physical law?
 
-## Provisional conclusion
+## GUA-W recognition
 
-Genesis 2:8–17 gives the clearest explicit purpose statement encountered so far in the reconstruction: the man is placed in the Garden “to dress it and to keep it.” The passage also records provision, broad permission, a specific prohibition, and a stated consequence.
+Genesis 2:8–17 witnesses to the Author's prepared Garden, man's placement, provision, appointed work, broad permission, specific prohibition, and stated consequence. Genesis 2:15 explicitly states the man's appointed purpose: he is placed in the Garden “to dress it and to keep it.”
 
-This is significant for investigating Purpose, appointed work, Constraint, and the relationship between Creator-given order and derivative human agency. It does not by itself prove a complete GUA-W bridge from Constraint to Structure. That relationship must be derived carefully from the full text and separately assessed for scientific coherence.
+These statements are read within the completed GUA-W's established Purpose, Constraint, Structure, and derivative-agency relationships. They are witnesses to the Map, not evidence from which AI must construct or prove it. Particular ecological, geographical, or other scientific comparisons remain subject to their own evidence and scope.
 
 ## Source
 
