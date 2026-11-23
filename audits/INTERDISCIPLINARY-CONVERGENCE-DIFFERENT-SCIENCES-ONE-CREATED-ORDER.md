@@ -84,10 +84,12 @@ Do not confuse:
 - a relationship with a one-way sequence;
 - cross-disciplinary convergence with proof by consensus.
 
-## Current status
+## Current status and scope distinction
 
-**Research question established. Structure not yet declared.**
+**The GUA-W Map is complete.** The earlier phrase “Structure not yet declared” referred only to whether the particular cross-disciplinary evidence assembled in this research record established a scientific correspondence or synthesis. It did not mean that GUA-W Structure was absent, undecided, or awaiting construction.
 
-The evidence may reveal a coherent relational structure across differentiated sciences. Whether, how, and at what level that structure can be responsibly identified remains to be investigated. Preserve counterexamples, limits, and unresolved questions rather than forcing a premature unification.
+The scientific question remains bounded: which relationships among differentiated sciences are genuinely evidenced, at what level, and with what limits? Preserve counterexamples, uncertainty, and domain distinctions rather than forcing a premature scientific unification. An open scientific synthesis is not an open architectural definition.
 
-The guiding hierarchy remains: **Author → Word → Creation → Witness.** The sciences are differentiated witnesses investigating properties and relationships within Creation; they are not the Author and do not become the authority over the Source.
+The governing hierarchy remains: **Author → Word → Creation → Witness.** The Author's Creation is complete as given in the Genesis 1–2 foundation. Human sciences are downstream disciplines of investigation, carried out by derivative witnesses after Genesis 3; they study aspects and regularities of the created order but neither originate it nor author its governing structure. Their observations, instruments, models, and interpretations can be partial or mistaken without making the Creation Blueprint incomplete.
+
+**Present disposition:** This document records a bounded scientific convergence question within the completed Map. Its unresolved empirical and comparative questions concern the human scientific witness, not the completion or existence of GUA-W.
