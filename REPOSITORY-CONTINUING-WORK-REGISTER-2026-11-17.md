@@ -1,7 +1,7 @@
 # Repository Audit and Continuing-Work Register
 
 **Audit date:** 2026-11-17  
-**Repository:** `JimmydaSciencePreacher/Revised-GUA-W`  
+**Repository:** God's Unified Architecture of Witness — current repository  
 **Branch reviewed:** `main`  
 **Purpose:** Record what is present, identify stale navigation/statuses, and distinguish completed records from continuing investigations. This is a documentation and work-control audit, not a revision of the completed GUA-W.
 
@@ -30,7 +30,7 @@ This was a repository-structure and cross-file status audit. It was **not** a fr
 1. The root documents state the completed architecture and the Author → Word → Creation → Witness hierarchy.
 2. The Triple Constraint Law is stated as Biblical compliance, Scientific coherence, and GUA-W consistency.
 3. The root documents correctly clarify that Theology is a Science within GUA-W, using Scriptural, linguistic, historical, and canonical methods appropriate to its subject. This must not be confused with experimental physics or biology.
-4. The completed architecture document distinguishes the architecture sequence from the twelve-step diagnostic trace preserved in the original repository.
+4. The completed architecture document distinguishes the architecture sequence from a diagnostic trace; a case-investigation procedure is not the architecture itself.
 5. The Rejected and Unresolved Register identifies U-001 through U-006 as unresolved and records U-007's authority-transfer question as resolved. Older U-007 supplements are explicitly marked historical/superseded; do not revive them as current conclusions.
 6. The Genesis 2–3 relationship record has been reframed in its body as recognition of existing relationships, not a Gear-construction queue.
 
@@ -144,7 +144,6 @@ A new governing methodological principle has been recorded in [Cross-Disciplinar
 - Current root documents explicitly define the name as **God's Unified Architecture of Witness**, and explicitly say the word is “God's,” not “Grand.” This is internally consistent across the current README, Governing Principles, and completed-architecture presentation. It is recorded here as the repository's current governing terminology; do not silently change it.
 - The filename `GUA-W-CANDIDATE-GEARS-FROM-GENESIS-2-3.md` retains the historical word “CANDIDATE,” but its current document title and body say it is a recognition record, not a construction queue. The body governs its current purpose; a filename cleanup is optional editorial work, not an architecture change.
 - Two holography/black-hole-information audits remain in the tree. Their relationship has been compared: they are overlapping but complementary and are retained pending any future consolidation justified by source-level work. A separate primary-source verification now records the foundational literature check.
-- The original repository inventory is explicitly preliminary. It must not be described as a complete scientific or claim-level audit of the original repository.
 
 ## 8. Overall disposition
 
@@ -658,7 +657,7 @@ Created `scriptural-reconstruction/PURPOSE-APPOINTED-FUNCTION-CONSTRAINT-STRUCTU
 
 
 ### 2026-11-19 — Earlier internal pathway recovered
-The original repository's Identity, Change, and Persistence investigation records **Constraint ↔ Structure ↔ Pattern ↔ Runtime ↔ State ↔ Witness** and proposes Structure → Pattern; Runtime → Differentiation → Propagation; State → Identity → Persistence; Witness → Registration. These are preserved as historical candidate mappings, not canonical definitions. Framework does not appear in that pathway and is found only in the inspected older AI-generated diagram. Purpose is now explicitly carried as an Authorial question through the source-recovery investigation, with Genesis 1:14–18 and 2:8–17 as textual anchors. Provenance/approval of the older mapping remains unverified. See `scriptural-reconstruction/PURPOSE-APPOINTED-FUNCTION-CONSTRAINT-STRUCTURE-GENESIS-1-2.md`, Section 10.
+A historical Identity, Change, and Persistence investigation record describes **Constraint ↔ Structure ↔ Pattern ↔ Runtime ↔ State ↔ Witness** and proposes Structure → Pattern; Runtime → Differentiation → Propagation; State → Identity → Persistence; Witness → Registration. These are preserved as historical candidate mappings, not canonical definitions. Framework does not appear in that pathway and is found only in the inspected older AI-generated diagram. Purpose is now explicitly carried as an Authorial question through the source-recovery investigation, with Genesis 1:14–18 and 2:8–17 as textual anchors. The provenance and approval status of that older mapping remain unverified. See `scriptural-reconstruction/PURPOSE-APPOINTED-FUNCTION-CONSTRAINT-STRUCTURE-GENESIS-1-2.md`, Section 10.
 
 ## 7. New Scriptural investigation — Daniel 12:1–13 (2026-11-20)
 
