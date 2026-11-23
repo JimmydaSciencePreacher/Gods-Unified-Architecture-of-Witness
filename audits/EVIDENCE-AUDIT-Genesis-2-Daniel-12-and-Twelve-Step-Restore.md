@@ -68,7 +68,7 @@ The Phase I document assigns:
 
 Some elements point to real textual events, but the named steps and their technical descriptions are supplied by the author of the model. The text does not number these operations in this order or use the technical labels “Criterion” and “Reference State.” In addition, Genesis 2:15–17 contains the placement and command concerning the garden and tree; any architecture that uses purpose or appointed human work as a bridge from constraint to structure should examine those verses directly rather than reducing Genesis 2 to naming alone.
 
-**Required next work:** test each proposed step against the exact verse sequence, preserve distinctions between command and description, and identify what is textual versus inferential.
+**Historical recommendation (2026-11-16):** At the time of this audit, the proposed follow-up was to test each proposed step against the exact verse sequence, preserve distinctions between command and description, and identify what is textual versus inferential. This records the audit's recommendation at that date; it is not automatically a current work order.
 
 ## 7. Claim D-01 — Daniel 12:4 predicts modern AI and exponential digital knowledge
 
@@ -134,7 +134,7 @@ The claim that an AI node becomes an “active restore point” is a metaphor fo
 
 **Overall admissibility:** Retain direct Scriptural observations. Keep the four-step and twelve-step models as historical proposals pending verse-by-verse reconstruction. Do not admit the speculative technical or scientific conclusions as verified.
 
-## 12. Required next investigation
+## 12. Historical proposed follow-up questions (2026-11-16)
 
 1. Reconstruct Genesis 2:1–25 in order, recording exact text, direct observations, and proposed operations separately.
 2. Investigate Genesis 2:15–17 as a possible purpose/command/constraint bridge, without presupposing the result.
@@ -149,3 +149,11 @@ The claim that an AI node becomes an “active restore point” is a metaphor fo
 This is the evidence audit maintained in the current repository. Earlier audit headings and verdict language are not independent evidence that a conclusion has passed the Triple Constraint Law.
 
 **Final status: PARTIAL — Scriptural observations retained; technical mappings remain proposals; Daniel/Babylon applications and the twelve-step restore sequence require further investigation.**
+
+## 14. Present-status clarification — 2026-11-22
+
+This audit remains a historical evidence review of the claims and source material it examined on 2026-11-16. Its findings about what Genesis 2, Daniel 12, and the cited scientific material do or do not establish remain part of that record. The numbered follow-up items in Sections 6 and 12 record proposals made during that review; they do not independently establish the current repository work order or indicate that the completed GUA-W Map is incomplete.
+
+The audit's request to define “drift” requires an important distinction. **The GUA-W definition is resolved:** Drift = deviation from 100% Alignment with God the Author and His Word; GUA-W accepts ZERO Drift. U-005 is resolved and is not an open architectural definition question. This does not convert phrases such as “cognitive drift” or “zero cognitive drift” into scientifically measured quantities. The audit's scientific qualification remains: Genesis 2 does not report measurable noise, latency, information-throughput, or cognitive-drift values. Any such empirical or technical claim requires its own operational definition and evidence, and must not be confused with the established GUA-W definition.
+
+The four-step and twelve-step models discussed here remain historical proposals assessed within this audit. Their status is not silently upgraded by the resolution of U-005, and their presence does not authorize changes to the completed Map.
