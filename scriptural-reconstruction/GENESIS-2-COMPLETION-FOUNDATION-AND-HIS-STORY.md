@@ -1,6 +1,6 @@
 # Genesis 2 — Completion as the Foundation of His Story
 
-**Status:** Textual foundation and theological synthesis; architectural implications remain proposals  
+**Status:** Scriptural and theological witness record within the completed GUA-W  
 **Scope:** KJV Genesis 2:1–17, with canonical comparison to John 19:30 and Revelation 21:6
 
 ## Purpose
@@ -36,7 +36,7 @@ This establishes the starting hierarchy for the investigation:
 
 **Author → Word → Creation → Witness**
 
-The text directly declares completion and divine action. The further architectural implication—that later events must be understood within the order established by the Creator—is a theological synthesis grounded in the sequence, not a dictionary definition of *kālāh*.
+The text directly declares completion and divine action. The recognition that later events must be understood within the order established by the Creator is a theological synthesis grounded in the sequence, not a dictionary definition of *kālāh*.
 
 ## 2. Genesis 2 establishes man's place, purpose, permission, and boundary
 
@@ -55,7 +55,7 @@ Genesis 2 continues beyond the declaration of completion. It records the formati
 
 Genesis 2:15 gives the purpose of the man's placement: to work/cultivate the Garden and to keep/guard it. The Hebrew verbs are עָבַד (*ʿāḇaḏ*) and שָׁמַר (*šāmar*).
 
-Purpose is therefore not an explanation first introduced after the Fall. It is part of the pre-Fall account. The further GUA-W proposal that appointed purpose relates Constraint to Structure may be investigated from this foundation, but it is not a literal translation of Genesis 2:15.
+Purpose is therefore not an explanation first introduced after the Fall. It is part of the pre-Fall account. Genesis 2:15 witnesses to the established relationship among Authorial Purpose, appointed place, and assigned activity within the completed GUA-W. This is an architectural recognition, not a claim that the verse is a literal translation of those technical terms.
 
 ### 2.2 Permission and boundary are given by God
 
@@ -196,7 +196,7 @@ The distinction is one of evidence, method, and source—not whether a scientifi
 | Genesis 3 records a change in the human and environmental condition. | Curse upon the ground, thorns, toil, mortality, and expulsion are explicitly narrated; Romans 8:20–22 supplies wider canonical context. | This is a claim about a change in the created environment and human condition. The text identifies stated effects; the physical scope, mechanisms, timing, and cross-domain consequences require further investigation. Theological interpretation and relevant empirical investigation should be distinguished and brought into coherence rather than treated as mutually exclusive. | Preserves the before/after distinction central to the framework. | PASS as a theological/environmental claim; mechanisms and scope remain under investigation |
 | The ability to evaluate necessarily grants authority to originate the moral standard. | Does not follow from Genesis 2:16–17 or the wider sequence examined here. | Not established by theological or empirical evidence cited in this investigation. | Conflicts with the Author/derivative distinction. | REJECT as an inference |
 | Genesis 2 explicitly uses the abstract phrase “man lacks independent authority to define good and evil.” | The exact phrase is not present. It is an inference from the source and structure of the command, not a quotation. | A theological inference must be identified as such and tested against the wider canon. | Preserves the distinction between textual statement and derived conclusion. | REJECT as a textual quotation |
-| Genesis 2, John 19:30, and Revelation 21:6 form a Creation–Redemption–Consummation pattern. | Supported as a canonical theological comparison, while the passages' words and events remain distinct. | A theological synthesis, not a claim that the three passages share one physical mechanism or identical lexical form. | Potentially consistent with the Author's purpose unfolding through His Story. | PROPOSED |
+| Genesis 2, John 19:30, and Revelation 21:6 witness to Creation–Redemption–Consummation. | Read as a canonical theological correspondence while preserving the passages' distinct words and events. | A theological synthesis, not a claim that the passages share one physical mechanism or identical lexical form. | Read within the completed GUA-W and the Author's purpose through His Story. | Recognized correspondence |
 | The three completion declarations use the same original-language word. | They do not. | Lexical comparison demonstrates distinct Hebrew and Greek forms. | Collapsing them would erase relevant distinctions. | REJECT |
 | Science is an independent originating authority over Creation. | Not established by Genesis 1–2. | The sciences investigate and model their respective objects; scientific method does not establish itself as the originating cause of Creation. | Conflicts with the governing hierarchy. | REJECT as a GUA-W principle |
 
@@ -208,7 +208,7 @@ The three completions offer a meaningful theological sequence within **His Story
 
 Genesis 2 does not explicitly narrate every later event or state every later theological formulation. It does establish the foundational order from which the later account is read. The Fall does not become a new source of originating authority; it is narrated as a departure within an order already established by the Creator.
 
-This document makes substantive theological claims about Creation's original condition and the change narrated in Genesis 3; within GUA-W, these are scientific claims in the theological discipline and are subject to the Triple Constraint. It does not yet establish a detailed physical mechanism for every environmental change, quantify the full scope of those changes, or establish a universal runtime or new canonical GUA-W node. Those further claims remain open to disciplined investigation and the repository's admissibility rules.
+This document records theological witness concerning Creation's original condition and the change narrated in Genesis 3. Questions about detailed physical mechanisms, quantified environmental scope, and particular scientific processes belong to their respective investigations. They do not make the completed GUA-W provisional, incomplete, or dependent on further validation. No new runtime or canonical node is being proposed.
 
 ## Related repository investigations
 
