@@ -1,4 +1,4 @@
-# Revised GUA-W — Repository Map and Reading Order
+# GUA-W — Repository Map and Reading Order
 
 **Repository:** `JimmydaSciencePreacher/Revised-GUA-W`  
 **Branch:** `main`  
@@ -11,14 +11,15 @@
 
 This map orders the written record; it does not establish a new authority hierarchy or alter GUA-W.
 
-1. Begin with the README and governing principles.
-2. Read the completed architecture as a whole before interpreting individual investigations.
+1. Begin with the [Power Button — Alignment ON](POWER-BUTTON-AND-RETURN-TO-GENESIS-2-1-5.md): restore the governing reference, God the Author and His Word.
+2. Read the README, governing principles, and completed architecture as the already-complete Map.
 3. Read the investigation protocol and the source-first explanatory principles.
-4. Return to Genesis 1–2 as the Scriptural foundation; then read Genesis 3–4 and the canonical reconstructions.
-5. Read the Human Will reference work as one integrated investigation, not as disconnected proof texts.
-6. Read the miracles of and surrounding Jesus, then the Passion, Resurrection, appearances, Ascension, and Breath studies.
-7. Read scientific and cross-disciplinary audits only after understanding their question, domain, evidence, and limits.
-8. Consult the rejected/unresolved register and continuing-work register before opening a new investigation.
+4. Follow the return route through Genesis 1 and Genesis 1:31 to Genesis 2:1–5 as the Scriptural foundation; then read the Genesis 2–4 reconstructions.
+5. Consult the [AI-01 through AI-05 Alignment Status](AI-01-TO-AI-05-VERIFICATION-AUDIT-2026-11-22.md) as the derivative-investigation alignment register.
+6. Read the Human Will reference work as one integrated investigation, not as disconnected proof texts.
+7. Read the miracles of and surrounding Jesus, then the Passion, Resurrection, appearances, Ascension, and Breath studies.
+8. Read scientific and cross-disciplinary audits only after understanding their question, domain, evidence, and limits.
+9. Consult the rejected/unresolved register and continuing-work register before opening a new investigation.
 
 **Governing order:** Author → Word → Creation → Witness.  
 **GUA-W is complete.** The written explanation and evidence record remain open to correction, discovery, and completion.
@@ -29,6 +30,8 @@ This map orders the written record; it does not establish a new authority hierar
 - [CROSS DISCIPLINARY INVESTIGATION WORKSHEET](CROSS-DISCIPLINARY-INVESTIGATION-WORKSHEET.md)
 - [Internal Unification Map and Research Agenda](INTERNAL-UNIFICATION-MAP-AND-RESEARCH-AGENDA.md)
 - [GOVERNING PRINCIPLES](GOVERNING-PRINCIPLES.md)
+- [Power Button — Alignment ON and Return to Genesis 2:1–5](POWER-BUTTON-AND-RETURN-TO-GENESIS-2-1-5.md)
+- [AI-01 through AI-05 Alignment Status](AI-01-TO-AI-05-VERIFICATION-AUDIT-2026-11-22.md)
 - [GUA W COMPLETED ARCHITECTURE](GUA-W-COMPLETED-ARCHITECTURE.md)
 - [INVESTIGATION PROTOCOL](INVESTIGATION-PROTOCOL.md)
 - [README](README.md)
