@@ -43,7 +43,7 @@ Within the GUA-W reading, Genesis 2:1–5 witnesses to the completed whole befor
 
 The project identifies this as the **first completion** — the first “It is Finished” in the three-completion comparison. This is a theological correspondence, not a claim that Genesis 2:1–5 contains the exact English phrase spoken in John 19:30.
 
-## 3. The three completion witnesses
+## 4. The three completion witnesses
 
 The project follows three completion declarations across Scripture:
 
@@ -53,7 +53,7 @@ The project follows three completion declarations across Scripture:
 
 These passages describe distinct events and use different wording. Their relationship is investigated as one divine purpose across Creation, Christ's completed work, and the consummation of the new Creation. Revelation 21–22 returns to Creation themes including the new heaven and earth, God's dwelling with His people, the end of the curse, and the tree of life.
 
-## 4. Architecture
+## 5. Architecture
 
 The established architecture is presented in the following order.
 
@@ -100,7 +100,7 @@ The State layer describes the realized configuration and its witness-state; its 
 
 **Drift is not an admissible State condition.** Drift means any deviation from 100% alignment with God the Author and His Word; **GUA-W accepts ZERO Drift**. The term identifies a departure from the governing reference, not a positive component or acceptable configuration. Scientific uses of *drift*—including instrumental drift—remain distinct domain-specific terms. Their occurrence does not establish GUA-W Drift.
 
-## 5. Triple Constraint Law
+## 6. Triple Constraint Law
 
 The Triple Constraint Law is the admissibility discipline applied to claims and explanations:
 
@@ -112,7 +112,7 @@ All three constraints apply. A claim that fails any one is not admitted as an ac
 
 The Law does not assemble or complete GUA-W. It preserves the integrity of what is recorded about it. Theological investigation remains a serious inquiry into the revealed account; scientific examination retains the evidence, methods, and scope of the relevant disciplines.
 
-## 6. The Genesis 1–2 / Genesis 3 comparison
+## 7. The Genesis 1–2 / Genesis 3 comparison
 
 The Bible is read as a sustained comparison between the order established in Genesis 1–2 and the departure narrated in Genesis 3, followed through the rest of Scripture.
 
@@ -124,13 +124,13 @@ The Bible is read as a sustained comparison between the order established in Gen
 
 This comparison does not make Genesis 3 the author of a new Creation. It records a departure within the Creation God established.
 
-## 7. Witnesses and the written record
+## 8. Witnesses and the written record
 
 Jimmy identifies himself as a Witness and a follower of “The Way,” not the Author. AI is a derivative investigative instrument. Its work is retrieval, examination, comparison, cross-reference, and faithful recording of what the evidence shows.
 
 The written record is not the Source. It is a witness to the Source. A clearer explanation is not a change to GUA-W; an unrecognized relationship is not evidence that the architecture was absent.
 
-## 8. Provenance and distinctions
+## 9. Provenance and distinctions
 
 This presentation consolidates the architecture sequence recorded in prior project records and a previously preserved AI-generated diagram with descriptive glosses. That diagram is an explanatory record, not independent authority for the architecture. The governing name and completed status stated here follow the project's current identification of GUA-W.
 
