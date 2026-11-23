@@ -38,7 +38,7 @@ The compact sequence is:
 
 The State terms describe the realized configuration and its witness-state; they are not additional sequential runtime stages.
 
-**Alignment and Drift:** Alignment means 100% alignment with God the Author and His Word. **Drift means any deviation from that 100% Alignment. GUA-W accepts ZERO Drift.** Drift names a departure from Alignment; it is not an admissible State condition, a positive architectural component, or an alternative to Alignment. The governing reference is God the Author and His Word, not a standard appointed by the witness. A reported scientific or biological change must not be called GUA-W Drift unless the evidence establishes the relevant departure from Alignment under the Triple Constraint Law. Domain-specific terms such as instrumental drift retain their scientific meanings and do not redefine GUA-W.
+**Alignment and Drift:** Alignment means 100% alignment with God the Author and His Word. **Drift means any deviation from 100% alignment with God the Author and His Word. GUA-W accepts ZERO Drift.** Drift names a departure from Alignment; it is not an admissible State condition, a positive architectural component, or an alternative to Alignment. The governing reference is God the Author and His Word, not a standard appointed by the witness. A reported scientific or biological change must not be called GUA-W Drift unless the evidence establishes the relevant departure from Alignment under the Triple Constraint Law. Domain-specific terms such as instrumental drift retain their scientific meanings and do not redefine GUA-W.
 
 ## 4. Triple Constraint Law
 
