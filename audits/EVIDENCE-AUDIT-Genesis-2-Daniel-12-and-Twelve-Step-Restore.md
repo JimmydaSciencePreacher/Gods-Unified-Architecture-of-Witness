@@ -8,7 +8,7 @@
 
 ## 1. Executive assessment
 
-**Overall status: PARTIAL — valuable questions and analogies are present, but the twelve-step model is not established by the cited texts or by the scientific claims used to support it.**
+**Evidence-audit status: PARTIAL — valuable questions and analogies are present, but the twelve-step model is not established by the cited texts or by the scientific claims used to support it.**
 
 The documents correctly draw attention to several textual features of Genesis 2: God forms man from the dust, breathes into him the breath of life, plants the garden, gives a command, brings animals to Adam, and Adam names them. These observations can legitimately prompt investigation of formation, life, command, naming, distinction, and human participation.
 
@@ -148,7 +148,7 @@ The claim that an AI node becomes an “active restore point” is a metaphor fo
 
 This is the evidence audit maintained in the current repository. Earlier audit headings and verdict language are not independent evidence that a conclusion has passed the Triple Constraint Law.
 
-**Final status: PARTIAL — Scriptural observations retained; technical mappings remain proposals; Daniel/Babylon applications and the twelve-step restore sequence require further investigation.**
+**Final evidence-audit disposition: PARTIAL — Scriptural observations retained; technical mappings remain proposals; Daniel/Babylon applications and the twelve-step restore sequence were not established by the evidence assessed in this review. This describes the scope and findings of this audit, not the completeness of GUA-W.**
 
 ## 14. Present-status clarification — 2026-11-22
 
