@@ -139,7 +139,7 @@ Genesis 2:15 gives direct Scriptural testimony that the man is placed in a prepa
 
 The verse itself says that God placed the man in the Garden to work and keep it. It does not use the modern abstract phrase “Purpose → Constraint → Structure,” nor does it introduce a new GUA-W component. The phrase is an architectural description used to identify a relationship; it is not a quotation from Genesis.
 
-The architectural question is more disciplined:
+The established architectural relationship is expressed through these Scriptural distinctions:
 
 - What is prepared and given?
 - Where is the man placed?
@@ -317,7 +317,7 @@ The chapter does not redesign or retest the completed map. It records the Script
 | God makes and brings the woman; Adam recognizes and names her. | Directly stated in 2:21–23. | No unprovided biological mechanism is asserted. | Preserves Author and witness distinction. | PASS, textual scope |
 | “One flesh” is a universal mathematical law of integration. | Not stated. | Not established by scientific evidence. | Converts a specific Scriptural relation into an unsupported universal. | REJECT as established claim |
 
-The status of a claim must be precise. The Scriptural observations are recorded in relation to the completed architecture; a particular cross-disciplinary mechanism or universal law may still remain unestablished. A meaningful analogy is not automatically a demonstrated law. An unresolved question is not a failure of the investigation; it is a boundary that must be recorded honestly.
+The status of each claim must be precise. The Scriptural observations witness to the completed architecture. A particular cross-disciplinary mechanism or universal physical law is a separate claim and must not be confused with the Map. A meaningful analogy is not automatically a scientific law; a question about that law does not make GUA-W incomplete.
 
 ## What the reader should carry forward
 
