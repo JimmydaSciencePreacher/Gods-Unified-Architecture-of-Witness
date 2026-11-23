@@ -1,8 +1,15 @@
 # Internal Unification Map and Research Agenda
 
-**Status:** Investigative synthesis plan; not a change to the completed GUA-W  
+**Status:** Evidence-integration agenda for the completed GUA-W; not an architectural completion plan or a change to the Map  
 **Prepared:** 2026-11-18  
+**Current status rebaseline:** 2026-11-22  
 **Governing order:** Author → Word → Creation → Witness
+
+## Current status — 2026-11-22
+
+GUA-W is complete and mapped. This document organizes relationships among Scriptural, scientific, and explanatory records; it does not identify missing parts of the Map. Historical task descriptions below retain their original dates and provenance. They must not be read as evidence that the architecture is unfinished or that an AI witness is authorized to add definitions.
+
+U-005 (Drift's governing definition) is resolved. U-001 through U-004 remain bounded evidence questions about particular cross-domain claims and persistence conditions; their open status does not make GUA-W incomplete. See [Rejected and Unresolved Register](REJECTED-AND-UNRESOLVED.md) for their current scope.
 
 ## Purpose
 
@@ -267,7 +274,7 @@ This investigation follows the Genesis 1–2 synthesis question concerning the r
 
 
 ### Historical pathway recovered — 2026-11-19
-The original repository's Identity, Change, and Persistence investigation records the historical research pathway **Constraint ↔ Structure ↔ Pattern ↔ Runtime ↔ State ↔ Witness**, with proposed placements Structure → Pattern; Runtime → Differentiation → Propagation; State → Identity → Persistence; Witness → Registration. This is historical investigative evidence, not the complete current governing sequence. Framework is absent from that earlier pathway, but its current status and provenance are no longer open: Jimmy's Chapter 9 (added 2026-11-18) explicitly defines and places Framework between Structure and Pattern. Preserve the historical pathway as evidence of development, not as a missing-component report. Purpose remains an Authorial question, now distinguished from appointed creaturely function. See Section 12 of the purpose/constraint/structure investigation.
+An earlier Identity, Change, and Persistence investigation record preserves the historical research pathway **Constraint ↔ Structure ↔ Pattern ↔ Runtime ↔ State ↔ Witness**, with proposed placements Structure → Pattern; Runtime → Differentiation → Propagation; State → Identity → Persistence; Witness → Registration. This is historical investigative evidence, not the complete current governing sequence. Framework is absent from that earlier pathway, but its current status and provenance are no longer open: Jimmy's Chapter 9 (added 2026-11-18) explicitly defines and places Framework between Structure and Pattern. Preserve the historical pathway as evidence of development, not as a missing-component report. Purpose remains an Authorial question, now distinguished from appointed creaturely function. See Section 12 of the purpose/constraint/structure investigation.
 
 ### Ninth-pass canonical finding — Will/Purpose and the Word (2026-11-19)
 
@@ -277,7 +284,7 @@ The investigation preserves **Author → Word → Creation → Witness** and the
 
 **Chapter 15 cross-check completed:** The existing chapter already connects God's Will and the Word in James 1:18 (“Of his own will begat he us with the word of truth”), and compares this with 1 Peter 1:3, 23 and John 1:12–13. This is a relevant canonical witness to Will/Word in God's saving work, not a description of the original physical Creation and not a technical sequence. The new pass records the connection and preserves the distinction between Creation and new birth. See Section 20.9 of the purpose investigation.
 
-**Next comparison:** Return to the created-order question separately: recover the strongest existing Genesis 1–2 evidence and approved definitions for Constraint and Structure, and determine whether the present uncertainty is a documentation issue, an unresolved relationship, or both. Do not use the Will/Word synthesis to supply a missing technical definition.
+**Historical next comparison (recorded 2026-11-19):** The investigation proposed a source-level comparison of Genesis 1–2 evidence and the established Constraint and Structure definitions. This records the research question at that stage; it is not an instruction to complete, reconstruct, or add to GUA-W. Any further comparison belongs to explanatory and evidentiary work within the completed Map, and must not invent a technical definition.
 
 
 
@@ -342,7 +349,7 @@ This is a relationship of authorship and derivative participation, not a claim t
 - **Genesis 1–2:** God creates, speaks, makes, divides, names, blesses, and appoints. The earth and waters bring forth at His command; Adam receives a place and work, and names creatures God formed and brought to him. The created participation is real but derivative.
 - **Human Will and Salvation:** human perception, desire, choice, hearing, believing, and response are real. The synthesis distinguishes these responses from the originating source of spiritual birth and from God's saving initiative. The exact chronology of every saving operation remains bounded and must not be forced.
 - **Witness, Knowledge, Measurement, and Registration:** a witness or instrument can receive/register evidence, and a human investigator can interpret it accurately or mistakenly. Measurement may involve interaction with the phenomenon; that does not make the instrument the author of the underlying reality.
-- **Identity, Change, and Persistence:** specified properties may persist under stated conditions through change. This does not prove that every aspect of an entity's identity persists unchanged; the cross-domain architectural mapping remains unresolved.
+- **Identity, Change, and Persistence:** specified properties may persist under stated conditions through change. This does not prove that every aspect of an entity's identity persists unchanged; the proposed cross-domain equivalence remains an open evidentiary question, not an incomplete part of GUA-W.
 
 ### What is unified—and what remains distinct
 
