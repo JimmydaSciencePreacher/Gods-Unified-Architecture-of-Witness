@@ -42,7 +42,7 @@ The second audit has a more granular claim structure and more explicit entropy/d
 
 **Decision: do not delete either audit in this pass.** Both are valid records of separate review passes against the same source trace. The differences are complementary, and the comparison above makes their overlap and distinct contributions explicit.
 
-For future work:
+Navigation notes for any later reviewer of this evidence record:
 - Use the claim-numbered **Holographic Principle and Black-Hole Information** audit as the more granular claim-level reference.
 - Use **Holography and the Black-Hole Information Problem** as a concise thematic review and cross-check, especially for its explicit RT/HRT and reconstruction discussion.
 - Use this comparative review to prevent repeated work and to identify any claim requiring a single consolidated source check.
@@ -58,7 +58,7 @@ For future work:
 
 **Admissibility:** Retain the scoped physics findings as disciplinary findings. Retain GUA-W comparisons as questions or limited analogies until independently supported. Do not upgrade the audits' PARTIAL status to PASS merely because the two records agree.
 
-## 6. Remaining work
+## 6. Bounded follow-up options for this evidence record
 
 1. Verify each external reference against the cited primary paper or authoritative technical source, beginning with the area law, AdS/CFT, RT/HRT, Page curve, and quantum-extremal-surface/island results.
 2. Check whether the two audits' bibliographies support each specific claim, rather than relying on a citation's general relevance to the topic.
@@ -70,4 +70,4 @@ For future work:
 
 The two audits are **overlapping but complementary**, not exact duplicates. Their shared scientific boundaries are mutually consistent. Their differences are worth preserving until primary-source verification is completed. This comparison resolves the repository's immediate duplication question without asserting that the underlying scientific questions are closed.
 
-**Status: COMPARISON COMPLETE; EXTERNAL CLAIM-LEVEL VERIFICATION STILL OPEN.**
+**Evidence-record status: COMPARISON COMPLETE; EXTERNAL CLAIM-LEVEL VERIFICATION STILL OPEN.** This status describes the source-verification coverage of these two physics audits. It does not describe or qualify the completeness of GUA-W.
