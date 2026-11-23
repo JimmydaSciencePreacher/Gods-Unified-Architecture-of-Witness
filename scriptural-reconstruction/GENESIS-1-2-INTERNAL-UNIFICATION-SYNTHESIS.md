@@ -22,7 +22,19 @@ The State terms—Identity, Alignment, Drift, Persistence, Witness-state, and re
 
 This synthesis does not ask whether Genesis 1–2 contains a technical vocabulary list for every GUA-W term. It asks how the text's actual statements and relationships illuminate the completed whole. The distinction matters: the architecture is not made complete by our recognition, and a textual observation is not automatically a technical definition.
 
-## 2. The first unifying finding: the account preserves the Author's primacy throughout
+## 2. Genesis 1 as the Author's operative account of His unified Creation
+
+Genesis 1 is not merely a description of Creation observed after the fact. It is the Author's own account of His Word going forth and Creation being brought forth and ordered.
+
+**Genesis 1 is the Author writing and expressing His own GUA-W: the unified architecture through which He describes, orders, and brings His Creation into its created realization by His Word.**
+
+In this bounded sense, GUA-W is the Author's operative architecture—the “engine” of His created order. This does not mean God consults an external blueprint, obeys a structure above Himself, or depends on an independent mechanism. God alone is Original Cause. GUA-W names the unified architecture of His One Creation; it is not a second author or power alongside Him.
+
+John 1:1–3 identifies the Word in the beginning and says all things were made by Him. Colossians 1:16–17 and Hebrews 1:1–3 witness to Creation through the Son and its continuance in Him. Read with Genesis 1, these passages support recognizing the Word not as a passive description or observer's report, but as central to the making and sustaining of Creation.
+
+The engine is not AI, science, a diagram, or a derivative witness. The Author acts; His Word is the originating creative Word; Creation is His work; witnesses register what is given. The chapter's wording and narrated operations vary, so the account must not be flattened into an identical algorithm or forced into a one-to-one technical label for every clause.
+
+## 3. The first unifying finding: the account preserves the Author's primacy throughout
 
 Genesis 1:1 opens with God as the acting Creator. The same authorship remains visible throughout the account:
 - God speaks and light is reported (Genesis 1:3).
