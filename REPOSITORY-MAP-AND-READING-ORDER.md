@@ -243,6 +243,6 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 
 ## Inventory note
 
-The recursive tree contains **179 entries**, of which **174 are files** and **5 are directories** (verified against the live `main` tree on 2026-11-20). This map is generated from the tracked tree and is intended as navigation, not as a claim that every individual scientific, historical, linguistic, or Scriptural claim has received a fresh line-by-line audit.
+The recursive tree contains **182 entries**, of which **177 are files** and **5 are directories** (verified against the live `main` tree on 2026-11-22). This map is generated from the tracked tree and is intended as navigation, not as a claim that every individual scientific, historical, linguistic, or Scriptural claim has received a fresh line-by-line audit.
 
 A document's presence here does not make every statement in it canonical. The completed-architecture presentation and the governing principles control architectural terminology; source texts and domain-appropriate evidence control the claims made about their subjects.
