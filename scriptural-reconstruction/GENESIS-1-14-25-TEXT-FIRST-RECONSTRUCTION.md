@@ -1,8 +1,8 @@
 # Genesis 1:14–25 — Text-First Reconstruction, Unit 3
 
-**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
+**Status:** Scriptural reconstruction within the completed GUA-W; the Author's operative account is read from the Author/Word hierarchy. Scientific mechanisms and genuinely unresolved textual or domain-specific questions remain qualified individually.  
 **Scope:** KJV Genesis 1:14–25  
-**Method:** Preserve the text's own sequence, distinctions, and wording; then recognize their relationship to the established GUA-W terminology where supported.
+**Method:** Preserve the text's own sequence, distinctions, and wording while recognizing how the Author's unified operative architecture is expressed in the account. Do not force a one-verse/one-stage formula.
 
 ## Genesis 1:14–19 — Lights in the firmament
 
@@ -124,18 +124,18 @@ The text reports that God made the land creatures and repeats “after his kind,
 6. **Evaluation is a narrated event.** “God saw that it was good” appears after the described results in verses 18, 21, and 25. Do not assume evaluation is a human observer's measurement or a physical measurement process.
 7. **Blessing and multiplication occur after the fifth-day creation/evaluation statement.** This ordering is important when investigating animation, propagation, and appointed capacity.
 
-## Preliminary Triple Constraint review
+## Triple Constraint review
 
-| Candidate proposition | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
+| Textual finding | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
 |---|---|---|---|---|
-| Genesis 1:14–15 states functions for the lights in the command. | Directly stated. | No astrophysical mechanism inferred. | Relevant to investigating purpose/function. | PASS, textual scope only |
-| Genesis 1:16–18 reports making, placement, functions, and evaluation. | Directly stated. | No modern cosmology inferred. | Supports keeping operations distinct for analysis. | PASS, textual scope only |
-| Genesis 1:21–22 narrates creature creation/bringing forth, then blessing and multiplication. | Directly stated. | No abiogenesis or population model inferred. | Relevant to distinguishing realization from propagation. | PASS, textual scope only |
-| Genesis 1:24–25 attributes bringing forth to earth and making to God. | Both statements appear in the text. | No mechanism inferred. | Requires preserving source/means/result distinctions. | PASS, textual scope only |
+| Genesis 1:14–15 states functions for the lights in the command. | Directly stated. | No astrophysical mechanism inferred. | Witnesses to Authorial Purpose and appointed function already located within the completed Map. | PASS, textual scope only |
+| Genesis 1:16–18 reports making, placement, functions, and evaluation. | Directly stated. | No modern cosmology inferred. | Witnesses to distinct Authorial acts of making, setting, functional appointment, and evaluation. | PASS, textual scope only |
+| Genesis 1:21–22 narrates creature creation/bringing forth, then blessing and multiplication. | Directly stated. | No abiogenesis or population model inferred. | Witnesses to the established distinction between creature realization and subsequent Propagation. | PASS, textual scope only |
+| Genesis 1:24–25 attributes bringing forth to earth and making to God. | Both statements appear in the text. | No mechanism inferred. | Preserves the Author as Original Cause while retaining the text's statements about created participation. | PASS, textual scope only |
 | Genesis 1:22 proves a complete scientific theory of reproduction. | Not stated. | Not established by the passage as a scientific study. | Overstates the evidence. | FAIL as a scientific conclusion |
 | “After his kind” is identical to a modern species definition. | Not established by wording alone. | Requires separate biological and textual analysis. | Would conflate vocabularies. | UNRESOLVED; do not assert equivalence |
 
-## Questions carried forward
+## Textual questions for further study
 
 1. Why are the functions of the lights included in the command before their making and placement are narrated?
 2. What distinction, if any, should be drawn between making, setting, ruling, dividing, and giving light?
@@ -145,11 +145,11 @@ The text reports that God made the land creatures and repeats “after his kind,
 6. What does Genesis 2:5–15 add about purpose, preparation, and appointed work?
 7. Does the Scriptural sequence support a distinction between the existence of a living creature and its subsequent animation or fruitfulness? The wording and context must decide; do not import this distinction in advance.
 
-## Provisional conclusion
+## GUA-W recognition
 
 Genesis 1:14–25 develops the narrated account through stated functions, making and placement, creatures brought forth, divine creation, evaluation, blessing, and multiplication. It supplies important textual distinctions for investigating Purpose, Structure, Differentiation, and Propagation.
 
-The passage does not yet provide a technical GUA-W runtime or a scientific mechanism. Each proposed architectural relationship remains subject to full textual context and the Triple Constraint Law.
+The passage is read within the completed GUA-W and witnesses to its established relationships among Authorial command, appointed function, created participation, making and placement, creature realization, evaluation, blessing, and Propagation. It does not supply a modern astrophysical, biological, or other physical mechanism; those domain-specific questions remain subject to evidence and the Triple Constraint Law.
 
 ## Source
 
@@ -224,6 +224,6 @@ This helps prevent four collapses: command into Constraint, function into Struct
 
 **God remains the Original Cause and Author. Within His command, the text can identify functions for created things, describe the earth or waters bringing forth, and then record blessing and propagation. These relations are connected, but they are not interchangeable.**
 
-This is a stronger internal unification of Genesis 1:6–25. It does not yet define the technical hinge between Constraint and Structure. It does clarify that the investigation must distinguish Authorial command, appointed function, created participation, and subsequent propagation rather than compressing them into one operation.
+This cross-unit synthesis recognizes how Genesis 1:6–25 expresses the completed architecture: Authorial command, appointed function, created participation, and subsequent Propagation are related but distinct. Constraint and Structure retain their established meanings in GUA-W; these verses are witnesses to the Map, not an unfinished attempt to invent its hinge.
 
 **Disposition:** Record this as a cross-unit textual finding. Keep the completed architecture unchanged. Continue into Genesis 1:26–31 to examine whether humanity's image, blessing, dominion, and multiplication extend or differ from the animal account.
