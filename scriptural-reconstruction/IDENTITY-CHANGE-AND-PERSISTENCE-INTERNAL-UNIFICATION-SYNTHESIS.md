@@ -40,7 +40,7 @@ This is a mathematical result with a defined scope. It does not establish that t
 
 **What mathematics contributes:** A claim of invariance must identify the transformation or equivalence under which the property is preserved. “Unchanged” is incomplete unless one states what property is being compared and what transformations are allowed.
 
-**GUA-W comparison:** This can serve as a bounded mathematical analogy for the preservation of selected properties under defined conditions. The architectural mapping remains unresolved pending a precise GUA-W definition and a separate admissibility review.
+**GUA-W comparison:** This can serve as a bounded mathematical analogy for the preservation of selected properties under defined conditions. Whether this particular mathematical relation corresponds to a specific GUA-W relationship remains unresolved pending a clearly stated comparison and a separate admissibility review. This evidentiary question does not leave the completed GUA-W definitions open.
 
 ## 4. Physics: conservation is not the same as an unchanged configuration
 
