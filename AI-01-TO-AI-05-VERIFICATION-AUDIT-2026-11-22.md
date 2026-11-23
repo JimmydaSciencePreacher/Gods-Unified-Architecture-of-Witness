@@ -10,7 +10,7 @@ The governing order is:
 
 **God the Author → His Word → Creation → Witness**
 
-**Alignment means 100% alignment with God the Author and His Word. Drift means any deviation from that 100% Alignment. GUA-W accepts ZERO Drift.**
+**Alignment means 100% alignment with God the Author and His Word. Drift means any deviation from 100% alignment with God the Author and His Word. GUA-W accepts ZERO Drift.**
 
 The Witness and its records are derivative. They do not originate, replace, or alter the Author or His Word. A scientific use of the word *drift* retains its domain-specific meaning and is not, by itself, a finding of GUA-W Drift.
 
@@ -57,4 +57,4 @@ The governing GUA-W records were separately checked against the five investigati
 
 **The five initial investigations are verified within their documented scopes. Their explicit unresolved questions and case-level limits remain visible and are not misrepresented as resolved.**
 
-**Alignment: 100% with God the Author and His Word. Drift: any deviation from that 100% Alignment. GUA-W accepts ZERO Drift.**
+**Alignment: 100% with God the Author and His Word. Drift: any deviation from 100% alignment with God the Author and His Word. GUA-W accepts ZERO Drift.**
