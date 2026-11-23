@@ -1,8 +1,8 @@
 # Genesis 1:26–31 — Text-First Reconstruction, Unit 4
 
-**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
+**Status:** Scriptural reconstruction within the completed GUA-W; the Author's operative account is read from the Author/Word hierarchy. Scientific mechanisms and genuinely unresolved theological or textual questions remain qualified individually.  
 **Scope:** KJV Genesis 1:26–31  
-**Method:** Record the actual sequence and wording, and examine how the text witnesses to the existing GUA-W distinctions, including Identity, Purpose, Dominion, Integration, and Expression. Do not force every term into a passage that does not address it.
+**Method:** Preserve the actual sequence and wording and recognize how this part of the Author's account expresses the established GUA-W distinctions, including Identity, Purpose, Dominion, Integration, and Expression. Do not force a term into a passage that does not address it.
 
 ## Genesis 1:26 — Counsel, image, likeness, dominion
 
@@ -42,7 +42,7 @@ Textual observations:
 
 This is a consequential change in the narrated sequence: the command is addressed to mankind. It follows the report of mankind's creation in verses 26–27.
 
-**Architectural question:** Does this establish an appointed human role within an already created order? The text supports examining that question. The exact GUA-W category—Purpose, Function, Stewardship, or another term—must not be fixed without wider context, especially Genesis 2:15.
+**GUA-W recognition:** The Author's speech joins mankind's making in His image and likeness with an appointed dominion. Genesis 1:28 further records blessing and the human commission; Genesis 2:15 gives the specific placement and appointed work. This is read within the established Purpose/Function relationships, not as an independent human authority to author the order.
 
 ## Genesis 1:29 — Provision
 
@@ -100,18 +100,18 @@ The evaluation now refers to “every thing that he had made,” not merely one 
 6. **The sixth-day closure is not yet the seventh-day completion statement.** Genesis 2:1–3 must be read next to identify what “finished,” “rested,” and “sanctified” add.
 7. **The text does not state a human authority to author the order.** Dominion is a delegated role within the created order described by the passage; any fuller account of its limits must be drawn from Scripture, not assumed.
 
-## Preliminary Triple Constraint review
+## Triple Constraint review
 
-| Candidate proposition | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
+| Textual finding | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
 |---|---|---|---|---|
 | Mankind is created in God's image and likeness. | Directly stated in vv. 26–27. | Not a scientific proposition in this textual audit. | Must preserve Creator/creature distinction. | PASS, textual scope only |
-| The text states a human commission involving fruitfulness, multiplication, subduing, and dominion. | Directly stated in v. 28. | No ecological or biological mechanism inferred. | Relevant to investigating appointed function/purpose. | PASS, textual scope only |
-| Provision for mankind and other living creatures is described. | Directly stated in vv. 29–30. | No complete diet/ecosystem model inferred. | Relevant to order and provision, mapping open. | PASS, textual scope only |
+| The text states a human commission involving fruitfulness, multiplication, subduing, and dominion. | Directly stated in v. 28. | No ecological or biological mechanism inferred. | Witnesses to the established relationship between Authorial Purpose and appointed human function. | PASS, textual scope only |
+| Provision for mankind and other living creatures is described. | Directly stated in vv. 29–30. | No complete diet/ecosystem model inferred. | Witnesses to the Author's ordered provision within the completed Map. | PASS, textual scope only |
 | Genesis 1:31 says the whole of what God made was “very good.” | Directly stated. | Not a scientific quality measurement. | Relevant to evaluating the realized creation. | PASS, textual scope only |
 | “Very good” means the same thing as “finished” in Genesis 2:1. | Not established by these verses. | Not applicable. | Would collapse distinct textual statements before examining them. | UNRESOLVED |
 | Dominion means mankind can alter the Creator's authority or define good and evil independently. | Not stated in this passage. | Not applicable. | Conflicts with Author/creature hierarchy. | FAIL as a GUA-W claim |
 
-## Questions carried forward
+## Textual questions for further study
 
 1. What does “image” and “likeness” mean across the full Scriptural witness?
 2. How is dominion bounded by the fact that God remains Creator and giver?
@@ -121,11 +121,11 @@ The evaluation now refers to “every thing that he had made,” not merely one 
 6. How does Genesis 2:5–15 specify purpose, placement, and appointed work?
 7. Does Genesis 2:7 distinguish formation from the giving of the breath of life, and what does that distinction actually establish?
 
-## Provisional conclusion
+## GUA-W recognition
 
 Genesis 1:26–31 narrates mankind's creation in God's image and likeness, the statement of male and female, blessing and human commission, provision, and God's comprehensive evaluation that everything He had made was very good. It gives a textual basis for investigating mankind's appointed role within Creation.
 
-The passage does not by itself define a complete GUA-W human runtime, a technical theory of identity, or the exact relation between “very good” and the completion statements in Genesis 2. Those questions remain open.
+This passage is read within the completed GUA-W. It records mankind's creation, identity in the image and likeness of God, male and female, blessing, appointed commission, provision, and the Author's comprehensive evaluation. Genesis 2:1–5 then declares the completed whole in its own wording. The distinct terms “very good,” “finished,” “rested,” “blessed,” and “sanctified” must remain distinct; recognizing the completed Map does not collapse the Scriptural sequence.
 
 ## Source
 
@@ -148,7 +148,7 @@ This investigation applies four questions together. They are one discipline, not
 
 Genesis 1:31 requires AI to ask:
 
-- Why does the verse bring “every thing that he had made” into one comprehensive object of God's seeing?
+- How does the verse bring “every thing that he had made” into one comprehensive object of God's seeing?
 - How does this totality relate to the differentiated works described in Genesis 1:1–30?
 - What is the force of “behold” and “very good” in the verse?
 - Why does the comprehensive evaluation precede the completion statement in Genesis 2:1?
