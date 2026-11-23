@@ -1,7 +1,7 @@
 # Investigation III — Passion, Resurrection, Appearances, and Ascension Register
 
 **Opened:** 2026-11-17  
-**Governing repository:** Revised-GUA-W  
+**Governing repository:** God's Unified Architecture of Witness  
 **Primary Scriptural text:** King James Version (KJV)  
 **Status:** OPEN — the central Resurrection study is written through Pass III; historical, textual-critical, and domain-specific examination remains in progress. Dedicated studies III.A–III.G and III.2 are recorded; their specifically identified questions remain open.
 
