@@ -142,7 +142,7 @@ Genesis 2:16–17 gives:
 | *Nephesh ḥayyah* is a human-exclusive term. | Contradicted by Genesis 1:20, 24, 30 and 2:19. | Shared phrase in Genesis 1–2. | REJECT |
 | Genesis 2:7's formation/breath/result sequence proves a complete scientific theory of life or consciousness. | Not stated. | Lexical data do not establish such a theory. | REJECT as scientific conclusion |
 | Genesis 2:15 explicitly assigns the man work and keeping of the Garden. | Directly stated. | *Abad* and *shamar* support work/cultivate and keep/guard. | PASS, textual observation |
-| Genesis 2:15 proves that the man's work is exclusively priestly worship. | Not established by this verse alone. | Requires broader usage/context. | UNRESOLVED |
+| Genesis 2:15 proves that the man's work is exclusively priestly worship. | Not stated by this verse alone. | The roots have wider uses; exclusivity requires broader context. | Do not assert an exclusive priestly-office claim from this verse alone |
 | Genesis 2:16 grants broad permission, then 2:17 states a prohibition and consequence. | Directly stated. | Hebrew verbal intensification supports emphatic permission/consequence. | PASS, textual observation |
 | *Mot tamut* means two distinct deaths. | Not supported by the idiom alone. | Infinitive absolute + finite verb is emphatic. | REJECT as lexical conclusion |
 | Genesis 2:15 witnesses to the relationship among Authorial Purpose, appointed place/boundary, and assigned activity. | The verse directly states the man's appointed work; the architectural relationship is read within the completed Map. | This is the established Purpose relationship in GUA-W, not a lexical definition. | ALIGNED |
