@@ -4,7 +4,7 @@ A Scripture-grounded presentation and evidence record for the **completed God's 
 
 The purpose of this repository is to **present the completed GUA-W and make visible how Scripture witnesses to the Author through His unified Creation**. GUA-W has always been established; this work clears accumulated interpretive dust and records what the evidence reveals.
 
-This repository does not replace or silently modify the original GUA-W repository. The original remains the historical source record. This repository presents the completed architecture first, alongside Scriptural foundations, textual investigations, evidence audits, and explanations that distinguish established architecture from the evolving clarity of its written presentation.
+This repository is the standalone current presentation of the completed GUA-W, alongside its Scriptural foundations, textual investigations, evidence audits, and explanations that distinguish the established architecture from the evolving clarity of its written presentation.
 
 ## Read GUA-W as a book
 
@@ -140,13 +140,13 @@ A PASS is always scope-limited, not a universal endorsement. These labels descri
 
 ## Working rules
 
-1. Search this repository and the original repository before repeating an investigation.
+1. Search this repository and its existing source records before repeating an investigation.
 2. Preserve source links, precise Scriptural references, context, assumptions, methods, and limitations.
 3. Keep textual findings, evidence, inferences, and interpretations visibly separate.
 4. Preserve unresolved questions rather than filling gaps with speculation.
 5. Do not silently promote an interpretation to established architecture or alter established terminology.
 6. Record material changes with rationale and provenance.
-7. Keep the original repository unchanged unless its owner separately authorizes a specific change.
+7. Keep changes within the scope of explicit authorization; preserve the provenance and integrity of source records.
 
 ## Complete repository map and reading order
 
@@ -203,7 +203,6 @@ The [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) inve
 - [Investigation Protocol](INVESTIGATION-PROTOCOL.md)
 - [Rejected and Unresolved Register](REJECTED-AND-UNRESOLVED.md)
 - [Blueprints](blueprints/)
-- [Original Repository Inventory and Initial Triage](audits/ORIGINAL-REPOSITORY-INVENTORY.md)
 - [Evidence Audit — Quantum Foundations and Unitarity](audits/EVIDENCE-AUDIT-Quantum-Foundations-and-Unitarity.md)
 - [Quantum Trace Coverage and Remaining Claims](audits/QUANTUM-TRACE-COVERAGE-AND-REMAINING-CLAIMS-2026-11-17.md)
 - [Primary-Source Verification — Quantum Foundations and Unitarity](audits/PRIMARY-SOURCE-VERIFICATION-QUANTUM-FOUNDATIONS-AND-UNITARITY-2026-11-17.md)
