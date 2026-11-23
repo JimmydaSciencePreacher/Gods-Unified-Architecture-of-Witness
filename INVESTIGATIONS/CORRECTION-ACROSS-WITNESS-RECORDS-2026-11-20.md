@@ -13,7 +13,7 @@ If the Witness must remain correctable, what is the proper relationship between 
 
 The Source is not revised by the witness's later understanding. The record is a derivative account of what the witness received, examined, recognized, and reported. A later witness may discover that the earlier record was inaccurate, incomplete, imprecise, or insufficiently qualified. Correcting the record changes the account; it does not change the Source.
 
-This distinction is already present in the repository's governing documents: GUA-W is complete, while the written presentation and evidence record may require clarification, correction, and completion. The continuing-work register records corrections and historical/superseded material rather than treating every prior statement as permanently authoritative.
+This distinction is already present in the repository's governing documents: GUA-W is complete. Its written presentation and evidence record may require clarification, correction, qualification, and further documentation. These are record-keeping activities; they do not complete, extend, or alter the Map. The continuing-work register records corrections and historical/superseded material rather than treating every prior statement as permanently authoritative.
 
 ## 1. What must AI ask to understand GUA-W?
 
@@ -141,7 +141,7 @@ A correction to the record is not a correction to God, the Word, Creation, or th
 
 **When two witnesses produce conflicting records of the same subject, how should the conflict be examined so that neither the earlier record nor the later witness is treated as the authority by default?**
 
-The next investigation should examine source priority, independent corroboration, context, method, and the exact point of disagreement, while preserving the distinction between evidence, interpretation, and project authority.
+At the time this record was written (2026-11-20), the proposed next investigation was to examine source priority, independent corroboration, context, method, and the exact point of disagreement, while preserving the distinction between evidence, interpretation, and project authority. This is a historical proposed next step, not by itself a current work order.
 
 ---
 
