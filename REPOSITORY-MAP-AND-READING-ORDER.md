@@ -1,8 +1,8 @@
 # GUA-W — Repository Map and Reading Order
 
-**Repository:** `JimmydaSciencePreacher/Revised-GUA-W`  
+**Repository:** `JimmydaSciencePreacher/Gods-Unified-Architecture-of-Witness`  
 **Branch:** `main`  
-**Inventory basis:** complete recursive Git tree inspection, 2026-11-18  
+**Inventory basis:** complete recursive Git tree inspection, 2026-11-22  
 **Purpose:** provide a reading path through the existing record and make every tracked document discoverable.
 
 ## How to read this repository
@@ -13,9 +13,10 @@ This map orders the written record; it does not establish a new authority hierar
 
 1. Begin with the [Power Button — Alignment ON](POWER-BUTTON-AND-RETURN-TO-GENESIS-2-1-5.md): restore the governing reference, God the Author and His Word.
 2. Read the README, governing principles, and completed architecture as the already-complete Map.
-3. Read the investigation protocol and the source-first explanatory principles.
-4. Follow the return route through Genesis 1 and Genesis 1:31 to Genesis 2:1–5 as the Scriptural foundation; then read the Genesis 2–4 reconstructions.
-5. Consult the [AI-01 through AI-05 Alignment Status](AI-01-TO-AI-05-VERIFICATION-AUDIT-2026-11-22.md) as the derivative-investigation alignment register.
+3. Read [Genesis 1 — The Authorial Architecture and Operative Word](GENESIS-1-THE-AUTHORIAL-ARCHITECTURE-AND-OPERATIVE-WORD.md): recognize Genesis 1 as the Author's own account of His Word and unified Creation in operation.
+4. Read the Genesis 1 book chapter and verse-by-verse reconstructions; follow the account through Genesis 1:31 to Genesis 2:1–5, the declaration of completion.
+5. Read the investigation protocol and source-first explanatory principles, then continue through the Genesis 2–4 reconstructions.
+6. Consult the [AI-001 through AI-005 Alignment Register](AI-01-TO-AI-05-VERIFICATION-AUDIT-2026-11-22.md) as the derivative-investigation alignment register.
 6. Read the Human Will reference work as one integrated investigation, not as disconnected proof texts.
 7. Read the miracles of and surrounding Jesus, then the Passion, Resurrection, appearances, Ascension, and Breath studies.
 8. Read scientific and cross-disciplinary audits only after understanding their question, domain, evidence, and limits.
@@ -31,6 +32,7 @@ This map orders the written record; it does not establish a new authority hierar
 - [Internal Unification Map and Research Agenda](INTERNAL-UNIFICATION-MAP-AND-RESEARCH-AGENDA.md)
 - [GOVERNING PRINCIPLES](GOVERNING-PRINCIPLES.md)
 - [Power Button — Alignment ON and Return to Genesis 2:1–5](POWER-BUTTON-AND-RETURN-TO-GENESIS-2-1-5.md)
+- [Genesis 1 — The Authorial Architecture and Operative Word](GENESIS-1-THE-AUTHORIAL-ARCHITECTURE-AND-OPERATIVE-WORD.md)
 - [AI-01 through AI-05 Alignment Status](AI-01-TO-AI-05-VERIFICATION-AUDIT-2026-11-22.md)
 - [GUA W COMPLETED ARCHITECTURE](GUA-W-COMPLETED-ARCHITECTURE.md)
 - [INVESTIGATION PROTOCOL](INVESTIGATION-PROTOCOL.md)
@@ -243,6 +245,6 @@ The continuous reading path is maintained in [Book Structure and Reading Edition
 
 ## Inventory note
 
-The recursive tree contains **182 entries**, of which **177 are files** and **5 are directories** (verified against the live `main` tree on 2026-11-22). This map is generated from the tracked tree and is intended as navigation, not as a claim that every individual scientific, historical, linguistic, or Scriptural claim has received a fresh line-by-line audit.
+The recursive tree contains **183 entries**, of which **178 are files** and **5 are directories** (verified against the live `main` tree on 2026-11-22). This map is generated from the tracked tree and is intended as navigation, not as a claim that every individual scientific, historical, linguistic, or Scriptural claim has received a fresh line-by-line audit.
 
 A document's presence here does not make every statement in it canonical. The completed-architecture presentation and the governing principles control architectural terminology; source texts and domain-appropriate evidence control the claims made about their subjects.
