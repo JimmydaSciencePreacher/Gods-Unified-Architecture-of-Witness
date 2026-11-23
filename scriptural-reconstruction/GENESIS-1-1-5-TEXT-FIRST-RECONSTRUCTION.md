@@ -25,7 +25,7 @@ Read the passage first. Record what the text says, what it does not say, and onl
 - A technical definition of “heaven and earth.”
 - A GUA-W runtime or state-transition vocabulary.
 
-**Architectural observation (not yet a mapping):** The opening establishes the Author/Creator as the initiating agent. This is consistent with the project's governing Author → Word → Creation → Witness hierarchy. The verse itself does not name the later analytical stages.
+**GUA-W recognition:** Genesis 1:1 opens the Author's own account of His creative action. God is the Original Cause; heaven and earth are His Creation. This is the foundation of the Author → Word → Creation → Witness hierarchy.
 
 ### Genesis 1:2
 
@@ -41,7 +41,7 @@ Read the passage first. Record what the text says, what it does not say, and onl
 - That the phrase is a technical synonym for entropy, chaos theory, quantum vacuum, or any modern scientific state.
 - The physical mechanism or measurable properties of the Spirit's movement.
 
-**Architectural observation (not yet a mapping):** The text presents a described condition of the earth and separately reports the Spirit of God moving upon the waters. Do not collapse the condition, the Spirit's movement, and any later act of ordering into one operation without textual argument.
+**GUA-W recognition:** The Author's account distinguishes the earth's described condition, the darkness upon the deep, and the Spirit of God moving upon the waters. Preserve those distinctions as part of the unified account; do not collapse them into one event.
 
 ### Genesis 1:3
 
@@ -51,7 +51,7 @@ Read the passage first. Record what the text says, what it does not say, and onl
 - God speaks a command: “Let there be light.”
 - The text immediately reports the corresponding result: “and there was light.”
 
-**Architectural observation (not yet a mapping):** This verse explicitly places divine speech before the reported result. It is a direct textual basis for examining the relationship between Word/command and realized result. It does not specify a physical theory of light production.
+**GUA-W recognition:** The Author speaks, “Let there be light,” and the text reports, “and there was light.” This is a direct witness to the Word/command and realized result relationship within the Author's operative account. The verse does not specify a modern physical theory of light production.
 
 ### Genesis 1:4
 
@@ -62,7 +62,7 @@ Read the passage first. Record what the text says, what it does not say, and onl
 - God evaluates the light as good.
 - God divides the light from the darkness.
 
-**Architectural observation (not yet a mapping):** The verse narrates seeing/evaluation and division after the appearance of light. The text gives an ordered sequence in the narration: light exists; God sees and declares it good; God divides light from darkness. Whether these should be treated as separate GUA-W operations remains to be tested against the whole passage.
+**GUA-W recognition:** The Author's account distinguishes the realized light, His seeing and evaluation that it is good, and His division of light from darkness. These actions retain their distinct places in the completed architecture; the text's sequence must not be collapsed.
 
 ### Genesis 1:5
 
@@ -73,7 +73,7 @@ Read the passage first. Record what the text says, what it does not say, and onl
 - God names the darkness Night.
 - The verse closes with the evening-and-morning formula and identifies the first day.
 
-**Architectural observation (not yet a mapping):** Naming follows the division narrated in verse 4. The day formula marks a completed unit in the account. It does not, by itself, establish a universal technical law of cyclic runtime or a complete theory of time.
+**GUA-W recognition:** The Author names the light Day and the darkness Night after the division narrated in verse 4. The day formula closes this narrated unit. Naming remains distinct from division, and the day formula is not by itself a modern physical theory of time.
 
 ## Sequence visible in this unit
 
@@ -89,11 +89,11 @@ This is a record of the Author's narrated creative order. Read within the comple
 
 ## Preliminary Triple Constraint review
 
-| Candidate proposition | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
+| Textual and architectural recognition | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
 |---|---|---|---|---|
 | The account presents God as the initiating Creator. | Directly stated in v. 1. | Not a scientific proposition; no scientific claim is being made. | Consistent with Author primacy. | PASS, narrowly as a textual/governing statement |
 | Divine speech precedes the reported appearance of light in the narrative. | Directly stated in v. 3. | No physical mechanism inferred. | Consistent with investigating Word → result. | PASS, narrowly as textual sequence |
-| Division and naming follow the appearance of light in the narrated sequence. | Directly stated in vv. 4–5. | No scientific mechanism inferred. | Potentially relevant to Differentiation and naming, but mapping remains open. | PASS, narrowly as textual sequence |
+| Division and naming follow the appearance of light in the narrated sequence. | Directly stated in vv. 4–5. | No scientific mechanism inferred. | Witnesses to distinct differentiation/division and naming relations within the completed Map. | PASS, textual scope |
 | Genesis 1:1–5 is the opening account of the Author's operative Word and creative ordering within GUA-W. | Genesis 1:1–5 directly records the Author's creative action and the Word/command-result relationship; it does not state every detail in the full chapter or Genesis 2. | Consistent with the completed Map and the Author/Word hierarchy. | PASS, bounded to the opening unit; read with the whole Creation account |
 
 **Important:** “Scientific coherence” here means not making unsupported scientific assertions. It does not mean that science verifies or disproves the Scriptural account.
@@ -156,23 +156,23 @@ The result is already reported in verse 3 before the division is narrated in ver
 
 ### 6.5 What this contributes to the completed GUA-W
 
-The passage provides a clear Scriptural witness to the relation between the Author's command and the reported realized result. It also preserves subsequent acts of evaluation, division, and naming.
+The passage provides a clear Scriptural witness to the Author's operative Word and the reported realized result. It also preserves subsequent acts of evaluation, division, and naming within the unified Creation account.
 
-It does **not** provide a one-to-one mapping of Genesis 1:1–5 onto the full architectural sequence. In particular:
+This five-verse unit is the opening movement of the Author's account; it is not expected to restate every layer or runtime relationship in the completed Map. The whole Genesis 1–2 account is read within GUA-W. In particular:
 
 - The creative command in verse 3 is not established as the technical definition of Constraint.
 - The appearance of light is not, by this verse alone, a complete technical definition of Structure.
-- The division in verse 4 must not be equated automatically with the foundational Distinction node or the runtime stage Differentiation.
+- The division in verse 4 is a textual act of the Author and witnesses to distinction/differentiation; preserve its place in the completed architecture without assuming that one verse exhausts the full scope of either term.
 - The naming in verse 5 is a distinct narrated act and is not automatically identical to a State term.
 - The sequence in the passage is textual order; it does not prove that every GUA-W layer is a separate temporal event in the Creation account.
 
 ### 6.6 Refined recognition
 
-The strongest admissible finding at this point is:
+The central recognition in this unit is:
 
 **The Author speaks; the commanded result is reported as present; the Author then evaluates, divides, and names. The command, result, division, and naming are distinguishable relations within the Scriptural account.**
 
-This strengthens the Author → Word → Creation investigation and helps prevent the misuse of “Constraint” as a synonym for every command. It does not yet resolve the technical relationship between Constraint and Structure. That question must be pursued through the wider Genesis 1–2 evidence and the authoritative provenance of the architectural terms.
+This strengthens recognition of the Author's operative Word within GUA-W and prevents the misuse of “Constraint” as a synonym for every command. Genesis 1:1–5 is not a stand-alone glossary for Constraint and Structure; those terms retain their established meanings in the completed Map.
 
 ### 6.7 Triple Constraint disposition
 
@@ -184,4 +184,4 @@ This strengthens the Author → Word → Creation investigation and helps preven
 | Command, result, division, and naming are distinct in the narrated order. | Directly supported by Genesis 1:3–5. | No mechanism asserted. | Preserves distinctions. | PASS, textual scope |
 | Genesis 1:1–5 maps one-to-one onto the complete GUA-W sequence. | Not stated. | Not established. | Conflicts with the governing method. | REJECT |
 
-**Disposition:** The first command/result relationship is clarified. The Constraint → Structure relationship remains open; the evidence has narrowed what it cannot mean, without pretending to have supplied a complete technical definition.
+**Disposition:** The opening command/result relationship is recognized within the completed GUA-W. Genesis 1:1–5 does not independently redefine Constraint or Structure; it witnesses to the Author's operative ordering without replacing the Map's established definitions.
