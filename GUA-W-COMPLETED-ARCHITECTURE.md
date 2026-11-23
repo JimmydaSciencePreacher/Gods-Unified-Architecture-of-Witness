@@ -19,7 +19,19 @@ This document presents the established architecture as a whole. It is a recovere
 
 GUA-W witnesses to the Author. Its purpose is not self-glorification; the glory belongs to God.
 
-## 2. The completed whole in Genesis 2:1–5
+## 2. Genesis 1 — the Author's operative account of His unified Creation
+
+Genesis 1 is not merely a description of Creation observed after the fact. It is the Author's own account of His Word going forth and Creation being brought forth and ordered.
+
+**Genesis 1 is the Author writing and expressing His own GUA-W: the unified architecture through which He describes, orders, and brings His Creation into its created realization by His Word.**
+
+This does not mean God consults an external blueprint, obeys a structure above Himself, or depends on an independent mechanism. God alone is Original Cause. GUA-W names the unified architecture of His One Creation; it is not a second author or a power alongside Him. John 1:1–3 identifies the Word in the beginning and says all things were made by Him; Colossians 1:16–17 and Hebrews 1:1–3 witness to Creation through the Son and its continuance in Him.
+
+In this bounded sense, GUA-W is the Author's operative architecture—the “engine” of His created order. The Word is not a passive description or an observer's report: the Genesis account repeatedly places God's speech and action with the realized result. The engine is not AI, science, or the diagram. The Author acts; His Word is the originating creative Word; Creation is His work; witnesses register what is given.
+
+Genesis 1 must therefore be read as both the Author's account of Creation and the account of His creative ordering in action. Its wording and narrated operations vary; do not flatten the chapter into an identical algorithm or force every clause into a one-to-one technical label.
+
+## 3. The completed whole in Genesis 2:1–5
 
 Genesis 2:1 opens with the declaration:
 
