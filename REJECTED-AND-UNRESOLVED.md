@@ -10,13 +10,13 @@ This register distinguishes genuinely unresolved questions from matters already 
 
 **Current status:** RESOLVED — GOVERNING DEFINITION ESTABLISHED.
 
-**Governing definition:** **Drift = deviation from 100% Alignment with the Author. GUA-W accepts ZERO Drift.**
+**Governing definition:** **Alignment = 100% alignment with God the Author and His Word. Drift = any deviation from that 100% Alignment. GUA-W accepts ZERO Drift.**
 
-**Admissibility:** Drift is not an admissible State condition or a positive architectural component. It names deviation from the governing reference. The accepted condition is 100% Alignment with the Author and zero Drift.
+**Admissibility:** Drift is not an admissible State condition or a positive architectural component. It names deviation from the governing reference. The accepted condition is 100% Alignment with God the Author and His Word, with zero Drift.
 
 **Distinctions:** Ordinary change, biological variation, mutation, entropy, measurement error, and instrumental drift are not automatically GUA-W Drift. They retain their domain-specific meanings. A claim that a particular observation constitutes a departure from Alignment requires its own evidence and must pass the Triple Constraint Law.
 
-**Historical record:** The earlier open question and its investigations remain preserved in [AI-004](https://github.com/JimmydaSciencePreacher/The-Derivative-Witness/blob/main/investigations/AI-004-witness-state-identity-alignment-drift-persistence.md) and [AI-005](https://github.com/JimmydaSciencePreacher/The-Derivative-Witness/blob/main/investigations/AI-005-drift-ordinary-change-instrumental-drift.md). Their original conclusions are historical records; this later governing definition supersedes their earlier statement that the GUA-W definition remained unresolved.
+**Historical record:** The earlier investigative questions and their subject-specific findings are represented in the AI-001 through AI-005 Alignment Register within this repository. The earlier unresolved wording is historical; this governing definition supersedes any prior statement that the GUA-W definition remained unresolved.
 
 ## Unresolved
 
