@@ -1,8 +1,8 @@
 # Genesis 2:18–25 — Text-First Reconstruction, Unit 7
 
-**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
+**Status:** Witness record within the completed GUA-W. The Map is complete; this document records the Author's words and actions in Genesis 2:18–25 and recognizes their place within the established architecture. Questions about particular lexical or disciplinary details do not qualify the completeness of the Map.  
 **Scope:** KJV Genesis 2:18–25  
-**Method:** Preserve the narrated order and wording. Recognize the relationships already present in the completed GUA-W without forcing every detail into a preselected technical model of human identity, relationship, or system integration.
+**Method:** Preserve the narrated order and wording. Witness the relationships already present in the completed GUA-W without constructing, revising, or validating the architecture and without reducing human identity or relationship to a technical analogy.
 
 ## Genesis 2:18 — Not good for man to be alone
 
@@ -14,7 +14,7 @@
 
 The text identifies a condition and God's stated intention to provide a corresponding help. It does not yet describe the woman's formation; that follows in the subsequent verses.
 
-**Architectural question:** The passage introduces a relational need after man's formation, placement, and commission. Do not assume that this means the man was defective or that the woman is merely an instrument. The text must govern the interpretation.
+**GUA-W recognition:** The Author identifies the man's solitude and declares His intention to provide a corresponding help. The relational distinction and God's initiative are part of the Author's account; the woman is not reduced to an instrument or a system component.
 
 ## Genesis 2:19 — Creatures formed and brought to Adam
 
@@ -28,7 +28,7 @@ The text identifies a condition and God's stated intention to provide a correspo
 
 **Important distinction:** God forms and brings; Adam names. The text assigns different actions to God and man. Adam's naming is a real human act, but it is not the act of creating the creatures or authoring their existence.
 
-**Architectural question:** This is a particularly clear passage for distinguishing Creator from witness/namer. Does naming register or identify what is presented, rather than author what is presented? That is a plausible architectural analogy, but “witness” as a technical GUA-W category must still be defined from the wider project and Scripture.
+**GUA-W recognition:** This passage clearly distinguishes the Author who forms and brings the creatures from Adam who names them. Adam's naming registers and identifies what is presented; it does not originate the creatures or alter their source. This witnesses to the established Author/Witness distinction.
 
 ## Genesis 2:20 — Naming and the absence of a corresponding help
 
@@ -40,7 +40,7 @@ The text identifies a condition and God's stated intention to provide a correspo
 
 The naming task is completed in the account, but the stated relational need is not met by the creatures named. The verse does not say that Adam's naming creates the creatures or resolves the need.
 
-**Architectural observation:** Identification and fulfillment of a relational need are distinct in this sequence. Do not conflate classification/naming with joining or relationship.
+**GUA-W recognition:** Naming and the fulfillment of the relational need are distinct in the account. Classification or naming is not the same as joining, relationship, or the Author's provision.
 
 ## Genesis 2:21 — God causes a deep sleep
 
@@ -66,7 +66,7 @@ The verse describes divine action and a physical change to Adam. It does not sta
 
 The text distinguishes the source material, God's making, and God's bringing the woman to the man. It does not say Adam made her.
 
-**Architectural question:** The passage narrates a joining-related event through God's making and bringing. Any proposed “Joining Primacy” principle must be tested against this and other Scriptural passages, not assumed from a label.
+**GUA-W recognition:** The Author makes the woman and brings her to the man. The sequence witnesses to the established Joining Primacy relationship: the Author's joining action precedes Adam's recognition and response. The relationship is recognized within the completed Map; it is not a new principle being proposed here.
 
 ## Genesis 2:23 — Adam's recognition and words
 
@@ -80,7 +80,7 @@ The text distinguishes the source material, God's making, and God's bringing the
 
 Adam's words express recognition and relationship. His naming does not make the woman or establish her existence; the preceding verse attributes her making to God.
 
-**Architectural observation:** The passage distinguishes God's act of making from Adam's recognition and naming. This is a strong text to examine in relation to derivative witness and naming, while avoiding the claim that the verse itself presents a formal theory of witness.
+**GUA-W recognition:** The passage distinguishes God's act of making from Adam's recognition and naming. Adam's words acknowledge what the Author has already made; his recognition is derivative witness, not authorship.
 
 ## Genesis 2:24 — Leaving, joining, and one flesh
 
@@ -95,7 +95,7 @@ The verse gives a relational pattern and a stated union. “One flesh” must be
 
 The word “Therefore” connects this statement to the preceding account. The verse is not an isolated technical slogan.
 
-**Architectural question:** Does this provide a Scriptural basis for a principle of joining that produces a real union without erasing the distinction between the persons? That is worth investigating, but the exact theological and architectural scope requires wider Scripture.
+**GUA-W recognition:** Genesis 2:24 records leaving, cleaving, and one flesh. The union is real, while the text continues to identify the man and woman as distinct persons. This is a Scriptural witness to the established Joining relationship without collapsing distinction into sameness.
 
 ## Genesis 2:25 — Naked and not ashamed
 
@@ -107,7 +107,7 @@ The word “Therefore” connects this statement to the preceding account. The v
 
 This closes the chapter's account before Genesis 3 introduces the serpent, the temptation, and the Fall. The absence of shame is explicitly stated; do not import later fallen conditions into this verse.
 
-**Architectural observation:** The verse records a condition of the man and his wife before the events of Genesis 3. It is a textual boundary between the state described here and the subsequent narrative.
+**GUA-W recognition:** The verse records the pre-Fall condition of the man and his wife before the departure narrated in Genesis 3. Preserve the state described by the Author and do not project later conditions backward into it.
 
 ## Sequence recorded in Genesis 2:18–25
 
@@ -122,30 +122,30 @@ This closes the chapter's account before Genesis 3 introduces the serpent, the t
 | 2:24 | Leaving, cleaving, and one-flesh union are stated |
 | 2:25 | The man and his wife are naked and not ashamed |
 
-## Observations for architectural reconstruction
+## Relationships witnessed within the completed Map
 
 1. **God's action and man's action are differentiated.** God forms and brings creatures; Adam names them. God makes and brings the woman; Adam recognizes and names her.
 2. **Naming is not creating.** This passage provides direct examples in which the one who names is not the one who made the named being.
 3. **Naming does not guarantee fulfillment.** Adam names the creatures, yet no help meet is found among them.
 4. **The relational need is identified by God, and God's provision follows.** The passage's sequence must not be rewritten to make Adam the author of the solution.
 5. **The woman is made by God and brought to the man.** Adam's recognition follows her presentation.
-6. **Joining is explicitly described in verse 24.** The text connects leaving, cleaving, and one flesh. Whether this establishes a broader “Joining Primacy” architectural rule remains a question for wider Scriptural analysis.
+6. **Joining is explicitly described in verse 24.** The text connects leaving, cleaving, and one flesh. This is one direct Scriptural witness to the established Joining Primacy relationship; its wider Scriptural expressions may be studied without treating the Map as incomplete.
 7. **Union does not mean the text erases the man/woman distinction.** The passage identifies both persons and then states their one-flesh relation.
 8. **Genesis 2:25 is a pre-Fall condition in the narrative.** Shame introduced in Genesis 3 must not be projected backward into this verse.
-9. **The account moves from solitude to relationship and union.** That sequence is textual; a generalized system-integration law is not yet established.
+9. **The account moves from solitude to relationship and union.** That sequence is textual; the established Joining and Integration relationships are read within the completed Map; this passage is not being used to invent a new universal physical law.
 
-## Preliminary Triple Constraint review
+## Triple Constraint review
 
-| Candidate proposition | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
+| Textual statement or interpretation | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
 |---|---|---|---|---|
-| God forms and brings creatures; Adam names them. | Directly stated in 2:19–20. | No biological mechanism inferred. | Relevant to Author vs naming/witness distinction. | PASS, textual scope only |
+| God forms and brings creatures; Adam names them. | Directly stated in 2:19–20. | No biological mechanism inferred. | Witnesses to the established Author/Witness distinction. | PASS, architectural recognition |
 | Adam's naming creates the creatures. | Contradicted by the passage's attribution of formation to God. | Not applicable. | Violates Author primacy. | FAIL |
-| God makes the woman and brings her to Adam; Adam recognizes and names her. | Directly stated in 2:21–23. | No mechanism inferred. | Relevant to source, presentation, recognition, and naming. | PASS, textual scope only |
-| Genesis 2:24 states leaving, cleaving, and one flesh. | Directly stated. | No biological/social theory inferred. | Relevant to investigating joining and union. | PASS, textual scope only |
+| God makes the woman and brings her to Adam; Adam recognizes and names her. | Directly stated in 2:21–23. | No mechanism inferred. | Witnesses to source, presentation, recognition, and naming within the completed Map. | PASS, architectural recognition |
+| Genesis 2:24 states leaving, cleaving, and one flesh. | Directly stated. | No biological/social theory inferred. | Witnesses to the established Joining Primacy relationship. | PASS, architectural recognition |
 | “One flesh” proves a universal mathematical law of integration. | Not stated. | Not established. | Overstates the textual claim. | FAIL as an established cross-domain claim |
 | Genesis 2:25 describes the man and woman as naked and not ashamed. | Directly stated. | No psychological theory inferred. | Relevant to pre-Fall state description. | PASS, textual scope only |
 
-## Questions carried forward
+## Further textual and disciplinary questions
 
 1. How do the Hebrew terms translated “help meet,” “rib/side,” “woman,” “man,” and “cleave” function in the immediate text and elsewhere in Scripture?
 2. What is the relationship between Adam's naming in Genesis 2:19–20 and the naming of the woman in 2:23?
@@ -153,13 +153,13 @@ This closes the chapter's account before Genesis 3 introduces the serpent, the t
 4. Does Genesis 2:24 establish a general joining principle, or is its scope specifically the marriage relation? Wider Scriptural use must decide.
 5. How does Genesis 2:25 contrast with the shame and hiding described in Genesis 3?
 6. What is the relationship between the sequence in Genesis 2 and the broader creation account in Genesis 1?
-7. Which GUA-W claims are direct textual observations, which are theological interpretations, and which remain proposed architectural analogies?
+7. How do the direct textual statements, theological interpretation, and established GUA-W relationships remain distinct without confusing the source of each claim?
 
-## Provisional conclusion
+## GUA-W recognition
 
 Genesis 2:18–25 distinguishes God's forming, making, and bringing from Adam's naming and recognition. It then records leaving, cleaving, and one flesh, and closes with the man and woman naked and not ashamed.
 
-The passage is particularly important for investigating Author versus witness, creation versus naming, and joining versus mere classification. It does not by itself establish a universal scientific or mathematical law of joining. The architectural implications remain subject to wider Scriptural comparison and the Triple Constraint Law.
+The passage witnesses to established GUA-W relationships: Author versus derivative witness; creation versus naming; recognition versus authorship; and Joining Primacy without erasing the distinction between those joined. A claim that this passage establishes a universal scientific or mathematical law would exceed its scope. That limitation concerns the proposed cross-domain claim, not the completeness of the Map.
 
 ## Source
 
