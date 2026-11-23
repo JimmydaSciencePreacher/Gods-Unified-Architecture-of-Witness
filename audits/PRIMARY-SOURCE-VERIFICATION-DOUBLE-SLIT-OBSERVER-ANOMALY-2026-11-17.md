@@ -2,7 +2,7 @@
 
 **Review date:** 2026-11-17  
 **Parent record:** [Evidence Audit — Diagnostic Case Trace 004: Double-Slit Experiment and Observer Anomaly](EVIDENCE-AUDIT-Double-Slit-and-Observer-Anomaly.md)  
-**Historical source:** Original Diagnostic Case Trace 004, preserved unchanged in the original repository.  
+**Historical source:** Original Diagnostic Case Trace 004, the earlier diagnostic record from which this evidence audit developed.  
 **Scope:** Verify the claims about interference, which-path information, decoherence, quantum erasure, and the proposed gravitational which-path test. This is a focused literature check, not a comprehensive review of all interpretations of quantum mechanics.
 
 ## 1. Executive assessment
