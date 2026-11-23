@@ -76,6 +76,6 @@ Architectural terms present the established GUA-W framework. They are not repres
 
 ## 8. Repository provenance
 
-This repository presents the completed GUA-W and records the Scriptural and cross-disciplinary evidence examined in connection with it. The original repository remains an independent historical source record. Its twelve-step diagnostic trace is distinct from the GUA-W architecture sequence; a diagnostic procedure is not the architecture itself.
+This repository presents the completed GUA-W and records the Scriptural and cross-disciplinary evidence examined in connection with it. The governing architecture and terminology are stated within this repository and do not depend on an external repository. Any diagnostic trace or investigative procedure is distinct from the GUA-W architecture sequence; a procedure for examining a case is not the architecture itself.
 
-Changes to explanations and documentation preserve provenance. The original historical source remains distinct from this current presentation.
+Changes to explanations and documentation preserve provenance within the current repository. Historical notes remain distinguishable from the governing presentation and do not supersede it.
