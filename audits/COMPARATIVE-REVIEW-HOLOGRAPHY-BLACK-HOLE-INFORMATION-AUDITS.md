@@ -1,7 +1,7 @@
 # Comparative Review — Holography and Black-Hole Information Audits
 
 **Review date:** 2026-11-17  
-**Scope:** Internal comparison of the two Revised-GUA-W audits of Original Diagnostic Case Trace 002.  
+**Scope:** Internal comparison of the two holography and black-hole information evidence audits maintained in this repository.  
 **Method limitation:** This pass compares the repository records with one another. It is not a fresh, independent verification of every cited scientific source.
 
 ## 1. Records compared
@@ -9,7 +9,7 @@
 1. [Evidence Audit — Holography and the Black-Hole Information Problem](EVIDENCE-AUDIT-Holography-and-Black-Hole-Information.md)
 2. [Evidence Audit — Holographic Principle and Black-Hole Information](EVIDENCE-AUDIT-Holographic-Principle-and-Black-Hole-Information.md)
 
-Both audits identify the same original Diagnostic Case Trace 002 as their source. Both preserve that original record unchanged. Both conclude **PARTIAL**: important black-hole thermodynamic and holographic results are legitimate within defined theoretical settings, while universalized claims and overconfident interpretations exceed what the cited physics establishes.
+Both audits examine overlapping claims concerning black-hole thermodynamics, holography, and information. Their conclusions are compared directly in this document. Both conclude **PARTIAL**: important black-hole thermodynamic and holographic results are legitimate within defined theoretical settings, while universalized claims and overconfident interpretations exceed what the cited physics establishes.
 
 ## 2. Shared findings
 
