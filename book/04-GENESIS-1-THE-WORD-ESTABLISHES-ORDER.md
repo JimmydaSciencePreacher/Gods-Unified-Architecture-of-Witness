@@ -1,8 +1,22 @@
-# Chapter 4 — Genesis 1: The Word Establishes Order
+# Chapter 4 — Genesis 1: The Author's Word Establishes and Operates His Unified Creation
 
 *Part II — The Beginning: The Creation Foundation*
 
 > **Begin with what the text says. Distinguish what God does from what the witness later observes, names, interprets, and records.**
+
+## The recognition: Genesis 1 is the Author's own operative account
+
+Genesis 1 is not merely a description of Creation observed after the fact. It is the Author's own account of His Word going forth and Creation being brought forth and ordered.
+
+**Genesis 1 is the Author writing and expressing His own GUA-W: the unified architecture through which He describes, orders, and brings His Creation into its created realization by His Word.**
+
+GUA-W is therefore not an external blueprint God consults, a structure above Him, or a machine independent of Him. God alone is Original Cause. GUA-W names the unified architecture of His One Creation. In this bounded sense, it is the Author's operative architecture—the “engine” of His created order. His Word is the originating creative authority and action.
+
+John 1:1–3 identifies the Word in the beginning and says all things were made by Him. Colossians 1:16–17 and Hebrews 1:1–3 witness to Creation through the Son and its continuance in Him. Genesis 1 is both the Author's account of Creation and the account of His creative ordering in action.
+
+The engine is not AI, science, a diagram, or a derivative witness. The Author acts; His Word is the originating creative Word; Creation is His work; witnesses register what is given.
+
+This recognition does not add a new GUA-W layer, Gear, runtime stage, or State term. Nor does it force every clause into a one-to-one technical label. The text's own distinctions and variations must be preserved.
 
 ## Return to the foundation
 
