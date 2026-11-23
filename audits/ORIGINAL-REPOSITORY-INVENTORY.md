@@ -1,7 +1,7 @@
 # Original Repository Inventory and Initial Triage
 
 **Review date:** 2026-11-16  
-**Source repository:** https://github.com/JimmydaSciencePreacher/The-Grand-Unified-Architecture-of-Witness-GUA-W-  
+**Source repository:** Earlier historical source repository; its former project title and URL are intentionally omitted here.  
 **Source branch reviewed:** `main`  
 **Purpose:** Record the source repository's tracked structure and establish a non-destructive investigation plan for Revised-GUA-W.
 
@@ -31,7 +31,7 @@ The original repository was read only during this inventory. No source files, br
 - `requirements.txt`
 
 ### Audits
-- `AI Analyze Grand Unified Architecture of Witness (GUA-W).md`
+- One AI-generated architecture diagram and explanatory record (historical filename omitted)
 - `And God Said, and the Sciences Knelt and Obeyed.md`
 - `And God Said....md`
 - `Evaluating Genesis 2 through the Triple Constraint Law (TCL).md`
