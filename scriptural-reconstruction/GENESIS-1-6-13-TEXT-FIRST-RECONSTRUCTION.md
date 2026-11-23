@@ -1,8 +1,8 @@
 # Genesis 1:6–13 — Text-First Reconstruction, Unit 2
 
-**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
+**Status:** Scriptural reconstruction within the completed GUA-W; the Author's operative account is read from the Author/Word hierarchy. Scientific mechanisms and genuinely unresolved textual or domain-specific questions remain qualified individually.  
 **Scope:** KJV Genesis 1:6–13  
-**Method:** Record the narrated sequence, then recognize its relationship to the established GUA-W where the text supports it. Do not impose a technical mechanism or a one-verse/one-stage formula.
+**Method:** Read the narrated sequence as part of the Author's unified operative account. Preserve the passage's own distinctions; do not impose a modern scientific mechanism or a one-verse/one-stage formula.
 
 ## Textual observations
 
@@ -16,7 +16,7 @@
 
 **Do not infer:** a modern atmospheric model, a specific cosmological mechanism, or an exact physical interpretation of “firmament” solely from this verse.
 
-**Architectural question:** Is division here an operation that establishes distinct domains? That is a possible textual observation; its relationship to GUA-W Differentiation or Constraint remains to be tested.
+**GUA-W recognition:** The Author's command establishes division between the waters. This is a concrete expression of differentiation within the unified Creation; the verse does not make the word “Constraint” a synonym for every command or division.
 
 ### Genesis 1:7
 
@@ -49,7 +49,7 @@ The text does not say that the firmament is a mathematical boundary, nor does it
 - Dry land is to appear.
 - The verse reports: “and it was so.”
 
-**Architectural question:** The command includes both gathering and appearance. Do not assume that gathering, boundary formation, and appearance are interchangeable operations. Their relationship requires examination across the passage.
+**GUA-W recognition:** The command includes gathering and the appearance of dry land. These are distinguishable actions within the Author's ordered account; they should not be collapsed into one undifferentiated operation.
 
 ### Genesis 1:10
 
@@ -74,7 +74,7 @@ This gives a second explicit example of naming after a described differentiation
 
 **Textual care:** The verse explicitly describes seed within the fruit tree's fruit-bearing pattern. It does not literally say that God is holding seeds, nor does it provide a modern genetic account of heredity.
 
-**Architectural question:** The command concerns a capacity for bringing forth and a specified pattern of fruit and seed. Is this relevant to purpose carried in seed and later propagation? That is a hypothesis to test against verses 12–13 and later passages, not a conclusion to assume here.
+**GUA-W recognition:** The command appoints the earth to bring forth vegetation and specifies seed/fruit relationships and “after his kind.” Verses 12–13 report the bringing forth and the Author's evaluation. This witnesses to the established relationships among appointed function, created participation, pattern, and propagation without supplying a modern genetic mechanism.
 
 ### Genesis 1:12
 
@@ -117,18 +117,18 @@ The passage therefore presents more than one operation within a single day. A si
 5. **Seed and kind are explicit textual terms.** Their precise theological, biological, and architectural implications require separate analysis.
 6. **The earth is described as bringing forth.** The text attributes the command to God and reports the earth's bringing forth; avoid collapsing command, means, and result into a single undifferentiated label.
 
-## Preliminary Triple Constraint review
+## Triple Constraint review
 
-| Candidate proposition | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
+| Textual finding | Biblical compliance | Scientific coherence | GUA-W consistency | Status |
 |---|---|---|---|---|
 | Genesis 1:6–7 narrates a command followed by making and division. | Directly stated. | No physical mechanism inferred. | Useful sequence for later comparison. | PASS, textual scope only |
-| Genesis 1:9–10 narrates gathering, appearance, naming, and evaluation. | Directly stated. | No physical mechanism inferred. | Potential relevance to differentiation and naming. | PASS, textual scope only |
-| Genesis 1:11–12 describes vegetation, seed, fruit, and “after his kind.” | Directly stated. | No genetic or taxonomic claim inferred. | Potential relevance to propagation and persistence. | PASS, textual scope only |
+| Genesis 1:9–10 narrates gathering, appearance, naming, and evaluation. | Directly stated. | No physical mechanism inferred. | Witnesses to the Author's distinct acts of gathering, appearance, naming, and evaluation within the completed Map. | PASS, textual scope only |
+| Genesis 1:11–12 describes vegetation, seed, fruit, and “after his kind.” | Directly stated. | No genetic or taxonomic claim inferred. | Witnesses to the established relationships among Pattern, Propagation, and Persistence; modern genetic equivalence is not asserted. | PASS, textual scope only |
 | Each day consists of exactly one operation. | Not supported by day three's multiple sequences. | Not applicable. | Oversimplifies the narrated sequence. | FAIL as a description of this unit |
 | “After his kind” is identical to the modern biological species concept. | Not established by the wording alone. | Requires biological and textual argument. | Would collapse distinct vocabularies. | UNRESOLVED; do not assert equivalence |
 | Genesis 1:6–13 proves a universal scientific law of seed-based propagation. | The passage is Scriptural testimony, not a scientific experiment. | Such a universal claim is not established here. | Overstates the evidence. | FAIL as a scientific conclusion |
 
-## Questions carried forward
+## Textual questions for further study
 
 1. Why does the KJV day-two account omit “God saw that it was good” at Genesis 1:8, while the third day contains the evaluation twice?
 2. What is the relationship between the first third-day sequence (waters gathered/dry land appears) and the second (vegetation brought forth)?
@@ -138,11 +138,11 @@ The passage therefore presents more than one operation within a single day. A si
 6. How do the seed/fruit descriptions relate to later commands for living creatures and humanity to multiply?
 7. Does Genesis 2:5–15 add a distinct account of preparation, purpose, and appointed human work?
 
-## Provisional conclusion
+## GUA-W recognition
 
 Genesis 1:6–13 records differentiated command/result sequences, naming, evaluation, and a description of vegetation with seed and fruit “after his kind.” The third day contains two distinct sequences, so a reconstruction must preserve internal complexity rather than force a one-operation-per-day template.
 
-These observations provide material for investigating Differentiation, Propagation, and Structure. They do not yet establish a universal runtime, scientific mechanism, or final mapping of those GUA-W terms.
+These narrated operations are read within the completed GUA-W: the Author's command, division and gathering, the earth's appointed bringing forth, the seed/fruit and kind descriptions, the reported realization, and the Author's evaluation. The Map is not being constructed from these verses. The text does not provide a modern physical or genetic mechanism, and no one-verse/one-stage formula is required.
 
 ## Source
 
