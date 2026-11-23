@@ -7,7 +7,7 @@
 
 ## 1. Governing result
 
-The repository's governing documents consistently state that **GUA-W is complete** and that the written presentation and evidence record may still need clarification, correction, and completion. This audit follows that distinction.
+The repository's governing documents consistently state that **GUA-W is complete**. Its written presentation and evidence record may still need clarification, correction, cross-reference repair, and further documentation; those are record-keeping tasks, not completion of the Map. This audit follows that distinction.
 
 **Author → Word → Creation → Witness**
 
