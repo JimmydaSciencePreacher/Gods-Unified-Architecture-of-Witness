@@ -3,7 +3,9 @@
 **Status:** Proposed cross-disciplinary research program  
 **Prepared:** 2026-11-18  
 **Scope:** Ten working scientific domains; five candidate investigations in each  
-**Purpose:** Build a broad, evidence-led field of comparison without forcing different scientific mechanisms into one explanation.
+**Purpose:** Record a broad, evidence-led field of human scientific inquiry without forcing different scientific mechanisms into one explanation.
+
+**Relationship to GUA-W:** This survey concerns downstream human science: the study of Creation by human witnesses after Genesis 3. It is a research index for examining scientific observations, methods, models, and interpretations within their proper domains. It is not a second Creation record, a completion process for GUA-W, or a proposal to construct the Map. The scientific record may be partial, revisable, or mistaken; those are conditions of the human witness and do not make the Author's completed Creation or the Genesis 1–2 Blueprint incomplete.
 
 ## 1. Purpose
 
@@ -77,7 +79,7 @@ A candidate's strangeness is not evidence of a supernatural cause, a universal m
 
 5. **Dark matter:** What accounts for gravitational effects not explained by visible matter?
 
-**Domain progress:** Four of five listed subjects are now accounted for, including two cross-domain studies. Dark matter is next in the uncompleted sequence.
+**Survey snapshot (2026-11-18):** Four of five listed subjects were accounted for in this survey section, including two cross-domain studies. Dark matter was next in the sequence at that date. This is a dated progress note about the survey's coverage, not a statement about GUA-W completeness or a current work order.
 
 ### Domain 4 — Earth Sciences and Geology
 
@@ -169,9 +171,11 @@ As the investigations accumulate, useful comparison questions may include:
 
 These are research questions, not proposed universal laws. Similar vocabulary across domains does not establish identical mechanisms.
 
-## 6. Recommended research order
+## 6. Historical recommended research order (2026-11-18)
 
-Proceed one domain at a time. For each domain:
+The following order was recommended when this survey was prepared. It records the research plan at that stage; later dated records and completed investigations take precedence when determining current scientific coverage. It is not a current instruction to repeat completed work, and it does not imply that the completed GUA-W Map awaits scientific completion.
+
+The proposed method at that stage was to proceed one domain at a time. For each selected domain:
 
 1. Verify and refine the five candidate topics.
 2. Select the strongest case for the first full investigation.
