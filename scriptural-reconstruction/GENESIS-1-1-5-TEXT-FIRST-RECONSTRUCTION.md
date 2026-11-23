@@ -109,9 +109,9 @@ This is a record of the Author's narrated creative order. Read within the comple
 
 ## Textual and architectural recognition
 
-Genesis 1:1–5 supplies a clear narrated order: Creator, described condition, divine speech, reported result, seeing/evaluation, division, naming, and the first-day closure. This is a sound starting record for further reconstruction.
+Genesis 1:1–5 supplies a clear narrated order: Creator, described condition, divine speech, reported result, seeing/evaluation, division, naming, and the first-day closure. This is a witness record for examining the passage within the completed GUA-W and the full Genesis 1–2 account.
 
-It does **not** yet establish the full architecture, the meaning of every proposed GUA-W node, or a scientific mechanism. Those questions remain open until the complete Genesis 1–2 sequence is examined.
+The sentence above records the scope limitation of the initial five-verse pass; it is not a present uncertainty about the completed GUA-W. Genesis 1:1–5 is one unit within the Author's full Genesis 1–2 account and is not expected, by itself, to restate every layer, relationship, or scientific mechanism. The later sections of this document and the companion Genesis records examine this passage within the already-completed Map.
 
 ## Source
 
