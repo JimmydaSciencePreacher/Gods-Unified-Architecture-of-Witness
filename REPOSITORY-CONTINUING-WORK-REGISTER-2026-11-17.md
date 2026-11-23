@@ -823,3 +823,16 @@ The questions do not construct, complete, or modify GUA-W. They direct the deriv
 8. What safeguards best prevent AI fluency, logical consistency, or apparent pattern recognition from being mistaken for source authority or faithful witness?
 
 **Next work:** Continue from the four-question method. Examine the remaining questions above one at a time, beginning with the distinction between AI's direct operational observations and information it receives from external records. Keep the Scripture-first and evidence-first sequence, apply the Triple Constraint Law, and preserve unresolved matters without premature closure.
+
+## 2026-11-22 — Current cleanup rebaseline
+
+This dated note supersedes earlier “Next work” instructions where they conflict with the current repository state. The older entries remain as chronological work history; they are not all active instructions.
+
+- **GUA-W:** Complete and mapped. Repository work is faithful presentation, evidence review, cross-reference correction, and documentation cleanup—not construction or completion of the Map.
+- **Alignment / Drift:** Alignment is 100% alignment with God the Author and His Word. Drift is any deviation from that 100% Alignment. GUA-W accepts ZERO Drift.
+- **U-005:** RESOLVED. The Drift definition is established in [Rejected and Unresolved Register](REJECTED-AND-UNRESOLVED.md) and reflected in the AI-001 through AI-005 alignment audit. Do not list Drift's definition as an unresolved question.
+- **U-001 through U-004:** Remain bounded evidence questions as individually stated in the register. Their unresolved status concerns the scope of particular cross-domain claims and persistence conditions; it does not mean the completed architecture is missing components or definitions.
+- **Purpose / Constraint / Structure investigation:** Its 2026-11-19 open questions and source-recovery tasks are historical investigation notes. The file now opens with the current 2026-11-22 governing status. Do not treat earlier open wording as the current status of GUA-W.
+- **Former repository references:** Preserve provenance where it matters, but do not require external repository searches as a standing next step. Historical source descriptions should identify the earlier record without making the current repository dependent on the former location.
+
+**Next cleanup action:** Continue the repository-wide review of dated work orders, cross-references, and status labels. Correct only demonstrably stale wording; preserve historical findings, source distinctions, and genuinely open scientific or Scriptural questions. Every work session ends with a concise handoff naming completed work, current position, and the next specific action.
