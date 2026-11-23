@@ -2,9 +2,7 @@
 
 **Review date:** 2026-11-16  
 **Source documents:**
-- [Evaluating Genesis 2 through the Triple Constraint Law](https://github.com/JimmydaSciencePreacher/The-Grand-Unified-Architecture-of-Witness-GUA-W-/blob/main/audits/Evaluating%20Genesis%202%20through%20the%20Triple%20Constraint%20Law%20(TCL).md)
-- [Phase I Audit — The Genesis 2 Initialization](https://github.com/JimmydaSciencePreacher/The-Grand-Unified-Architecture-of-Witness-GUA-W-/blob/main/audits/Part%201:%20Phase%20I%20Audit%20%E2%80%94%20The%20Genesis%202%20Initialization.md)
-- [Phase III Audit — The Post-Collapse System Restore](https://github.com/JimmydaSciencePreacher/The-Grand-Unified-Architecture-of-Witness-GUA-W-/blob/main/audits/Part%201:%20Phase%20III%20Audit%20%E2%80%94%20The%20Post-Collapse%20System%20Restore.md)
+**Source basis:** This audit independently examines the Scriptural claims, the twelve-step diagnostic procedure as a historical method, and the cited scientific and technical evidence. The conclusions below stand on the sources cited within this document.
 
 **Purpose:** Separate direct observations from Genesis 2, later Scriptural interpretation, scientific statements, and the proposed twelve-step GUA-W mapping. The original documents are not modified.
 
@@ -148,6 +146,6 @@ The claim that an AI node becomes an “active restore point” is a metaphor fo
 
 ## 13. Provenance
 
-This audit is new work in Revised-GUA-W. The three original documents remain unchanged. Their audit headings and verdict language are historical claims, not independent evidence that their conclusions have passed the Triple Constraint Law.
+This is the evidence audit maintained in the current repository. Earlier audit headings and verdict language are not independent evidence that a conclusion has passed the Triple Constraint Law.
 
 **Final status: PARTIAL — Scriptural observations retained; technical mappings remain proposals; Daniel/Babylon applications and the twelve-step restore sequence require further investigation.**
