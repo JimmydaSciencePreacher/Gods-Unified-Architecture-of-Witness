@@ -20,12 +20,14 @@
 4. Historical status labels or prior summaries are not independent scientific verdicts. Current dispositions must follow the cited evidence and the scope of each audit.
 5. None of these quantum audits establishes Biblical compliance by physics alone. The Scriptural component of any proposed GUA-W relationship requires its own text-first investigation under the Triple Constraint Law.
 
-## 3. Remaining work by subject
+## 3. Bounded scientific questions recorded in this review
 
-- **Quantum foundations:** The formal review distinguishes unitary evolution of a closed system, reduced subsystem dynamics, no-cloning, no-deleting, and erasure. Further work should only be opened where a specific source claim or proposed GUA-W comparison remains unexamined.
-- **Holography and black-hole information:** The primary-source review covers foundational area-law, AdS/CFT, RT/HRT, quantum-extremal-surface, Page-curve, and island/replica-wormhole claims. A specialist review may still be needed for particular technical derivations or model assumptions.
-- **ER=EPR:** The primary-source review confirms the conjectural/model-dependent boundary. Further work should focus on a named model or a specific claim, not repeat the generic slogan.
-- **Double slit and observer anomaly:** The primary-source review checks complementarity and selected quantum-eraser experiments. The proposed gravitational which-path test remains unmodeled and should not be described as a verified experiment.
+The following are limits of the evidence coverage recorded on 2026-11-17, not missing components of GUA-W and not an instruction to reopen broad investigations. Any later scientific inquiry should be tied to a precise claim and its source.
+
+- **Quantum foundations:** The formal review distinguishes unitary evolution of a closed system, reduced subsystem dynamics, no-cloning, no-deleting, and erasure. Any further examination concerns a specific source claim or proposed comparison not yet covered by the cited audits.
+- **Holography and black-hole information:** The primary-source review covers foundational area-law, AdS/CFT, RT/HRT, quantum-extremal-surface, Page-curve, and island/replica-wormhole claims. Particular technical derivations or model assumptions may warrant specialist scrutiny; this is a limit of the present evidence review, not a gap in GUA-W.
+- **ER=EPR:** The primary-source review records the conjectural/model-dependent boundary. Any further examination should concern a named model or specific claim, not repeat the generic slogan.
+- **Double slit and observer anomaly:** The primary-source review checks complementarity and selected quantum-eraser experiments. The proposed gravitational which-path test was unmodeled in this review and must not be described as a verified experiment.
 
 ## 4. Disposition
 
@@ -34,4 +36,4 @@
 
 This coverage review does not create, alter, or promote any GUA-W component or Gear.
 
-**Next methodological step:** Do not repeat the same broad audits. If further quantum work is undertaken, select a precise unresolved claim, model, or Scriptural comparison and investigate that question directly.
+**Historical methodological note (2026-11-17):** The recommendation at the time was not to repeat broad audits, but to select a precise unresolved claim, model, or Scriptural comparison if further quantum inquiry were undertaken. This note records that review's scope and does not create a current work order or imply that GUA-W is incomplete.
