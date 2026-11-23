@@ -151,11 +151,11 @@ The Hebrew wording translated “before it was in the earth” and “before it 
 
 The passage therefore requires us to distinguish the vegetation already described in Genesis 1 from the specific field conditions now described in Genesis 2:5.
 
-It is legitimate to investigate whether the text is distinguishing the completed created order from a further condition of field growth or cultivation associated with rain and human tilling. That is a serious interpretive question. It is not yet permission to announce a complete chronology or biological mechanism that the verse does not state.
+The text distinguishes the completed created order declared in verses 1–3 from the particular field conditions described in verses 4–6. The scope and relation of those field conditions are matters of textual interpretation. They do not qualify or reopen the completed Map, and they do not authorize a chronology or biological mechanism that the verses do not state.
 
 A related point must be kept precise: Genesis 1:11–12 explicitly speaks of seed-bearing vegetation and fruit with seed in itself. Genesis 2:5 speaks of field plants and herbs before they were in the earth or grew. These passages invite investigation of seed, preparation, growth, and appointed conditions. But Genesis 2:5 does not literally say that God was holding seeds, nor does it explicitly state a complete storage or release mechanism. Such language must not be inserted into the verse.
 
-The strongest reading at this stage is the careful one: retain the seed statements of Genesis 1, retain the field-specific wording of Genesis 2:5, and investigate their relationship without manufacturing an explanation.
+The faithful reading retains both the seed statements of Genesis 1 and the field-specific wording of Genesis 2:5, and reads their relationship without manufacturing an explanation.
 
 ## The two conditions in Genesis 2:5
 
@@ -178,7 +178,7 @@ Likewise, the absence of a man to till the ground is not an incidental detail. T
 
 We should not move that purpose backward into verse 5 as though the verse already narrates the assignment. Verse 5 records the absence; the later passage records the placement and work.
 
-## What the passage establishes—and what it leaves open
+## What the passage states and the scope of this witness
 
 The text gives a clear set of distinctions:
 
@@ -191,7 +191,7 @@ The text gives a clear set of distinctions:
 7. No man is present to till the ground.
 8. The next verse describes a mist watering the ground.
 
-The passage does not, by itself, settle:
+The following details are not specified by these verses alone:
 - Every detail of the relation between the literary structure of Genesis 1 and Genesis 2.
 - The complete referent of “all the host.”
 - A modern scientific mechanism for divine cessation, mist, or plant growth.
@@ -199,7 +199,7 @@ The passage does not, by itself, settle:
 - A complete chronology for every plant, field, and seed.
 - A technical runtime or universal sequence of GUA-W stages.
 
-These are not defects in the text. They are boundaries on what this chapter may claim.
+These are not defects in the text or gaps in GUA-W. They mark the scope of what this particular passage states and what an interpreter must not add to it.
 
 ## The Triple Constraint applied to Genesis 2:1–5
 
@@ -214,7 +214,7 @@ These are not defects in the text. They are boundaries on what this chapter may 
 | Genesis 2:5 distinguishes field conditions, rain, and the absence of a tiller. | Directly stated. | No unprovided hydrological or botanical mechanism is inferred. | Preserves the text's conditions and order. | PASS, textual claim |
 | Genesis 2:5 proves that God held seeds until man arrived. | Not stated in those words. | No mechanism established. | Would turn inference into quotation. | REJECT as a direct textual claim |
 
-The Triple Constraint is not a device for making every question disappear. It protects the investigation from claiming more than the evidence warrants. The textual findings in this chapter are examined in relation to the completed GUA-W; they do not wait for the architecture to be built or validated. Where a particular interpretive or scientific extension exceeds what the passage states, that specific extension remains qualified or unresolved. The boundary belongs to the claim, not to the completeness of GUA-W.
+The Triple Constraint preserves faithful witness: Biblical compliance, scientific coherence, and consistency with the completed GUA-W. It does not build, validate, or complete the Map. Where a particular interpretation or scientific extension goes beyond what this passage states, that claim must be identified as interpretation or left unasserted. The boundary belongs to the claim, never to the completeness of GUA-W.
 
 ## Why this matters to the whole book
 
@@ -226,9 +226,9 @@ The finished Creation is not the same statement as the later placement of man. T
 
 This is how the chapters build. We do not introduce man's purpose before the text gives it. We do not use a later verse to rewrite an earlier one. We carry forward the distinctions already established and let the next passage add its own testimony.
 
-## The next question: formation, placement, and purpose
+## Continuing the Author's account: formation, placement, and purpose
 
-The next chapter will follow Genesis 2:4–25.
+The following chapter continues through Genesis 2:4–25.
 
 There the text will take us through:
 - The formation of man from the dust and the breath of life.
