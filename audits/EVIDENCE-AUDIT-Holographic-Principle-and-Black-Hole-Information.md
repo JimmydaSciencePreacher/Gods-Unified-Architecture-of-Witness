@@ -1,8 +1,8 @@
 # Evidence Audit — Holographic Principle and Black-Hole Information
 
 **Review date:** 2026-11-16  
-**Source document:** [Original Diagnostic Case Trace 002](https://github.com/JimmydaSciencePreacher/The-Grand-Unified-Architecture-of-Witness-GUA-W-/blob/main/traces/Diagnostic%20Case%20Trace%20002:%20The%20Holographic%20Principle%20%26%20The%20Black%20Hole%20Information%20Paradox.md)  
-**Purpose:** Separate established black-hole thermodynamics and quantum-information results from the conjectural or model-dependent parts of the holographic explanation. The original trace remains untouched.
+**Source basis:** Claims concerning black-hole thermodynamics, holographic bounds, and information are assessed against the scientific sources cited in this audit.  
+**Purpose:** Separate established black-hole thermodynamics and quantum-information results from the conjectural or model-dependent parts of the holographic explanation. This audit evaluates the scientific claims against the cited literature.
 
 ## 1. Executive assessment
 
@@ -148,6 +148,6 @@ The source trace's diagram and prose merge these distinct structures. A horizon-
 
 ## 11. Provenance
 
-This audit is an independent assessment in Revised-GUA-W. The original trace remains unchanged. Its `ACTIVE / VERIFIED` label is preserved as historical metadata, not adopted as an independent verdict.
+This is the evidence audit maintained in the current repository. A prior `ACTIVE / VERIFIED` label is not an independent scientific verdict.
 
 **Final status:** PARTIAL — important holographic results are real and technically significant; the source trace's universal claims and simplified Page-curve interpretation are not established.
