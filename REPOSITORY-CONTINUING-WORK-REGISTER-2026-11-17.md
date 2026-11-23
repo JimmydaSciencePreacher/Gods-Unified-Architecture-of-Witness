@@ -54,7 +54,7 @@ Passion/Resurrection rows were also still marked REGISTERED despite dedicated st
 
 The remaining REGISTERED rows are still open. They include events surrounding Jesus' birth and ministry, summary references, and apostolic/disciple works in Acts. The register must not assume that every row represents a separate miracle or necessarily requires a standalone file; classify overlapping and grouped reports first.
 
-## 5. Continuing work — prioritized
+## 5. Historical priority queue — superseded by the 2026-11-22 rebaseline
 
 ### Priority 1 — Investigation II coverage and classification
 
