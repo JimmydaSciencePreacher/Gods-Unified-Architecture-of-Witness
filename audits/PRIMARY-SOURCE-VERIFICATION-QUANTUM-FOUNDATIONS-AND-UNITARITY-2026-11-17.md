@@ -2,7 +2,7 @@
 
 **Review date:** 2026-11-17  
 **Parent record:** [Evidence Audit — Diagnostic Case Trace 001: Quantum Foundations and Unitarity](EVIDENCE-AUDIT-Quantum-Foundations-and-Unitarity.md)  
-**Historical source:** Original Diagnostic Case Trace 001, preserved unchanged in the original repository.  
+**Historical source:** Original Diagnostic Case Trace 001, the earlier diagnostic record from which this evidence audit developed.  
 **Scope:** Verify state-space representation, unitary evolution, entropy invariance, no-cloning, no-deleting, and the limits of claims about information persistence. This is a focused formal and literature review, not a claim that quantum mechanics establishes metaphysical persistence.
 
 ## 1. Executive assessment
