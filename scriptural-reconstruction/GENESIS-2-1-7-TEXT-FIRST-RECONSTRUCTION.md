@@ -1,8 +1,8 @@
 # Genesis 2:1–7 — Text-First Reconstruction, Unit 5
 
-**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
+**Status:** Scriptural reconstruction within the completed GUA-W; the Author's operative account is read from the Author/Word hierarchy. Scientific mechanisms and genuinely unresolved textual questions remain qualified individually.  
 **Scope:** KJV Genesis 2:1–7  
-**Method:** Record the wording and narrated order, then read the passage in relation to the completed GUA-W. Preserve the distinctions in the text; do not force a one-to-one technical label onto an individual clause where the wording does not establish one.
+**Method:** Preserve the wording and narrated order, recognizing this passage as the continuation of the Author's account after the Creation is declared finished. Read its distinctions within the completed GUA-W; do not force a one-to-one technical label onto an individual clause.
 
 ## Genesis 2:1 — The heavens and earth finished
 
@@ -73,7 +73,7 @@ The order “heavens and earth” in the opening of the verse and “earth and h
 
 The verse does not say that no vegetation of any kind existed anywhere. It specifies “plant of the field” and “herb of the field.” The scope of those expressions is a central interpretive question.
 
-**Architectural question:** Does this verse distinguish the completed created order from a later condition of cultivation or field growth requiring rain and human tilling? That is a serious possibility to investigate, but it must be established by textual context rather than asserted as a settled fact.
+**Textual question:** How do the field-specific conditions described here relate to the completed-Creation declaration in Genesis 2:1–3? Preserve the narrative's distinction between the completed whole and the particular field conditions named in verse 5; do not force a chronology or mechanism beyond the wording.
 
 ## Genesis 2:6 — A mist from the earth
 
