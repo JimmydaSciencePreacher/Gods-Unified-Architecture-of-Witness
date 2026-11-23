@@ -1,8 +1,8 @@
 # Evidence Audit — Holography and the Black-Hole Information Problem
 
 **Review date:** 2026-11-16  
-**Source:** [Original Diagnostic Case Trace 002](https://github.com/JimmydaSciencePreacher/The-Grand-Unified-Architecture-of-Witness-GUA-W-/blob/main/traces/Diagnostic%20Case%20Trace%20002:%20The%20Holographic%20Principle%20&%20The%20Black%20Hole%20Information%20Paradox.md)  
-**Purpose:** Separate black-hole thermodynamics, holographic bounds, AdS/CFT, the Page curve, and proposed GUA-W relationships. The original trace is not modified.
+**Source basis:** Claims concerning black-hole thermodynamics, holographic bounds, AdS/CFT, and information are assessed against the scientific sources cited in this audit.  
+**Purpose:** Separate black-hole thermodynamics, holographic bounds, AdS/CFT, the Page curve, and proposed GUA-W relationships. This audit evaluates the claims against the cited scientific literature.
 
 ## 1. Executive assessment
 
@@ -96,6 +96,6 @@ Black-hole thermodynamics associates black-hole entropy with horizon area. The h
 
 ## 11. Provenance
 
-This audit is new work in Revised-GUA-W. The original trace remains unchanged. Its ACTIVE / VERIFIED label is historical metadata, not an independent scientific verdict.
+This is the evidence audit maintained in the current repository. A prior ACTIVE / VERIFIED label is not an independent scientific verdict.
 
 **Final status: PARTIAL — important theoretical results retained within scope; universalized conclusions and GUA-W proof claims not established.**
