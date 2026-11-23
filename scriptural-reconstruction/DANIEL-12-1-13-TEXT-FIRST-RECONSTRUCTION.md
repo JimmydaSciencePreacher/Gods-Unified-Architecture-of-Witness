@@ -1,7 +1,7 @@
 # Daniel 12:1–13 — Text-First Canonical Reconstruction
 
 **Investigation date:** 2026-11-20  
-**Repository:** Revised-GUA-W  
+**Repository:** God's Unified Architecture of Witness  
 **Status:** PARTIAL — chapter-level textual relationships reconstructed; chronology and several interpretive questions remain open.  
 **Governing order:** Author → Word → Creation → Witness  
 **Method:** Four-question method; Triple Constraint Law  
