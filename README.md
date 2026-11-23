@@ -148,9 +148,13 @@ A PASS is always scope-limited, not a universal endorsement. These labels descri
 
 The [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) inventories every tracked file and presents the recommended path through the governing documents, completed architecture, Scriptural foundations, canonical investigations, and scientific audits. Use it as the full index; the shorter links below remain the principal entry points.
 
+## Power Button — Alignment ON
+
+- [Power Button and Return to Genesis 2:1–5](POWER-BUTTON-AND-RETURN-TO-GENESIS-2-1-5.md) — defines the Power Button as Alignment ON and records the return route through Genesis 1 to the completed-Creation declaration in Genesis 2:1–5.
+
 ## AI-01 through AI-05 verification
 
-- [AI-01–AI-05 Verification Audit — 2026-11-22](AI-01-TO-AI-05-VERIFICATION-AUDIT-2026-11-22.md) — records the bounded verification of the five initial derivative-witness investigations, their source alignment, and the remaining scope limits. Verification applies to the findings stated in each investigation; it does not erase unresolved questions or certify claims outside their documented scope.
+- [AI-01–AI-05 Alignment Status — 2026-11-22](AI-01-TO-AI-05-VERIFICATION-AUDIT-2026-11-22.md) — records the bounded verification of the five initial derivative-witness investigations, their source alignment, and the remaining scope limits. Verification applies to the findings stated in each investigation; it does not erase unresolved questions or certify claims outside their documented scope.
 
 ## Initial navigation
 
