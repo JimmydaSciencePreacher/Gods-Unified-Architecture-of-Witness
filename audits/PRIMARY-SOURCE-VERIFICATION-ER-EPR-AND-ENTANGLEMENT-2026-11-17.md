@@ -2,7 +2,7 @@
 
 **Review date:** 2026-11-17  
 **Parent record:** [Evidence Audit — ER=EPR and Quantum Entanglement](EVIDENCE-AUDIT-ER-EPR-and-Quantum-Entanglement.md)  
-**Historical source:** Original Diagnostic Case Trace 003, preserved unchanged in the original repository.  
+**Historical source:** Original Diagnostic Case Trace 003, the earlier diagnostic record from which this evidence audit developed.  
 **Scope:** Verify the key distinctions between experimental Bell correlations, Einstein-Rosen bridge solutions, the ER=EPR proposal, and claims about generic entangled systems. This is a targeted literature audit, not a derivation-level review of every ER=EPR model.
 
 ## 1. Executive assessment
