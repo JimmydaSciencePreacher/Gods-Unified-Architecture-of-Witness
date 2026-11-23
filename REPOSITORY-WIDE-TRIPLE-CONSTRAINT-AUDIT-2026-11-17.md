@@ -220,3 +220,19 @@ The continuing-work register now contains a dated rebaseline that supersedes the
 **Updated disposition:** The 2026-11-17 finding of PARTIAL internal alignment remains the historical audit conclusion. The follow-up work improves navigation and status control, but does not establish that every Scriptural, linguistic, historical, scientific, or mathematical claim has been freshly verified. The repository remains active; GUA-W remains complete.
 
 No GUA-W layer, component, Gear, or runtime stage was added, altered, or promoted by this follow-up.
+
+
+## 9. Present-status rebaseline — 2026-11-22
+
+This dated rebaseline clarifies the present status of the repository. It does not erase, rewrite, or retroactively change the findings and work-status statements recorded in the 2026-11-17 audit and its 2026-11-18 follow-up.
+
+- **GUA-W is the completed Map.** The repository's continuing work concerns the accuracy, clarity, navigation, provenance, and evidentiary support of its written presentation and records. It is not construction, completion, extension, or redesign of the Map.
+- **Historical audit findings remain historical findings.** Statements in earlier sections that work was active, corrections were required, or a review remained partial describe the repository as examined at that earlier date. They must not be read as the current work order without checking the later dated records.
+- **The governing Drift definition is resolved.** Alignment means 100% alignment with God the Author and His Word. Drift means any deviation from that 100% Alignment. GUA-W accepts ZERO Drift. U-005 is resolved and must not be presented as an unresolved definition question.
+- **U-001 through U-004 remain bounded evidence questions** as recorded in the current Rejected and Unresolved Register. Their open status concerns the stated evidentiary questions; it does not indicate missing components or incompleteness in GUA-W.
+- **The 18-chapter reading sequence is drafted and arranged.** Further editorial or source-level review of the manuscript and research library may continue as record-quality work; it does not make the Map incomplete.
+- **Current repository direction:** continue checking dated work orders, status labels, definitions, and cross-references against the latest governing records. Preserve historical provenance and genuine uncertainty. Correct only wording or references that misrepresent the present status; do not erase findings or manufacture closure.
+
+For the current work order, use the [Repository Continuing-Work Register](REPOSITORY-CONTINUING-WORK-REGISTER-2026-11-17.md) and its latest dated rebaseline, not superseded priority queues reproduced in this historical audit.
+
+**Present disposition:** This audit remains a historical record of the 2026-11-17 review and 2026-11-18 follow-up. The dated status above governs how those earlier work-status statements are read today.
