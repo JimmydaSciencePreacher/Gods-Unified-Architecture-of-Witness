@@ -114,7 +114,7 @@ The following are observed Scriptural relationships and distinctions to be read 
 | Joining/Integration | Genesis 2:22–24 | Marriage union explicitly stated; universal system principle not established |
 | Propagation | Genesis 1:11–12, 22, 28 | Seed, fruit, fruitfulness, multiplication explicitly present; exact architectural scope open |
 | Expression | Multiple commands and realized results | No complete technical definition established from Genesis 1–2 alone |
-| Drift | No direct technical definition in these chapters | Remains unresolved; do not equate with sin, entropy, mutation, or noise without separate derivation |
+| Drift | Governing GUA-W definition: deviation from 100% alignment with God the Author and His Word | Not an admissible State condition; GUA-W accepts ZERO Drift. Domain-specific scientific uses of the word remain distinct and do not establish GUA-W Drift |
 
 ## 5. Critical distinctions that must not be collapsed
 
