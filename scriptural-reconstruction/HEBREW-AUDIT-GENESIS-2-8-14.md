@@ -2,7 +2,7 @@
 
 **GUA-W relationship:** This language audit is a witness to the completed GUA-W, not a proposal to construct or revise it. Record the Hebrew wording and its relationship to established GUA-W distinctions where supported; keep genuine lexical, grammatical, and technical uncertainties specific to the claim under examination.
 
-**Status:** PHASE 2 LANGUAGE AUDIT — INITIAL FINDINGS  
+**Status:** Hebrew-language witness audit within the completed GUA-W  
 **Text base:** KJV Genesis 2:8–14, compared with the Masoretic Hebrew and selected translation notes  
 **Purpose:** Examine planting, placing, growth, the two named trees, the river, its division, and the named lands/rivers without turning these details into predetermined GUA-W stages.
 
@@ -50,7 +50,7 @@ The verb is from צָמַח (*tsamach*), “sprout, spring up, grow.” In Genes
 
 **Finding:** The text explicitly attributes the causing of this growth to God. It is not merely an observation that trees happened to appear.
 
-**Architectural question:** The sequence distinguishes planting in verse 8 from causing growth in verse 9. Whether these should be represented as separate operations in GUA-W is a proposal to test, not a lexical conclusion.
+**GUA-W recognition:** The Author's account distinguishes planting the Garden in verse 8 from causing the trees to grow in verse 9. The Hebrew verbs preserve those distinct Authorial actions within the completed Map; they are not a proposal for additional runtime operations.
 
 ### 2.2 מַרְאֶה — *mar’eh*, “sight/appearance”
 
@@ -114,7 +114,7 @@ The verb יִפָּרֵד (*yippared*) is Niphal, commonly understood as “it d
 
 **Finding:** The account presents one river issuing from Eden, watering the Garden, and then dividing into four.
 
-**Architectural question:** This is a textual example of a singular source-flow and subsequent branching. Whether it supports a GUA-W propagation pattern must be examined alongside other Scriptural examples and must not be equated automatically with branching in physics, biology, or networks.
+**GUA-W recognition:** The text records a river going out from Eden to water the Garden and then being parted into four heads. This witnesses to the established relationships among source, provision, differentiation, and propagation within the completed Map. It is not a claim that the river is a literal model of a modern physical network.
 
 ## 4. Genesis 2:11–14 — Four named rivers and geographic description
 
@@ -170,17 +170,17 @@ The Tigris and Euphrates are identifiable ancient river names. The locations of 
 
 ## 6. Triple Constraint assessment
 
-| Candidate claim | Biblical compliance | Language/context support | GUA-W status |
+| Textual claim or interpretation | Biblical compliance | Language/context support | GUA-W status |
 |---|---|---|---|
 | God planted the Garden and placed the man there. | Directly stated in 2:8. | *Nata‘* and *sim* support planting and placing. | PASS, textual observation |
 | The man placed himself in the Garden. | Contradicted by the verse's attribution. | Subject of planting/placing is the LORD God. | REJECT |
 | God caused trees to grow from the ground. | Directly stated in 2:9. | Causative form of *tsamach*. | PASS, textual observation |
 | Planting and causing growth are distinguishable actions in the narrative. | Both are narrated separately. | Different verbs in adjacent verses. | PASS, textual observation |
 | The Tree of Life is associated with life. | Its name says so; Genesis 3:22–24 adds context. | Construct phrase and later narrative. | PASS, textual observation; mechanism open |
-| The Tree of Knowledge represents autonomous human authority to define good and evil. | Not stated in Genesis 2:9 alone. | Requires interpretation of Genesis 2:16–17 and 3:1–7, 22. | PROPOSED / requires wider audit |
+| The Tree of Knowledge represents autonomous human authority to define good and evil. | This meaning is not stated in Genesis 2:9 alone; the tree must be read with the command and Genesis 3. | The wider Scriptural context governs the theological interpretation. | Do not assign this meaning from Genesis 2:9 alone |
 | One river issues from Eden to water the Garden and divides into four heads. | Directly stated. | Verbs and syntax support the sequence. | PASS, textual observation |
 | The four rivers prove a specific modern location for Eden. | Not established by this passage alone. | Several identifications are disputed. | REJECT as established geographic conclusion |
-| River branching is a universal GUA-W propagation law. | Not stated. | A possible analogy only. | PROPOSED, not established |
+| The river's division into four heads is a witness to source, provision, and propagation relationships. | The river's source, watering function, and division are directly narrated. | The GUA-W relationship is recognized without claiming a universal hydrological law. | Aligned as a bounded Scriptural recognition |
 | The Garden is literally a computer runtime or system host. | Not stated. | No lexical basis. | REJECT as literal interpretation |
 
 ## 7. Open questions
@@ -195,7 +195,7 @@ The Tigris and Euphrates are identifiable ancient river names. The locations of 
 8. Does the river's source-and-branch description contribute to a wider Scriptural pattern of provision and propagation, or is it a geographical detail whose architectural use should remain limited?
 9. How do the Garden's preparation and provision relate to the man's appointed work in 2:15?
 
-## 8. Provisional conclusion
+## 8. Hebrew-language witness summary
 
 Genesis 2:8–14 describes God planting the Garden, placing the previously formed man there, causing trees to grow, identifying two particular trees, and describing a river that waters the Garden and divides into four named rivers. The passage combines actions attributed to God, descriptions of the Garden's provision, and geographic information.
 
@@ -206,7 +206,7 @@ The clearest textual distinctions are:
 - the river's stated function is to water the Garden;
 - the one-river/four-heads description is explicit, while the wider geographic reconstruction is not settled.
 
-These distinctions provide material for investigating preparation, placement, provision, and branching. They do not yet establish a universal Structure, Framework, Pattern, or Propagation law. No canonical GUA-W node or relationship is changed by this audit.
+These distinctions witness to the established relationships among preparation, placement, provision, and branching within the completed GUA-W. No new Structure, Framework, Pattern, or Propagation law is being proposed, and no canonical node or relationship is changed by this audit.
 
 ## Sources consulted
 
@@ -216,4 +216,4 @@ These distinctions provide material for investigating preparation, placement, pr
 - Sefaria, Genesis 2:8–9 and following verses: https://www.sefaria.org/Genesis.2.8-9
 - William Henry Green, *A Hebrew Chrestomathy*, notes on Genesis 2:10–14: https://tile.loc.gov/storage-services/public/gdcmassbookdig/introductoryhe00harp/introductoryhe00harp.pdf
 
-**Source caution:** The NET notes provide useful grammatical and translation discussions but also advance interpretive positions. The geographic identification of the rivers and the meaning of “knowledge of good and evil” remain debated. This audit records those limits rather than presenting one proposal as settled fact.
+**Source caution:** The NET notes provide useful grammatical and translation discussions but also advance interpretive positions. The geographic identification of the rivers and the precise interpretation of “knowledge of good and evil” require their appropriate historical and Scriptural context. These are questions about particular referents and interpretations, not about the completeness of GUA-W.
