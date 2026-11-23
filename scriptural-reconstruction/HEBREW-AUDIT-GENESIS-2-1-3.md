@@ -2,7 +2,7 @@
 
 **GUA-W relationship:** This language audit is a witness to the completed GUA-W, not a proposal to construct or revise it. Record the Hebrew wording and its relationship to established GUA-W distinctions where supported; keep genuine lexical, grammatical, and technical uncertainties specific to the claim under examination.
 
-**Status:** PHASE 2 LANGUAGE AUDIT — INITIAL FINDINGS  
+**Status:** Hebrew-language witness audit within the completed GUA-W  
 **Text base:** Masoretic Hebrew text, KJV comparison, and selected lexical/commentary sources  
 **Purpose:** Examine “finished,” “host,” “ended,” “rested,” “blessed,” and “sanctified” without collapsing them into one GUA-W stage.
 
@@ -20,7 +20,7 @@ Genesis 2:2 uses the same root in a different grammatical form with God as the s
 
 **Textual finding:** The same root appears in 2:1 and 2:2, first describing the heavens/earth as finished, then describing God as finishing His work.
 
-**Architectural question:** Does verse 1 state the resulting condition while verse 2 states God's completion of the work? The grammar and context make this worth examining. Do not turn the two clauses into separate creation events without evidence.
+**GUA-W recognition:** Verse 1 describes the heavens and earth as finished; verse 2 names God as the One who finished His work. The grammatical difference preserves both the completed condition and the Author's act of finishing within the same Creation account.
 
 ### 1.2 צָבָא — ṣābā’, “host”
 
@@ -50,7 +50,7 @@ The verb translated “rested” is שָׁבַת (*shavat*), from which the noun
 
 **Important distinction:** *Kalah* and *shavat* are different roots and different narrated predicates. Completion/finishing and cessation/rest are related in the passage but are not lexical synonyms.
 
-**Architectural question:** Does the passage distinguish completion of a work from cessation of that work? At the level of the wording, yes: two verbs are used. Whether GUA-W should model them as separate states or operations requires further derivation.
+**GUA-W recognition:** The passage distinguishes completion from cessation through different Hebrew roots and separate clauses. The completed Map already preserves the distinction; this audit witnesses to the wording rather than proposing new states or operations.
 
 ### 2.3 “On the seventh day”
 
@@ -84,7 +84,7 @@ The verse gives a reason: God sanctified the day because in it He had rested/cea
 
 **Textual sequence:** finishing and cessation (vv. 1–2) → blessing and sanctification (v. 3), with cessation given as the reason.
 
-**Architectural caution:** This sequence may invite comparison with a completed and consecrated state, but that is an analogy to test. Sanctification is a theological act of God, not a synonym for a software status or a scientific boundary.
+**GUA-W recognition:** Finishing, cessation, blessing, and sanctification are distinct Authorial statements in the account. Sanctification is God's theological act; it is not a synonym for a software status or a scientific boundary.
 
 ## 4. What does “all the host” mean?
 
@@ -93,7 +93,7 @@ Three points should be retained:
 2. In Genesis 2:1, the phrase is attached to the heavens and earth and their completion.
 3. The NET note interprets it as all entities and creatures created to populate the world; Cambridge commentary notes the metaphor of an organized multitude/array.
 
-**Provisional finding:** “All the host” most naturally refers to the complete array/population associated with the heavens and earth in the creation account. That is a contextual interpretation, not proof that the word encodes GUA-W's entire runtime architecture.
+**Contextual reading:** “All the host” most naturally refers to the complete array/population associated with the heavens and earth in the creation account. This is a contextual reading of the Hebrew phrase; it is not a claim that the word is a technical label for GUA-W's runtime architecture.
 
 Do not claim that “host” literally means a computer host, system runtime, or an exact list of architectural layers. Such use would be an analogy only.
 
@@ -109,7 +109,7 @@ Do not claim that “host” literally means a computer host, system runtime, or
 
 ## 6. Triple Constraint assessment
 
-| Candidate claim | Biblical compliance | Language/context support | GUA-W status |
+| Textual claim or interpretation | Biblical compliance | Language/context support | GUA-W status |
 |---|---|---|---|
 | Genesis 2:1 says heavens, earth, and all their host were finished. | Directly stated. | *Kalah* and *tsava* support completed whole/array language. | PASS, textual observation |
 | “Host” can refer to an organized multitude or array. | Consistent with the word's range and context. | Lexical range and commentaries support it. | PASS, contextual interpretation |
@@ -118,7 +118,7 @@ Do not claim that “host” literally means a computer host, system runtime, or
 | God ceased from creation work, not from exhaustion. | Consistent with context. | NET note identifies cessation from creation work. | PASS, contextual interpretation |
 | Blessing and sanctification are separate divine actions in the verse. | Both are explicitly stated. | Separate Hebrew verbs. | PASS, textual observation |
 | Sanctification is merely a generic system boundary. | Not stated. | The root has theological holiness/set-apart sense. | REJECT as lexical definition |
-| Completion → cessation → blessing/sanctification is a useful sequence to examine in GUA-W. | Preserves the textual order. | Distinct verbs and clauses. | PROPOSED architectural comparison |
+| Completion, cessation, blessing, and sanctification are distinct statements in the Author's account. | Preserves the textual order. | Distinct verbs and clauses. | Witnessed distinction within the completed Map |
 
 ## 7. Open questions
 
@@ -127,15 +127,15 @@ Do not claim that “host” literally means a computer host, system runtime, or
 3. What does divine cessation imply about ongoing providence and sustaining? Genesis 2:2 alone does not answer every such question.
 4. How does the sanctification of the seventh day relate to later Sabbath texts, especially Exodus 20:8–11?
 5. How should Genesis 2:1–3 be delimited in relation to Genesis 1, given that chapter divisions are later editorial divisions?
-6. Can GUA-W distinguish Completion, Cessation, Blessing, and Sanctification without treating them as four universal runtime stages?
+6. How do the distinct Hebrew verbs and clauses contribute to the Scriptural account without being treated as synonyms?
 
-## 8. Provisional conclusion
+## 8. Hebrew-language witness summary
 
 The Hebrew wording supports a careful distinction among completion, cessation, blessing, and sanctification. Genesis 2:1–3 does not merely repeat one idea four times. It describes the heavens and earth and all their host as finished, says God finished His work and ceased from it, and then says God blessed and sanctified the seventh day.
 
-The word “host” carries an organized-multitude/array sense in its lexical range and context, but it does not establish a technical GUA-W runtime inventory. The strongest defensible architectural lead is to investigate how a completed work, cessation from that work, and a day blessed and sanctified relate—without prematurely turning those into universal technical stages.
+The word “host” carries an organized-multitude/array sense in its lexical range and context, but it does not establish a technical GUA-W runtime inventory. The Hebrew wording witnesses to the completed Map's preservation of distinct Authorial acts: the work is finished, God ceases from that work, and He blesses and sanctifies the seventh day. These statements belong to one connected account without becoming synonyms or requiring new architectural stages.
 
-No canonical GUA-W node or relationship is changed by this audit.
+The Map is complete and unchanged. This audit records the Hebrew distinctions as witness evidence; it neither creates nor revises any part of GUA-W.
 
 ## Sources consulted
 
