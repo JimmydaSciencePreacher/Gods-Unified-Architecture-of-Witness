@@ -371,7 +371,7 @@ This pass retrieves the exact State descriptions from the completed architecture
 Chapter 9 identifies six State terms:
 - **Identity:** what the realized configuration is and how it is distinguished. Identity is not authored by the observer's label.
 - **Alignment:** the relation of a configuration or response to its governing reference.
-- **Drift:** a term requiring careful, evidence-specific use; it is not automatically sin, entropy, mutation, noise, or system failure.
+- **Drift:** deviation from 100% Alignment with God the Author and His Word. GUA-W accepts ZERO Drift. This governing definition is resolved; domain-specific uses of the word and proposed applications to particular observations must remain distinct from the GUA-W definition.
 - **Persistence:** continuation or remaining across a relevant interval or condition; it does not mean every property remains unchanged.
 - **Witness-state:** the condition of the witness's registration of what is present. A report may be full, partial, interpreted, reliable, mistaken, or incomplete.
 - **Realized configuration:** the configuration that is present and can be examined; it is not the observer's explanation of it.
@@ -411,18 +411,19 @@ The two may be related, but they are not identical. A partial or mistaken report
 
 The phrase “state of the witness” must be used carefully: Witness-state here is specifically the condition of registration, not a complete psychological, spiritual, or moral description of the person who witnesses.
 
-### 18.5 Drift remains open and bounded
+### 18.5 Drift definition resolved; particular applications remain bounded
 
-Chapter 9 explicitly warns against equating Drift with sin, entropy, mutation, noise, or system failure. The present source review does not recover a single universal operational mechanism for Drift. The correct action is to preserve that open status.
+The governing GUA-W definition is settled: **Drift = deviation from 100% Alignment with God the Author and His Word. GUA-W accepts ZERO Drift.** This is not an open definition question. U-005 is resolved.
 
-A specific application must identify:
-1. what configuration or response is being examined;
-2. its governing reference;
-3. the relevant interval or comparison;
-4. what evidence shows a change in relation to that reference;
-5. whether the claim concerns the configuration itself or only the witness's record.
+Chapter 9's warning against equating Drift automatically with entropy, mutation, noise, or system failure remains important. Those are domain-specific terms and phenomena; their scientific use does not redefine GUA-W Drift. Likewise, a witness's incomplete or mistaken registration is not automatically an instance of GUA-W Drift in the configuration being witnessed.
 
-Without these, “drift” risks becoming a loose label for any difference, error, change, or disagreement. This checklist is an investigative discipline, not an added GUA-W definition or stage.
+When a record applies the term to a particular claim or response, it must preserve the governing reference and distinguish the claim being made:
+1. identify the configuration, response, or claim under examination;
+2. state the relevant relation to God the Author and His Word;
+3. distinguish a demonstrated departure from the governing reference from a mere difference, change, measurement variation, or incomplete report;
+4. identify whether the statement concerns GUA-W Drift or a domain-specific use of the same word.
+
+This is a discipline for accurate application of the resolved definition, not a new definition, stage, or architectural addition.
 
 ### 18.6 Refined unification finding
 
