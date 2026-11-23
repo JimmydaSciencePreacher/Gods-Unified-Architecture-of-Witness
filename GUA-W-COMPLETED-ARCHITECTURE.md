@@ -2,7 +2,7 @@
 
 ## Completed architecture — recovered presentation
 
-**GUA-W means God's Unified Architecture of Witness.** The word *God's* identifies the Author; it is not the adjective *Grand*. GUA-W is not God, is not Jesus Christ, and is not an architecture authored by a human or an AI. It is the completed architecture of God's One Creation, witnessing to and glorifying its Author.
+**GUA-W means God's Unified Architecture of Witness.** GUA-W is not God, is not Jesus Christ, and is not an architecture authored by a human or an AI. It is the completed architecture of God's One Creation, witnessing to and glorifying its Author.
 
 **One Author. One originating Word. One Creation. Many witnesses.**
 
@@ -75,7 +75,7 @@ The established architecture is presented in the following order.
 The realized configuration is witnessed in relation to:
 
 - **Identity**
-- **Alignment** — 100% Alignment with the Author
+- **Alignment** — 100% alignment with God the Author and His Word
 - **Persistence**
 - **Witness-state**
 - **Realized configuration**
@@ -86,7 +86,7 @@ The compact architectural sequence is:
 
 The State layer describes the realized configuration and its witness-state; its listed terms are not additional sequential runtime stages.
 
-**Drift is not an admissible State condition.** Drift means deviation from 100% Alignment with the Author; **GUA-W accepts ZERO Drift**. The term identifies a departure from the governing reference, not a positive component or acceptable configuration. Scientific uses of *drift*—including instrumental drift—remain distinct domain-specific terms. Their occurrence does not establish GUA-W Drift.
+**Drift is not an admissible State condition.** Drift means any deviation from 100% alignment with God the Author and His Word; **GUA-W accepts ZERO Drift**. The term identifies a departure from the governing reference, not a positive component or acceptable configuration. Scientific uses of *drift*—including instrumental drift—remain distinct domain-specific terms. Their occurrence does not establish GUA-W Drift.
 
 ## 5. Triple Constraint Law
 
@@ -120,7 +120,7 @@ The written record is not the Source. It is a witness to the Source. A clearer e
 
 ## 8. Provenance and distinctions
 
-This presentation consolidates the architecture sequence recorded in the project's prior GUA-W context and the layer diagram preserved in the original repository's `audits/AI Analyze Grand Unified Architecture of Witness (GUA-W).md`. That earlier file is an AI-generated explanatory record, not independent authority for the architecture. The governing name and completed status stated here follow the project's current identification of GUA-W.
+This presentation consolidates the architecture sequence recorded in prior project records and a previously preserved AI-generated diagram with descriptive glosses. That diagram is an explanatory record, not independent authority for the architecture. The governing name and completed status stated here follow the project's current identification of GUA-W.
 
 The original repository's `SYSTEM_MANIFEST.md` also contains a twelve-step diagnostic trace. That trace is an investigative procedure and is distinct from the architecture sequence above; the two must not be conflated.
 
