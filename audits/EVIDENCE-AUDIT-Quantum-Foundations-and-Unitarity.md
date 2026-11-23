@@ -1,8 +1,7 @@
 # Evidence Audit — Diagnostic Case Trace 001: Quantum Foundations and Unitarity
 
 **Review date:** 2026-11-16  
-**Source document:** [Original Diagnostic Case Trace 001](https://github.com/JimmydaSciencePreacher/The-Grand-Unified-Architecture-of-Witness-GUA-W-/blob/main/traces/Diagnostic%20Case%20Trace%20001.md)  
-**Source repository:** The original GUA-W repository  
+**Source basis:** The quantum-mechanical claims assessed below are examined against the primary scientific literature and sources cited in this audit.  
 **Purpose:** Examine the quantum-mechanical claims in Trace 001, distinguish established formal results from overextended conclusions, and assess the proposed GUA-W mapping. This audit does not modify the source trace.
 
 ## 1. Executive assessment
@@ -130,8 +129,8 @@ The following wording is supportable:
 
 ## 11. Provenance and source integrity
 
-This is an independent evidence audit in Revised-GUA-W. It does not overwrite the original trace or authorize a change to the original repository.
+This is the quantum evidence audit maintained in the current repository. Its conclusions are based on the scientific sources cited in this document.
 
-The original trace's `ACTIVE / VERIFIED` label is a historical source label, not an independent scientific verdict. This audit narrows the scope of the claims and records the limitations explicitly.
+A prior `ACTIVE / VERIFIED` label is not an independent scientific verdict. This audit narrows the scope of the claims and records the limitations explicitly.
 
 **Final status:** PARTIAL — core quantum formalism supported; GUA-W proof claims not established.
