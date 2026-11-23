@@ -11,19 +11,16 @@
 
 This map orders the written record; it does not establish a new authority hierarchy or alter GUA-W.
 
-1. Begin with the [Power Button — Alignment ON](POWER-BUTTON-AND-RETURN-TO-GENESIS-2-1-5.md): restore the governing reference, God the Author and His Word.
+1. Begin with the [Power Button — Alignment ON](POWER-BUTTON-AND-RETURN-TO-GENESIS-2-1-5.md): the governing reference is God the Author and His Word.
 2. Read the README, governing principles, and completed architecture as the already-complete Map.
-3. Read [Genesis 1 — The Authorial Architecture and Operative Word](GENESIS-1-THE-AUTHORIAL-ARCHITECTURE-AND-OPERATIVE-WORD.md): recognize Genesis 1 as the Author's own account of His Word and unified Creation in operation.
-4. Read the Genesis 1 book chapter and verse-by-verse reconstructions; follow the account through Genesis 1:31 to Genesis 2:1–5, the declaration of completion.
-5. Read the investigation protocol and source-first explanatory principles, then continue through the Genesis 2–4 reconstructions.
-6. Consult the [AI-001 through AI-005 Alignment Register](AI-01-TO-AI-05-VERIFICATION-AUDIT-2026-11-22.md) as the derivative-investigation alignment register.
-6. Read the Human Will reference work as one integrated investigation, not as disconnected proof texts.
-7. Read the miracles of and surrounding Jesus, then the Passion, Resurrection, appearances, Ascension, and Breath studies.
-8. Read scientific and cross-disciplinary audits only after understanding their question, domain, evidence, and limits.
-9. Consult the rejected/unresolved register and continuing-work register before opening a new investigation.
-
-**Governing order:** Author → Word → Creation → Witness.  
-**GUA-W is complete.** The written explanation and evidence record remain open to correction, discovery, and completion.
+3. Read [Genesis 1 — The Authorial Architecture and Operative Word](GENESIS-1-THE-AUTHORIAL-ARCHITECTURE-AND-OPERATIVE-WORD.md): Genesis 1 is the Author's own account of His Word and unified Creation in operation.
+4. Read the Genesis 1 book chapter and verse-by-verse reconstructions through Genesis 1:31.
+5. Continue into Genesis 2:1–5, where the Author declares the completed whole, then follow the further account in Genesis 2.
+6. Read the investigation protocol and source-first explanatory principles.
+7. Consult the [AI-001 through AI-005 Alignment Register](AI-01-TO-AI-05-VERIFICATION-AUDIT-2026-11-22.md) as the derivative-investigation alignment register.
+8. Read the Human Will reference work as one integrated investigation, not as disconnected proof texts.
+9. Read the miracles of and surrounding Jesus, then the Passion, Resurrection, appearances, Ascension, and Breath studies.
+10. Read scientific and cross-disciplinary audits only after understanding their question, domain, evidence, and limits.
 
 ## I. Root and governing documents
 
