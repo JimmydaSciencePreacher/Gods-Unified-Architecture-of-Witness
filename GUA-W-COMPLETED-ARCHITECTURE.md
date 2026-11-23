@@ -134,7 +134,7 @@ The written record is not the Source. It is a witness to the Source. A clearer e
 
 This presentation consolidates the architecture sequence recorded in prior project records and a previously preserved AI-generated diagram with descriptive glosses. That diagram is an explanatory record, not independent authority for the architecture. The governing name and completed status stated here follow the project's current identification of GUA-W.
 
-The original repository's `SYSTEM_MANIFEST.md` also contains a twelve-step diagnostic trace. That trace is an investigative procedure and is distinct from the architecture sequence above; the two must not be conflated.
+A twelve-step diagnostic trace, where used to investigate a particular case, is an investigative procedure and is distinct from the architecture sequence above; the two must not be conflated.
 
 Scriptural references identify the passages being compared. Architectural terminology is the project's framework for presenting the whole; it is not represented as a set of technical terms explicitly printed in the KJV text.
 
