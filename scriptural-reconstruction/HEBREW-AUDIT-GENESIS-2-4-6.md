@@ -2,7 +2,7 @@
 
 **GUA-W relationship:** This language audit is a witness to the completed GUA-W, not a proposal to construct or revise it. Record the Hebrew wording and its relationship to established GUA-W distinctions where supported; keep genuine lexical, grammatical, and technical uncertainties specific to the claim under examination.
 
-**Status:** PHASE 2 LANGUAGE AUDIT — INITIAL FINDINGS  
+**Status:** Hebrew-language witness audit within the completed GUA-W  
 **Text base:** KJV wording compared with the Masoretic Hebrew, morphology aids, and translation/commentary notes  
 **Question:** What does Genesis 2:4–6 establish about the account heading, the field vegetation, the absence of rain and a man to work the ground, and the water described in verse 6?
 
@@ -20,7 +20,7 @@ The phrase is אֵלֶּה תוֹלְדוֹת (*’elleh toledot*), “these are
 
 **Interpretive caution:** The formula's function in Genesis is commonly understood as introducing the account or history associated with the named subject. Whether a heading is read as summarizing what precedes, introducing what follows, or functioning as a hinge between both must be assessed in the literary structure of this particular passage. Do not settle that question by the dictionary gloss “generations” alone.
 
-**Architectural question:** Does the verse mark a transition from the broad creation account to the account of what proceeds within the created order? That is a literary-structural question, not a lexical definition of a GUA-W layer.
+**GUA-W recognition:** The verse marks the transition from the completed-Creation declaration to the account of the generations of the heavens and earth. This is a literary transition in the Author's account, read within the completed Map; it is not a new layer or a technical definition supplied by the word *toledot*.
 
 ### 1.2 בְּהִבָּרְאָם — *behibbare’am*, “when they were created”
 
@@ -129,30 +129,30 @@ The text places the absence of a man to work the ground immediately before the a
 
 Genesis 1:11–12 describes God commanding the earth to bring forth grass, herb yielding seed, and fruit tree yielding fruit; the earth brings forth vegetation. Genesis 2:5 describes field vegetation as not yet present/grown under stated conditions, including the absence of rain and a man to work the ground.
 
-Several readings have been proposed:
+Several readings have been offered in the interpretive literature:
 - Genesis 2:5 refers to particular field plants or cultivated growth, not all vegetation.
 - Genesis 2:4–7 retells or focuses on the creation account from the perspective of the ground and the formation of man.
 - The passage describes a particular stage or condition associated with the Garden and the man.
 - Other literary or chronological readings are possible and need to be evaluated.
 
-**Current status:** UNRESOLVED. The text-first audit must not declare a contradiction merely by assuming “plant of the field” means every plant everywhere. It must also not declare complete harmony without demonstrating the scope and sequence from the text.
+**Textual boundary:** This unit alone does not settle every detail of the literary relation between Genesis 1 and 2. It does establish that Genesis 2:5 specifically speaks of field vegetation under stated conditions. Preserve that scope; do not expand it to all vegetation or force a contradiction.
 
 ## 6. Triple Constraint assessment
 
-| Candidate claim | Biblical compliance | Language/context support | GUA-W status |
+| Textual claim or interpretation | Biblical compliance | Language/context support | GUA-W status |
 |---|---|---|---|
 | *Toledot* is a recurring Genesis heading formula. | Consistent with repeated occurrences. | Supported by the formula's use throughout Genesis. | PASS, literary observation |
 | *Toledot* means a technical GUA-W propagation stage. | Not stated. | Lexical/structural evidence does not establish this technical sense. | REJECT as lexical claim |
 | *Bara’* and *‘asah* in Genesis 2:4 prove two separate creation mechanisms. | Not stated. | Both occur in one verse; no such mechanism distinction follows from the roots alone. | REJECT as lexical conclusion |
 | Genesis 2:5 describes field vegetation as not yet grown/appeared under stated conditions. | Directly stated in context. | Supported by Hebrew syntax and translation notes. | PASS, textual observation |
-| Genesis 2:5 says no vegetation existed anywhere on Earth. | Scope not established. | “Of the field” and the debated plant terms restrict certainty. | UNRESOLVED / do not assert |
+| Genesis 2:5 says no vegetation existed anywhere on Earth. | The verse specifies field vegetation; Genesis 1:11–12 already records vegetation. | The universal claim exceeds the wording. | REJECT as a textual conclusion |
 | Genesis 2:5 names lack of rain and lack of a man to work the ground. | Directly stated. | Hebrew clauses and NET notes support. | PASS, textual observation |
 | *‘Abad* links Genesis 2:5 and 2:15 lexically. | Directly supported by the same root. | Same Hebrew root in both verses. | PASS, lexical observation |
-| *’Ēd* definitively means atmospheric mist. | Not certain. | Lexical and ancient-version evidence is disputed. | UNRESOLVED |
+| *’Ēd* definitively means atmospheric mist. | The KJV renders the term “mist”; other lexical proposals exist. | Lexical and ancient-version evidence is disputed. | Do not assert a definitive physical mechanism from this word alone |
 | *’Ēd* rises and waters the ground in the narrative. | Directly stated. | Verb sequence is clear despite noun uncertainty. | PASS, textual observation |
-| Genesis 1 and 2 are definitively contradictory or definitively a fully resolved chronological sequence. | Not established by this unit alone. | Requires broader literary and contextual analysis. | UNRESOLVED |
+| This unit alone supplies a complete chronology for every plant and field condition. | Not stated. | Requires more than the wording in this unit. | Do not claim a complete chronology from these verses alone |
 
-## 7. Questions carried forward
+## 7. Further Hebrew and contextual questions
 
 1. Does the *toledot* heading in Genesis 2:4 introduce what follows, summarize what precedes, or function as a hinge?
 2. What is the precise scope of *śîaḥ* and *‘ēśeb* in Genesis 2:5?
@@ -162,11 +162,11 @@ Several readings have been proposed:
 6. Does the repeated *‘abad* root in Genesis 2:5 and 2:15 indicate a deliberate narrative link between the absence of a ground-worker and the man's later commission?
 7. How does the ground (*’adamah*), man (*’adam*), and work/cultivation vocabulary contribute to the passage's literary structure?
 
-## 8. Provisional conclusion
+## 8. Hebrew-language witness summary
 
-Genesis 2:4–6 describes an account heading, a field condition in which specified vegetation had not yet grown, the absence of rain, the absence of a man to work the ground, and a water source that rises and waters the ground. The exact scope of the vegetation terms and the precise meaning of *’ēd* remain open.
+Genesis 2:4–6 describes an account heading, a field condition in which specified vegetation had not yet grown, the absence of rain, the absence of a man to work the ground, and a water source that rises and waters the ground. The exact scope of the vegetation terms and the precise meaning of *’ēd* remain matters of lexical and contextual interpretation.
 
-The same *‘abad* root appears in Genesis 2:5 and 2:15, creating a meaningful textual link between the absence of a man to work the ground and the later appointment of the man to work and keep the Garden. That connection is worth carrying into the GUA-W inquiry, but it must not be inflated into a complete theory of Purpose or Structure.
+The same *‘abad* root appears in Genesis 2:5 and 2:15, creating a meaningful textual link between the absence of a man to work the ground and the later appointment of the man to work and keep the Garden. That lexical connection witnesses to the established relationship between appointed work and Authorial Purpose in the completed GUA-W. It does not make *‘abad* a technical translation of Purpose or Structure.
 
 No canonical GUA-W node or relationship is changed by this audit.
 
