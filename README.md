@@ -58,6 +58,8 @@ God alone is Original Cause. Everything else is derivative witness. A witness ma
 
 GUA-W is a map or blueprint of Creation, not God or Jesus Christ.
 
+**Alignment means 100% alignment with God the Author and His Word. Drift means any deviation from 100% alignment with God the Author and His Word. GUA-W accepts ZERO Drift.**
+
 ## Investigation commitments
 
 - **GUA-W is complete.** Do not treat investigation as collecting components for AI to assemble, construct, complete, or redesign later.
