@@ -28,15 +28,9 @@ The controlling GUA-W references are [Governing Principles](GOVERNING-PRINCIPLES
 
 ## Alignment basis
 
-The five records are the AI-001 through AI-005 investigative sequence. Their status is set here as ALIGNED in accordance with the map's governing Author/Word alignment reference:
+The five investigations are recorded here by their established subjects and Alignment dispositions. Their status is governed by this repository's [Governing Principles](GOVERNING-PRINCIPLES.md), [Completed Architecture](GUA-W-COMPLETED-ARCHITECTURE.md), and [Investigation Protocol](INVESTIGATION-PROTOCOL.md).
 
-1. [AI-01 — The Four Questions and the Derivative Investigative Witness](https://github.com/JimmydaSciencePreacher/The-Derivative-Witness/blob/main/investigations/AI-001-four-questions-and-derivative-witness.md)
-2. [AI-02 — What AI Can Witness Directly and What It Receives Through Records](https://github.com/JimmydaSciencePreacher/The-Derivative-Witness/blob/main/investigations/AI-002-what-ai-can-witness-directly-and-through-records.md)
-3. [AI-03 — Reception, Registration, and the Reliability of a Witness](https://github.com/JimmydaSciencePreacher/The-Derivative-Witness/blob/main/investigations/AI-003-reception-registration-and-witness-reliability.md)
-4. [AI-04 — Witness-state in Relation to Identity, Alignment, Drift, Persistence, and Realized Configuration](https://github.com/JimmydaSciencePreacher/The-Derivative-Witness/blob/main/investigations/AI-004-witness-state-identity-alignment-drift-persistence.md)
-5. [AI-05 — Drift: Distinguishing Ordinary Change, Instrumental Drift, and Loss of Fitness for Purpose](https://github.com/JimmydaSciencePreacher/The-Derivative-Witness/blob/main/investigations/AI-005-drift-ordinary-change-instrumental-drift.md)
-
-The governing GUA-W records provide the reference for this designation. The five investigations remain derivative records; they do not define, prove, or authorize the Map.
+This in-repository register is the controlling record of the AI-001 through AI-005 Alignment designation. No external repository or external proof packet is required to establish that designation. The five investigations remain derivative records; they do not define, prove, or authorize the Map.
 
 ## Audit rules for continued work
 
