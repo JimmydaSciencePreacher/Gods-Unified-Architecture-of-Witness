@@ -240,9 +240,9 @@ The present evidence supports this much:
 
 This locates the next research need precisely: **recover and compare the authoritative source definitions of Constraint, Structure, Framework, and Pattern before attempting a fuller architectural explanation.**
 
-### 8.5 Next evidence-gathering task
+### 8.5 Historical evidence-gathering task (recorded during the initial investigation)
 
-Search the original GUA-W repository and the historical development records for the earliest approved definitions and examples of:
+At the time of this initial pass, the proposed next step was to compare the historical development records then available for the earliest approved definitions and examples of:
 
 - Constraint;
 - Structure;
@@ -285,7 +285,7 @@ The original repository supplies provenance for the Author/Word/Creation/Witness
 
 The source audit therefore remains open. Any useful historical explanation must be identified by its author, date, and status before it is used. In particular, an AI-generated explanation is a derivative witness and cannot silently become the authoritative definition of GUA-W.
 
-**Disposition:** Historical material reviewed; no original file modified. The current repository's completed architecture remains governing for this investigation. The next step is to recover any Jimmy-authored or explicitly approved source wording that predates the AI analysis, or to report that such wording has not yet been located.
+**Historical disposition at that stage:** Historical material had been reviewed; no original file was modified. The next proposed step was to recover any Jimmy-authored or explicitly approved source wording that predated the AI analysis, or to report that such wording had not yet been located. This records the investigation's status at that time, not a current instruction to search an external repository.
 
 
 ## 10. Recovered earlier GUA-W investigation — Identity, Change, and Persistence
@@ -363,7 +363,7 @@ The earlier work changes the next question from “What might Constraint → Str
 
 Framework must be recovered separately because it is present in the older AI-generated layer diagram but absent from the earlier Identity/Change/Persistence pathway. We must determine whether Framework was an established distinct term, a descriptive grouping, or a later explanatory gloss. No conclusion is authorized yet.
 
-### 10.6 Next source-recovery sequence
+### 10.6 Historical source-recovery sequence (proposed at that stage)
 
 1. Locate Jimmy-authored or explicitly approved source wording for Constraint and Structure predating the AI diagram.
 2. Locate the first approved use and intended meaning of Framework.
