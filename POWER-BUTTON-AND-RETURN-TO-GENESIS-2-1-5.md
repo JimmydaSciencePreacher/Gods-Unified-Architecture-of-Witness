@@ -66,3 +66,53 @@ The route is therefore:
 **Alignment ON → Author/Word reference restored → Genesis 1 → Genesis 1:31 → Genesis 2:1–5 → the completed-Creation foundation recognized.**
 
 The next Scriptural account continues from that foundation. No new GUA-W stage is introduced by this route.
+
+## 6. Genesis 2:1–5 — reading checkpoint under Alignment ON
+
+The Map is already complete. This checkpoint records how the existing map directs attention to the text; it does not create a new layer, Gear, runtime stage, or proof requirement.
+
+### Verses 1–3 — the completed work and God's further acts
+
+| Verse | KJV statement | Distinction to preserve |
+|---|---|---|
+| Genesis 2:1 | The heavens and earth “were finished,” and all their host. | The completed heavens, earth, and host are declared together. “Host” must be read in context; it is not automatically a technical software or runtime term. |
+| Genesis 2:2 | God “ended” His work and “rested” from it. | The same completion root is used for finishing; “rested” expresses cessation. Finishing and cessation are related but distinct. |
+| Genesis 2:3 | God “blessed” and “sanctified” the seventh day. | Blessing and sanctification are further, distinct divine acts; neither is a synonym for finishing or resting. |
+
+The textual progression is therefore:
+
+**Finished → God ended His work → God rested/ceased → God blessed → God sanctified.**
+
+This is the order of the passage's statements. It is not a license to rename each verb as a separate universal technical stage.
+
+### Verse 4 — the account heading
+
+Genesis 2:4 introduces “the generations of the heavens and of the earth.” Preserve the *toledot* heading and the wording of the verse. Do not turn “generations” into a technical production sequence merely because it appears at a transition.
+
+### Verse 5 — field conditions
+
+The verse names:
+- the plant of the field before it was in the earth;
+- the herb of the field before it grew;
+- the LORD God had not caused rain upon the earth;
+- there was not a man to till the ground.
+
+Read this beside Genesis 1:11–12, which already records vegetation. Genesis 2:5 does not say that no vegetation of any kind existed anywhere. It speaks specifically of field plants and herbs under the conditions named in the verse.
+
+Do not state as literal wording that God was holding seeds, storing seeds, or waiting for a human power switch. Such a mechanism is not stated in Genesis 2:5. The seed language in Genesis 1 and the field conditions in Genesis 2:5 may be investigated together, but the distinction between text and inference must remain visible.
+
+### What is established and what remains open
+
+**Established by the text:** the completed-work declaration; God's ending and cessation; blessing and sanctification; the *toledot* heading; the field-specific plant/herb wording; no rain; and no man to till.
+
+**Open at the level of interpretation:** the exact scope of “all the host”; the precise referents of the field-vegetation terms; the literary relation of Genesis 2:4 to the preceding account; and the exact meaning of the rare water term in Genesis 2:6. These open questions do not mean that GUA-W is incomplete.
+
+### Continue with the existing Scriptural records
+
+- [Chapter 5 — Genesis 2:1–5: Completion Before the Further Account](book/05-GENESIS-2-1-5-COMPLETION-BEFORE-THE-FURTHER-ACCOUNT.md)
+- [Genesis 2:1–7 — Text-First Reconstruction](scriptural-reconstruction/GENESIS-2-1-7-TEXT-FIRST-RECONSTRUCTION.md)
+- [Hebrew Language Audit — Genesis 2:1–3](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-1-3.md)
+- [Hebrew Language Audit — Genesis 2:4–6](scriptural-reconstruction/HEBREW-AUDIT-GENESIS-2-4-6.md)
+- [Genesis 2 — Completion, Foundation, and His Story](scriptural-reconstruction/GENESIS-2-COMPLETION-FOUNDATION-AND-HIS-STORY.md)
+
+**Reading direction:** keep the completed-Creation declaration in Genesis 2:1–3 in view while reading the further account in verses 4–5. Do not let the later description rewrite the earlier declaration, and do not let the earlier declaration erase the specific conditions the later verses name.
