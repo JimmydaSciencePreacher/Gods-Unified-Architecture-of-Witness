@@ -28,7 +28,7 @@ The noun translated “host” is צָבָא (*tsava*), whose range includes arm
 
 **Textual finding:** The phrase includes “all the host of them” within the finished heavens and earth.
 
-**Caution:** “Host” can carry an idea of an organized multitude, but the word alone does not establish a technical inventory, a software runtime, or a fixed list of GUA-W components. The exact referent in Genesis 2:1 should be interpreted from Genesis 1 and the phrase's context.
+**Caution:** “Host” can carry an idea of an organized multitude, but the word alone does not establish a technical inventory, a software runtime, or a fixed list of GUA-W components. The phrase's precise contextual referent is read from Genesis 1 and the immediate context; this lexical question does not leave the completed Map undecided.
 
 ## 2. Genesis 2:2 — Finished work and cessation
 
@@ -54,7 +54,7 @@ The verb translated “rested” is שָׁבַת (*shavat*), from which the noun
 
 ### 2.3 “On the seventh day”
 
-The KJV says “on the seventh day” in both clauses. The NET notes observe that the Hebrew preposition can be rendered “on/in the seventh day.” The wording has generated interpretive discussion about the relation between the six days of work and the seventh day.
+The KJV says “on the seventh day” in both clauses. The NET notes observe that the Hebrew preposition can be rendered “on/in the seventh day.” The wording has generated interpretive discussion about the relation between the six days of work and the seventh day. This is a translation and grammar question concerning the verse, not a question about whether Creation or GUA-W is complete.
 
 **Methodological rule:** Preserve the KJV wording in this project. Record translation/grammatical discussion separately; do not silently rewrite the verse or pretend the interpretive issue does not exist.
 
@@ -120,7 +120,7 @@ Do not claim that “host” literally means a computer host, system runtime, or
 | Sanctification is merely a generic system boundary. | Not stated. | The root has theological holiness/set-apart sense. | REJECT as lexical definition |
 | Completion, cessation, blessing, and sanctification are distinct statements in the Author's account. | Preserves the textual order. | Distinct verbs and clauses. | Witnessed distinction within the completed Map |
 
-## 7. Open questions
+## 7. Further Hebrew and contextual questions
 
 1. Does “all the host” refer to all created contents of heaven and earth, the ordered array, or a more specific scope? Compare Genesis 1 and other uses of *tsava*.
 2. How does the repeated *kalah* root in 2:1–2 relate the completed condition to God's act of finishing?
@@ -146,4 +146,4 @@ The Map is complete and unchanged. This audit records the Hebrew distinctions as
 - Hebrew lexicon, Genesis 2:1: https://biblehub.com/lexicon/genesis/2-1.htm
 - Scholarly discussion of *tsava* in Genesis 2:1 and the creation account: https://research.stmarys.ac.uk/id/eprint/4654/1/Dissertation%20-%20For%20Final%20Submission%20to%20J%20Crossley%20-%202020-11-24.pdf
 
-**Source caution:** Online lexicons and commentary are aids. The lexical range of a word does not by itself determine its contextual meaning, and a contextual gloss does not prove a technical GUA-W mapping.
+**Source caution:** Online lexicons and commentary are aids. The lexical range of a word does not by itself determine its contextual meaning. Context clarifies the witness; it does not create or authorize the completed Map.
