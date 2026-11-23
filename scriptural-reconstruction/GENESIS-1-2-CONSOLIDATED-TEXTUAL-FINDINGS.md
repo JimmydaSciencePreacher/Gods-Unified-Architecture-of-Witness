@@ -94,21 +94,21 @@ Genesis 2:24 states leaving, cleaving, and becoming one flesh. Genesis 2:25 desc
 
 **Finding:** The text explicitly presents a marital union. A broader universal “joining law” or mathematical integration principle is not established by this passage alone.
 
-## 4. Candidate architectural relationships
+## 4. Recognized relationships between Genesis 1–2 and the completed GUA-W
 
-The following are observed Scriptural relationships and distinctions to be read in relation to the completed GUA-W. Where a technical correspondence remains uncertain, that uncertainty is stated at the level of the specific correspondence—not as a gap in the architecture.
+The following are Scriptural relationships and distinctions through which Genesis 1–2 witnesses to the completed GUA-W. The Map is already established; the textual record identifies how the Author's own account expresses and operates His unified Creation. Preserve the text's wording and do not force every clause into a one-to-one label.
 
 | GUA-W concept | Relevant textual material | Current assessment |
 |---|---|---|
 | Author primacy | Genesis 1:1; repeated divine creative commands; Genesis 2:7–9, 19, 22 | Strong textual basis for God as Creator/initiating agent |
-| Word/command → result | Genesis 1:3 onward; Genesis 2:16–17 | Recurrent textual sequence; exact universal architectural scope open |
-| Distinction/Differentiation | Light/darkness, waters, land/seas, kinds, male/female | Textual distinctions explicit; formal GUA-W operation remains proposed |
+| Word/command → result | Genesis 1:3 onward; Genesis 2:16–17 | The Author's operative Word is expressed in the recurring command/result relationship; the narrated forms vary |
+| Distinction/Differentiation | Light/darkness, waters, land/seas, kinds, male/female | The Author's acts of distinction/differentiation are explicit in the account and are read within the completed Map |
 | Naming | Genesis 1:5, 8, 10; Genesis 2:19–23 | Distinct from making/creating in the narrated examples |
 | Evaluation | “God saw that it was good”; “very good” | Explicit divine evaluation; not equivalent to human measurement without argument |
 | Completion | Genesis 2:1–3 | Finished work, ending, rest, blessing, and sanctification are stated; their exact relation requires study |
 | Purpose/appointed work | Genesis 1:26–28; Genesis 2:15 | Purpose of dressing and keeping the Garden is explicit in 2:15 |
 | Constraint/boundary | Genesis 2:16–17 | Permission and prohibition with consequence are explicit |
-| Formation/Animation | Genesis 2:7 | Formation, breath of life, and becoming a living soul are distinct clauses; technical labels remain provisional |
+| Formation/Animation | Genesis 2:7 | Formation, divine breath, and the resulting living soul are distinct clauses; read in relation to the established Completion → Animation → Integration recognition without collapsing the clauses |
 | Provision/environment | Genesis 2:8–14, 16; Genesis 1:29–30 | Text describes preparation, provision, and placement |
 | Witness/registration | Genesis 2:19–23 | Adam names and recognizes what God forms/makes and brings; useful analogy, not a complete witness theory |
 | Joining/Integration | Genesis 2:22–24 | Marriage union explicitly stated; universal system principle not established |
@@ -170,9 +170,9 @@ Only after the Scriptural and conceptual definitions are stable:
 4. Compare formation, life, and observation with relevant sciences only after terms are defined; do not use quantum measurement as a shortcut to consciousness.
 5. Identify where no meaningful scientific analogue exists and leave it that way.
 
-## 8. Provisional conclusion
+## 8. Consolidated textual recognition
 
-Genesis 1–2 presents a richly ordered account involving the Creator's speech and action, differentiation, naming, evaluation, provision, blessing, human commission, completion and rest, formation and breath of life, placement, appointed work, permission and boundary, naming and recognition, and marital union.
+Genesis 1–2 is the Author's own account of His Word and the ordered realization of His Creation. It presents the Author's speech and action, differentiation, naming, evaluation, provision, blessing, human commission, completion and rest, formation and breath of life, placement, appointed work, permission and boundary, naming and recognition, and marital union. These are not disconnected proposals from which AI assembles GUA-W; they are Scriptural witnesses read within the completed Map.
 
 The strongest initial architectural leads are:
 - Author primacy;
