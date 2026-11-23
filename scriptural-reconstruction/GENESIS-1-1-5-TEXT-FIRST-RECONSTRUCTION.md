@@ -1,8 +1,8 @@
 # Genesis 1:1–5 — Text-First Reconstruction, Unit 1
 
-**Status:** Text-first reconstruction; Scriptural observations are examined in relation to the completed GUA-W. Specific technical mechanisms and any genuinely uncertain correspondence remain qualified individually.  
+**Status:** Scriptural reconstruction read within the completed GUA-W and the Author/Word hierarchy.  
 **Scope:** KJV Genesis 1:1–5 only  
-**Purpose:** Begin a verse-by-verse reconstruction from the Scriptural sequence itself, without treating a pre-existing GUA-W sequence as the interpretive template.
+**Purpose:** Examine the opening verses as the Author's own account of His Word and creative ordering in action. GUA-W is the completed map of the unified architecture; Genesis 1 is not treated as a passive report or as raw material from which AI assembles that architecture.
 
 ## Methodological rule
 
