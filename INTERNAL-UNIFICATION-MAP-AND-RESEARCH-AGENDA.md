@@ -7,7 +7,7 @@
 
 ## Current status — 2026-11-22
 
-GUA-W is complete and mapped. This document organizes relationships among Scriptural, scientific, and explanatory records; it does not identify missing parts of the Map. Historical task descriptions below retain their original dates and provenance. They must not be read as evidence that the architecture is unfinished or that an AI witness is authorized to add definitions.
+GUA-W is complete and mapped. This document organizes relationships among Scriptural, scientific, and explanatory records; it does not identify missing parts of the Map. Historical task descriptions below retain their original dates and provenance. Any “Next investigation,” “Next work,” or similar wording inside a dated entry records the next step proposed at that historical point; it is not automatically a current instruction. The current status and any active repository-cleanup direction are stated in this dated rebaseline. These historical entries must not be read as evidence that the architecture is unfinished or that an AI witness is authorized to add definitions.
 
 U-005 (Drift's governing definition) is resolved. U-001 through U-004 remain bounded evidence questions about particular cross-domain claims and persistence conditions; their open status does not make GUA-W incomplete. See [Rejected and Unresolved Register](REJECTED-AND-UNRESOLVED.md) for their current scope.
 
