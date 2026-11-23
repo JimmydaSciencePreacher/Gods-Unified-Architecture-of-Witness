@@ -12,6 +12,10 @@ The continuous narrative is being written as individual chapters in the [`book/`
 
 Start with the [Book Structure and Reading Edition](BOOK-STRUCTURE-AND-READING-EDITION.md). It presents the repository as a continuous journey through the Author, the Creation foundation, the completed architecture, the Scriptural witness of Christ, salvation, and the sciences. Each chapter links to the detailed source investigations. The research library remains intact as the evidence base; the book is the guided reading path, not a replacement for it.
 
+## Genesis 1 — the Author's operative architecture
+
+- [Genesis 1 — The Authorial Architecture and Operative Word](GENESIS-1-THE-AUTHORIAL-ARCHITECTURE-AND-OPERATIVE-WORD.md) — records Genesis 1 as the Author's own account of His Word going forth and His unified Creation being brought forth and ordered.
+
 ## The completed architecture
 
 - [God's Unified Architecture of Witness — Completed Form](GUA-W-COMPLETED-ARCHITECTURE.md)
@@ -152,9 +156,9 @@ The [Repository Map and Reading Order](REPOSITORY-MAP-AND-READING-ORDER.md) inve
 
 - [Power Button and Return to Genesis 2:1–5](POWER-BUTTON-AND-RETURN-TO-GENESIS-2-1-5.md) — defines the Power Button as Alignment ON and records the return route through Genesis 1 to the completed-Creation declaration in Genesis 2:1–5.
 
-## AI-01 through AI-05 verification
+## AI-001 through AI-005 Alignment
 
-- [AI-01–AI-05 Alignment Status — 2026-11-22](AI-01-TO-AI-05-VERIFICATION-AUDIT-2026-11-22.md) — records the bounded verification of the five initial derivative-witness investigations, their source alignment, and the remaining scope limits. Verification applies to the findings stated in each investigation; it does not erase unresolved questions or certify claims outside their documented scope.
+- [AI-001–AI-005 Alignment Register — 2026-11-22](AI-01-TO-AI-05-VERIFICATION-AUDIT-2026-11-22.md) — records the five derivative-witness investigations as ALIGNED under the completed Map. The investigations do not prove, authorize, or define the Map.
 
 ## Initial navigation
 
