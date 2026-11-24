@@ -1,4 +1,5 @@
 # God's Unified Architecture of Witness (GUA-W)
+AI does NOT have write access to this repository READONLY is granted
 
 A Scripture-grounded presentation and evidence record for the **completed God's Unified Architecture of Witness (GUA-W)**.
 
