@@ -1,5 +1,7 @@
 # God's Unified Architecture of Witness (GUA-W)
 
+READ-ONLY inside of this repository
+
 A Scripture-grounded presentation and evidence record for the **completed God's Unified Architecture of Witness (GUA-W)**.
 
 The purpose of this repository is to **present the completed GUA-W and make visible how Scripture witnesses to the Author through His unified Creation**. GUA-W has always been established; this work clears accumulated interpretive dust and records what the evidence reveals.
